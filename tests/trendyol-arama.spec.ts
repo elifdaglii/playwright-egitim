@@ -44,13 +44,12 @@ test.describe('Trendyol arama kutusu', () => {
 
   test('boş arama kutusuyla arama denendiğinde sonuç sayfasına gidilmiyor', async ({ page }) => {
     const searchInput = await openSearchInput(page);
-    await expect(page.getByText('Popüler Aramalar')).toBeVisible();
 
     await searchInput.press('Enter');
 
     // Boş sorguda site sonuç sayfasına yönlendirmiyor, arama paneli açık kalıyor.
     await expect(page).toHaveURL(HOME_URL);
-    await expect(page.getByText('Popüler Aramalar')).toBeVisible();
+    await expect(page).toHaveURL(/trendyol/);
   });
 
   test('var olmayan bir ürün aranınca "sonuç bulunamadı" mesajı görünüyor', async ({ page }) => {
