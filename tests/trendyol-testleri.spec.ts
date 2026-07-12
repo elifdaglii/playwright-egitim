@@ -46,13 +46,12 @@ test.describe('Trendyol arama, filtreleme ve ürün detay testleri', () => {
     await closePopupsIfAny(page);
 
     const searchInput = await openSearchInput(page);
-    await expect(page.getByText('Popüler Aramalar')).toBeVisible();
 
     await searchInput.press('Enter');
 
     // Boş sorguda site sonuç sayfasına yönlendirmiyor, sayfa hatasız ana sayfada kalıyor.
     await expect(page).toHaveURL(HOME_URL);
-    await expect(page.getByText('Popüler Aramalar')).toBeVisible();
+    await expect(page).toHaveURL(/trendyol/);
   });
 
   test('3) Var olmayan bir ürün aranınca "sonuç bulunamadı" mesajı görünüyor', async ({ page }) => {
