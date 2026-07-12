@@ -42,10 +42,11 @@ test.describe('Trendyol kategori ve filtreleme', () => {
   test('marka filtresi seçilince ürün listesi ve URL güncelleniyor', async ({ page }) => {
     await page.goto(CEP_TELEFONU_URL);
 
-    const appleCheckbox = page
+    const appleFilterLabel = page
       .getByRole('group', { name: 'Marka filter options' })
-      .getByRole('checkbox', { name: 'Apple' });
-    await appleCheckbox.click({ force: true });
+      .locator('label')
+      .filter({ hasText: 'Apple' });
+    await appleFilterLabel.click();
 
     await expect(page).toHaveURL(/[?&]wb=/);
     await expect(page.getByRole('heading', { name: 'Apple', exact: true })).toBeVisible();
