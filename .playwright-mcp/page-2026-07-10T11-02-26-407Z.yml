@@ -1,0 +1,1363 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e5]:
+      - generic [ref=f3e7]:
+        - generic [ref=f3e8] [cursor=pointer]:
+          - button "Menu" [ref=f3e9]
+          - link "Trendyol" [ref=f3e11]:
+            - /url: /
+        - button "Search icon Ürün, kategori veya marka ara" [ref=f3e15]:
+          - img "Search icon" [ref=f3e16]
+          - generic [ref=f3e17]: Ürün, kategori veya marka ara
+        - generic [ref=f3e18]:
+          - link "Giriş Yap" [ref=f3e20] [cursor=pointer]:
+            - /url: /giris?cb=%2Fbutik%2Fliste%2F5%2Felektronik
+          - link "Favorilerim" [ref=f3e23] [cursor=pointer]:
+            - /url: /hesabim/favoriler
+          - link "Sepetim" [ref=f3e27] [cursor=pointer]:
+            - /url: /sepetim
+      - generic [ref=f3e33]:
+        - link [ref=f3e34] [cursor=pointer]:
+          - /url: /butik/liste/1/kadin
+          - paragraph [ref=f3e35]: Kadın
+        - link [ref=f3e36] [cursor=pointer]:
+          - /url: /butik/liste/2/erkek
+          - paragraph [ref=f3e37]: Erkek
+        - link [ref=f3e38] [cursor=pointer]:
+          - /url: /butik/liste/3/anne-cocuk
+          - paragraph [ref=f3e39]: Anne & Çocuk
+        - link [ref=f3e40] [cursor=pointer]:
+          - /url: /butik/liste/12/ev-yasam
+          - paragraph [ref=f3e41]: Ev & Yaşam
+        - link [ref=f3e42] [cursor=pointer]:
+          - /url: /butik/liste/16/supermarket
+          - paragraph [ref=f3e43]: Süpermarket
+        - link [ref=f3e44] [cursor=pointer]:
+          - /url: /butik/liste/11/kozmetik
+          - paragraph [ref=f3e45]: Kozmetik
+        - link [ref=f3e46] [cursor=pointer]:
+          - /url: /butik/liste/9/ayakkabi-canta
+          - paragraph [ref=f3e47]: Ayakkabı & Çanta
+        - link [ref=f3e48] [cursor=pointer]:
+          - /url: /butik/liste/5/elektronik
+          - paragraph [ref=f3e49]: Elektronik
+        - link [ref=f3e50] [cursor=pointer]:
+          - /url: /butik/liste/10/saat-aksesuar
+          - paragraph [ref=f3e51]: Saat & Aksesuar
+        - link [ref=f3e52] [cursor=pointer]:
+          - /url: /butik/liste/22/spor-outdoor
+          - paragraph [ref=f3e53]: Spor & Outdoor
+        - link "Flaş Ürünler Yeni" [ref=f3e54] [cursor=pointer]:
+          - /url: /flas-indirimler
+          - paragraph [ref=f3e55]: Flaş Ürünler
+          - generic [ref=f3e56]: Yeni
+        - link "Çok Satanlar Yeni" [ref=f3e58] [cursor=pointer]:
+          - /url: /cok-satanlar?type=bestSeller&webGenderId=1
+          - paragraph [ref=f3e59]: Çok Satanlar
+          - generic [ref=f3e60]: Yeni
+  - main [ref=f3e62]:
+    - generic [ref=f3e63]:
+      - generic [ref=f3e65]:
+        - region "Product carousel" [ref=f3e68]:
+          - list [ref=f3e71]:
+            - listitem [ref=f3e72]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Gaming" [ref=f3e73] [cursor=pointer]:
+                - /url: /s/trendyol-gaming
+                - img "Gaming" [ref=f3e74]
+                - generic [ref=f3e75]: Gaming
+            - listitem [ref=f3e76]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Eskiyi Getir Yeniyi Götür" [ref=f3e77] [cursor=pointer]:
+                - /url: /s/eski-telefonunu-getir-yeni-telefonunu-gotur
+                - img "Eskiyi Getir Yeniyi Götür" [ref=f3e78]
+                - generic [ref=f3e79]: Eskiyi Getir Yeniyi Götür
+            - listitem [ref=f3e80]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Alışveriş Kredisi" [ref=f3e81] [cursor=pointer]:
+                - /url: /s/trendyol-alisveris-kredisi
+                - img "Alışveriş Kredisi" [ref=f3e82]
+                - generic [ref=f3e83]: Alışveriş Kredisi
+            - listitem [ref=f3e84]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Akıllı Ev Sistemleri" [ref=f3e85] [cursor=pointer]:
+                - /url: /s/akilli-ev-sistemleri
+                - img "Akıllı Ev Sistemleri" [ref=f3e86]
+                - generic [ref=f3e87]: Akıllı Ev Sistemleri
+            - listitem [ref=f3e88]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Cep Telefonu" [ref=f3e89] [cursor=pointer]:
+                - /url: /sr?wc=109460,109459,109461,104034
+                - img "Cep Telefonu" [ref=f3e90]
+                - generic [ref=f3e91]: Cep Telefonu
+            - listitem [ref=f3e92]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Ev Aletleri" [ref=f3e93] [cursor=pointer]:
+                - /url: /sr/?q=elektrikli%20ev%20aletleri&qt=elektrikli%20ev%20aletleri&st=elektrikli%20ev%20aletleri
+                - img "Ev Aletleri" [ref=f3e94]
+                - generic [ref=f3e95]: Ev Aletleri
+            - listitem [ref=f3e96]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Laptop&Tablet" [ref=f3e97] [cursor=pointer]:
+                - /url: /sr?wc=106084,103108,103665
+                - img "Laptop&Tablet" [ref=f3e98]
+                - generic [ref=f3e99]: Laptop&Tablet
+            - listitem [ref=f3e100]:
+              - link "DSBoutiques_elektronik_WEB_topstory_Bilgisayar Bileşenleri" [ref=f3e101] [cursor=pointer]:
+                - /url: /bilgisayar-bilesenleri-x-c103662
+                - img "Bilgisayar Bileşenleri" [ref=f3e102]
+                - generic [ref=f3e103]: Bilgisayar Bileşenleri
+            - listitem [ref=f3e104]:
+              - link [ref=f3e105] [cursor=pointer]:
+                - /url: /televizyon-x-c104156
+                - generic [ref=f3e107]: Televizyon
+            - listitem [ref=f3e108]:
+              - link [ref=f3e109] [cursor=pointer]:
+                - /url: /sr?wc=103629,103636,103621,103623,103625,103615,103637,103681,101507,103682,103642,103627,103616
+                - generic [ref=f3e111]: Beyaz Eşya
+            - listitem [ref=f3e112]:
+              - link [ref=f3e113] [cursor=pointer]:
+                - /url: /elektronik-kisisel-bakim-x-c103109
+                - generic [ref=f3e115]: Kişisel Bakım
+            - listitem [ref=f3e116]:
+              - link [ref=f3e117] [cursor=pointer]:
+                - /url: /sr/klima-kombi-vantilator-soba-isitici-x-c104080-c104081-c104086-c104083
+                - generic [ref=f3e119]: Isıtma&Soğutma
+            - listitem [ref=f3e120]:
+              - link [ref=f3e121] [cursor=pointer]:
+                - /url: /sr?wc=106086,106088,144421,106084,106090,106089,106320,144422,106087,108443
+                - generic [ref=f3e123]: Oyuncu Ekipman
+            - listitem [ref=f3e124]:
+              - link [ref=f3e125] [cursor=pointer]:
+                - /url: /sr?wc=144046,144047,104272,144432,144045
+                - generic [ref=f3e127]: Oyun Konsolları
+            - listitem [ref=f3e128]:
+              - link [ref=f3e129] [cursor=pointer]:
+                - /url: /sr?wc=104124,143233,104157,103669,143235
+                - generic [ref=f3e131]: Sinema&Ses Sistemleri
+            - listitem [ref=f3e132]:
+              - link [ref=f3e133] [cursor=pointer]:
+                - /url: /telefon-aksesuarlari-x-c1190?sst=BEST_SELLER
+                - generic [ref=f3e135]: Telefon Aksesuarları
+            - listitem [ref=f3e136]:
+              - link [ref=f3e137] [cursor=pointer]:
+                - /url: /sr?wc=1240,103111,104039,108626
+                - generic [ref=f3e139]: Giyilebilir Teknoloji
+            - listitem [ref=f3e140]:
+              - link [ref=f3e141] [cursor=pointer]:
+                - /url: /cevre-birimleri-x-c108657
+                - generic [ref=f3e143]: Bilgisayar Aksesuarları
+            - listitem [ref=f3e144]:
+              - link [ref=f3e145] [cursor=pointer]:
+                - /url: /konsol-aksesuarlari-x-c104045
+                - generic [ref=f3e147]: Konsol Aksesuarları
+            - listitem [ref=f3e148]:
+              - link [ref=f3e149] [cursor=pointer]:
+                - /url: /kulaklik-x-c92
+                - generic [ref=f3e151]: Kulaklıklar
+            - listitem [ref=f3e152]:
+              - link [ref=f3e153] [cursor=pointer]:
+                - /url: /hoparlor-x-c1067
+                - generic [ref=f3e155]: Hoparlörler
+            - listitem [ref=f3e156]:
+              - link [ref=f3e157] [cursor=pointer]:
+                - /url: /sr?q=bilgisayar%20bile%C5%9Fenleri&qt=bilgisayar%20bile%C5%9Fenleri&st=bilgisayar%2520bile%25C5%259F&os=1
+                - generic [ref=f3e159]: Bilgisayar Bileşenleri
+            - listitem [ref=f3e160]:
+              - link [ref=f3e161] [cursor=pointer]:
+                - /url: /sr?wc=103668,106087
+                - generic [ref=f3e163]: Monitör
+            - listitem [ref=f3e164]:
+              - link [ref=f3e165] [cursor=pointer]:
+                - /url: /sr?q=yaz%C4%B1c%C4%B1%20taray%C4%B1c%C4%B1&qt=yaz%C4%B1c%C4%B1%20taray%C4%B1c%C4%B1&st=yaz%25C4%25B1c%25C4%25B1%2520tary%25C4%25B1c%25C4%25B1&os=1
+                - generic [ref=f3e167]: Yazıcı&Tarayıcı
+        - generic [ref=f3e169]:
+          - generic [ref=f3e170]:
+            - paragraph [ref=f3e172] [cursor=pointer]: Çok Satanlar
+            - link "Tüm Ürünler!" [ref=f3e173] [cursor=pointer]:
+              - /url: /sr?wc=104024&sst=BEST_SELLER
+          - region "Product carousel" [ref=f3e175]:
+            - list [ref=f3e178]:
+              - listitem [ref=f3e179]:
+                - link "Dijital Baskül Yağ Su Kas Vücut Kitle Endeksi Kilo Ölçer Tartı Add to favorites Kargo Bedava comedones Dijital Baskül Yağ Su Kas Vücut Kitle Endeksi Kilo Ölçer Tartı 3 günde 1,5B+ ürün satıldı! 6,8B kişinin sepetinde, kaçırma! 375,1B kişi favoriledi! 24 saatte 3,5B kişi inceledi! rabiapelit öneriyor! Hızlı Teslimat yapılıyor! 3 günde 1,5B+ ürün satıldı! 4.4 (58097) Sepette 34 TL İndirim Sepette 365,90 TL 399,90 TL" [ref=f3e180] [cursor=pointer]:
+                  - /url: /comedones/dijital-baskul-yag-su-kas-vucut-kitle-endeksi-kilo-olcer-tarti-p-382995037?boutiqueId=61
+                  - generic [ref=f3e181]:
+                    - generic [ref=f3e182]:
+                      - img "Dijital Baskül Yağ Su Kas Vücut Kitle Endeksi Kilo Ölçer Tartı" [ref=f3e183]
+                      - generic [ref=f3e184]:
+                        - button "Add to favorites" [ref=f3e185]
+                        - paragraph [ref=f3e191]: Kargo Bedava
+                    - generic [ref=f3e192]:
+                      - paragraph [ref=f3e194]: comedones Dijital Baskül Yağ Su Kas Vücut Kitle Endeksi Kilo Ölçer Tartı
+                      - generic [ref=f3e198]:
+                        - generic [ref=f3e199]: 3 günde 1,5B+ ürün satıldı!
+                        - generic [ref=f3e201]: 6,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e203]: 375,1B kişi favoriledi!
+                        - generic [ref=f3e205]: 24 saatte 3,5B kişi inceledi!
+                        - generic [ref=f3e207]: rabiapelit öneriyor!
+                        - generic [ref=f3e209]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e211]: 3 günde 1,5B+ ürün satıldı!
+                      - generic [ref=f3e214]:
+                        - generic [ref=f3e215]: "4.4"
+                        - generic [ref=f3e216]: (58097)
+                      - generic [ref=f3e232]:
+                        - generic [ref=f3e233]: Sepette 34 TL İndirim
+                        - generic [ref=f3e241]:
+                          - generic [ref=f3e242]:
+                            - generic [ref=f3e243]: Sepette
+                            - generic [ref=f3e244]: 365,90 TL
+                          - generic [ref=f3e246]: 399,90 TL
+              - listitem [ref=f3e248]:
+                - link "KTF-258W Kule Tipi Beyaz Vantilatör – 50W, Zaman Ayarlı, 3 Hız Kademeli, Sessiz Çalışma Add to favorites Kargo Bedava KUMTEL KTF-258W Kule Tipi Beyaz Vantilatör – 50W, Zaman Ayarlı, 3 Hız Kademeli, Sessiz Çalışma 3 günde 1,5B+ ürün satıldı! 19,6B kişinin sepetinde, kaçırma! 222,6B kişi favoriledi! 24 saatte 11,9B kişi inceledi! buketyildirims öneriyor! Hızlı Teslimat yapılıyor! 3 günde 1,5B+ ürün satıldı! 4.3 (9272) 1.759 TL" [ref=f3e249] [cursor=pointer]:
+                  - /url: /kumtel/ktf-258w-kule-tipi-beyaz-vantilator-50w-zaman-ayarli-3-hiz-kademeli-sessiz-calisma-p-317122440?boutiqueId=61
+                  - generic [ref=f3e250]:
+                    - generic [ref=f3e251]:
+                      - img "KTF-258W Kule Tipi Beyaz Vantilatör – 50W, Zaman Ayarlı, 3 Hız Kademeli, Sessiz Çalışma" [ref=f3e252]
+                      - generic [ref=f3e253]:
+                        - button "Add to favorites" [ref=f3e254]
+                        - paragraph [ref=f3e260]: Kargo Bedava
+                    - generic [ref=f3e261]:
+                      - paragraph [ref=f3e263]: KUMTEL KTF-258W Kule Tipi Beyaz Vantilatör – 50W, Zaman Ayarlı, 3 Hız Kademeli, Sessiz Çalışma
+                      - generic [ref=f3e267]:
+                        - generic [ref=f3e268]: 3 günde 1,5B+ ürün satıldı!
+                        - generic [ref=f3e270]: 19,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e272]: 222,6B kişi favoriledi!
+                        - generic [ref=f3e274]: 24 saatte 11,9B kişi inceledi!
+                        - generic [ref=f3e276]: buketyildirims öneriyor!
+                        - generic [ref=f3e278]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e280]: 3 günde 1,5B+ ürün satıldı!
+                      - generic [ref=f3e283]:
+                        - generic [ref=f3e284]: "4.3"
+                        - generic [ref=f3e285]: (9272)
+                      - generic [ref=f3e301]: 1.759 TL
+              - listitem [ref=f3e307]:
+                - link "Fs1000 Mini Tüy Alma Makinesi Pil Ve Temizleme Fırçası, Seyahat Boy, Kablosuz Kullanım Add to favorites Braun Fs1000 Mini Tüy Alma Makinesi Pil Ve Temizleme Fırçası, Seyahat Boy, Kablosuz Kullanım 3 günde 1B+ ürün satıldı! 6,6B kişinin sepetinde, kaçırma! 543,6B kişi favoriledi! 24 saatte 5,7B kişi inceledi! nalleosman öneriyor! Hızlı Teslimat yapılıyor! 3 günde 1B+ ürün satıldı! 4.5 (16766) 1.130,77 TL" [ref=f3e308] [cursor=pointer]:
+                  - /url: /braun/fs1000-mini-tuy-alma-makinesi-pil-ve-temizleme-fircasi-seyahat-boy-kablosuz-kullanim-p-98394315?boutiqueId=689770
+                  - generic [ref=f3e309]:
+                    - generic [ref=f3e310]:
+                      - img "Fs1000 Mini Tüy Alma Makinesi Pil Ve Temizleme Fırçası, Seyahat Boy, Kablosuz Kullanım" [ref=f3e311]
+                      - button "Add to favorites" [ref=f3e313]
+                    - generic [ref=f3e316]:
+                      - paragraph [ref=f3e318]: Braun Fs1000 Mini Tüy Alma Makinesi Pil Ve Temizleme Fırçası, Seyahat Boy, Kablosuz Kullanım
+                      - generic [ref=f3e322]:
+                        - generic [ref=f3e323]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e325]: 6,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e327]: 543,6B kişi favoriledi!
+                        - generic [ref=f3e329]: 24 saatte 5,7B kişi inceledi!
+                        - generic [ref=f3e331]: nalleosman öneriyor!
+                        - generic [ref=f3e333]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e335]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e338]:
+                        - generic [ref=f3e339]: "4.5"
+                        - generic [ref=f3e340]: (16766)
+                      - generic [ref=f3e356]: 1.130,77 TL
+              - listitem [ref=f3e362]:
+                - link "Detox Vücut Yağ Analiz Özellikli Akıllı Tartı Add to favorites Kargo Bedava OSVELD Detox Vücut Yağ Analiz Özellikli Akıllı Tartı 3 günde 1B+ ürün satıldı! 3,6B kişinin sepetinde, kaçırma! 242,9B kişi favoriledi! 24 saatte 1,4B kişi inceledi! senagozuakcolak öneriyor! 3 günde 1B+ ürün satıldı! 4.7 (4145) Lowest price icon Son 10 Günün En Düşük Fiyatı -%28 1.199 TL 1.669 TL" [ref=f3e363] [cursor=pointer]:
+                  - /url: /osveld/detox-vucut-yag-analiz-ozellikli-akilli-tarti-p-817266254?boutiqueId=61
+                  - generic [ref=f3e364]:
+                    - generic [ref=f3e365]:
+                      - img "Detox Vücut Yağ Analiz Özellikli Akıllı Tartı" [ref=f3e366]
+                      - generic [ref=f3e367]:
+                        - button "Add to favorites" [ref=f3e368]
+                        - paragraph [ref=f3e374]: Kargo Bedava
+                    - generic [ref=f3e375]:
+                      - paragraph [ref=f3e377]: OSVELD Detox Vücut Yağ Analiz Özellikli Akıllı Tartı
+                      - generic [ref=f3e381]:
+                        - generic [ref=f3e382]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e384]: 3,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e386]: 242,9B kişi favoriledi!
+                        - generic [ref=f3e388]: 24 saatte 1,4B kişi inceledi!
+                        - generic [ref=f3e390]: senagozuakcolak öneriyor!
+                        - generic [ref=f3e392]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e395]:
+                        - generic [ref=f3e396]: "4.7"
+                        - generic [ref=f3e397]: (4145)
+                      - generic [ref=f3e413]:
+                        - generic [ref=f3e419]:
+                          - generic "Lowest price icon" [ref=f3e420]
+                          - generic [ref=f3e421]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=f3e424]:
+                          - generic [ref=f3e425]: "-%28"
+                          - generic [ref=f3e426]: 1.199 TL
+                          - generic [ref=f3e427]: 1.669 TL
+              - listitem [ref=f3e428]:
+                - link [ref=f3e429] [cursor=pointer]:
+                  - /url: /onetick/anymetre-vucut-yag-analizi-yag-olcer-kare-dijital-baskul-tarti-p-765433561?boutiqueId=61
+                  - generic [ref=f3e430]:
+                    - button [ref=f3e434]
+                    - generic [ref=f3e437]:
+                      - paragraph [ref=f3e439]: Onetick Anymetre Vücut Yağ Analizi Yağ Ölçer Kare Dijital Baskül Tartı
+                      - generic [ref=f3e443]:
+                        - generic [ref=f3e444]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e446]: 2,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e448]: 25,2B kişi favoriledi!
+                        - generic [ref=f3e450]: 24 saatte 2B kişi inceledi!
+                        - generic [ref=f3e452]: rabiapelit öneriyor!
+                        - generic [ref=f3e454]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e456]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e459]:
+                        - generic [ref=f3e460]: "4.4"
+                        - generic [ref=f3e461]: (2537)
+                      - generic [ref=f3e477]: 241,14 TL
+              - listitem [ref=f3e483]:
+                - link [ref=f3e484] [cursor=pointer]:
+                  - /url: /kumtel/ktf-345-siyah-18-inc-ayakli-vantilator-60-w-5-pervaneli-3-kademeli-132-cm-p-1139403146?boutiqueId=61
+                  - generic [ref=f3e485]:
+                    - generic [ref=f3e488]:
+                      - button [ref=f3e489]
+                      - paragraph [ref=f3e495]: Kargo Bedava
+                    - generic [ref=f3e496]:
+                      - paragraph [ref=f3e498]: KUMTEL KTF-345 Siyah 18 İnç Ayaklı Vantilatör 60 W, 5 Pervaneli, 3 Kademeli, 132 cm
+                      - generic [ref=f3e502]:
+                        - generic [ref=f3e503]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e505]: 10B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e507]: 41,3B kişi favoriledi!
+                        - generic [ref=f3e509]: 24 saatte 4,6B kişi inceledi!
+                        - generic [ref=f3e511]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e513]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e516]:
+                        - generic [ref=f3e517]: "3.9"
+                        - generic [ref=f3e518]: (1156)
+                      - generic [ref=f3e534]:
+                        - generic [ref=f3e535]: 100 TL'ye %10 İndirim
+                        - generic [ref=f3e543]:
+                          - generic [ref=f3e544]:
+                            - generic [ref=f3e545]: Sepette
+                            - generic [ref=f3e546]: 1.272,60 TL
+                          - generic [ref=f3e548]: 1.414 TL
+              - listitem [ref=f3e550]:
+                - link [ref=f3e551] [cursor=pointer]:
+                  - /url: /xiaomi/redmi-buds-6-play-siyah-kulakici-kulaklik-gurultu-onleme-bt5-4-ios-android-xiaomi-tr-garantili-p-855229295?boutiqueId=689770
+                  - generic [ref=f3e552]:
+                    - button [ref=f3e556]
+                    - generic [ref=f3e559]:
+                      - paragraph [ref=f3e561]: Xiaomi Redmi Buds 6 Play Siyah Kulakiçi Kulaklık-Gürültü Önleme BT5.4 IOS&Android (Xiaomi TR Garantili)
+                      - generic [ref=f3e565]:
+                        - generic [ref=f3e566]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e568]: 8,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e570]: 229,3B kişi favoriledi!
+                        - generic [ref=f3e572]: 24 saatte 6,8B kişi inceledi!
+                        - generic [ref=f3e574]: pharmaglitter öneriyor!
+                        - generic [ref=f3e576]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e578]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e581]:
+                        - generic [ref=f3e582]: "4.4"
+                        - generic [ref=f3e583]: (17186)
+                      - generic [ref=f3e599]: 689 TL
+              - listitem [ref=f3e605]:
+                - link [ref=f3e606] [cursor=pointer]:
+                  - /url: /beyzana/crystal-eraser-epilasyon-aleti-tuy-silgisi-tuy-alici-fiziksel-kristal-epilator-p-786208889?boutiqueId=61
+                  - generic [ref=f3e607]:
+                    - button [ref=f3e611]
+                    - generic [ref=f3e614]:
+                      - paragraph [ref=f3e616]: BEYZANA Crystal Eraser Epilasyon Aleti Tüy Silgisi Tüy Alıcı Fiziksel Kristal Epilatör
+                      - generic [ref=f3e620]:
+                        - generic [ref=f3e621]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e623]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e625]: 85,3B kişi favoriledi!
+                        - generic [ref=f3e627]: 24 saatte 1,2B kişi inceledi!
+                        - generic [ref=f3e629]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e631]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e634]:
+                        - generic [ref=f3e635]: "3.4"
+                        - generic [ref=f3e636]: (8771)
+                      - generic [ref=f3e652]:
+                        - generic [ref=f3e653]: Son 14 Günün En Düşük Fiyatı
+                        - generic [ref=f3e663]:
+                          - generic [ref=f3e664]: "-%30"
+                          - generic [ref=f3e665]: 34,99 TL
+                          - generic [ref=f3e666]: 49,99 TL
+              - listitem [ref=f3e667]:
+                - link [ref=f3e668] [cursor=pointer]:
+                  - /url: /fantom/pratic-s-p1200-toz-torbasiz-dikey-supurge-antrasit-p-35509789?boutiqueId=61
+                  - generic [ref=f3e669]:
+                    - generic [ref=f3e672]:
+                      - button [ref=f3e673]
+                      - paragraph [ref=f3e679]: Kargo Bedava
+                    - generic [ref=f3e680]:
+                      - paragraph [ref=f3e682]: FANTOM Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit
+                      - generic [ref=f3e686]:
+                        - generic [ref=f3e687]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e689]: 5,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e691]: 394B kişi favoriledi!
+                        - generic [ref=f3e693]: 24 saatte 4,8B kişi inceledi!
+                        - generic [ref=f3e695]: alevsubuler öneriyor!
+                        - generic [ref=f3e697]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e699]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e702]:
+                        - generic [ref=f3e703]: "4.6"
+                        - generic [ref=f3e704]: (38632)
+                      - generic [ref=f3e720]: 2.254,40 TL
+              - listitem [ref=f3e726]:
+                - link [ref=f3e727] [cursor=pointer]:
+                  - /url: /clnk/meyveli-tasarim-3-kademeli-sessiz-mini-el-masa-fan-vantilator-turbo-ufleme-kademe-tasinabilir-fan-p-931595806?boutiqueId=61
+                  - generic [ref=f3e728]:
+                    - button [ref=f3e732]
+                    - generic [ref=f3e735]:
+                      - paragraph [ref=f3e737]: CLNK Meyveli Tasarım 3 Kademeli Sessiz Mini El Masa Fan Vantilatör Turbo Üfleme Kademe Taşınabilir Fan
+                      - generic [ref=f3e741]:
+                        - generic [ref=f3e742]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e744]: 14,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e746]: 74,7B kişi favoriledi!
+                        - generic [ref=f3e748]: 24 saatte 4,6B kişi inceledi!
+                        - generic [ref=f3e750]: lightsena öneriyor!
+                        - generic [ref=f3e752]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e754]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e757]:
+                        - generic [ref=f3e758]: "3.7"
+                        - generic [ref=f3e759]: (1885)
+                      - generic [ref=f3e775]: 136 TL
+              - listitem [ref=f3e781]:
+                - link [ref=f3e782] [cursor=pointer]:
+                  - /url: /kar-bul/profesyonel-sakal-ense-cizim-makinesi-vucut-kili-sac-ense-sakal-cizim-lazer-epilasyon-oncesi-p-443337407?boutiqueId=61
+                  - generic [ref=f3e783]:
+                    - button [ref=f3e787]
+                    - generic [ref=f3e790]:
+                      - paragraph [ref=f3e792]: kar-bul Profesyönel Sakal Ense Çizim Makinesi Vucüt Kılı Saç Ense Sakal Çizim Lazer Epilasyon Öncesi
+                      - generic [ref=f3e796]:
+                        - generic [ref=f3e797]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e799]: 4,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e801]: 37,4B kişi favoriledi!
+                        - generic [ref=f3e803]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=f3e805]: busemsimsek öneriyor!
+                        - generic [ref=f3e807]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e809]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e812]:
+                        - generic [ref=f3e813]: "3.8"
+                        - generic [ref=f3e814]: (5100)
+                      - generic [ref=f3e830]: 193,90 TL
+              - listitem [ref=f3e836]:
+                - link [ref=f3e837] [cursor=pointer]:
+                  - /url: /yui/f60-beyaz-16-inc-50w-8-kademe-5-pervane-doner-baslikli-uzaktan-kumandali-vantilator-p-1129750723?boutiqueId=61
+                  - generic [ref=f3e838]:
+                    - generic [ref=f3e841]:
+                      - button [ref=f3e842]
+                      - paragraph [ref=f3e848]: Kargo Bedava
+                    - generic [ref=f3e849]:
+                      - paragraph [ref=f3e851]: Yui F60 Beyaz 16 İnç 50W 8 Kademe 5 Pervane Döner Başlıklı Uzaktan Kumandalı Vantilatör
+                      - generic [ref=f3e855]:
+                        - generic [ref=f3e856]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e858]: 6,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e860]: 179,9B kişi favoriledi!
+                        - generic [ref=f3e862]: 24 saatte 2,7B kişi inceledi!
+                        - generic [ref=f3e864]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e867]:
+                        - generic [ref=f3e868]: "3.8"
+                        - generic [ref=f3e869]: (618)
+                      - generic [ref=f3e885]:
+                        - generic [ref=f3e886]: Son 30 Günün En Düşük Fiyatı
+                        - generic [ref=f3e896]:
+                          - generic [ref=f3e897]: 999 TL
+                          - generic [ref=f3e898]: 1.032,72 TL
+              - listitem [ref=f3e899]:
+                - link [ref=f3e900] [cursor=pointer]:
+                  - /url: /riomi/ipl-buz-lazer-epilasyon-999-999-atim-otomatik-manuel-dokunmatik-ekran-agrisiz-vucut-yuz-cihazi-p-723791701?boutiqueId=61
+                  - generic [ref=f3e901]:
+                    - generic [ref=f3e904]:
+                      - button [ref=f3e905]
+                      - paragraph [ref=f3e911]: Kargo Bedava
+                    - generic [ref=f3e912]:
+                      - paragraph [ref=f3e914]: RİOMİ Ipl Buz Lazer Epilasyon 999.999 Atım Otomatik/manuel Dokunmatik Ekran Ağrısız Vücut Yüz Cihazı
+                      - generic [ref=f3e918]:
+                        - generic [ref=f3e919]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e921]: 11,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e923]: 717,2B kişi favoriledi!
+                        - generic [ref=f3e925]: 24 saatte 5,8B kişi inceledi!
+                        - generic [ref=f3e927]: Medinesaldiik öneriyor!
+                        - generic [ref=f3e929]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e931]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e934]:
+                        - generic [ref=f3e935]: "4.4"
+                        - generic [ref=f3e936]: (76400)
+                      - generic [ref=f3e953]:
+                        - generic [ref=f3e954]: Trendyol Plus'a Özel
+                        - generic [ref=f3e958]:
+                          - generic [ref=f3e959]:
+                            - generic [ref=f3e960]: Sepette
+                            - generic [ref=f3e961]: 2.569 TL
+                          - generic [ref=f3e962]:
+                            - generic [ref=f3e963]: 2.669 TL
+                            - generic [ref=f3e964]: 2.699 TL
+              - listitem [ref=f3e965]:
+                - link [ref=f3e966] [cursor=pointer]:
+                  - /url: /remington/s8540-keratin-protect-keratin-korumali-sac-duzlestirici-p-1174570?boutiqueId=61
+                  - generic [ref=f3e967]:
+                    - generic [ref=f3e970]:
+                      - button [ref=f3e971]
+                      - paragraph [ref=f3e977]: Kargo Bedava
+                    - generic [ref=f3e978]:
+                      - paragraph [ref=f3e980]: Remington S8540 Keratin Protect Keratin Korumalı Saç Düzleştirici
+                      - generic [ref=f3e984]:
+                        - generic [ref=f3e985]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e987]: 7,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e989]: 354,3B kişi favoriledi!
+                        - generic [ref=f3e991]: 24 saatte 3,9B kişi inceledi!
+                        - generic [ref=f3e993]: secilkaygun öneriyor!
+                        - generic [ref=f3e995]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e997]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1000]:
+                        - generic [ref=f3e1001]: "4.6"
+                        - generic [ref=f3e1002]: (10103)
+                      - generic [ref=f3e1018]:
+                        - generic [ref=f3e1022]:
+                          - generic [ref=f3e1023]: Sepette 30 TL İndirim
+                          - generic [ref=f3e1026]: 50 TL Kupon
+                          - generic [ref=f3e1030]: Sepette 30 TL İndirim
+                        - generic [ref=f3e1034]:
+                          - generic [ref=f3e1035]:
+                            - generic [ref=f3e1036]: Sepette
+                            - generic [ref=f3e1037]: 2.229 TL
+                          - generic [ref=f3e1039]: 2.259 TL
+              - listitem [ref=f3e1041]:
+                - link [ref=f3e1042] [cursor=pointer]:
+                  - /url: /apple/20-watt-usb-c-hizli-sarj-guc-adaptoru-md3j4tu-a-p-924532595?boutiqueId=689770
+                  - generic [ref=f3e1043]:
+                    - button [ref=f3e1047]
+                    - generic [ref=f3e1050]:
+                      - paragraph [ref=f3e1052]: Apple 20 Watt (USB-C) Hızlı Şarj Güç Adaptörü MD3J4TU/A
+                      - generic [ref=f3e1056]:
+                        - generic [ref=f3e1057]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1059]: 5,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1061]: 84,1B kişi favoriledi!
+                        - generic [ref=f3e1063]: 24 saatte 2,1B kişi inceledi!
+                        - generic [ref=f3e1065]: ceylanaygun öneriyor!
+                        - generic [ref=f3e1067]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1069]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1072]:
+                        - generic [ref=f3e1073]: "4.7"
+                        - generic [ref=f3e1074]: (5943)
+                      - generic [ref=f3e1090]: 798 TL
+              - listitem [ref=f3e1096]:
+                - link [ref=f3e1097] [cursor=pointer]:
+                  - /url: /comedones/dijital-baskul-yag-su-kas-vucut-kitle-endeksi-kilo-olcer-tarti-p-446753563?boutiqueId=61
+                  - generic [ref=f3e1098]:
+                    - generic [ref=f3e1101]:
+                      - button [ref=f3e1102]
+                      - paragraph [ref=f3e1108]: Kargo Bedava
+                    - generic [ref=f3e1109]:
+                      - paragraph [ref=f3e1111]: comedones Dijital Baskül Yağ Su Kas Vücut Kitle Endeksi Kilo Ölçer Tartı
+                      - generic [ref=f3e1115]:
+                        - generic [ref=f3e1116]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1118]: 2,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1120]: 104,4B kişi favoriledi!
+                        - generic [ref=f3e1122]: 24 saatte 1,3B kişi inceledi!
+                        - generic [ref=f3e1124]: rabiapelit öneriyor!
+                        - generic [ref=f3e1126]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1128]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1131]:
+                        - generic [ref=f3e1132]: "4.5"
+                        - generic [ref=f3e1133]: (20064)
+                      - generic [ref=f3e1149]:
+                        - generic [ref=f3e1150]: Sepette 34 TL İndirim
+                        - generic [ref=f3e1158]:
+                          - generic [ref=f3e1159]:
+                            - generic [ref=f3e1160]: Sepette
+                            - generic [ref=f3e1161]: 365,90 TL
+                          - generic [ref=f3e1163]: 399,90 TL
+              - listitem [ref=f3e1165]:
+                - link [ref=f3e1166] [cursor=pointer]:
+                  - /url: /powertec/tr-601-2500-w-turbo-professional-series-fon-makinesi-sac-kurutma-2-7m-uzun-kablolu-yeni-versiyon-p-31440796?boutiqueId=61
+                  - generic [ref=f3e1167]:
+                    - generic [ref=f3e1170]:
+                      - button [ref=f3e1171]
+                      - paragraph [ref=f3e1177]: Kargo Bedava
+                    - generic [ref=f3e1178]:
+                      - paragraph [ref=f3e1180]: Powertec TR-601 (2500 W) Turbo Professional Series Fön Makinesi & Saç Kurutma 2.7m Uzun Kablolu Yeni Versiyon
+                      - generic [ref=f3e1184]:
+                        - generic [ref=f3e1185]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1187]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1189]: 240,5B kişi favoriledi!
+                        - generic [ref=f3e1191]: 24 saatte 1,5B kişi inceledi!
+                        - generic [ref=f3e1193]: dilaketenci öneriyor!
+                        - generic [ref=f3e1195]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1197]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1200]:
+                        - generic [ref=f3e1201]: "4.5"
+                        - generic [ref=f3e1202]: (24494)
+                      - generic [ref=f3e1218]:
+                        - generic [ref=f3e1219]: 1000 TL'ye %5 İndirim
+                        - generic [ref=f3e1227]:
+                          - generic [ref=f3e1228]:
+                            - generic [ref=f3e1229]: Sepette
+                            - generic [ref=f3e1230]: 986,10 TL
+                          - generic [ref=f3e1232]: 1.038 TL
+              - listitem [ref=f3e1234]:
+                - link [ref=f3e1235] [cursor=pointer]:
+                  - /url: /fibaks/yuksek-kalite-tum-telefonlara-uyumlu-yagmur-su-gecirmez-waterproof-deniz-havuz-alti-gecirmez-kilif-p-835296386?boutiqueId=61
+                  - generic [ref=f3e1236]:
+                    - button [ref=f3e1240]
+                    - generic [ref=f3e1243]:
+                      - paragraph [ref=f3e1245]: Fibaks Yüksek Kalite Tüm Telefonlara Uyumlu Yağmur Su Geçirmez Waterproof Deniz Havuz Altı Geçirmez Kılıf
+                      - generic [ref=f3e1249]:
+                        - generic [ref=f3e1250]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1252]: 2,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1254]: 38,8B kişi favoriledi!
+                        - generic [ref=f3e1256]: 24 saatte 864 kişi inceledi!
+                        - generic [ref=f3e1258]: Suekinboyraz öneriyor!
+                        - generic [ref=f3e1260]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1262]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1265]:
+                        - generic [ref=f3e1266]: "4.2"
+                        - generic [ref=f3e1267]: (2706)
+                      - generic [ref=f3e1283]:
+                        - generic [ref=f3e1287]:
+                          - generic [ref=f3e1288]: Sepette %18 İndirim
+                          - generic [ref=f3e1291]: Kupon Fırsatı
+                          - generic [ref=f3e1295]: Sepette %18 İndirim
+                        - generic [ref=f3e1299]:
+                          - generic [ref=f3e1300]:
+                            - generic [ref=f3e1301]: Sepette
+                            - generic [ref=f3e1302]: 176 TL
+                          - generic [ref=f3e1304]: 214,63 TL
+              - listitem [ref=f3e1306]:
+                - link [ref=f3e1307] [cursor=pointer]:
+                  - /url: /barbanti-mobile/pro-ios-android-uyumlu-kablosuz-bluetooth-kulaklik-karisik-renk-kilif-hediyeli-p-672471753?boutiqueId=61
+                  - generic [ref=f3e1308]:
+                    - generic [ref=f3e1311]:
+                      - button [ref=f3e1312]
+                      - paragraph [ref=f3e1318]: Kargo Bedava
+                    - generic [ref=f3e1319]:
+                      - paragraph [ref=f3e1321]: Barbanti Mobile Pro Ios Android Uyumlu Kablosuz Bluetooth Kulaklık Karışık Renk Kılıf Hediyeli
+                      - generic [ref=f3e1325]:
+                        - generic [ref=f3e1326]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1328]: 4,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1330]: 278,3B kişi favoriledi!
+                        - generic [ref=f3e1332]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=f3e1334]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1336]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1339]:
+                        - generic [ref=f3e1340]: "3.8"
+                        - generic [ref=f3e1341]: (38617)
+                      - generic [ref=f3e1357]: 512,69 TL
+              - listitem [ref=f3e1363]:
+                - link [ref=f3e1364] [cursor=pointer]:
+                  - /url: /xiaomi/redmi-buds-6-play-beyaz-kulakici-kulaklik-gurultu-engelleme-bt-5-4-tws-xiaomi-tr-garantili-p-855229283?boutiqueId=689770
+                  - generic [ref=f3e1365]:
+                    - button [ref=f3e1369]
+                    - generic [ref=f3e1372]:
+                      - paragraph [ref=f3e1374]: Xiaomi Redmi Buds 6 Play Beyaz Kulakiçi Kulaklık- Gürültü Engelleme BT 5.4 TWS (Xiaomi TR Garantili)
+                      - generic [ref=f3e1378]:
+                        - generic [ref=f3e1379]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1381]: 4B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1383]: 95,8B kişi favoriledi!
+                        - generic [ref=f3e1385]: 24 saatte 2B kişi inceledi!
+                        - generic [ref=f3e1387]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1389]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1392]:
+                        - generic [ref=f3e1393]: "4.4"
+                        - generic [ref=f3e1394]: (6653)
+                      - generic [ref=f3e1410]: 689 TL
+              - listitem [ref=f3e1416]:
+                - link [ref=f3e1417] [cursor=pointer]:
+                  - /url: /sr?wc=104024&sst=BEST_SELLER
+                  - generic [ref=f3e1418]: Tümünü gör
+        - link "banner-boutique" [ref=f3e1422] [cursor=pointer]:
+          - /url: /sr?wc=1104,150289&wb=577&os=1&sst=MOST_FAVOURITE&tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu,sari_kampanya_urunu,beyaz_kampanya_urunu
+          - img "pim_bu_53" [ref=f3e1424]
+        - link "banner-boutique" [ref=f3e1427] [cursor=pointer]:
+          - /url: /sr?wc=1104%2C103109&rd=true&os=1
+          - img "pim_bu_53" [ref=f3e1429]
+        - link "banner-boutique" [ref=f3e1432] [cursor=pointer]:
+          - /url: /sr?wc=164462,164461
+          - img "pim_bu_53" [ref=f3e1434]
+        - generic [ref=f3e1436]:
+          - generic [ref=f3e1437]:
+            - paragraph [ref=f3e1439] [cursor=pointer]: Avantajlı Ürünler
+            - link "Tüm Ürünler!" [ref=f3e1440] [cursor=pointer]:
+              - /url: /sr?tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu&wc=104024&sst=BEST_SELLER
+          - region "Product carousel" [ref=f3e1442]:
+            - list [ref=f3e1445]:
+              - listitem [ref=f3e1446]:
+                - link "Detox Vücut Yağ Analiz Özellikli Akıllı Tartı Add to favorites Kargo Bedava OSVELD Detox Vücut Yağ Analiz Özellikli Akıllı Tartı 3 günde 1B+ ürün satıldı! 3,6B kişinin sepetinde, kaçırma! 242,9B kişi favoriledi! 24 saatte 1,4B kişi inceledi! senagozuakcolak öneriyor! 3 günde 1B+ ürün satıldı! 4.7 (4145) Lowest price icon Son 10 Günün En Düşük Fiyatı -%28 1.199 TL 1.669 TL" [ref=f3e1447] [cursor=pointer]:
+                  - /url: /osveld/detox-vucut-yag-analiz-ozellikli-akilli-tarti-p-817266254?boutiqueId=61
+                  - generic [ref=f3e1448]:
+                    - generic [ref=f3e1449]:
+                      - img "Detox Vücut Yağ Analiz Özellikli Akıllı Tartı" [ref=f3e1450]
+                      - generic [ref=f3e1451]:
+                        - button "Add to favorites" [ref=f3e1452]
+                        - paragraph [ref=f3e1458]: Kargo Bedava
+                    - generic [ref=f3e1459]:
+                      - paragraph [ref=f3e1461]: OSVELD Detox Vücut Yağ Analiz Özellikli Akıllı Tartı
+                      - generic [ref=f3e1465]:
+                        - generic [ref=f3e1466]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e1468]: 3,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1470]: 242,9B kişi favoriledi!
+                        - generic [ref=f3e1472]: 24 saatte 1,4B kişi inceledi!
+                        - generic [ref=f3e1474]: senagozuakcolak öneriyor!
+                        - generic [ref=f3e1476]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e1479]:
+                        - generic [ref=f3e1480]: "4.7"
+                        - generic [ref=f3e1481]: (4145)
+                      - generic [ref=f3e1497]:
+                        - generic [ref=f3e1503]:
+                          - generic "Lowest price icon" [ref=f3e1504]
+                          - generic [ref=f3e1505]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=f3e1508]:
+                          - generic [ref=f3e1509]: "-%28"
+                          - generic [ref=f3e1510]: 1.199 TL
+                          - generic [ref=f3e1511]: 1.669 TL
+              - listitem [ref=f3e1512]:
+                - link "Crystal Eraser Epilasyon Aleti Tüy Silgisi Tüy Alıcı Fiziksel Kristal Epilatör Add to favorites BEYZANA Crystal Eraser Epilasyon Aleti Tüy Silgisi Tüy Alıcı Fiziksel Kristal Epilatör 3 günde 1B+ ürün satıldı! 2,9B kişinin sepetinde, kaçırma! 85,3B kişi favoriledi! 24 saatte 1,2B kişi inceledi! Hızlı Teslimat yapılıyor! 3 günde 1B+ ürün satıldı! 3.4 (8771) Lowest price icon Son 14 Günün En Düşük Fiyatı -%30 34,99 TL 49,99 TL" [ref=f3e1513] [cursor=pointer]:
+                  - /url: /beyzana/crystal-eraser-epilasyon-aleti-tuy-silgisi-tuy-alici-fiziksel-kristal-epilator-p-786208889?boutiqueId=61
+                  - generic [ref=f3e1514]:
+                    - generic [ref=f3e1515]:
+                      - img "Crystal Eraser Epilasyon Aleti Tüy Silgisi Tüy Alıcı Fiziksel Kristal Epilatör" [ref=f3e1516]
+                      - button "Add to favorites" [ref=f3e1518]
+                    - generic [ref=f3e1521]:
+                      - paragraph [ref=f3e1523]: BEYZANA Crystal Eraser Epilasyon Aleti Tüy Silgisi Tüy Alıcı Fiziksel Kristal Epilatör
+                      - generic [ref=f3e1527]:
+                        - generic [ref=f3e1528]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e1530]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1532]: 85,3B kişi favoriledi!
+                        - generic [ref=f3e1534]: 24 saatte 1,2B kişi inceledi!
+                        - generic [ref=f3e1536]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1538]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e1541]:
+                        - generic [ref=f3e1542]: "3.4"
+                        - generic [ref=f3e1543]: (8771)
+                      - generic [ref=f3e1559]:
+                        - generic [ref=f3e1565]:
+                          - generic "Lowest price icon" [ref=f3e1566]
+                          - generic [ref=f3e1567]: Son 14 Günün En Düşük Fiyatı
+                        - generic [ref=f3e1570]:
+                          - generic [ref=f3e1571]: "-%30"
+                          - generic [ref=f3e1572]: 34,99 TL
+                          - generic [ref=f3e1573]: 49,99 TL
+              - listitem [ref=f3e1574]:
+                - link "Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit Add to favorites Kargo Bedava FANTOM Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit 3 günde 1B+ ürün satıldı! 5,9B kişinin sepetinde, kaçırma! 394B kişi favoriledi! 24 saatte 4,8B kişi inceledi! alevsubuler öneriyor! Hızlı Teslimat yapılıyor! 3 günde 1B+ ürün satıldı! 4.6 (38632) 2.254,40 TL" [ref=f3e1575] [cursor=pointer]:
+                  - /url: /fantom/pratic-s-p1200-toz-torbasiz-dikey-supurge-antrasit-p-35509789?boutiqueId=61
+                  - generic [ref=f3e1576]:
+                    - generic [ref=f3e1577]:
+                      - img "Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit" [ref=f3e1578]
+                      - generic [ref=f3e1579]:
+                        - button "Add to favorites" [ref=f3e1580]
+                        - paragraph [ref=f3e1586]: Kargo Bedava
+                    - generic [ref=f3e1587]:
+                      - paragraph [ref=f3e1589]: FANTOM Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit
+                      - generic [ref=f3e1593]:
+                        - generic [ref=f3e1594]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=f3e1596]: 5,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1598]: 394B kişi favoriledi!
+                        - generic [ref=f3e1600]: 24 saatte 4,8B kişi inceledi!
+                        - generic [ref=f3e1602]: alevsubuler öneriyor!
+                        - generic [ref=f3e1604]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1606]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=f3e1609]:
+                        - generic [ref=f3e1610]: "4.6"
+                        - generic [ref=f3e1611]: (38632)
+                      - generic [ref=f3e1627]: 2.254,40 TL
+              - listitem [ref=f3e1633]:
+                - link "F60 Beyaz 16 İnç 50W 8 Kademe 5 Pervane Döner Başlıklı Uzaktan Kumandalı Vantilatör Add to favorites Kargo Bedava Yui F60 Beyaz 16 İnç 50W 8 Kademe 5 Pervane Döner Başlıklı Uzaktan Kumandalı Vantilatör 3 günde 500+ ürün satıldı! 6,5B kişinin sepetinde, kaçırma! 179,9B kişi favoriledi! 24 saatte 2,7B kişi inceledi! 3 günde 500+ ürün satıldı! 3.8 (618) Lowest price icon Son 30 Günün En Düşük Fiyatı 999 TL 1.032,72 TL" [ref=f3e1634] [cursor=pointer]:
+                  - /url: /yui/f60-beyaz-16-inc-50w-8-kademe-5-pervane-doner-baslikli-uzaktan-kumandali-vantilator-p-1129750723?boutiqueId=61
+                  - generic [ref=f3e1635]:
+                    - generic [ref=f3e1636]:
+                      - img "F60 Beyaz 16 İnç 50W 8 Kademe 5 Pervane Döner Başlıklı Uzaktan Kumandalı Vantilatör" [ref=f3e1637]
+                      - generic [ref=f3e1638]:
+                        - button "Add to favorites" [ref=f3e1639]
+                        - paragraph [ref=f3e1645]: Kargo Bedava
+                    - generic [ref=f3e1646]:
+                      - paragraph [ref=f3e1648]: Yui F60 Beyaz 16 İnç 50W 8 Kademe 5 Pervane Döner Başlıklı Uzaktan Kumandalı Vantilatör
+                      - generic [ref=f3e1652]:
+                        - generic [ref=f3e1653]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1655]: 6,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1657]: 179,9B kişi favoriledi!
+                        - generic [ref=f3e1659]: 24 saatte 2,7B kişi inceledi!
+                        - generic [ref=f3e1661]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1664]:
+                        - generic [ref=f3e1665]: "3.8"
+                        - generic [ref=f3e1666]: (618)
+                      - generic [ref=f3e1682]:
+                        - generic [ref=f3e1688]:
+                          - generic "Lowest price icon" [ref=f3e1689]
+                          - generic [ref=f3e1690]: Son 30 Günün En Düşük Fiyatı
+                        - generic [ref=f3e1693]:
+                          - generic [ref=f3e1694]: 999 TL
+                          - generic [ref=f3e1695]: 1.032,72 TL
+              - listitem [ref=f3e1696]:
+                - link [ref=f3e1697] [cursor=pointer]:
+                  - /url: /remington/s8540-keratin-protect-keratin-korumali-sac-duzlestirici-p-1174570?boutiqueId=61
+                  - generic [ref=f3e1698]:
+                    - generic [ref=f3e1701]:
+                      - button [ref=f3e1702]
+                      - paragraph [ref=f3e1708]: Kargo Bedava
+                    - generic [ref=f3e1709]:
+                      - paragraph [ref=f3e1711]: Remington S8540 Keratin Protect Keratin Korumalı Saç Düzleştirici
+                      - generic [ref=f3e1715]:
+                        - generic [ref=f3e1716]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1718]: 7,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1720]: 354,3B kişi favoriledi!
+                        - generic [ref=f3e1722]: 24 saatte 3,9B kişi inceledi!
+                        - generic [ref=f3e1724]: secilkaygun öneriyor!
+                        - generic [ref=f3e1726]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1728]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1731]:
+                        - generic [ref=f3e1732]: "4.6"
+                        - generic [ref=f3e1733]: (10103)
+                      - generic [ref=f3e1749]:
+                        - generic [ref=f3e1753]:
+                          - generic [ref=f3e1754]: Sepette 30 TL İndirim
+                          - generic [ref=f3e1757]: 50 TL Kupon
+                          - generic [ref=f3e1761]: Sepette 30 TL İndirim
+                        - generic [ref=f3e1765]:
+                          - generic [ref=f3e1766]:
+                            - generic [ref=f3e1767]: Sepette
+                            - generic [ref=f3e1768]: 2.229 TL
+                          - generic [ref=f3e1770]: 2.259 TL
+              - listitem [ref=f3e1772]:
+                - link [ref=f3e1773] [cursor=pointer]:
+                  - /url: /genel-markalar/tum-dokunmatik-cihazlara-ios-android-windows-uyumlu-tablet-ipad-yazi-cizim-kalemi-p-942265188?boutiqueId=61
+                  - generic [ref=f3e1774]:
+                    - button [ref=f3e1778]
+                    - generic [ref=f3e1781]:
+                      - paragraph [ref=f3e1783]: Genel Markalar Tüm Dokunmatik Cihazlara -ios/android/windows Uyumlu Tablet Ipad Yazı Çizim Kalemi
+                      - generic [ref=f3e1787]:
+                        - generic [ref=f3e1788]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1790]: 6,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1792]: 49,9B kişi favoriledi!
+                        - generic [ref=f3e1794]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=f3e1796]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1798]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1801]:
+                        - generic [ref=f3e1802]: "3.5"
+                        - generic [ref=f3e1803]: (1915)
+                      - generic [ref=f3e1820]:
+                        - generic [ref=f3e1821]: Trendyol Plus'a Özel
+                        - generic [ref=f3e1825]:
+                          - generic [ref=f3e1826]:
+                            - generic [ref=f3e1827]: Sepette
+                            - generic [ref=f3e1828]: 195,82 TL
+                          - generic [ref=f3e1829]: 199 TL
+              - listitem [ref=f3e1831]:
+                - link [ref=f3e1832] [cursor=pointer]:
+                  - /url: /kvk-privacy/iphone-13-14-15-uyumlu-pembe-leopar-desenli-ince-yumusak-silikon-kilif-p-1041951856?boutiqueId=61
+                  - generic [ref=f3e1833]:
+                    - button [ref=f3e1837]
+                    - generic [ref=f3e1840]:
+                      - paragraph [ref=f3e1842]: KVK PRİVACY iPhone 13/14/15 Uyumlu Pembe Leopar Desenli İnce Yumuşak Silikon Kılıf
+                      - generic [ref=f3e1846]:
+                        - generic [ref=f3e1847]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1849]: 4,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1851]: 141,8B kişi favoriledi!
+                        - generic [ref=f3e1853]: 24 saatte 2,9B kişi inceledi!
+                        - generic [ref=f3e1855]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1857]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1860]:
+                        - generic [ref=f3e1861]: "4.5"
+                        - generic [ref=f3e1862]: (2525)
+                      - generic [ref=f3e1878]:
+                        - generic [ref=f3e1879]: 5 Al 4 Öde
+                        - generic [ref=f3e1887]: 99,90 TL
+              - listitem [ref=f3e1891]:
+                - link [ref=f3e1892] [cursor=pointer]:
+                  - /url: /kumtel/ktf-355-beyaz-16-inc-ayakli-vantilator-50-w-5-pervaneli-3-kademeli-121-cm-yukseklik-p-1146143634?boutiqueId=689770
+                  - generic [ref=f3e1893]:
+                    - button [ref=f3e1897]
+                    - generic [ref=f3e1900]:
+                      - paragraph [ref=f3e1902]: KUMTEL KTF-355 Beyaz 16 inç Ayaklı Vantilatör 50 W, 5 Pervaneli, 3 Kademeli, 121 cm Yükseklik
+                      - generic [ref=f3e1906]:
+                        - generic [ref=f3e1907]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1909]: 1B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1911]: 2,2B kişi favoriledi!
+                        - generic [ref=f3e1913]: 24 saatte 1,9B kişi inceledi!
+                        - generic [ref=f3e1915]: Alisverisgunlukleriim öneriyor!
+                        - generic [ref=f3e1917]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1919]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1922]:
+                        - generic [ref=f3e1923]: "4.3"
+                        - generic [ref=f3e1924]: (19)
+                      - generic [ref=f3e1940]: 939 TL
+              - listitem [ref=f3e1946]:
+                - link [ref=f3e1947] [cursor=pointer]:
+                  - /url: /riddex/2-baslikli-sarjli-tuy-kil-alma-kas-biyik-unisex-yuz-bakim-tiras-aleti-epilasyon-aleti-p-740030779?boutiqueId=61
+                  - generic [ref=f3e1948]:
+                    - button [ref=f3e1952]
+                    - generic [ref=f3e1955]:
+                      - paragraph [ref=f3e1957]: Riddex 2 Başlıklı Şarjlı Tüy Kıl Alma Kaş Bıyık Unisex Yüz Bakım Tıraş Aleti Epilasyon Aleti
+                      - generic [ref=f3e1961]:
+                        - generic [ref=f3e1962]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e1964]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e1966]: 25,1B kişi favoriledi!
+                        - generic [ref=f3e1968]: 24 saatte 1,1B kişi inceledi!
+                        - generic [ref=f3e1970]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e1972]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e1975]:
+                        - generic [ref=f3e1976]: "3.5"
+                        - generic [ref=f3e1977]: (1468)
+                      - generic [ref=f3e1993]: 199,98 TL
+              - listitem [ref=f3e1999]:
+                - link [ref=f3e2000] [cursor=pointer]:
+                  - /url: /ithink-original-accessories/mini-tasinabilir-fan-type-c-sarjli-el-vantilatoru-fn-65-p-1127494662?boutiqueId=61
+                  - generic [ref=f3e2001]:
+                    - button [ref=f3e2005]
+                    - generic [ref=f3e2008]:
+                      - paragraph [ref=f3e2010]: iThink Original Accessories MİNİ TAŞINABİLİR FAN TYPE-C ŞARJLI EL VANTİLATÖRÜ FN-65
+                      - generic [ref=f3e2014]:
+                        - generic [ref=f3e2015]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=f3e2017]: 2,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2019]: 8,4B kişi favoriledi!
+                        - generic [ref=f3e2021]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=f3e2023]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2025]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=f3e2028]:
+                        - generic [ref=f3e2029]: "4.2"
+                        - generic [ref=f3e2030]: (102)
+                      - generic [ref=f3e2046]:
+                        - generic [ref=f3e2047]: 2. Ürün %5
+                        - generic [ref=f3e2055]: 170,25 TL
+              - listitem [ref=f3e2059]:
+                - link [ref=f3e2060] [cursor=pointer]:
+                  - /url: /joysidea/ayakli-vantilator-kumandali-90-derece-salinimli-16-inc-8-kademe-hiz-ayarli-fn-99-p-1136166555?boutiqueId=61
+                  - generic [ref=f3e2061]:
+                    - generic [ref=f3e2064]:
+                      - button [ref=f3e2065]
+                      - paragraph [ref=f3e2071]: Kargo Bedava
+                    - generic [ref=f3e2072]:
+                      - paragraph [ref=f3e2074]: JOYSIDEA AYAKLI VANTİLATÖR KUMANDALI 90 DERECE SALINIMLI 16 İNÇ 8 KADEME HIZ AYARLI FN-99
+                      - generic [ref=f3e2078]:
+                        - generic [ref=f3e2079]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2081]: 4,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2083]: 11,7B kişi favoriledi!
+                        - generic [ref=f3e2085]: 24 saatte 1,6B kişi inceledi!
+                        - generic [ref=f3e2087]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2089]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2092]:
+                        - generic [ref=f3e2093]: "3.3"
+                        - generic [ref=f3e2094]: (342)
+                      - generic [ref=f3e2110]:
+                        - generic [ref=f3e2111]: 100 TL'ye %10 İndirim
+                        - generic [ref=f3e2119]:
+                          - generic [ref=f3e2120]:
+                            - generic [ref=f3e2121]: Sepette
+                            - generic [ref=f3e2122]: 927 TL
+                          - generic [ref=f3e2124]: 1.030 TL
+              - listitem [ref=f3e2126]:
+                - link [ref=f3e2127] [cursor=pointer]:
+                  - /url: /apple/usb-c-to-lightning-kablo-1m-muq93zm-a-p-817323674?boutiqueId=689770
+                  - generic [ref=f3e2128]:
+                    - button [ref=f3e2132]
+                    - generic [ref=f3e2135]:
+                      - paragraph [ref=f3e2137]: Apple (USB-C) To Lightning Kablo - 1M MUQ93ZM/A
+                      - generic [ref=f3e2141]:
+                        - generic [ref=f3e2142]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2144]: 1,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2146]: 66,1B kişi favoriledi!
+                        - generic [ref=f3e2148]: 24 saatte 1,1B kişi inceledi!
+                        - generic [ref=f3e2150]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2152]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2155]:
+                        - generic [ref=f3e2156]: "4.6"
+                        - generic [ref=f3e2157]: (2473)
+                      - generic [ref=f3e2173]:
+                        - generic [ref=f3e2174]: Son 30 Günün En Düşük Fiyatı
+                        - generic [ref=f3e2184]:
+                          - generic [ref=f3e2185]: 829 TL
+                          - generic [ref=f3e2186]: 838,14 TL
+              - listitem [ref=f3e2187]:
+                - link [ref=f3e2188] [cursor=pointer]:
+                  - /url: /genel-markalar/xiaomi-type-c-android-uyumlu-hizli-sarj-kablosu-66w-6a-redmi-k30-40-pro-mi-9-10-11-prouyumlu-p-977138490?boutiqueId=61
+                  - generic [ref=f3e2189]:
+                    - button [ref=f3e2193]
+                    - generic [ref=f3e2196]:
+                      - paragraph [ref=f3e2198]: Genel Markalar Xıaomi Type-c Android Uyumlu Hızlı Şarj Kablosu 66w 6a Redmi K30-40 Pro Mi 9-10-11 Prouyumlu
+                      - generic [ref=f3e2202]:
+                        - generic [ref=f3e2203]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2205]: 629 kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2207]: 1,7B kişi favoriledi!
+                        - generic [ref=f3e2209]: 24 saatte 337 kişi inceledi!
+                        - generic [ref=f3e2211]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2213]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2216]:
+                        - generic [ref=f3e2217]: "3.6"
+                        - generic [ref=f3e2218]: (314)
+                      - generic [ref=f3e2234]: 33,31 TL
+              - listitem [ref=f3e2240]:
+                - link [ref=f3e2241] [cursor=pointer]:
+                  - /url: /favors/dots-e6s-bluetooth-kulaklik-hd-ses-extra-bass-yuksek-mikrofon-kalitesi-p-143889066?boutiqueId=61
+                  - generic [ref=f3e2242]:
+                    - generic [ref=f3e2245]:
+                      - button [ref=f3e2246]
+                      - paragraph [ref=f3e2252]: Kargo Bedava
+                    - generic [ref=f3e2253]:
+                      - paragraph [ref=f3e2255]: Favors Dots E6s Bluetooth Kulaklık Hd Ses Extra Bass Yüksek Mikrofon Kalitesi
+                      - generic [ref=f3e2259]:
+                        - generic [ref=f3e2260]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2262]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2264]: 75B kişi favoriledi!
+                        - generic [ref=f3e2266]: 24 saatte 1,3B kişi inceledi!
+                        - generic [ref=f3e2268]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2270]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2273]:
+                        - generic [ref=f3e2274]: "3.7"
+                        - generic [ref=f3e2275]: (8326)
+                      - generic [ref=f3e2291]:
+                        - generic [ref=f3e2295]:
+                          - generic [ref=f3e2296]: 300 TL'ye %5 İndirim
+                          - generic [ref=f3e2299]: Kupon Fırsatı
+                          - generic [ref=f3e2303]: 300 TL'ye %5 İndirim
+                        - generic [ref=f3e2307]:
+                          - generic [ref=f3e2308]:
+                            - generic [ref=f3e2309]: Sepette
+                            - generic [ref=f3e2310]: 369,45 TL
+                          - generic [ref=f3e2312]: 388,90 TL
+              - listitem [ref=f3e2314]:
+                - link [ref=f3e2315] [cursor=pointer]:
+                  - /url: /sorizo/bluetooth-kulaklik-kilif-hediyeli-yeni-nesil-ios-android-uyumlu-a-kalite-hd-stero-ses-kalitesi-p-773036971?boutiqueId=61
+                  - generic [ref=f3e2316]:
+                    - generic [ref=f3e2319]:
+                      - button [ref=f3e2320]
+                      - paragraph [ref=f3e2326]: Kargo Bedava
+                    - generic [ref=f3e2327]:
+                      - paragraph [ref=f3e2329]: Sorizo Bluetooth Kulaklık Kılıf Hediyeli Yeni Nesil Ios Android Uyumlu A Kalite Hd Stero Ses Kalitesi
+                      - generic [ref=f3e2333]:
+                        - generic [ref=f3e2334]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2336]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2338]: 43,9B kişi favoriledi!
+                        - generic [ref=f3e2340]: 24 saatte 1,2B kişi inceledi!
+                        - generic [ref=f3e2342]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2344]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2347]:
+                        - generic [ref=f3e2348]: "3.5"
+                        - generic [ref=f3e2349]: (3478)
+                      - generic [ref=f3e2366]:
+                        - generic [ref=f3e2367]: Trendyol Plus'a Özel
+                        - generic [ref=f3e2371]:
+                          - generic [ref=f3e2372]:
+                            - generic [ref=f3e2373]: Sepette
+                            - generic [ref=f3e2374]: 331,89 TL
+                          - generic [ref=f3e2375]: 358,80 TL
+              - listitem [ref=f3e2377]:
+                - link [ref=f3e2378] [cursor=pointer]:
+                  - /url: /maxron/32-gb-hafiza-karti-sd-kart-adaptoru-100-mb-s-p-958441741?boutiqueId=61
+                  - generic [ref=f3e2379]:
+                    - generic [ref=f3e2382]:
+                      - button [ref=f3e2383]
+                      - paragraph [ref=f3e2389]: Kargo Bedava
+                    - generic [ref=f3e2390]:
+                      - paragraph [ref=f3e2392]: Maxron 32 GB Hafıza Kartı SD Kart Adaptörü 100 Mb/s
+                      - generic [ref=f3e2396]:
+                        - generic [ref=f3e2397]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2399]: 675 kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2401]: 13,5B kişi favoriledi!
+                        - generic [ref=f3e2403]: 24 saatte 638 kişi inceledi!
+                        - generic [ref=f3e2405]: busemsimsek öneriyor!
+                        - generic [ref=f3e2407]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2409]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2412]:
+                        - generic [ref=f3e2413]: "4.5"
+                        - generic [ref=f3e2414]: (570)
+                      - generic [ref=f3e2430]: 476,23 TL
+              - listitem [ref=f3e2436]:
+                - link [ref=f3e2437] [cursor=pointer]:
+                  - /url: /philips/3000-serisi-7in1-erkek-bakim-seti-yuz-sac-vucut-tiras-makinesi-islak-kuru-kullanim-mg3920-15-p-967670531?boutiqueId=61
+                  - generic [ref=f3e2438]:
+                    - generic [ref=f3e2441]:
+                      - button [ref=f3e2442]
+                      - paragraph [ref=f3e2448]: Kargo Bedava
+                    - generic [ref=f3e2449]:
+                      - paragraph [ref=f3e2451]: Philips 3000 Serisi 7in1, Erkek Bakım Seti, Yüz/Saç/Vücut Tıraş Makinesi, Islak /Kuru Kullanım, MG3920/15
+                      - generic [ref=f3e2455]:
+                        - generic [ref=f3e2456]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2458]: 2,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2460]: 42,3B kişi favoriledi!
+                        - generic [ref=f3e2462]: 24 saatte 2,3B kişi inceledi!
+                        - generic [ref=f3e2464]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2466]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2469]:
+                        - generic [ref=f3e2470]: "4.4"
+                        - generic [ref=f3e2471]: (903)
+                      - generic [ref=f3e2487]:
+                        - generic [ref=f3e2488]: Sepette 30 TL İndirim
+                        - generic [ref=f3e2496]:
+                          - generic [ref=f3e2497]:
+                            - generic [ref=f3e2498]: Sepette
+                            - generic [ref=f3e2499]: 1.395 TL
+                          - generic [ref=f3e2501]: 1.425 TL
+              - listitem [ref=f3e2503]:
+                - link [ref=f3e2504] [cursor=pointer]:
+                  - /url: /kiwi/ksb-2214-standli-sporcu-blender-kisisel-smoothie-blender-500-ml-bardakli-p-852309008?boutiqueId=61
+                  - generic [ref=f3e2505]:
+                    - generic [ref=f3e2508]:
+                      - button [ref=f3e2509]
+                      - paragraph [ref=f3e2515]: Kargo Bedava
+                    - generic [ref=f3e2516]:
+                      - paragraph [ref=f3e2518]: Kiwi Ksb-2214 Standlı Sporcu Blender - Kişisel Smoothie Blender 500 ml Bardaklı
+                      - generic [ref=f3e2522]:
+                        - generic [ref=f3e2523]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2525]: 1,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2527]: 155,1B kişi favoriledi!
+                        - generic [ref=f3e2529]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=f3e2531]: emelsad öneriyor!
+                        - generic [ref=f3e2533]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2535]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2538]:
+                        - generic [ref=f3e2539]: "4.3"
+                        - generic [ref=f3e2540]: (3288)
+                      - generic [ref=f3e2556]:
+                        - generic [ref=f3e2557]: Sepette 30 TL İndirim
+                        - generic [ref=f3e2565]:
+                          - generic [ref=f3e2566]:
+                            - generic [ref=f3e2567]: Sepette
+                            - generic [ref=f3e2568]: 969 TL
+                          - generic [ref=f3e2570]: 999 TL
+              - listitem [ref=f3e2572]:
+                - link [ref=f3e2573] [cursor=pointer]:
+                  - /url: /kvk-privacy/iphone-13-14-15-kirmizi-kalpli-kilif-tasli-kamera-cerceveli-estetik-sik-tasarim-koruyucu-p-1121361668?boutiqueId=61
+                  - generic [ref=f3e2574]:
+                    - button [ref=f3e2578]
+                    - generic [ref=f3e2581]:
+                      - paragraph [ref=f3e2583]: KVK PRİVACY iPhone 13 / 14 / 15 Kırmızı Kalpli Kılıf Taşlı Kamera Çerçeveli Estetik Şık Tasarım Koruyucu
+                      - generic [ref=f3e2587]:
+                        - generic [ref=f3e2588]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2590]: 1,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2592]: 25,8B kişi favoriledi!
+                        - generic [ref=f3e2594]: 24 saatte 2B kişi inceledi!
+                        - generic [ref=f3e2596]: yaseminyigit öneriyor!
+                        - generic [ref=f3e2598]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2600]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2603]:
+                        - generic [ref=f3e2604]: "4.7"
+                        - generic [ref=f3e2605]: (236)
+                      - generic [ref=f3e2621]:
+                        - generic [ref=f3e2622]: 5 Al 4 Öde
+                        - generic [ref=f3e2630]: 106,98 TL
+              - listitem [ref=f3e2634]:
+                - link [ref=f3e2635] [cursor=pointer]:
+                  - /url: /roborock/s8-pro-akilli-robot-supurge-p-930469542?boutiqueId=61
+                  - generic [ref=f3e2636]:
+                    - generic [ref=f3e2639]:
+                      - button [ref=f3e2640]
+                      - paragraph [ref=f3e2646]: Kargo Bedava
+                    - generic [ref=f3e2647]:
+                      - paragraph [ref=f3e2649]: Roborock S8 Pro Akıllı Robot Süpürge
+                      - generic [ref=f3e2653]:
+                        - generic [ref=f3e2654]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=f3e2656]: 3,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=f3e2658]: 155,6B kişi favoriledi!
+                        - generic [ref=f3e2660]: 24 saatte 3,9B kişi inceledi!
+                        - generic [ref=f3e2662]: mervetopak öneriyor!
+                        - generic [ref=f3e2664]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=f3e2666]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=f3e2669]:
+                        - generic [ref=f3e2670]: "4.3"
+                        - generic [ref=f3e2671]: (2600)
+                      - generic [ref=f3e2687]:
+                        - generic [ref=f3e2688]: Çok Al Az Öde
+                        - generic [ref=f3e2696]: 14.589 TL
+              - listitem [ref=f3e2700]:
+                - link [ref=f3e2701] [cursor=pointer]:
+                  - /url: /sr?tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu&wc=104024&sst=BEST_SELLER
+                  - generic [ref=f3e2702]: Tümünü gör
+        - link "banner-boutique" [ref=f3e2706] [cursor=pointer]:
+          - /url: /sr?wc=104086&os=1&sk=1&sst=SCORE
+          - img "pim_bu_53" [ref=f3e2708]
+        - link "banner-boutique" [ref=f3e2711] [cursor=pointer]:
+          - /url: /sr?tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lc=106084&qt=laptop&st=laptop&os=1&q=laptop
+          - img "pim_bu_53" [ref=f3e2713]
+        - link "banner-boutique" [ref=f3e2716] [cursor=pointer]:
+          - /url: /sr?wc=104080&os=1&sk=1&sst=SCORE
+          - img "pim_bu_53" [ref=f3e2718]
+        - link "banner-boutique" [ref=f3e2721] [cursor=pointer]:
+          - /url: /sr?wc=145465%2C145478&lpd=10&os=1&sst=BEST_SELLER
+          - img "pim_bu_53" [ref=f3e2723]
+        - link "banner-boutique" [ref=f3e2726] [cursor=pointer]:
+          - /url: /sr?wb=102323&tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lc=103108%2C103665%2C106084%2C109735%2C103670&qt=lenovo&st=lenovo&os=1
+          - img "pim_bu_53" [ref=f3e2728]
+        - link "banner-boutique" [ref=f3e2731] [cursor=pointer]:
+          - /url: /sr?wb=101606&tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lc=103108%2C106084%2C103668%2C106087%2C108443%2C108540%2C109735%2C148184%2C103670%2C108545%2C103784&qt=asus&st=asus&os=1
+          - img "pim_bu_53" [ref=f3e2733]
+        - link "banner-boutique" [ref=f3e2736] [cursor=pointer]:
+          - /url: /sr?mid=253958&os=1
+          - img "pim_bu_52" [ref=f3e2738]
+        - link "banner-boutique" [ref=f3e2741] [cursor=pointer]:
+          - /url: /sr?wb=577&wc=103109&os=1
+          - img "pim_bu_53" [ref=f3e2743]
+        - link "banner-boutique" [ref=f3e2746] [cursor=pointer]:
+          - /url: /sr?wc=1104%2C103109&wb=103009&os=1&sk=1&prc=1000-*
+          - img "pim_bu_53" [ref=f3e2748]
+        - link "banner-boutique" [ref=f3e2751] [cursor=pointer]:
+          - /url: /sr?wb=786&wc=104156,103613,104078,1104,103109&sst=MOST_FAVOURITE&os=1
+          - img "pim_bu_53" [ref=f3e2753]
+        - link "banner-boutique" [ref=f3e2756] [cursor=pointer]:
+          - /url: /sr?wc=103109&tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lc=1160%2C1163%2C1161&os=1
+          - img "pim_bu_53" [ref=f3e2758]
+        - link "banner-boutique" [ref=f3e2761] [cursor=pointer]:
+          - /url: /sr?wb=142840&os=1&sk=1&wc=1104&wc=103109
+          - img "pim_bu_53" [ref=f3e2763]
+        - link "banner-boutique" [ref=f3e2766] [cursor=pointer]:
+          - /url: /sr?wc=1104,103109%2C150289&wb=108839&os=1&sk=1&sst=MOST_FAVOURITE
+          - img "pim_bu_53" [ref=f3e2768]
+        - link "banner-boutique" [ref=f3e2771] [cursor=pointer]:
+          - /url: /sr?wc=1104%2C103109%2C150289&wb=326&os=1&sst=BEST_SELLER
+          - img "pim_bu_53" [ref=f3e2773]
+      - text: 
+    - generic [ref=f3e2779]:
+      - heading "Hayatınızı Kolaylaştıran Kaliteli & Eğlenceli Elektronik Ürünler Trendyol’da!" [level=2] [ref=f3e2781]
+      - generic [ref=f3e2784]:
+        - heading "Hayatınızı Kolaylaştıran Elektronik Ürünler Trendyol’da!" [level=3] [ref=f3e2785]
+        - paragraph [ref=f3e2786]: Yaşamın her alanında elektronik eşyalara ihtiyaç duyulur. Evdeki zamanı verimli geçirmenizi sağlayan küçük ev aletleri pek çok kolaylığı bir arada sunar. Bu cihazlar temizlik ve yemek sırasında bize yardımcı olur. Süpürge modelleri gelişen teknolojiyle birlikte değişir ve yenilenir. Son zamanlarda kullanımı artan dikey tasarımlar yüzeysel temizlik için ideal bir seçim olarak değerlendirilir. Elektrikli ve şarjlı modelleri bulunur. Bazı modellere paspas özelliği de eklenir. Müşterilere kolaylık sağlayan robot süpürge ürün çeşitleri arasındaki yerini alır. Telefon ile entegre ederek robotu çalıştırabiliriz. Paspas özelliği bulunan tasarımlar, süpürme işleminden sonra silme işlemi de yapar. Ürün şarjı bittikten sonra yuvasına geri döner. Tek yapmamız gereken düğmesine basıp cihazı çalıştırmaktır. Ütü modellerini de mevcut ürünler arasında bulabiliriz. Yaşamı pratik hale getiren bu cihazların kullanım konforundan yararlanabiliriz.
+        - heading "Yaşamı Pratik Hale Getiren Ev Eşyaları" [level=3] [ref=f3e2787]
+        - paragraph [ref=f3e2788]:
+          - text: Ev dışında ofiste de sıklıkla tüketilen kahvelerin yapımı uzun sürer. Kahve yapımını kolay ve pratik hale getiren kahve makinesi modelleri farklı fonksiyonlara sahiptir.
+          - link "Filtre kahve makinesi" [ref=f3e2789] [cursor=pointer]:
+            - /url: https://www.trendyol.com/filtre-kahve-makinesi-x-c109019
+          - text: özel demleme sistemi sayesinde lezzetli bir için deneyimi sunar. Kahve özünün ortaya çıkmasını sağlar. Çay makinesi ise çay tiryakileri tarafından tercih edilir. Akıllı modellerde sıcak tutma süresini ve sıcaklığını siz belirleyebilirsiniz. Kahvaltı sofralarının vazgeçilmezi tost makinesi ile damak tadınıza uygun tostlar yapabilirsiniz. Döküm ve granit tasarımlar renkleri ve özellikleriyle dikkat çeker. Mutfakta eğlenceli vakit geçirebileceğiniz waffle makinesi ile gün içinde misafirleriniz için lezzetli ürünler hazırlayabilirsiniz. Kek, pasta, kurabiye, çorba kısacası tüm yemekler için kullanılan blender setleri de mutfakta vazgeçilmezdir. Yemek yaparken ihtiyaç duyulan tartı modellerini de inceleyebilirsiniz. Tüm bu cihazlara kısa sürede ulaşabilirsiniz.
+        - heading "Dikkat Çekici Akıllı Cihazlar" [level=3] [ref=f3e2790]
+        - paragraph [ref=f3e2791]:
+          - text: Akıllı cihazlarda giyilebilir teknoloji dikkat çeker. Bu ürün çeşitleri arasında akıllı saat, bileklik ve sanal gerçeklik gözlükleri öne çıkar. Müşterilerin beğenisini kazanan tasarımlar değişik bütçelere hitap eder. Cihazlar zaman kontrolü dışında adım sayar, nabız ölçer, sms ve çağrı bildirimi, alarm gibi özelliklere sahiptir. Telefon modelleri teknolojinin değişmesi ile eğlence aracına da dönüşür.
+          - link "iPhone 13 Pro" [ref=f3e2792] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-13-pro-cep-telefonu-x-c103498-a292-v613190
+          - text: cep telefonu denilince akla ilk gelenlerden biridir. Gelişmiş teknik donanımı sayesinde kullanım zevkini bir üst seviye taşır.
+          - link "iPhone 12 Pro" [ref=f3e2793] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-12-pro-cep-telefonu-x-c103498-a292-v165571
+          - text: piyasanın rağbet gören bir diğer modelidir. Akıllı cihazın özelliklerine göre ödenmesi gereken ücret değişiklik gösterir.
+          - link "iPhone 15 Pro" [ref=f3e2794] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-15-pro-cep-telefonu-x-c103498-a292-v1218520
+          - text: ise hem donanımı hem de fiyatıyla dikkat çeker. Satın alınan akıllı telefonu darbelere karşı muhafaza etmek için kapak & kılıf kullanımı önemlidir. Bu tarz ürünler sayesinde cihaz, dış etkenlere karşı koruma altına alınır. Şarj cihazları telefon kullanımı için gerekli olan ekipmanlardan biridir. Powerbank hızlı şarj özelliği ile müşterilere kolaylık sağlar. Elektronik aksesuarlar arasında kaliteli ve kullanışlı olanları tercih etmek gerekir. Bilgisayar aksesuarları arasında klavye, ekran koruyucu, yedek parça, anakart, bilgisayar kasası, tablet standı, güç kablosu gibi ürünler bulunur. Telefon aksesuar başlığı altında da kılıf, selfie çubuğu gibi parçaları yer alır. TV aksesuarlarında görüntü aktarıcı, Wi-Fi, çanak anten modellerini bulabilirsiniz. Veri depolama cihazlarına da kolaylıkla ulaşabilirsiniz. Özel anını çekmek isteyenler için de foto & kamera setleri üretilir. Fotoğraf makinesi ile profesyonel çekimler yapabilirsiniz. Dijital kod & ürünleri de Trendyol’dan uygun fiyata bulabilirsiniz.
+        - heading "Zamansız Bilgisayar ve Tablet Modelleri" [level=3] [ref=f3e2795]
+        - paragraph [ref=f3e2796]:
+          - text: İş ve okul hayatında laptop kullanımı son derece önemlidir. Farklı amaçlara hizmet eden ürünler yaşamı pratik hale getirir. Tablet çeşitleri modeline, rengine, markasına ve özelliklerine göre değişiklik gösterir. Bilgisayar bileşenleri cihazları donanımlı hale getirir. Oyuncu bilgisayarı profesyonel kullanım için önemli işlevsel özelliklere sahiptir. Oyuncu donanımları ile oyunlarda hissedilen performansı artırır. Bu donanımlar sayesinde PlayStation oyunlarını zevkle oynayabilirsiniz. Konsol aksesuarları profesyonel kullanımı desteklemek amacıyla üretilir. Xbox parçalarını tercih edebilirsiniz. Nintendo eğlenceli ve zevkli vakit geçirmenizi sağlar. Monitör ihtiyacınız varsa fiyatına göre değişen ekran boyutları arasından seçim yapabilirsiniz. Oyuncu monitörleri de ayrı kategoride satışa sunulur. Yazıcı & tarayıcı çeşitleri okul ve ofis ortamlarında iş yükünü büyük oranda azaltır. Çevre birimlerinde bulunan mouse, akü, mouse seti, klavye çeşitleri vardır. Yüksek ses kalitesine sahip hoparlör modelleri Bluetooth ve taşınabilir özellikleriyle öne çıkar. Kulaklık çeşitleri de kablolu ve kablosuz alternatiflere sahiptir.
+          - link "AirPods Pro" [ref=f3e2797] [cursor=pointer]:
+            - /url: https://www.trendyol.com/apple-bluetooth-kulaklik-x-b101470-c108626
+          - text: teknolojik donanımıyla dikkat çeker. Gelişmiş özellikleriyle üst düzey bir dinleme performansı sunar. TV & görüntü & ses cihazları da seyir ve dinleme zevkini destekleyen ürünlerdir. Projeksiyon cihazı evde sinema ve dizi keyfi yapmak isteyenler için ideal bir seçim olarak görülür. Ağ & modem çeşitleri ile kesintisiz internetin keyfini yaşamak mümkündür. Televizyon ihtiyacını markaların uygun fiyatlı ürünleriyle karşılayabilirsiniz. Media Player ile dizi ve film keyfi bir üst seviyeye çıkarılır. Yüksek kaliteli sesler için soundbar ürünlerini tercih edebilirsiniz.
+        - heading "Kişisel Bakımda ve Beyaz Eşyada Öne Çıkan Modeller" [level=3] [ref=f3e2798]
+        - paragraph [ref=f3e2799]: Kişisel bakım aletleri günlük hayatın içerisinde ihtiyaç duyulan ürünlerdir. Kadınlar için saç düzleştirici seçenekleri öne çıkar. Bu ürünler sayesinde hazırlık için harcanan zaman kısalır. Saç maşası ile istenilen kalınlıkta bukleler yapmak mümkündür. Farklı model seçenekleri mevcuttur. Saç kurutma makinesi ise şekillendirme hem de kurutma amacıyla kullanılır. Erkekler de saç ve sakal bakımında tıraş makinesi cihazlarını tercih ederler. Epilasyon aleti ile pürüzsüz vücut görünümü elde edebilirsiniz. Beyaz eşya kategorisinde yer alan parçalar ise ev hayatını kolaylaştırır. Markaların ürün çeşitleri arasında buzdolabı modelleri dikkat çeker. Çamaşır makinesi sahip olduğu enerji sınıfı ve kg fiyatlandırmada etkilidir. Bulaşık makinesi modellerinde beyaz renk yoğun kullanılır. Isı dereceleri farklı programlar güvenli ve hızlı kullanım sağlar. Ankastre setler de yine öncelikli tercihler arasında yer alırlar. Kış hazırlıklarınız için derin dondurucu kullanabilirsiniz. Yazın sıcaktan bunalanlar için de klima seçenekleri dizayn edilir. Kombi modelleri ise sıcak su ve ısınma ihtiyacınızı karşılar. Siz de teknolojik donanımları ile hayatınızı kolaylaştıran ürünleri Trendyol’dan satın alabilirsiniz.
+        - heading "En Yeni Ürünlerle İlginizi Çekebilecek Kategoriler" [level=3] [ref=f3e2800]
+        - paragraph [ref=f3e2801]:
+          - link "Klavye" [ref=f3e2802] [cursor=pointer]:
+            - /url: https://www.trendyol.com/klavye-x-c103671
+          - text: "|"
+          - link "Ekran Kartı" [ref=f3e2803] [cursor=pointer]:
+            - /url: https://www.trendyol.com/ekran-karti-x-c108443
+          - text: "|"
+          - link "Drone" [ref=f3e2804] [cursor=pointer]:
+            - /url: https://www.trendyol.com/drone-x-108931
+          - text: "|"
+          - link "Masaüstü Bilgisayar" [ref=f3e2805] [cursor=pointer]:
+            - /url: https://www.trendyol.com/masaustu-bilgisayar-x-c103670
+          - text: "|"
+          - link "Mouse" [ref=f3e2806] [cursor=pointer]:
+            - /url: https://www.trendyol.com/mouse-x-c108664
+          - text: "|"
+          - link "Trendyol Arabic" [ref=f3e2807] [cursor=pointer]:
+            - /url: https://www.trendyol.com/ar
+          - text: "|"
+          - link "Trendyol English" [ref=f3e2808] [cursor=pointer]:
+            - /url: https://www.trendyol.com/en
+          - text: "|"
+          - link "Trendyol Czech" [ref=f3e2809] [cursor=pointer]:
+            - /url: https://www.trendyol.com/cs
+          - text: "|"
+          - link "Trendyol Romanian" [ref=f3e2810] [cursor=pointer]:
+            - /url: https://www.trendyol.com/ro
+          - text: "|"
+          - link "Trendyol Slovak" [ref=f3e2811] [cursor=pointer]:
+            - /url: https://www.trendyol.com/sk
+          - text: "|"
+          - link "Trendyol Deutsch" [ref=f3e2812] [cursor=pointer]:
+            - /url: https://www.trendyol.com/de
+          - text: "|"
+          - link "Trendyol Hungarian" [ref=f3e2813] [cursor=pointer]:
+            - /url: https://www.trendyol.com/hu
+          - text: "|"
+          - link "Trendyol Greek" [ref=f3e2814] [cursor=pointer]:
+            - /url: https://www.trendyol.com/el
+  - contentinfo [ref=f3e2815]:
+    - img "Group 2" [ref=f3e2817]
+    - generic [ref=f3e2822]:
+      - generic [ref=f3e2824]:
+        - generic [ref=f3e2825]:
+          - generic [ref=f3e2826]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f3e2831] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f3e2833] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f3e2835] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f3e2837] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f3e2839] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f3e2840]:
+          - generic [ref=f3e2841]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f3e2846] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f3e2848] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f3e2850] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f3e2851]:
+          - link "Satıcı" [ref=f3e2854] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f3e2858] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f3e2860] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f3e2862] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f3e2863]:
+          - generic [ref=f3e2864]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f3e2869] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f3e2871] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f3e2873] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f3e2875] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f3e2876]:
+          - generic [ref=f3e2877]:
+            - link "Ülke Değiştir" [ref=f3e2880] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f3e2881] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f3e2882]
+              - generic [ref=f3e2883]: Ülke Seç
+          - generic [ref=f3e2884]: Güvenli Alışveriş
+          - generic [ref=f3e2888]:
+            - generic [ref=f3e2889]: Güvenlik Sertifikası
+            - generic [ref=f3e2891]:
+              - link [ref=f3e2892] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f3e2894]
+              - link [ref=f3e2895] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f3e2897]
+              - img "PCI DSS" [ref=f3e2899]
+              - img "information security standard" [ref=f3e2901]
+      - generic [ref=f3e2904]:
+        - generic [ref=f3e2905]:
+          - generic [ref=f3e2906]:
+            - link "instagram-icon" [ref=f3e2907] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f3e2908]
+            - link "tiktok-icon" [ref=f3e2909] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f3e2910]
+            - link "youtube-icon" [ref=f3e2911] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f3e2912]
+            - link "facebook-icon" [ref=f3e2913] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f3e2914]
+            - link "x-icon" [ref=f3e2915] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f3e2916]
+          - generic [ref=f3e2917]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f3e2918]:
+          - generic [ref=f3e2919]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f3e2920]:
+            - link "Çerez Tercihleri" [ref=f3e2921] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f3e2922] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f3e2923] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f3e2924] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."

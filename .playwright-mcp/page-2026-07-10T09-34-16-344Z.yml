@@ -1,0 +1,839 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e6]:
+      - generic [ref=f4e7] [cursor=pointer]:
+        - button "Menu" [ref=f4e8]
+        - link "Trendyol" [ref=f4e10]:
+          - /url: /
+      - button "Search icon beyaz elbise" [ref=f4e14]:
+        - img "Search icon" [ref=f4e15]
+        - generic [ref=f4e16]: beyaz elbise
+      - generic [ref=f4e17]:
+        - link "Giriş Yap" [ref=f4e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fq%3Dbeyaz%2520elbise%26qt%3Dbeyaz%2520elbise%26st%3Dbeyaz%2520elbise%26os%3D1
+        - link "Favorilerim" [ref=f4e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f4e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f4e30]:
+    - generic [ref=f4e36]:
+      - generic [ref=f4e38]:
+        - heading "Beyaz Elbise" [level=1] [ref=f4e39]
+        - generic [ref=f4e40]: 89201+ Ürün
+      - button [ref=f4e50] [cursor=pointer]:
+        - img "sıralama" [ref=f4e51]
+      - generic [ref=f4e54]:
+        - link "Edela Boyundan Askılı Mini Elbise 5022 Favorilere Ekle Hızlı Teslimat Edela Boyundan Askılı Mini Elbise 5022 95% Polyester, 5% Elastan 4.0 (612) Değerlendirme fotoğrafları mevcut Kargo Bedava 521,22 TL" [ref=f4e55] [cursor=pointer]:
+          - /url: /edela/boyundan-askili-mini-elbise-5022-p-929348934?boutiqueId=61&merchantId=1110546
+          - generic [ref=f4e56]:
+            - img "Edela Boyundan Askılı Mini Elbise 5022" [ref=f4e58]
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e62]
+              - generic: Hızlı Teslimat
+          - generic [ref=f4e64]:
+            - heading "Edela Boyundan Askılı Mini Elbise 5022" [level=2] [ref=f4e65]:
+              - generic [ref=f4e66]:
+                - text: Edela
+                - generic [ref=f4e67]: Boyundan Askılı Mini Elbise 5022
+            - generic [ref=f4e68]: 95% Polyester, 5% Elastan
+            - generic [ref=f4e72]:
+              - generic [ref=f4e73]: "4.0"
+              - generic [ref=f4e95]: (612)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e96]
+            - generic [ref=f4e97]:
+              - generic [ref=f4e98]: Kargo Bedava
+              - generic [ref=f4e105]: 521,22 TL
+        - link "ESRAHELVACI Beyaz Fistolu Fırfır Detay Elbise Favorilere Ekle Hızlı Teslimat ESRAHELVACIResmi satıcı rozeti Beyaz Fistolu Fırfır Detay Elbise 95% Pamuk, 5% Polyester 4.1 (279) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %10 İndirim Kargo Bedava Sepet ikonu Sepette %10 İndirim Sepette 2.727 TL 3.030 TL Trendyol Plus ile 2.590,65 TL" [ref=f4e107] [cursor=pointer]:
+          - /url: /esrahelvaci/beyaz-fistolu-firfir-detay-elbise-p-826248221?boutiqueId=61&merchantId=267844
+          - generic [ref=f4e108]:
+            - img "ESRAHELVACI Beyaz Fistolu Fırfır Detay Elbise" [ref=f4e110]
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e116]
+              - generic: Hızlı Teslimat
+          - generic [ref=f4e118]:
+            - heading "ESRAHELVACIResmi satıcı rozeti Beyaz Fistolu Fırfır Detay Elbise" [level=2] [ref=f4e119]:
+              - generic [ref=f4e120]:
+                - generic [ref=f4e121]:
+                  - text: ESRAHELVACI
+                  - img "Resmi satıcı rozeti" [ref=f4e122]
+                - generic [ref=f4e123]: Beyaz Fistolu Fırfır Detay Elbise
+            - generic [ref=f4e124]: 95% Pamuk, 5% Polyester
+            - generic [ref=f4e128]:
+              - generic [ref=f4e129]: "4.1"
+              - generic [ref=f4e151]: (279)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e152]
+            - generic [ref=f4e153]:
+              - generic [ref=f4e155]:
+                - generic [ref=f4e157]:
+                  - img "Sepet ikonu" [ref=f4e158]
+                  - generic [ref=f4e159]: Sepette %10 İndirim
+                - generic [ref=f4e160]: Kargo Bedava
+                - generic [ref=f4e166]:
+                  - img "Sepet ikonu" [ref=f4e167]
+                  - generic [ref=f4e168]: Sepette %10 İndirim
+              - generic [ref=f4e170]:
+                - generic [ref=f4e171]: Sepette
+                - generic [ref=f4e172]: 2.727 TL
+                - generic [ref=f4e173]: 3.030 TL
+              - generic [ref=f4e175]:
+                - generic [ref=f4e176]: Trendyol Plus ile
+                - generic [ref=f4e177]: 2.590,65 TL
+        - link "Ritnice Kadın Blair Fisto işlemeli Astarlı Kısa Kollu Uzun Dokuma Beyaz Elbise Favorilere Ekle Birlikte Al Kazan RitniceResmi satıcı rozeti Kadın Blair Fisto işlemeli Astarlı Kısa Kollu Uzun Dokuma Beyaz Elbise Dokuma 3.9 (33) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %10 İndirim Kargo Bedava Sepet ikonu Sepette %10 İndirim Sepette 1.186,98 TL 1.318,87 TL Trendyol Plus ile 932,03 TL" [ref=f4e178] [cursor=pointer]:
+          - /url: /ritnice/kadin-blair-fisto-islemeli-astarli-kisa-kollu-uzun-dokuma-beyaz-elbise-p-1144374953?boutiqueId=61&merchantId=195439
+          - generic [ref=f4e179]:
+            - img "Ritnice Kadın Blair Fisto işlemeli Astarlı Kısa Kollu Uzun Dokuma Beyaz Elbise" [ref=f4e181]
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e187]
+              - generic: Birlikte Al Kazan
+          - generic [ref=f4e189]:
+            - heading "RitniceResmi satıcı rozeti Kadın Blair Fisto işlemeli Astarlı Kısa Kollu Uzun Dokuma Beyaz Elbise" [level=2] [ref=f4e190]:
+              - generic [ref=f4e191]:
+                - generic [ref=f4e192]:
+                  - text: Ritnice
+                  - img "Resmi satıcı rozeti" [ref=f4e193]
+                - generic [ref=f4e194]: Kadın Blair Fisto işlemeli Astarlı Kısa Kollu Uzun Dokuma Beyaz Elbise
+            - generic [ref=f4e195]: Dokuma
+            - generic [ref=f4e199]:
+              - generic [ref=f4e200]: "3.9"
+              - generic [ref=f4e221]: (33)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e222]
+            - generic [ref=f4e223]:
+              - generic [ref=f4e225]:
+                - generic [ref=f4e227]:
+                  - img "Sepet ikonu" [ref=f4e228]
+                  - generic [ref=f4e229]: Sepette %10 İndirim
+                - generic [ref=f4e230]: Kargo Bedava
+                - generic [ref=f4e236]:
+                  - img "Sepet ikonu" [ref=f4e237]
+                  - generic [ref=f4e238]: Sepette %10 İndirim
+              - generic [ref=f4e240]:
+                - generic [ref=f4e241]: Sepette
+                - generic [ref=f4e242]: 1.186,98 TL
+                - generic [ref=f4e243]: 1.318,87 TL
+              - generic [ref=f4e245]:
+                - generic [ref=f4e246]: Trendyol Plus ile
+                - generic [ref=f4e247]: 932,03 TL
+        - link "VERYMODA Beyaz Halter Yaka Kloş Midi Elbise Favorilere Ekle Hızlı Teslimat VERYMODA Beyaz Halter Yaka Kloş Midi Elbise 70% Pamuk, 30% Polyester 5.0 (2) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %15 İndirim Kargo Bedava 40 TL Kupon Sepet ikonu Sepette %15 İndirim Sepette 1.274,15 TL 1.499 TL Trendyol Plus ile 1.210,44 TL" [ref=f4e248] [cursor=pointer]:
+          - /url: /verymoda/beyaz-halter-yaka-klos-midi-elbise-p-1163189536?boutiqueId=61&merchantId=853379
+          - generic [ref=f4e249]:
+            - img "VERYMODA Beyaz Halter Yaka Kloş Midi Elbise" [ref=f4e251]
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e257]
+              - generic: Hızlı Teslimat
+          - generic [ref=f4e259]:
+            - heading "VERYMODA Beyaz Halter Yaka Kloş Midi Elbise" [level=2] [ref=f4e260]:
+              - generic [ref=f4e261]:
+                - text: VERYMODA
+                - generic [ref=f4e262]: Beyaz Halter Yaka Kloş Midi Elbise
+            - generic [ref=f4e263]: 70% Pamuk, 30% Polyester
+            - generic [ref=f4e267]:
+              - generic [ref=f4e268]: "5.0"
+              - generic [ref=f4e290]: (2)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e291]
+            - generic [ref=f4e292]:
+              - generic [ref=f4e294]:
+                - generic [ref=f4e296]:
+                  - img "Sepet ikonu" [ref=f4e297]
+                  - generic [ref=f4e298]: Sepette %15 İndirim
+                - generic [ref=f4e299]: Kargo Bedava
+                - generic [ref=f4e304]: 40 TL Kupon
+                - generic [ref=f4e310]:
+                  - img "Sepet ikonu" [ref=f4e311]
+                  - generic [ref=f4e312]: Sepette %15 İndirim
+              - generic [ref=f4e314]:
+                - generic [ref=f4e315]: Sepette
+                - generic [ref=f4e316]: 1.274,15 TL
+                - generic [ref=f4e317]: 1.499 TL
+              - generic [ref=f4e319]:
+                - generic [ref=f4e320]: Trendyol Plus ile
+                - generic [ref=f4e321]: 1.210,44 TL
+        - link "MAXMOOR ROSESA KORSAJ DETAY MİDİ POPLİN BEYAZ ELBİSE Favorilere Ekle MAXMOOR ROSESA KORSAJ DETAY MİDİ POPLİN BEYAZ ELBİSE 5.0 (1) Sepet ikonu 500 TL'ye %10 İndirim Kargo Bedava 100 TL Kupon Sepet ikonu 500 TL'ye %10 İndirim Sepette 2.699,91 TL 2.999,90 TL Trendyol Plus ile 2.564,91 TL" [ref=f4e322] [cursor=pointer]:
+          - /url: /maxmoor/rosesa-korsaj-detay-midi-poplin-beyaz-elbise-p-945690549?boutiqueId=61&merchantId=1028315
+          - generic [ref=f4e323]:
+            - img "MAXMOOR ROSESA KORSAJ DETAY MİDİ POPLİN BEYAZ ELBİSE" [ref=f4e325]
+            - button "Favorilere Ekle" [ref=f4e331]
+          - generic [ref=f4e333]:
+            - heading "MAXMOOR ROSESA KORSAJ DETAY MİDİ POPLİN BEYAZ ELBİSE" [level=2] [ref=f4e334]:
+              - generic [ref=f4e335]:
+                - text: MAXMOOR
+                - generic [ref=f4e336]: ROSESA KORSAJ DETAY MİDİ POPLİN BEYAZ ELBİSE
+            - generic [ref=f4e337]:
+              - generic [ref=f4e338]: "5.0"
+              - generic [ref=f4e360]: (1)
+            - generic [ref=f4e361]:
+              - generic [ref=f4e363]:
+                - generic [ref=f4e365]:
+                  - img "Sepet ikonu" [ref=f4e366]
+                  - generic [ref=f4e367]: 500 TL'ye %10 İndirim
+                - generic [ref=f4e368]: Kargo Bedava
+                - generic [ref=f4e373]: 100 TL Kupon
+                - generic [ref=f4e379]:
+                  - img "Sepet ikonu" [ref=f4e380]
+                  - generic [ref=f4e381]: 500 TL'ye %10 İndirim
+              - generic [ref=f4e383]:
+                - generic [ref=f4e384]: Sepette
+                - generic [ref=f4e385]: 2.699,91 TL
+                - generic [ref=f4e386]: 2.999,90 TL
+              - generic [ref=f4e388]:
+                - generic [ref=f4e389]: Trendyol Plus ile
+                - generic [ref=f4e390]: 2.564,91 TL
+        - link "Afiş Butik Beyaz Balon Kol Uzun Elbise Favorilere Ekle Fenomen Seçimi Afiş Butik Beyaz Balon Kol Uzun Elbise 100% Pamuk 3.8 (518) Değerlendirme fotoğrafları mevcut Kargo Bedava 899,99 TL" [ref=f4e391] [cursor=pointer]:
+          - /url: /afis-butik/beyaz-balon-kol-uzun-elbise-p-844600780?boutiqueId=61&merchantId=651407
+          - generic [ref=f4e392]:
+            - img "Afiş Butik Beyaz Balon Kol Uzun Elbise" [ref=f4e394]
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e400]
+              - generic: Fenomen Seçimi
+          - generic [ref=f4e402]:
+            - heading "Afiş Butik Beyaz Balon Kol Uzun Elbise" [level=2] [ref=f4e403]:
+              - generic [ref=f4e404]:
+                - text: Afiş Butik
+                - generic [ref=f4e405]: Beyaz Balon Kol Uzun Elbise
+            - generic [ref=f4e406]: 100% Pamuk
+            - generic [ref=f4e410]:
+              - generic [ref=f4e411]: "3.8"
+              - generic [ref=f4e432]: (518)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e433]
+            - generic [ref=f4e434]:
+              - generic [ref=f4e435]: Kargo Bedava
+              - generic [ref=f4e442]: 899,99 TL
+        - link "Vaveyy Brode Detaylı Elbise Favorilere Ekle Vaveyy Brode Detaylı Elbise %100 Pamuk 3.0 (2) Kargo Bedava 50 TL Kupon Kargo Bedava 2.150 TL" [ref=f4e444] [cursor=pointer]:
+          - /url: /vaveyy/brode-detayli-elbise-p-1144645128?boutiqueId=61&merchantId=1040463
+          - generic [ref=f4e445]:
+            - generic:
+              - img "Vaveyy Brode Detaylı Elbise"
+            - button "Favorilere Ekle" [ref=f4e451]
+          - generic [ref=f4e453]:
+            - heading "Vaveyy Brode Detaylı Elbise" [level=2] [ref=f4e454]:
+              - generic [ref=f4e455]:
+                - text: Vaveyy
+                - generic [ref=f4e456]: Brode Detaylı Elbise
+            - generic [ref=f4e457]: "%100 Pamuk"
+            - generic [ref=f4e461]:
+              - generic [ref=f4e462]: "3.0"
+              - generic [ref=f4e482]: (2)
+            - generic [ref=f4e483]:
+              - generic [ref=f4e485]:
+                - generic [ref=f4e486]: Kargo Bedava
+                - generic [ref=f4e491]: 50 TL Kupon
+                - generic [ref=f4e496]: Kargo Bedava
+              - generic [ref=f4e501]: 2.150 TL
+        - link "Fulla Moda Dantel Detaylı Mini Elbise Favorilere Ekle FullamodaResmi satıcı rozeti Dantel Detaylı Mini Elbise 100% Polyester 4.1 (2107) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %22 İndirim Kargo Bedava Kupon Fırsatı Sepet ikonu Sepette %22 İndirim Sepette 974,99 TL 1.249,99 TL Trendyol Plus ile 877,49 TL" [ref=f4e503] [cursor=pointer]:
+          - /url: /fullamoda/dantel-detayli-mini-elbise-p-762294524?boutiqueId=61&merchantId=107516
+          - generic [ref=f4e504]:
+            - generic:
+              - img "Fulla Moda Dantel Detaylı Mini Elbise"
+            - button "Favorilere Ekle" [ref=f4e510]
+          - generic [ref=f4e512]:
+            - heading "FullamodaResmi satıcı rozeti Dantel Detaylı Mini Elbise" [level=2] [ref=f4e513]:
+              - generic [ref=f4e514]:
+                - generic [ref=f4e515]:
+                  - text: Fullamoda
+                  - img "Resmi satıcı rozeti" [ref=f4e516]
+                - generic [ref=f4e517]: Dantel Detaylı Mini Elbise
+            - generic [ref=f4e518]: 100% Polyester
+            - generic [ref=f4e522]:
+              - generic [ref=f4e523]: "4.1"
+              - generic [ref=f4e545]: (2107)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e546]
+            - generic [ref=f4e547]:
+              - generic [ref=f4e549]:
+                - generic [ref=f4e551]:
+                  - img "Sepet ikonu" [ref=f4e552]
+                  - generic [ref=f4e553]: Sepette %22 İndirim
+                - generic [ref=f4e554]: Kargo Bedava
+                - generic [ref=f4e559]: Kupon Fırsatı
+                - generic [ref=f4e565]:
+                  - img "Sepet ikonu" [ref=f4e566]
+                  - generic [ref=f4e567]: Sepette %22 İndirim
+              - generic [ref=f4e569]:
+                - generic [ref=f4e570]: Sepette
+                - generic [ref=f4e571]: 974,99 TL
+                - generic [ref=f4e572]: 1.249,99 TL
+              - generic [ref=f4e574]:
+                - generic [ref=f4e575]: Trendyol Plus ile
+                - generic [ref=f4e576]: 877,49 TL
+        - link "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Kırmızı Elbise Favorilere Ekle ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Kırmızı Elbise 80 % pamuk 4.4 (202) Değerlendirme fotoğrafları mevcut Kargo Bedava Çok Al Az Öde Kargo Bedava 752,81 TL" [ref=f4e577] [cursor=pointer]:
+          - /url: /orzuqlife/aerobin-kumas-ayarlanabilir-askili-uzun-kirmizi-elbise-p-846246947?boutiqueId=61&merchantId=635267
+          - generic [ref=f4e578]:
+            - generic:
+              - img "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Kırmızı Elbise"
+            - button "Favorilere Ekle" [ref=f4e584]
+          - generic [ref=f4e586]:
+            - heading "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Kırmızı Elbise" [level=2] [ref=f4e587]:
+              - generic [ref=f4e588]:
+                - text: ORZUQLIFE
+                - generic [ref=f4e589]: Aerobin Kumaş Ayarlanabilir Askılı Uzun Kırmızı Elbise
+            - generic [ref=f4e590]: 80 % pamuk
+            - generic [ref=f4e594]:
+              - generic [ref=f4e595]: "4.4"
+              - generic [ref=f4e617]: (202)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e618]
+            - generic [ref=f4e619]:
+              - generic [ref=f4e621]:
+                - generic [ref=f4e622]: Kargo Bedava
+                - generic [ref=f4e627]: Çok Al Az Öde
+                - generic [ref=f4e632]: Kargo Bedava
+              - generic [ref=f4e637]: 752,81 TL
+        - 'link "oshebu Sarı – Pamuklu Uzun Yazlık Kadın Elbise – Omuzdan Bağlamalı Askılı Büz... Favorilere Ekle Flaş ürün ikonu Flaş Ürün 00 : 00 : 00 oshebuResmi satıcı rozeti Sarı – Pamuklu Uzun Yazlık Kadın Elbise – Omuzdan Bağlamalı Askılı Büzgülü Astarsız 65% Pamuk, 35% Polyester 3.5 (883) Değerlendirme fotoğrafları mevcut Kargo Bedava 20 TL Kupon Çok Al Az Öde Kargo Bedava 411,99 TL" [ref=f4e639] [cursor=pointer]':
+          - /url: /oshebu/sari-pamuklu-uzun-yazlik-kadin-elbise-omuzdan-baglamali-askili-buzgulu-astarsiz-p-947081155?boutiqueId=61&merchantId=151301
+          - generic [ref=f4e640]:
+            - generic:
+              - img "oshebu Sarı – Pamuklu Uzun Yazlık Kadın Elbise – Omuzdan Bağlamalı Askılı Büz..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e646]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+          - generic [ref=f4e648]:
+            - heading "oshebuResmi satıcı rozeti Sarı – Pamuklu Uzun Yazlık Kadın Elbise – Omuzdan Bağlamalı Askılı Büzgülü Astarsız" [level=2] [ref=f4e649]:
+              - generic [ref=f4e650]:
+                - generic [ref=f4e651]:
+                  - text: oshebu
+                  - img "Resmi satıcı rozeti" [ref=f4e652]
+                - generic [ref=f4e653]: Sarı – Pamuklu Uzun Yazlık Kadın Elbise – Omuzdan Bağlamalı Askılı Büzgülü Astarsız
+            - generic [ref=f4e654]: 65% Pamuk, 35% Polyester
+            - generic [ref=f4e658]:
+              - generic [ref=f4e659]: "3.5"
+              - generic [ref=f4e680]: (883)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e681]
+            - generic [ref=f4e682]:
+              - generic [ref=f4e684]:
+                - generic [ref=f4e685]: Kargo Bedava
+                - generic [ref=f4e690]: 20 TL Kupon
+                - generic [ref=f4e695]: Çok Al Az Öde
+                - generic [ref=f4e700]: Kargo Bedava
+              - generic [ref=f4e705]: 411,99 TL
+        - link "Ritnice Kadın April Fisto işlemeli Astarlı Kolsuz Uzun Dokuma Beyaz Elbise Favorilere Ekle Fenomen Seçimi RitniceResmi satıcı rozeti Kadın April Fisto işlemeli Astarlı Kolsuz Uzun Dokuma Beyaz Elbise Dokuma 3.9 (38) Değerlendirme fotoğrafları mevcut Kargo Bedava 2. Ürün %5 Kargo Bedava 1.669 TL" [ref=f4e707] [cursor=pointer]:
+          - /url: /ritnice/kadin-april-fisto-islemeli-astarli-kolsuz-uzun-dokuma-beyaz-elbise-p-1144377558?boutiqueId=61&merchantId=195439
+          - generic [ref=f4e708]:
+            - generic:
+              - img "Ritnice Kadın April Fisto işlemeli Astarlı Kolsuz Uzun Dokuma Beyaz Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e714]
+              - generic: Fenomen Seçimi
+          - generic [ref=f4e716]:
+            - heading "RitniceResmi satıcı rozeti Kadın April Fisto işlemeli Astarlı Kolsuz Uzun Dokuma Beyaz Elbise" [level=2] [ref=f4e717]:
+              - generic [ref=f4e718]:
+                - generic [ref=f4e719]:
+                  - text: Ritnice
+                  - img "Resmi satıcı rozeti" [ref=f4e720]
+                - generic [ref=f4e721]: Kadın April Fisto işlemeli Astarlı Kolsuz Uzun Dokuma Beyaz Elbise
+            - generic [ref=f4e722]: Dokuma
+            - generic [ref=f4e726]:
+              - generic [ref=f4e727]: "3.9"
+              - generic [ref=f4e748]: (38)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e749]
+            - generic [ref=f4e750]:
+              - generic [ref=f4e752]:
+                - generic [ref=f4e753]: Kargo Bedava
+                - generic [ref=f4e758]: 2. Ürün %5
+                - generic [ref=f4e763]: Kargo Bedava
+              - generic [ref=f4e768]: 1.669 TL
+        - 'link "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Beyaz Elbise Favorilere Ekle Flaş ürün ikonu Flaş Ürün 00 : 00 : 00 ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Beyaz Elbise 80 % pamuk 4.5 (108) Değerlendirme fotoğrafları mevcut Kargo Bedava Çok Al Az Öde Kargo Bedava 780,97 TL Trendyol Plus ile 730,72 TL" [ref=f4e770] [cursor=pointer]':
+          - /url: /orzuqlife/aerobin-kumas-ayarlanabilir-askili-uzun-beyaz-elbise-p-825028353?boutiqueId=61&merchantId=635267
+          - generic [ref=f4e771]:
+            - generic:
+              - img "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Beyaz Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e777]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+          - generic [ref=f4e779]:
+            - heading "ORZUQLIFE Aerobin Kumaş Ayarlanabilir Askılı Uzun Beyaz Elbise" [level=2] [ref=f4e780]:
+              - generic [ref=f4e781]:
+                - text: ORZUQLIFE
+                - generic [ref=f4e782]: Aerobin Kumaş Ayarlanabilir Askılı Uzun Beyaz Elbise
+            - generic [ref=f4e783]: 80 % pamuk
+            - generic [ref=f4e787]:
+              - generic [ref=f4e788]: "4.5"
+              - generic [ref=f4e810]: (108)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e811]
+            - generic [ref=f4e812]:
+              - generic [ref=f4e814]:
+                - generic [ref=f4e815]: Kargo Bedava
+                - generic [ref=f4e820]: Çok Al Az Öde
+                - generic [ref=f4e825]: Kargo Bedava
+              - generic [ref=f4e830]: 780,97 TL
+              - generic [ref=f4e833]:
+                - generic [ref=f4e834]: Trendyol Plus ile
+                - generic [ref=f4e835]: 730,72 TL
+        - link "DeFacto A Kesim Askılı Dantel Kolsuz Elbise I1728AX26SM Favorilere Ekle Birlikte Al Kazan DefactoResmi satıcı rozeti A Kesim Askılı Dantel Kolsuz Elbise I1728AX26SM Polyester - Elastan 1.499,99 TL" [ref=f4e836] [cursor=pointer]:
+          - /url: /defacto/a-kesim-askili-dantel-kolsuz-elbise-i1728ax26sm-p-1165573749?boutiqueId=61&merchantId=1188
+          - generic [ref=f4e837]:
+            - generic:
+              - img "DeFacto A Kesim Askılı Dantel Kolsuz Elbise I1728AX26SM"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e843]
+              - generic: Birlikte Al Kazan
+          - generic [ref=f4e845]:
+            - heading "DefactoResmi satıcı rozeti A Kesim Askılı Dantel Kolsuz Elbise I1728AX26SM" [level=2] [ref=f4e846]:
+              - generic [ref=f4e847]:
+                - generic [ref=f4e848]:
+                  - text: Defacto
+                  - img "Resmi satıcı rozeti" [ref=f4e849]
+                - generic [ref=f4e850]: A Kesim Askılı Dantel Kolsuz Elbise I1728AX26SM
+            - generic [ref=f4e851]: Polyester - Elastan
+            - generic [ref=f4e855]: 1.499,99 TL
+        - link "TOFAN TRİKO DANTEL ŞERİT DETAYLI V YAKA ELBİSE Favorilere Ekle TOFAN TRİKOResmi satıcı rozeti DANTEL ŞERİT DETAYLI V YAKA ELBİSE %100 Pamuk 4.4 (17) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Çok Al Az Öde Kargo Bedava 2.079 TL Trendyol Plus ile 1.139,88 TL" [ref=f4e858] [cursor=pointer]:
+          - /url: /tofan-triko/dantel-serit-detayli-v-yaka-elbise-p-1141007021?boutiqueId=61&merchantId=911921
+          - generic [ref=f4e859]:
+            - generic:
+              - img "TOFAN TRİKO DANTEL ŞERİT DETAYLI V YAKA ELBİSE"
+            - button "Favorilere Ekle" [ref=f4e865]
+          - generic [ref=f4e867]:
+            - heading "TOFAN TRİKOResmi satıcı rozeti DANTEL ŞERİT DETAYLI V YAKA ELBİSE" [level=2] [ref=f4e868]:
+              - generic [ref=f4e869]:
+                - generic [ref=f4e870]:
+                  - text: TOFAN TRİKO
+                  - img "Resmi satıcı rozeti" [ref=f4e871]
+                - generic [ref=f4e872]: DANTEL ŞERİT DETAYLI V YAKA ELBİSE
+            - generic [ref=f4e873]: "%100 Pamuk"
+            - generic [ref=f4e877]:
+              - generic [ref=f4e878]: "4.4"
+              - generic [ref=f4e900]: (17)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e901]
+            - generic [ref=f4e902]:
+              - generic [ref=f4e904]:
+                - generic [ref=f4e905]: Kargo Bedava
+                - generic [ref=f4e910]: Kupon Fırsatı
+                - generic [ref=f4e915]: Çok Al Az Öde
+                - generic [ref=f4e920]: Kargo Bedava
+              - generic [ref=f4e925]: 2.079 TL
+              - generic [ref=f4e928]:
+                - generic [ref=f4e929]: Trendyol Plus ile
+                - generic [ref=f4e930]: 1.139,88 TL
+        - link "ESRAHELVACI Çiçek Desenli Astarlı Askılı Maxi Boy Elbise Favorilere Ekle ESRAHELVACIResmi satıcı rozeti Çiçek Desenli Astarlı Askılı Maxi Boy Elbise Dokuma 4.1 (194) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %20 İndirim Kargo Bedava Sepet ikonu Sepette %20 İndirim Sepette 1.926,14 TL 2.407,68 TL Trendyol Plus ile 1.829,83 TL" [ref=f4e931] [cursor=pointer]:
+          - /url: /esrahelvaci/cicek-desenli-astarli-askili-maxi-boy-elbise-p-921547089?boutiqueId=61&merchantId=267844
+          - generic [ref=f4e932]:
+            - generic:
+              - img "ESRAHELVACI Çiçek Desenli Astarlı Askılı Maxi Boy Elbise"
+            - button "Favorilere Ekle" [ref=f4e938]
+          - generic [ref=f4e940]:
+            - heading "ESRAHELVACIResmi satıcı rozeti Çiçek Desenli Astarlı Askılı Maxi Boy Elbise" [level=2] [ref=f4e941]:
+              - generic [ref=f4e942]:
+                - generic [ref=f4e943]:
+                  - text: ESRAHELVACI
+                  - img "Resmi satıcı rozeti" [ref=f4e944]
+                - generic [ref=f4e945]: Çiçek Desenli Astarlı Askılı Maxi Boy Elbise
+            - generic [ref=f4e946]: Dokuma
+            - generic [ref=f4e950]:
+              - generic [ref=f4e951]: "4.1"
+              - generic [ref=f4e973]: (194)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e974]
+            - generic [ref=f4e975]:
+              - generic [ref=f4e977]:
+                - generic [ref=f4e979]:
+                  - img "Sepet ikonu" [ref=f4e980]
+                  - generic [ref=f4e981]: Sepette %20 İndirim
+                - generic [ref=f4e982]: Kargo Bedava
+                - generic [ref=f4e988]:
+                  - img "Sepet ikonu" [ref=f4e989]
+                  - generic [ref=f4e990]: Sepette %20 İndirim
+              - generic [ref=f4e992]:
+                - generic [ref=f4e993]: Sepette
+                - generic [ref=f4e994]: 1.926,14 TL
+                - generic [ref=f4e995]: 2.407,68 TL
+              - generic [ref=f4e997]:
+                - generic [ref=f4e998]: Trendyol Plus ile
+                - generic [ref=f4e999]: 1.829,83 TL
+        - link "Deafox Beyaz Kare Yaka Askılı İnci Detay Pileli Krep Kumaş Elbise Favorilere Ekle deafoxResmi satıcı rozeti Beyaz Kare Yaka Askılı İnci Detay Pileli Krep Kumaş Elbise 2.6 (9) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %20 İndirim Kargo Bedava Sepet ikonu Sepette %20 İndirim Sepette 530 TL 662,50 TL" [ref=f4e1000] [cursor=pointer]:
+          - /url: /deafox/beyaz-kare-yaka-askili-inci-detay-pileli-krep-kumas-elbise-p-1124071653?boutiqueId=61&merchantId=108655
+          - generic [ref=f4e1001]:
+            - generic:
+              - img "Deafox Beyaz Kare Yaka Askılı İnci Detay Pileli Krep Kumaş Elbise"
+            - button "Favorilere Ekle" [ref=f4e1005]
+          - generic [ref=f4e1007]:
+            - heading "deafoxResmi satıcı rozeti Beyaz Kare Yaka Askılı İnci Detay Pileli Krep Kumaş Elbise" [level=2] [ref=f4e1008]:
+              - generic [ref=f4e1009]:
+                - generic [ref=f4e1010]:
+                  - text: deafox
+                  - img "Resmi satıcı rozeti" [ref=f4e1011]
+                - generic [ref=f4e1012]: Beyaz Kare Yaka Askılı İnci Detay Pileli Krep Kumaş Elbise
+            - generic [ref=f4e1013]:
+              - generic [ref=f4e1014]: "2.6"
+              - generic [ref=f4e1034]: (9)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1035]
+            - generic [ref=f4e1036]:
+              - generic [ref=f4e1038]:
+                - generic [ref=f4e1040]:
+                  - img "Sepet ikonu" [ref=f4e1041]
+                  - generic [ref=f4e1042]: Sepette %20 İndirim
+                - generic [ref=f4e1043]: Kargo Bedava
+                - generic [ref=f4e1049]:
+                  - img "Sepet ikonu" [ref=f4e1050]
+                  - generic [ref=f4e1051]: Sepette %20 İndirim
+              - generic [ref=f4e1053]:
+                - generic [ref=f4e1054]: Sepette
+                - generic [ref=f4e1055]: 530 TL
+                - generic [ref=f4e1056]: 662,50 TL
+        - 'link "Ritnice Kadın Victoria Arkadan Bağcıklı Puantiyeli Uzun Beyaz Dokuma Elbise Favorilere Ekle Flaş ürün ikonu Flaş Ürün 00 : 00 : 00 RitniceResmi satıcı rozeti Kadın Victoria Arkadan Bağcıklı Puantiyeli Uzun Beyaz Dokuma Elbise %100 Polyester 4.3 (216) Değerlendirme fotoğrafları mevcut Kargo Bedava 2. Ürün %5 Kargo Bedava 976,73 TL Trendyol Plus ile 864,64 TL" [ref=f4e1057] [cursor=pointer]':
+          - /url: /ritnice/kadin-victoria-arkadan-bagcikli-puantiyeli-uzun-beyaz-dokuma-elbise-p-1126410194?boutiqueId=61&merchantId=195439
+          - generic [ref=f4e1058]:
+            - generic:
+              - img "Ritnice Kadın Victoria Arkadan Bağcıklı Puantiyeli Uzun Beyaz Dokuma Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1064]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+                    - generic: ":"
+                    - generic: "00"
+          - generic [ref=f4e1066]:
+            - heading "RitniceResmi satıcı rozeti Kadın Victoria Arkadan Bağcıklı Puantiyeli Uzun Beyaz Dokuma Elbise" [level=2] [ref=f4e1067]:
+              - generic [ref=f4e1068]:
+                - generic [ref=f4e1069]:
+                  - text: Ritnice
+                  - img "Resmi satıcı rozeti" [ref=f4e1070]
+                - generic [ref=f4e1071]: Kadın Victoria Arkadan Bağcıklı Puantiyeli Uzun Beyaz Dokuma Elbise
+            - generic [ref=f4e1072]: "%100 Polyester"
+            - generic [ref=f4e1076]:
+              - generic [ref=f4e1077]: "4.3"
+              - generic [ref=f4e1099]: (216)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1100]
+            - generic [ref=f4e1101]:
+              - generic [ref=f4e1103]:
+                - generic [ref=f4e1104]: Kargo Bedava
+                - generic [ref=f4e1109]: 2. Ürün %5
+                - generic [ref=f4e1114]: Kargo Bedava
+              - generic [ref=f4e1119]: 976,73 TL
+              - generic [ref=f4e1122]:
+                - generic [ref=f4e1123]: Trendyol Plus ile
+                - generic [ref=f4e1124]: 864,64 TL
+        - link "SevdeUgur Kadın Beyaz Keten Kumaş Ayarlanabilir Askılı Alaçatı Elbise Favorilere Ekle Videolu Ürün SevdeUgurResmi satıcı rozeti Kadın Beyaz Keten Kumaş Ayarlanabilir Askılı Alaçatı Elbise Keten 3.9 (9) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Son 10 Günün En Düşük Fiyatı -%13 601,02 TL 692,01 TL" [ref=f4e1125] [cursor=pointer]:
+          - /url: /sevdeugur/kadin-beyaz-keten-kumas-ayarlanabilir-askili-alacati-elbise-p-926866151?boutiqueId=61&merchantId=217191
+          - generic [ref=f4e1126]:
+            - generic:
+              - img "SevdeUgur Kadın Beyaz Keten Kumaş Ayarlanabilir Askılı Alaçatı Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1132]
+              - generic: Videolu Ürün
+          - generic [ref=f4e1134]:
+            - heading "SevdeUgurResmi satıcı rozeti Kadın Beyaz Keten Kumaş Ayarlanabilir Askılı Alaçatı Elbise" [level=2] [ref=f4e1135]:
+              - generic [ref=f4e1136]:
+                - generic [ref=f4e1137]:
+                  - text: SevdeUgur
+                  - img "Resmi satıcı rozeti" [ref=f4e1138]
+                - generic [ref=f4e1139]: Kadın Beyaz Keten Kumaş Ayarlanabilir Askılı Alaçatı Elbise
+            - generic [ref=f4e1140]: Keten
+            - generic [ref=f4e1144]:
+              - generic [ref=f4e1145]: "3.9"
+              - generic [ref=f4e1166]: (9)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1167]
+            - generic [ref=f4e1168]:
+              - generic [ref=f4e1170]:
+                - paragraph [ref=f4e1173]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f4e1174]: Kargo Bedava
+                - paragraph [ref=f4e1181]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f4e1183]:
+                - paragraph [ref=f4e1185]: "-%13"
+                - generic [ref=f4e1186]: 601,02 TL
+                - generic [ref=f4e1187]: 692,01 TL
+        - link "Ritnice Kadın Füsun Arkadan Bağlamalı Kare Yaka Dokuma Uzun Ekru Elbise Favorilere Ekle Fenomen Seçimi RitniceResmi satıcı rozeti Kadın Füsun Arkadan Bağlamalı Kare Yaka Dokuma Uzun Ekru Elbise Dokuma 3.2 (13) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %10 İndirim Kargo Bedava Sepet ikonu Sepette %10 İndirim Sepette 1.133,81 TL 1.259,79 TL Trendyol Plus ile 956 TL" [ref=f4e1188] [cursor=pointer]:
+          - /url: /ritnice/kadin-fusun-arkadan-baglamali-kare-yaka-dokuma-uzun-ekru-elbise-p-1134109846?boutiqueId=61&merchantId=195439
+          - generic [ref=f4e1189]:
+            - generic:
+              - img "Ritnice Kadın Füsun Arkadan Bağlamalı Kare Yaka Dokuma Uzun Ekru Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1195]
+              - generic: Fenomen Seçimi
+          - generic [ref=f4e1197]:
+            - heading "RitniceResmi satıcı rozeti Kadın Füsun Arkadan Bağlamalı Kare Yaka Dokuma Uzun Ekru Elbise" [level=2] [ref=f4e1198]:
+              - generic [ref=f4e1199]:
+                - generic [ref=f4e1200]:
+                  - text: Ritnice
+                  - img "Resmi satıcı rozeti" [ref=f4e1201]
+                - generic [ref=f4e1202]: Kadın Füsun Arkadan Bağlamalı Kare Yaka Dokuma Uzun Ekru Elbise
+            - generic [ref=f4e1203]: Dokuma
+            - generic [ref=f4e1207]:
+              - generic [ref=f4e1208]: "3.2"
+              - generic [ref=f4e1229]: (13)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1230]
+            - generic [ref=f4e1231]:
+              - generic [ref=f4e1233]:
+                - generic [ref=f4e1235]:
+                  - img "Sepet ikonu" [ref=f4e1236]
+                  - generic [ref=f4e1237]: Sepette %10 İndirim
+                - generic [ref=f4e1238]: Kargo Bedava
+                - generic [ref=f4e1244]:
+                  - img "Sepet ikonu" [ref=f4e1245]
+                  - generic [ref=f4e1246]: Sepette %10 İndirim
+              - generic [ref=f4e1248]:
+                - generic [ref=f4e1249]: Sepette
+                - generic [ref=f4e1250]: 1.133,81 TL
+                - generic [ref=f4e1251]: 1.259,79 TL
+              - generic [ref=f4e1253]:
+                - generic [ref=f4e1254]: Trendyol Plus ile
+                - generic [ref=f4e1255]: 956 TL
+        - link "BELLA NOTTE Kadın Beyaz Fisto Kruvaze Yaka Sırt Bağlamalı Volanlı Elbise Favorilere Ekle Videolu Ürün BELLA NOTTEResmi satıcı rozeti Kadın Beyaz Fisto Kruvaze Yaka Sırt Bağlamalı Volanlı Elbise 50% Polyester, 50% Pamuk 4.5 (40) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %75 İndirim Kargo Bedava Kupon Fırsatı Sepet ikonu Sepette %75 İndirim Sepette 952,27 TL 3.809,08 TL Trendyol Plus ile 809,43 TL" [ref=f4e1256] [cursor=pointer]:
+          - /url: /bella-notte/kadin-beyaz-fisto-kruvaze-yaka-sirt-baglamali-volanli-elbise-p-1155014838?boutiqueId=61&merchantId=549751
+          - generic [ref=f4e1257]:
+            - generic:
+              - img "BELLA NOTTE Kadın Beyaz Fisto Kruvaze Yaka Sırt Bağlamalı Volanlı Elbise"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1263]
+              - generic: Videolu Ürün
+          - generic [ref=f4e1265]:
+            - heading "BELLA NOTTEResmi satıcı rozeti Kadın Beyaz Fisto Kruvaze Yaka Sırt Bağlamalı Volanlı Elbise" [level=2] [ref=f4e1266]:
+              - generic [ref=f4e1267]:
+                - generic [ref=f4e1268]:
+                  - text: BELLA NOTTE
+                  - img "Resmi satıcı rozeti" [ref=f4e1269]
+                - generic [ref=f4e1270]: Kadın Beyaz Fisto Kruvaze Yaka Sırt Bağlamalı Volanlı Elbise
+            - generic [ref=f4e1271]: 50% Polyester, 50% Pamuk
+            - generic [ref=f4e1275]:
+              - generic [ref=f4e1276]: "4.5"
+              - generic [ref=f4e1298]: (40)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1299]
+            - generic [ref=f4e1300]:
+              - generic [ref=f4e1302]:
+                - generic [ref=f4e1304]:
+                  - img "Sepet ikonu" [ref=f4e1305]
+                  - generic [ref=f4e1306]: Sepette %75 İndirim
+                - generic [ref=f4e1307]: Kargo Bedava
+                - generic [ref=f4e1312]: Kupon Fırsatı
+                - generic [ref=f4e1318]:
+                  - img "Sepet ikonu" [ref=f4e1319]
+                  - generic [ref=f4e1320]: Sepette %75 İndirim
+              - generic [ref=f4e1322]:
+                - generic [ref=f4e1323]: Sepette
+                - generic [ref=f4e1324]: 952,27 TL
+                - generic [ref=f4e1325]: 3.809,08 TL
+              - generic [ref=f4e1327]:
+                - generic [ref=f4e1328]: Trendyol Plus ile
+                - generic [ref=f4e1329]: 809,43 TL
+        - link "Femistik Kadın Beyaz Kare Yaka Dar Kesim Midi Fisto Elbise Favorilere Ekle Femistik Kadın Beyaz Kare Yaka Dar Kesim Midi Fisto Elbise %95 Pamuk %5 Polyester 4.8 (11) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %37 İndirim Kargo Bedava 22 TL Kupon Sepet ikonu Sepette %37 İndirim Sepette 2.204,37 TL 3.499 TL" [ref=f4e1330] [cursor=pointer]:
+          - /url: /femistik/kadin-beyaz-kare-yaka-dar-kesim-midi-fisto-elbise-p-943241614?boutiqueId=61&merchantId=392335
+          - generic [ref=f4e1331]:
+            - generic:
+              - img "Femistik Kadın Beyaz Kare Yaka Dar Kesim Midi Fisto Elbise"
+            - button "Favorilere Ekle" [ref=f4e1337]
+          - generic [ref=f4e1339]:
+            - heading "Femistik Kadın Beyaz Kare Yaka Dar Kesim Midi Fisto Elbise" [level=2] [ref=f4e1340]:
+              - generic [ref=f4e1341]:
+                - text: Femistik
+                - generic [ref=f4e1342]: Kadın Beyaz Kare Yaka Dar Kesim Midi Fisto Elbise
+            - generic [ref=f4e1343]: "%95 Pamuk %5 Polyester"
+            - generic [ref=f4e1347]:
+              - generic [ref=f4e1348]: "4.8"
+              - generic [ref=f4e1370]: (11)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1371]
+            - generic [ref=f4e1372]:
+              - generic [ref=f4e1374]:
+                - generic [ref=f4e1376]:
+                  - img "Sepet ikonu" [ref=f4e1377]
+                  - generic [ref=f4e1378]: Sepette %37 İndirim
+                - generic [ref=f4e1379]: Kargo Bedava
+                - generic [ref=f4e1384]: 22 TL Kupon
+                - generic [ref=f4e1390]:
+                  - img "Sepet ikonu" [ref=f4e1391]
+                  - generic [ref=f4e1392]: Sepette %37 İndirim
+              - generic [ref=f4e1394]:
+                - generic [ref=f4e1395]: Sepette
+                - generic [ref=f4e1396]: 2.204,37 TL
+                - generic [ref=f4e1397]: 3.499 TL
+        - link "ecrin tuhafiye hobi Kırık Beyaz Taraklı Gelin Aksesuarı Nikah Kebi Vualet Favorilere Ekle En Çok Satan 1. Ürün ecrin tuhafiye hobiResmi satıcı rozeti Kırık Beyaz Taraklı Gelin Aksesuarı Nikah Kebi Vualet 4.8 (357) Değerlendirme fotoğrafları mevcut 299,90 TL" [ref=f4e1398] [cursor=pointer]:
+          - /url: /ecrin-tuhafiye-hobi/kirik-beyaz-tarakli-gelin-aksesuari-nikah-kebi-vualet-p-841897661?boutiqueId=61&merchantId=180450
+          - generic [ref=f4e1399]:
+            - generic:
+              - img "ecrin tuhafiye hobi Kırık Beyaz Taraklı Gelin Aksesuarı Nikah Kebi Vualet"
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1402]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f4e1404]:
+            - heading "ecrin tuhafiye hobiResmi satıcı rozeti Kırık Beyaz Taraklı Gelin Aksesuarı Nikah Kebi Vualet" [level=2] [ref=f4e1405]:
+              - generic [ref=f4e1406]:
+                - generic [ref=f4e1407]:
+                  - text: ecrin tuhafiye hobi
+                  - img "Resmi satıcı rozeti" [ref=f4e1408]
+                - generic [ref=f4e1409]: Kırık Beyaz Taraklı Gelin Aksesuarı Nikah Kebi Vualet
+            - generic [ref=f4e1410]:
+              - generic [ref=f4e1411]: "4.8"
+              - generic [ref=f4e1433]: (357)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1434]
+            - generic [ref=f4e1435]: 299,90 TL
+        - link "Elorya Bloom STRAPLEZ ŞAL DETAYLI SÖZ NİŞAN VE NİKAH ELBİSESİ KIRIK BEYAZ KLO... Favorilere Ekle En Çok Ziyaret Edilen 10. Ürün Elorya Bloom STRAPLEZ ŞAL DETAYLI SÖZ NİŞAN VE NİKAH ELBİSESİ KIRIK BEYAZ KLOŞ ŞİFON ETEK ARYA Şifon 5.0 (6) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 İndirim Kargo Bedava Sepet ikonu Sepette %5 İndirim Sepette 6.460 TL 6.800 TL" [ref=f4e1438] [cursor=pointer]:
+          - /url: /elorya-bloom/straplez-sal-detayli-soz-nisan-ve-nikah-elbisesi-kirik-beyaz-klos-sifon-etek-arya-p-1147916965?boutiqueId=61&merchantId=1222362
+          - generic [ref=f4e1439]:
+            - generic:
+              - img "Elorya Bloom STRAPLEZ ŞAL DETAYLI SÖZ NİŞAN VE NİKAH ELBİSESİ KIRIK BEYAZ KLO..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f4e1445]
+              - generic: En Çok Ziyaret Edilen 10. Ürün
+          - generic [ref=f4e1447]:
+            - heading "Elorya Bloom STRAPLEZ ŞAL DETAYLI SÖZ NİŞAN VE NİKAH ELBİSESİ KIRIK BEYAZ KLOŞ ŞİFON ETEK ARYA" [level=2] [ref=f4e1448]:
+              - generic [ref=f4e1449]:
+                - text: Elorya Bloom
+                - generic [ref=f4e1450]: STRAPLEZ ŞAL DETAYLI SÖZ NİŞAN VE NİKAH ELBİSESİ KIRIK BEYAZ KLOŞ ŞİFON ETEK ARYA
+            - generic [ref=f4e1451]: Şifon
+            - generic [ref=f4e1455]:
+              - generic [ref=f4e1456]: "5.0"
+              - generic [ref=f4e1478]: (6)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f4e1479]
+            - generic [ref=f4e1480]:
+              - generic [ref=f4e1482]:
+                - generic [ref=f4e1484]:
+                  - img "Sepet ikonu" [ref=f4e1485]
+                  - generic [ref=f4e1486]: Sepette %5 İndirim
+                - generic [ref=f4e1487]: Kargo Bedava
+                - generic [ref=f4e1493]:
+                  - img "Sepet ikonu" [ref=f4e1494]
+                  - generic [ref=f4e1495]: Sepette %5 İndirim
+              - generic [ref=f4e1497]:
+                - generic [ref=f4e1498]: Sepette
+                - generic [ref=f4e1499]: 6.460 TL
+                - generic [ref=f4e1500]: 6.800 TL
+        - link "D'RECCY KADIN ASKILI BELE OTURAN FİSTO UZUN ŞIK ELBISE Favorilere Ekle D'RECCY KADIN ASKILI BELE OTURAN FİSTO UZUN ŞIK ELBISE %50 VİSKON %50 PAMUK Son 10 Günün En Düşük Fiyatı Kargo Bedava 2. Ürün %5 Son 10 Günün En Düşük Fiyatı 1.904,57 TL 1.998 TL Trendyol Plus ile 1.866,48 TL" [ref=f4e1501] [cursor=pointer]:
+          - /url: /d-reccy/kadin-askili-bele-oturan-fisto-uzun-sik-elbise-p-1154027855?boutiqueId=61&merchantId=948410
+          - generic [ref=f4e1502]:
+            - generic:
+              - img "D'RECCY KADIN ASKILI BELE OTURAN FİSTO UZUN ŞIK ELBISE"
+            - button "Favorilere Ekle" [ref=f4e1508]
+          - generic [ref=f4e1510]:
+            - heading "D'RECCY KADIN ASKILI BELE OTURAN FİSTO UZUN ŞIK ELBISE" [level=2] [ref=f4e1511]:
+              - generic [ref=f4e1512]:
+                - text: D'RECCY
+                - generic [ref=f4e1513]: KADIN ASKILI BELE OTURAN FİSTO UZUN ŞIK ELBISE
+            - generic [ref=f4e1514]: "%50 VİSKON %50 PAMUK"
+            - generic [ref=f4e1518]:
+              - generic [ref=f4e1520]:
+                - paragraph [ref=f4e1523]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f4e1524]: Kargo Bedava
+                - generic [ref=f4e1529]: 2. Ürün %5
+                - paragraph [ref=f4e1536]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f4e1538]:
+                - generic [ref=f4e1539]: 1.904,57 TL
+                - generic [ref=f4e1540]: 1.998 TL
+              - generic [ref=f4e1542]:
+                - generic [ref=f4e1543]: Trendyol Plus ile
+                - generic [ref=f4e1544]: 1.866,48 TL
+      - button "Yukarı çık"
+  - contentinfo [ref=f4e1638]:
+    - img "Group 2" [ref=f4e1640]
+    - generic [ref=f4e1645]:
+      - generic [ref=f4e1647]:
+        - generic [ref=f4e1648]:
+          - generic [ref=f4e1649]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f4e1654] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f4e1656] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f4e1658] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f4e1660] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f4e1662] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f4e1663]:
+          - generic [ref=f4e1664]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f4e1669] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f4e1671] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f4e1673] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f4e1674]:
+          - link "Satıcı" [ref=f4e1677] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f4e1681] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f4e1683] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f4e1685] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f4e1686]:
+          - generic [ref=f4e1687]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f4e1692] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f4e1694] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f4e1696] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f4e1698] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f4e1699]:
+          - generic [ref=f4e1700]:
+            - link "Ülke Değiştir" [ref=f4e1703] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f4e1704] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f4e1705]
+              - generic [ref=f4e1706]: Ülke Seç
+          - generic [ref=f4e1707]: Güvenli Alışveriş
+          - generic [ref=f4e1711]:
+            - generic [ref=f4e1712]: Güvenlik Sertifikası
+            - generic [ref=f4e1714]:
+              - link [ref=f4e1715] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f4e1717]
+              - link [ref=f4e1718] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f4e1720]
+              - img "PCI DSS" [ref=f4e1722]
+              - img "information security standard" [ref=f4e1724]
+      - generic [ref=f4e1727]:
+        - generic [ref=f4e1728]:
+          - generic [ref=f4e1729]:
+            - link "instagram-icon" [ref=f4e1730] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f4e1731]
+            - link "tiktok-icon" [ref=f4e1732] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f4e1733]
+            - link "youtube-icon" [ref=f4e1734] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f4e1735]
+            - link "facebook-icon" [ref=f4e1736] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f4e1737]
+            - link "x-icon" [ref=f4e1738] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f4e1739]
+          - generic [ref=f4e1740]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f4e1741]:
+          - generic [ref=f4e1742]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f4e1743]:
+            - link "Çerez Tercihleri" [ref=f4e1744] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f4e1745] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f4e1746] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f4e1747] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi

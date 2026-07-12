@@ -1,0 +1,1257 @@
+- generic [ref=f6e1]:
+  - complementary "Görsel asistan yazılımını açın.":
+    - link "Görsel asistan yazılımını açın. ALT + 1 üzerinden klavye ile erişilebilir" [ref=f6e1673]:
+      - /url: javascript:EyeAbleAPI.toggleToolbar()
+  - banner [ref=f6e2]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7] [cursor=pointer]:
+        - button "Menu" [ref=f6e8]
+        - link "Trendyol" [ref=f6e10]:
+          - /url: /
+      - button "Search icon Ürün, kategori veya marka ara" [ref=f6e14]:
+        - img "Search icon" [ref=f6e15]
+        - generic [ref=f6e16]: Ürün, kategori veya marka ara
+      - generic [ref=f6e17]:
+        - link "Giriş Yap" [ref=f6e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fwc%3D109460%2C109459%2C109461%2C104034
+        - link "Favorilerim" [ref=f6e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f6e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f6e30]:
+    - generic [ref=f6e35]:
+      - generic [ref=f6e36]:
+        - generic [ref=f6e38]:
+          - heading "Apple" [level=1] [ref=f6e2176]
+          - generic [ref=f6e39]: 1010+ Ürün
+        - generic [ref=f6e40]:
+          - generic [ref=f6e1676]:
+            - button "Yüksek Puanlı Ürünler" [ref=f6e2177] [cursor=pointer]
+            - button "Yüksek Puanlı Satıcılar" [ref=f6e2179] [cursor=pointer]
+            - button "Kargo Bedava" [ref=f6e2181] [cursor=pointer]
+            - button "Hızlı Teslimat" [ref=f6e2183] [cursor=pointer]
+            - button "Bugün Kargoda" [ref=f6e2185] [cursor=pointer]
+          - generic [ref=f6e48]:
+            - button "Önerilen Sıralama sıralama" [expanded] [active] [ref=f6e49] [cursor=pointer]:
+              - generic [ref=f6e50]: Önerilen Sıralama
+              - img "sıralama" [ref=f6e51]
+            - listbox [ref=f6e4136]:
+              - option "Önerilen Sıralama" [selected] [ref=f6e4137] [cursor=pointer]
+              - option "En Düşük Fiyat" [ref=f6e4141] [cursor=pointer]
+              - option "En Yüksek Fiyat" [ref=f6e4144] [cursor=pointer]
+              - option "En Yeniler" [ref=f6e4147] [cursor=pointer]
+              - option "En Çok Satan" [ref=f6e4150] [cursor=pointer]
+              - option "En Favoriler" [ref=f6e4153] [cursor=pointer]
+              - option "En Çok Değerlendirilen" [ref=f6e4156] [cursor=pointer]
+        - generic [ref=f6e54]:
+          - link "Apple Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)... Damga Damga Favorilere Ekle En Çok Satan 1. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite 🚀 3 günde 3B kişi ekledi! 3.9 (920) Değerlendirme fotoğrafları mevcut Sepet ikonu Kampanyalı Fiyat Kargo Bedava 500 TL Kupon Sepet ikonu Kampanyalı Fiyat Sepette 26.504,05 TL 28.299 TL Sepete Ekle" [ref=f6e2187] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-128-gb-yildiz-isigi-cep-telefonu-12-ay-garantili-a-kalite-p-812982801?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e2188]:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)..." [ref=f6e2190]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2193]
+                - generic: En Çok Satan 1. Ürün
+            - generic [ref=f6e2195]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e2196]:
+                - generic [ref=f6e2197]:
+                  - generic [ref=f6e2198]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2199]
+                  - generic [ref=f6e2200]: Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e2204]:
+                - generic [ref=f6e2205]: 🚀
+                - generic [ref=f6e2206]: 3 günde 3B kişi ekledi!
+              - generic [ref=f6e2207]:
+                - generic [ref=f6e2208]: "3.9"
+                - generic [ref=f6e2229]: (920)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2230]
+              - generic [ref=f6e2231]:
+                - generic [ref=f6e2233]:
+                  - generic [ref=f6e2235]:
+                    - img "Sepet ikonu" [ref=f6e2236]
+                    - generic [ref=f6e2237]: Kampanyalı Fiyat
+                  - generic [ref=f6e2238]: Kargo Bedava
+                  - generic [ref=f6e2243]: 500 TL Kupon
+                  - generic [ref=f6e2249]:
+                    - img "Sepet ikonu" [ref=f6e2250]
+                    - generic [ref=f6e2251]: Kampanyalı Fiyat
+                - generic [ref=f6e2253]:
+                  - generic [ref=f6e2254]: Sepette
+                  - generic [ref=f6e2255]: 26.504,05 TL
+                  - generic [ref=f6e2256]: 28.299 TL
+            - button "Sepete Ekle" [ref=f6e2259]
+          - link "Apple Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka... Damga Favorilere Ekle 3 renk seçeneği En Çok Satan 2. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite 🚀 3 günde 1,9B kişi ekledi! 3.8 (1834) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 13.299,05 TL 13.999 TL Sepete Ekle" [ref=f6e2260] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-128-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-665663788?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e2261]:
+              - img "Apple Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka..." [ref=f6e2263]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e2268]
+                    - button "3 renk seçeneği" [ref=f6e2270]:
+                      - generic [ref=f6e2272]: "3"
+                - generic: En Çok Satan 2. Ürün
+            - generic [ref=f6e2273]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e2274]:
+                - generic [ref=f6e2275]:
+                  - generic [ref=f6e2276]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2277]
+                  - generic [ref=f6e2278]: Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e2282]:
+                - generic [ref=f6e2283]: 🚀
+                - generic [ref=f6e2284]: 3 günde 1,9B kişi ekledi!
+              - generic [ref=f6e2285]:
+                - generic [ref=f6e2286]: "3.8"
+                - generic [ref=f6e2307]: (1834)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2308]
+              - generic [ref=f6e2309]:
+                - generic [ref=f6e2311]:
+                  - generic [ref=f6e2313]:
+                    - img "Sepet ikonu" [ref=f6e2314]
+                    - generic [ref=f6e2315]: Sepette %5 indirim
+                  - generic [ref=f6e2316]: Kargo Bedava
+                  - generic [ref=f6e2321]: 500 TL Kupon
+                  - generic [ref=f6e2327]:
+                    - img "Sepet ikonu" [ref=f6e2328]
+                    - generic [ref=f6e2329]: Sepette %5 indirim
+                - generic [ref=f6e2331]:
+                  - generic [ref=f6e2332]: Sepette
+                  - generic [ref=f6e2333]: 13.299,05 TL
+                  - generic [ref=f6e2334]: 13.999 TL
+            - button "Sepete Ekle" [ref=f6e2337]
+          - link "Apple Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite 🚀 3 günde 336 kişi ekledi! 4.1 (237) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 12.463,05 TL 13.119 TL Trendyol Plus ile 12.363,05 TL Sepete Ekle" [ref=f6e2338] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-128-gb-cep-telefonu-12-ay-garantili-b-kalite-p-665683515?boutiqueId=61&merchantId=285194
+            - generic [ref=f6e2339]:
+              - img "Apple Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite" [ref=f6e2341]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2347]
+            - generic [ref=f6e2349]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e2350]:
+                - generic [ref=f6e2351]:
+                  - generic [ref=f6e2352]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2353]
+                  - generic [ref=f6e2354]: Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e2358]:
+                - generic [ref=f6e2359]: 🚀
+                - generic [ref=f6e2360]: 3 günde 336 kişi ekledi!
+              - generic [ref=f6e2361]:
+                - generic [ref=f6e2362]: "4.1"
+                - generic [ref=f6e2384]: (237)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2385]
+              - generic [ref=f6e2386]:
+                - generic [ref=f6e2388]:
+                  - generic [ref=f6e2390]:
+                    - img "Sepet ikonu" [ref=f6e2391]
+                    - generic [ref=f6e2392]: Sepette %5 indirim
+                  - generic [ref=f6e2393]: Kargo Bedava
+                  - generic [ref=f6e2398]: 500 TL Kupon
+                  - generic [ref=f6e2404]:
+                    - img "Sepet ikonu" [ref=f6e2405]
+                    - generic [ref=f6e2406]: Sepette %5 indirim
+                - generic [ref=f6e2408]:
+                  - generic [ref=f6e2409]: Sepette
+                  - generic [ref=f6e2410]: 12.463,05 TL
+                  - generic [ref=f6e2411]: 13.119 TL
+                - generic [ref=f6e2413]:
+                  - generic [ref=f6e2414]: Trendyol Plus ile
+                  - generic [ref=f6e2415]: 12.363,05 TL
+            - button "Sepete Ekle" [ref=f6e2418]
+          - link "Apple iPhone 15 Pro 256GB Natürel Titanyum (Yenilenmiş - Çok İyi) Damga Damga Favorilere Ekle En Çok Ziyaret Edilen 9. Ürün AppleResmi satıcı rozeti iPhone 15 Pro 256GB Natürel Titanyum (Yenilenmiş - Çok İyi) 🧡 8,1B kişi favoriledi! 4.5 (17) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 60.799,05 TL 63.999 TL Sepete Ekle" [ref=f6e2419] [cursor=pointer]:
+            - /url: /apple/iphone-15-pro-256gb-naturel-titanyum-yenilenmis-cok-iyi-p-931814534?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e2420]:
+              - img "Apple iPhone 15 Pro 256GB Natürel Titanyum (Yenilenmiş - Çok İyi)" [ref=f6e2422]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2425]
+                - generic: En Çok Ziyaret Edilen 9. Ürün
+            - generic [ref=f6e2427]:
+              - heading "AppleResmi satıcı rozeti iPhone 15 Pro 256GB Natürel Titanyum (Yenilenmiş - Çok İyi)" [level=2] [ref=f6e2428]:
+                - generic [ref=f6e2429]:
+                  - generic [ref=f6e2430]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2431]
+                  - generic [ref=f6e2432]: iPhone 15 Pro 256GB Natürel Titanyum (Yenilenmiş - Çok İyi)
+              - generic [ref=f6e2436]:
+                - generic [ref=f6e2437]: 🧡
+                - generic [ref=f6e2438]: 8,1B kişi favoriledi!
+              - generic [ref=f6e2439]:
+                - generic [ref=f6e2440]: "4.5"
+                - generic [ref=f6e2462]: (17)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2463]
+              - generic [ref=f6e2464]:
+                - generic [ref=f6e2466]:
+                  - generic [ref=f6e2468]:
+                    - img "Sepet ikonu" [ref=f6e2469]
+                    - generic [ref=f6e2470]: Sepette %5 indirim
+                  - generic [ref=f6e2471]: Kargo Bedava
+                  - generic [ref=f6e2476]: 500 TL Kupon
+                  - generic [ref=f6e2482]:
+                    - img "Sepet ikonu" [ref=f6e2483]
+                    - generic [ref=f6e2484]: Sepette %5 indirim
+                - generic [ref=f6e2486]:
+                  - generic [ref=f6e2487]: Sepette
+                  - generic [ref=f6e2488]: 60.799,05 TL
+                  - generic [ref=f6e2489]: 63.999 TL
+            - button "Sepete Ekle" [ref=f6e2492]
+          - link "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka... Damga Damga Favorilere Ekle En Çok Ziyaret Edilen 5. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite 🚀 3 günde 777 kişi ekledi! 3.9 (311) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava Sepet ikonu Sepette %5 indirim Sepette 27.549,05 TL 28.999 TL Sepete Ekle" [ref=f6e2493] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-128-gb-pembe-cep-telefonu-12-ay-garantili-a-kalite-p-808233696?boutiqueId=61&merchantId=848995
+            - generic [ref=f6e2494]:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka..." [ref=f6e2496]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2499]
+                - generic: En Çok Ziyaret Edilen 5. Ürün
+            - generic [ref=f6e2501]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e2502]:
+                - generic [ref=f6e2503]:
+                  - generic [ref=f6e2504]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2505]
+                  - generic [ref=f6e2506]: Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e2510]:
+                - generic [ref=f6e2511]: 🚀
+                - generic [ref=f6e2512]: 3 günde 777 kişi ekledi!
+              - generic [ref=f6e2513]:
+                - generic [ref=f6e2514]: "3.9"
+                - generic [ref=f6e2535]: (311)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2536]
+              - generic [ref=f6e2537]:
+                - generic [ref=f6e2539]:
+                  - generic [ref=f6e2541]:
+                    - img "Sepet ikonu" [ref=f6e2542]
+                    - generic [ref=f6e2543]: Sepette %5 indirim
+                  - generic [ref=f6e2544]: Kargo Bedava
+                  - generic [ref=f6e2550]:
+                    - img "Sepet ikonu" [ref=f6e2551]
+                    - generic [ref=f6e2552]: Sepette %5 indirim
+                - generic [ref=f6e2554]:
+                  - generic [ref=f6e2555]: Sepette
+                  - generic [ref=f6e2556]: 27.549,05 TL
+                  - generic [ref=f6e2557]: 28.999 TL
+            - button "Sepete Ekle" [ref=f6e2560]
+          - link "Apple iPhone 15 Pro Natürel titanyum 128GB MTUX3TU/A - Yenilio Yenisi Damga Favorilere Ekle En Çok Ziyaret Edilen 4. Ürün AppleResmi satıcı rozeti iPhone 15 Pro Natürel titanyum 128GB MTUX3TU/A - Yenilio Yenisi 🚀 3 günde 994 kişi ekledi! 5.0 (8) Sepet ikonu Sepette %5 indirim Kargo Bedava Sepet ikonu Sepette %5 indirim Sepette 73.149,05 TL 76.999 TL Sepete Ekle" [ref=f6e2561] [cursor=pointer]:
+            - /url: /apple/iphone-15-pro-naturel-titanyum-128gb-mtux3tu-a-yenilio-yenisi-p-994506874?boutiqueId=61&merchantId=848995
+            - generic [ref=f6e2562]:
+              - img "Apple iPhone 15 Pro Natürel titanyum 128GB MTUX3TU/A - Yenilio Yenisi" [ref=f6e2564]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2570]
+                - generic: En Çok Ziyaret Edilen 4. Ürün
+            - generic [ref=f6e2572]:
+              - heading "AppleResmi satıcı rozeti iPhone 15 Pro Natürel titanyum 128GB MTUX3TU/A - Yenilio Yenisi" [level=2] [ref=f6e2573]:
+                - generic [ref=f6e2574]:
+                  - generic [ref=f6e2575]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2576]
+                  - generic [ref=f6e2577]: iPhone 15 Pro Natürel titanyum 128GB MTUX3TU/A - Yenilio Yenisi
+              - generic [ref=f6e2581]:
+                - generic [ref=f6e2582]: 🚀
+                - generic [ref=f6e2583]: 3 günde 994 kişi ekledi!
+              - generic [ref=f6e2584]:
+                - generic [ref=f6e2585]: "5.0"
+                - generic [ref=f6e2607]: (8)
+              - generic [ref=f6e2608]:
+                - generic [ref=f6e2610]:
+                  - generic [ref=f6e2612]:
+                    - img "Sepet ikonu" [ref=f6e2613]
+                    - generic [ref=f6e2614]: Sepette %5 indirim
+                  - generic [ref=f6e2615]: Kargo Bedava
+                  - generic [ref=f6e2621]:
+                    - img "Sepet ikonu" [ref=f6e2622]
+                    - generic [ref=f6e2623]: Sepette %5 indirim
+                - generic [ref=f6e2625]:
+                  - generic [ref=f6e2626]: Sepette
+                  - generic [ref=f6e2627]: 73.149,05 TL
+                  - generic [ref=f6e2628]: 76.999 TL
+            - button "Sepete Ekle" [ref=f6e2631]
+          - link "Apple Yenilenmiş iPhone 14 Pro Max 128 GB Mor Cep Telefonu (12 Ay Garantili) ... Damga Favorilere Ekle En Çok Ziyaret Edilen 7. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 14 Pro Max 128 GB Mor Cep Telefonu (12 Ay Garantili) - A Kalite 🚀 3 günde 696 kişi ekledi! 3.9 (257) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 55.099,05 TL 57.999 TL Sepete Ekle" [ref=f6e2632] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-14-pro-max-128-gb-mor-cep-telefonu-12-ay-garantili-a-kalite-p-815069897?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e2633]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 14 Pro Max 128 GB Mor Cep Telefonu (12 Ay Garantili) ..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2638]
+                - generic: En Çok Ziyaret Edilen 7. Ürün
+            - generic [ref=f6e2640]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 14 Pro Max 128 GB Mor Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e2641]:
+                - generic [ref=f6e2642]:
+                  - generic [ref=f6e2643]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2644]
+                  - generic [ref=f6e2645]: Yenilenmiş iPhone 14 Pro Max 128 GB Mor Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e2649]:
+                - generic [ref=f6e2650]: 🚀
+                - generic [ref=f6e2651]: 3 günde 696 kişi ekledi!
+              - generic [ref=f6e2652]:
+                - generic [ref=f6e2653]: "3.9"
+                - generic [ref=f6e2674]: (257)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2675]
+              - generic [ref=f6e2676]:
+                - generic [ref=f6e2678]:
+                  - generic [ref=f6e2680]:
+                    - img "Sepet ikonu" [ref=f6e2681]
+                    - generic [ref=f6e2682]: Sepette %5 indirim
+                  - generic [ref=f6e2683]: Kargo Bedava
+                  - generic [ref=f6e2688]: 500 TL Kupon
+                  - generic [ref=f6e2694]:
+                    - img "Sepet ikonu" [ref=f6e2695]
+                    - generic [ref=f6e2696]: Sepette %5 indirim
+                - generic [ref=f6e2698]:
+                  - generic [ref=f6e2699]: Sepette
+                  - generic [ref=f6e2700]: 55.099,05 TL
+                  - generic [ref=f6e2701]: 57.999 TL
+            - button "Sepete Ekle" [ref=f6e2704]
+          - link "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite Damga Favorilere Ekle 4 renk seçeneği En Çok Favorilenen 1. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite 🚀 3 günde 1,5B kişi ekledi! 4.0 (1948) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 10.449,05 TL 10.999 TL Sepete Ekle" [ref=f6e2705] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-64-gb-beyaz-cep-telefonu-12-ay-garantili-b-kalite-p-316177451?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e2706]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e2709]
+                    - button "4 renk seçeneği" [ref=f6e2711]:
+                      - generic [ref=f6e2713]: "4"
+                - generic: En Çok Favorilenen 1. Ürün
+            - generic [ref=f6e2714]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e2715]:
+                - generic [ref=f6e2716]:
+                  - generic [ref=f6e2717]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2718]
+                  - generic [ref=f6e2719]: Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e2723]:
+                - generic [ref=f6e2724]: 🚀
+                - generic [ref=f6e2725]: 3 günde 1,5B kişi ekledi!
+              - generic [ref=f6e2726]:
+                - generic [ref=f6e2727]: "4.0"
+                - generic [ref=f6e2749]: (1948)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2750]
+              - generic [ref=f6e2751]:
+                - generic [ref=f6e2753]:
+                  - generic [ref=f6e2755]:
+                    - img "Sepet ikonu" [ref=f6e2756]
+                    - generic [ref=f6e2757]: Sepette %5 indirim
+                  - generic [ref=f6e2758]: Kargo Bedava
+                  - generic [ref=f6e2763]: 500 TL Kupon
+                  - generic [ref=f6e2769]:
+                    - img "Sepet ikonu" [ref=f6e2770]
+                    - generic [ref=f6e2771]: Sepette %5 indirim
+                - generic [ref=f6e2773]:
+                  - generic [ref=f6e2774]: Sepette
+                  - generic [ref=f6e2775]: 10.449,05 TL
+                  - generic [ref=f6e2776]: 10.999 TL
+            - button "Sepete Ekle" [ref=f6e2779]
+          - link "Apple Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Ka... Damga Favorilere Ekle 3 renk seçeneği En Çok Ziyaret Edilen 6. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite 🚀 3 günde 1,3B kişi ekledi! 4.1 (301) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 27.330,55 TL 28.769 TL Trendyol Plus ile 27.230,55 TL Sepete Ekle" [ref=f6e2780] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-128-gb-beyaz-cep-telefonu-12-ay-garantili-b-kalite-p-802325097?boutiqueId=61&merchantId=285194
+            - generic [ref=f6e2781]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e2784]
+                    - button "3 renk seçeneği" [ref=f6e2786]:
+                      - generic [ref=f6e2788]: "3"
+                - generic: En Çok Ziyaret Edilen 6. Ürün
+            - generic [ref=f6e2789]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e2790]:
+                - generic [ref=f6e2791]:
+                  - generic [ref=f6e2792]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2793]
+                  - generic [ref=f6e2794]: Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e2798]:
+                - generic [ref=f6e2799]: 🚀
+                - generic [ref=f6e2800]: 3 günde 1,3B kişi ekledi!
+              - generic [ref=f6e2801]:
+                - generic [ref=f6e2802]: "4.1"
+                - generic [ref=f6e2824]: (301)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2825]
+              - generic [ref=f6e2826]:
+                - generic [ref=f6e2828]:
+                  - generic [ref=f6e2830]:
+                    - img "Sepet ikonu" [ref=f6e2831]
+                    - generic [ref=f6e2832]: Sepette %5 indirim
+                  - generic [ref=f6e2833]: Kargo Bedava
+                  - generic [ref=f6e2838]: 500 TL Kupon
+                  - generic [ref=f6e2844]:
+                    - img "Sepet ikonu" [ref=f6e2845]
+                    - generic [ref=f6e2846]: Sepette %5 indirim
+                - generic [ref=f6e2848]:
+                  - generic [ref=f6e2849]: Sepette
+                  - generic [ref=f6e2850]: 27.330,55 TL
+                  - generic [ref=f6e2851]: 28.769 TL
+                - generic [ref=f6e2853]:
+                  - generic [ref=f6e2854]: Trendyol Plus ile
+                  - generic [ref=f6e2855]: 27.230,55 TL
+            - button "Sepete Ekle" [ref=f6e2858]
+          - link "Apple Yenilenmiş iPhone 11 128 GB Mor Cep Telefonu (12 Ay Garantili) - B Kalite Damga Damga Favorilere Ekle 3 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Mor Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 21B kişi favoriledi! 3.9 (250) Değerlendirme fotoğrafları mevcut Sepet ikonu Kampanyalı Fiyat Kargo Bedava 500 TL Kupon Sepet ikonu Kampanyalı Fiyat Sepette 11.366,44 TL 12.364,67 TL Sepete Ekle" [ref=f6e2859] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-128-gb-mor-cep-telefonu-12-ay-garantili-b-kalite-p-689223273?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e2860]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 11 128 GB Mor Cep Telefonu (12 Ay Garantili) - B Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e2865]
+                    - button "3 renk seçeneği" [ref=f6e2867]:
+                      - generic [ref=f6e2869]: "3"
+            - generic [ref=f6e2870]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Mor Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e2871]:
+                - generic [ref=f6e2872]:
+                  - generic [ref=f6e2873]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2874]
+                  - generic [ref=f6e2875]: Yenilenmiş iPhone 11 128 GB Mor Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e2879]:
+                - generic [ref=f6e2880]: 🧡
+                - generic [ref=f6e2881]: 21B kişi favoriledi!
+              - generic [ref=f6e2882]:
+                - generic [ref=f6e2883]: "3.9"
+                - generic [ref=f6e2904]: (250)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2905]
+              - generic [ref=f6e2906]:
+                - generic [ref=f6e2908]:
+                  - generic [ref=f6e2910]:
+                    - img "Sepet ikonu" [ref=f6e2911]
+                    - generic [ref=f6e2912]: Kampanyalı Fiyat
+                  - generic [ref=f6e2913]: Kargo Bedava
+                  - generic [ref=f6e2918]: 500 TL Kupon
+                  - generic [ref=f6e2924]:
+                    - img "Sepet ikonu" [ref=f6e2925]
+                    - generic [ref=f6e2926]: Kampanyalı Fiyat
+                - generic [ref=f6e2928]:
+                  - generic [ref=f6e2929]: Sepette
+                  - generic [ref=f6e2930]: 11.366,44 TL
+                  - generic [ref=f6e2931]: 12.364,67 TL
+            - button "Sepete Ekle" [ref=f6e2934]
+          - link "Apple Yenilenmiş iPhone 13 256 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 13 256 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 2,7B kişi favoriledi! 4.0 (13) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 31.349,05 TL 32.999 TL Sepete Ekle" [ref=f6e2935] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-256-gb-pembe-cep-telefonu-12-ay-garantili-a-kalite-p-803078236?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e2936]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 13 256 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e2939]
+            - generic [ref=f6e2941]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 256 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e2942]:
+                - generic [ref=f6e2943]:
+                  - generic [ref=f6e2944]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e2945]
+                  - generic [ref=f6e2946]: Yenilenmiş iPhone 13 256 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e2950]:
+                - generic [ref=f6e2951]: 🧡
+                - generic [ref=f6e2952]: 2,7B kişi favoriledi!
+              - generic [ref=f6e2953]:
+                - generic [ref=f6e2954]: "4.0"
+                - generic [ref=f6e2975]: (13)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e2976]
+              - generic [ref=f6e2977]:
+                - generic [ref=f6e2979]:
+                  - generic [ref=f6e2981]:
+                    - img "Sepet ikonu" [ref=f6e2982]
+                    - generic [ref=f6e2983]: Sepette %5 indirim
+                  - generic [ref=f6e2984]: Kargo Bedava
+                  - generic [ref=f6e2989]: 500 TL Kupon
+                  - generic [ref=f6e2995]:
+                    - img "Sepet ikonu" [ref=f6e2996]
+                    - generic [ref=f6e2997]: Sepette %5 indirim
+                - generic [ref=f6e2999]:
+                  - generic [ref=f6e3000]: Sepette
+                  - generic [ref=f6e3001]: 31.349,05 TL
+                  - generic [ref=f6e3002]: 32.999 TL
+            - button "Sepete Ekle" [ref=f6e3005]
+          - link "Apple IPHONE 13 PRO MAX SIERRA BLUE 128GB YENILENMIS B KALITE (12 AY GARANTILI) Damga Favorilere Ekle 10 Günün En Düşük Fiyatı AppleResmi satıcı rozeti IPHONE 13 PRO MAX SIERRA BLUE 128GB YENILENMIS B KALITE (12 AY GARANTILI) 🧡 1B kişi favoriledi! 3.4 (9) Değerlendirme fotoğrafları mevcut Sepet ikonu Net 400 TL İndirim Kargo Bedava 500 TL Kupon Sepet ikonu Net 400 TL İndirim Sepette 39.989 TL 40.389 TL Trendyol Plus ile 39.889 TL Sepete Ekle" [ref=f6e3006] [cursor=pointer]:
+            - /url: /apple/iphone-13-pro-max-sierra-blue-128gb-yenilenmis-b-kalite-12-ay-garantili-p-809403216?boutiqueId=61&merchantId=285194
+            - generic [ref=f6e3007]:
+              - generic:
+                - img "Apple IPHONE 13 PRO MAX SIERRA BLUE 128GB YENILENMIS B KALITE (12 AY GARANTILI)"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3010]
+                - generic: 10 Günün En Düşük Fiyatı
+            - generic [ref=f6e3012]:
+              - heading "AppleResmi satıcı rozeti IPHONE 13 PRO MAX SIERRA BLUE 128GB YENILENMIS B KALITE (12 AY GARANTILI)" [level=2] [ref=f6e3013]:
+                - generic [ref=f6e3014]:
+                  - generic [ref=f6e3015]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3016]
+                  - generic [ref=f6e3017]: IPHONE 13 PRO MAX SIERRA BLUE 128GB YENILENMIS B KALITE (12 AY GARANTILI)
+              - generic [ref=f6e3021]:
+                - generic [ref=f6e3022]: 🧡
+                - generic [ref=f6e3023]: 1B kişi favoriledi!
+              - generic [ref=f6e3024]:
+                - generic [ref=f6e3025]: "3.4"
+                - generic [ref=f6e3046]: (9)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3047]
+              - generic [ref=f6e3048]:
+                - generic [ref=f6e3050]:
+                  - generic [ref=f6e3052]:
+                    - img "Sepet ikonu" [ref=f6e3053]
+                    - generic [ref=f6e3054]: Net 400 TL İndirim
+                  - generic [ref=f6e3055]: Kargo Bedava
+                  - generic [ref=f6e3060]: 500 TL Kupon
+                  - generic [ref=f6e3066]:
+                    - img "Sepet ikonu" [ref=f6e3067]
+                    - generic [ref=f6e3068]: Net 400 TL İndirim
+                - generic [ref=f6e3070]:
+                  - generic [ref=f6e3071]: Sepette
+                  - generic [ref=f6e3072]: 39.989 TL
+                  - generic [ref=f6e3073]: 40.389 TL
+                - generic [ref=f6e3075]:
+                  - generic [ref=f6e3076]: Trendyol Plus ile
+                  - generic [ref=f6e3077]: 39.889 TL
+            - button "Sepete Ekle" [ref=f6e3080]
+          - link "Apple Yenilenmiş iPhone 14 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)... Damga Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone 14 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 8,4B kişi favoriledi! 4.0 (76) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 32.299,05 TL 33.999 TL Sepete Ekle" [ref=f6e3081] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-14-128-gb-yildiz-isigi-cep-telefonu-12-ay-garantili-a-kalite-p-818438059?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e3082]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 14 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3085]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e3087]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 14 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e3088]:
+                - generic [ref=f6e3089]:
+                  - generic [ref=f6e3090]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3091]
+                  - generic [ref=f6e3092]: Yenilenmiş iPhone 14 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e3096]:
+                - generic [ref=f6e3097]: 🧡
+                - generic [ref=f6e3098]: 8,4B kişi favoriledi!
+              - generic [ref=f6e3099]:
+                - generic [ref=f6e3100]: "4.0"
+                - generic [ref=f6e3121]: (76)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3122]
+              - generic [ref=f6e3123]:
+                - generic [ref=f6e3125]:
+                  - generic [ref=f6e3127]:
+                    - img "Sepet ikonu" [ref=f6e3128]
+                    - generic [ref=f6e3129]: Sepette %5 indirim
+                  - generic [ref=f6e3130]: Kargo Bedava
+                  - generic [ref=f6e3135]: 500 TL Kupon
+                  - generic [ref=f6e3141]:
+                    - img "Sepet ikonu" [ref=f6e3142]
+                    - generic [ref=f6e3143]: Sepette %5 indirim
+                - generic [ref=f6e3145]:
+                  - generic [ref=f6e3146]: Sepette
+                  - generic [ref=f6e3147]: 32.299,05 TL
+                  - generic [ref=f6e3148]: 33.999 TL
+            - button "Sepete Ekle" [ref=f6e3151]
+          - link "Apple Yenilenmiş Apple iPhone 14 Pro 128 GB Uzay Siyahı Cep Telefonu (12 Ay G... Damga Favorilere Ekle 3 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş Apple iPhone 14 Pro 128 GB Uzay Siyahı Cep Telefonu (12 Ay Garantili) - B Kalite 🚀 3 günde 318 kişi ekledi! 3.9 (17) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 46.435,05 TL 48.879 TL Sepete Ekle" [ref=f6e3152] [cursor=pointer]:
+            - /url: /apple/yenilenmis-apple-iphone-14-pro-128-gb-uzay-siyahi-cep-telefonu-12-ay-garantili-b-kalite-p-848552214?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e3153]:
+              - generic:
+                - img "Apple Yenilenmiş Apple iPhone 14 Pro 128 GB Uzay Siyahı Cep Telefonu (12 Ay G..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e3156]
+                    - button "3 renk seçeneği" [ref=f6e3158]:
+                      - generic [ref=f6e3160]: "3"
+            - generic [ref=f6e3161]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş Apple iPhone 14 Pro 128 GB Uzay Siyahı Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e3162]:
+                - generic [ref=f6e3163]:
+                  - generic [ref=f6e3164]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3165]
+                  - generic [ref=f6e3166]: Yenilenmiş Apple iPhone 14 Pro 128 GB Uzay Siyahı Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e3170]:
+                - generic [ref=f6e3171]: 🚀
+                - generic [ref=f6e3172]: 3 günde 318 kişi ekledi!
+              - generic [ref=f6e3173]:
+                - generic [ref=f6e3174]: "3.9"
+                - generic [ref=f6e3195]: (17)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3196]
+              - generic [ref=f6e3197]:
+                - generic [ref=f6e3199]:
+                  - generic [ref=f6e3201]:
+                    - img "Sepet ikonu" [ref=f6e3202]
+                    - generic [ref=f6e3203]: Sepette %5 indirim
+                  - generic [ref=f6e3204]: Kargo Bedava
+                  - generic [ref=f6e3209]: 750 TL Kupon
+                  - generic [ref=f6e3215]:
+                    - img "Sepet ikonu" [ref=f6e3216]
+                    - generic [ref=f6e3217]: Sepette %5 indirim
+                - generic [ref=f6e3219]:
+                  - generic [ref=f6e3220]: Sepette
+                  - generic [ref=f6e3221]: 46.435,05 TL
+                  - generic [ref=f6e3222]: 48.879 TL
+            - button "Sepete Ekle" [ref=f6e3225]
+          - link "Apple Yenilenmiş iPhone 15 128 GB Mavi Cep Telefonu (12 Ay Garantili) - A Kalite Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 15 128 GB Mavi Cep Telefonu (12 Ay Garantili) - A Kalite 🚀 3 günde 367 kişi ekledi! 4.1 (80) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 44.706,05 TL 47.059 TL Sepete Ekle" [ref=f6e3226] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-15-128-gb-mavi-cep-telefonu-12-ay-garantili-a-kalite-p-866938992?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e3227]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 15 128 GB Mavi Cep Telefonu (12 Ay Garantili) - A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3230]
+            - generic [ref=f6e3232]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 15 128 GB Mavi Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e3233]:
+                - generic [ref=f6e3234]:
+                  - generic [ref=f6e3235]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3236]
+                  - generic [ref=f6e3237]: Yenilenmiş iPhone 15 128 GB Mavi Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e3241]:
+                - generic [ref=f6e3242]: 🚀
+                - generic [ref=f6e3243]: 3 günde 367 kişi ekledi!
+              - generic [ref=f6e3244]:
+                - generic [ref=f6e3245]: "4.1"
+                - generic [ref=f6e3267]: (80)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3268]
+              - generic [ref=f6e3269]:
+                - generic [ref=f6e3271]:
+                  - generic [ref=f6e3273]:
+                    - img "Sepet ikonu" [ref=f6e3274]
+                    - generic [ref=f6e3275]: Sepette %5 indirim
+                  - generic [ref=f6e3276]: Kargo Bedava
+                  - generic [ref=f6e3281]: 750 TL Kupon
+                  - generic [ref=f6e3287]:
+                    - img "Sepet ikonu" [ref=f6e3288]
+                    - generic [ref=f6e3289]: Sepette %5 indirim
+                - generic [ref=f6e3291]:
+                  - generic [ref=f6e3292]: Sepette
+                  - generic [ref=f6e3293]: 44.706,05 TL
+                  - generic [ref=f6e3294]: 47.059 TL
+            - button "Sepete Ekle" [ref=f6e3297]
+          - link "Apple Yenilenmiş iPhone 14 Pro 128 GB Derin Mor Cep Telefonu (12 Ay Garantili... Damga Favorilere Ekle 2 renk seçeneği En Çok Ziyaret Edilen 10. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 14 Pro 128 GB Derin Mor Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 18,9B kişi favoriledi! 3.6 (76) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 48.838,55 TL 51.409 TL Sepete Ekle" [ref=f6e3298] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-14-pro-128-gb-derin-mor-cep-telefonu-12-ay-garantili-a-kalite-p-816506915?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e3299]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 14 Pro 128 GB Derin Mor Cep Telefonu (12 Ay Garantili..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e3302]
+                    - button "2 renk seçeneği" [ref=f6e3304]:
+                      - generic [ref=f6e3306]: "2"
+                - generic: En Çok Ziyaret Edilen 10. Ürün
+            - generic [ref=f6e3307]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 14 Pro 128 GB Derin Mor Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e3308]:
+                - generic [ref=f6e3309]:
+                  - generic [ref=f6e3310]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3311]
+                  - generic [ref=f6e3312]: Yenilenmiş iPhone 14 Pro 128 GB Derin Mor Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e3316]:
+                - generic [ref=f6e3317]: 🧡
+                - generic [ref=f6e3318]: 18,9B kişi favoriledi!
+              - generic [ref=f6e3319]:
+                - generic [ref=f6e3320]: "3.6"
+                - generic [ref=f6e3341]: (76)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3342]
+              - generic [ref=f6e3343]:
+                - generic [ref=f6e3345]:
+                  - generic [ref=f6e3347]:
+                    - img "Sepet ikonu" [ref=f6e3348]
+                    - generic [ref=f6e3349]: Sepette %5 indirim
+                  - generic [ref=f6e3350]: Kargo Bedava
+                  - generic [ref=f6e3355]: 750 TL Kupon
+                  - generic [ref=f6e3361]:
+                    - img "Sepet ikonu" [ref=f6e3362]
+                    - generic [ref=f6e3363]: Sepette %5 indirim
+                - generic [ref=f6e3365]:
+                  - generic [ref=f6e3366]: Sepette
+                  - generic [ref=f6e3367]: 48.838,55 TL
+                  - generic [ref=f6e3368]: 51.409 TL
+            - button "Sepete Ekle" [ref=f6e3371]
+          - link "Apple Yenilenmiş iPhone 13 256 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 13 256 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 5,5B kişi favoriledi! 3.8 (71) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 33.382,05 TL 35.139 TL Sepete Ekle" [ref=f6e3372] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-256-gb-yildiz-isigi-cep-telefonu-12-ay-garantili-a-kalite-p-690990543?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e3373]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 13 256 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3376]
+            - generic [ref=f6e3378]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 256 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e3379]:
+                - generic [ref=f6e3380]:
+                  - generic [ref=f6e3381]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3382]
+                  - generic [ref=f6e3383]: Yenilenmiş iPhone 13 256 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e3387]:
+                - generic [ref=f6e3388]: 🧡
+                - generic [ref=f6e3389]: 5,5B kişi favoriledi!
+              - generic [ref=f6e3390]:
+                - generic [ref=f6e3391]: "3.8"
+                - generic [ref=f6e3412]: (71)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3413]
+              - generic [ref=f6e3414]:
+                - generic [ref=f6e3416]:
+                  - generic [ref=f6e3418]:
+                    - img "Sepet ikonu" [ref=f6e3419]
+                    - generic [ref=f6e3420]: Sepette %5 indirim
+                  - generic [ref=f6e3421]: Kargo Bedava
+                  - generic [ref=f6e3426]: 750 TL Kupon
+                  - generic [ref=f6e3432]:
+                    - img "Sepet ikonu" [ref=f6e3433]
+                    - generic [ref=f6e3434]: Sepette %5 indirim
+                - generic [ref=f6e3436]:
+                  - generic [ref=f6e3437]: Sepette
+                  - generic [ref=f6e3438]: 33.382,05 TL
+                  - generic [ref=f6e3439]: 35.139 TL
+            - button "Sepete Ekle" [ref=f6e3442]
+          - link "Apple Yenilenmiş iPhone 13 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Ka... Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 13B kişi favoriledi! 4.3 (199) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 26.575,30 TL 27.974 TL Sepete Ekle" [ref=f6e3443] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-128-gb-siyah-cep-telefonu-12-ay-garantili-b-kalite-p-802527489?boutiqueId=61&merchantId=992531
+            - generic [ref=f6e3444]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 13 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3447]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e3449]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e3450]:
+                - generic [ref=f6e3451]:
+                  - generic [ref=f6e3452]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3453]
+                  - generic [ref=f6e3454]: Yenilenmiş iPhone 13 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e3458]:
+                - generic [ref=f6e3459]: 🧡
+                - generic [ref=f6e3460]: 13B kişi favoriledi!
+              - generic [ref=f6e3461]:
+                - generic [ref=f6e3462]: "4.3"
+                - generic [ref=f6e3484]: (199)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3485]
+              - generic [ref=f6e3486]:
+                - generic [ref=f6e3488]:
+                  - generic [ref=f6e3490]:
+                    - img "Sepet ikonu" [ref=f6e3491]
+                    - generic [ref=f6e3492]: Sepette %5 indirim
+                  - generic [ref=f6e3493]: Kargo Bedava
+                  - generic [ref=f6e3498]: 500 TL Kupon
+                  - generic [ref=f6e3504]:
+                    - img "Sepet ikonu" [ref=f6e3505]
+                    - generic [ref=f6e3506]: Sepette %5 indirim
+                - generic [ref=f6e3508]:
+                  - generic [ref=f6e3509]: Sepette
+                  - generic [ref=f6e3510]: 26.575,30 TL
+                  - generic [ref=f6e3511]: 27.974 TL
+            - button "Sepete Ekle" [ref=f6e3514]
+          - link "Apple Yenilenmiş IPHONE 15 PRO MAX 512GB -A Kalite- Natural Titanyum Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş IPHONE 15 PRO MAX 512GB -A Kalite- Natural Titanyum 🧡 12,4B kişi favoriledi! 4.5 (126) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 79.326,90 TL 83.502 TL Sepete Ekle" [ref=f6e3515] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-15-pro-max-512gb-a-kalite-natural-titanyum-p-904067629?boutiqueId=61&merchantId=992531
+            - generic [ref=f6e3516]:
+              - generic:
+                - img "Apple Yenilenmiş IPHONE 15 PRO MAX 512GB -A Kalite- Natural Titanyum"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3519]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e3521]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş IPHONE 15 PRO MAX 512GB -A Kalite- Natural Titanyum" [level=2] [ref=f6e3522]:
+                - generic [ref=f6e3523]:
+                  - generic [ref=f6e3524]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3525]
+                  - generic [ref=f6e3526]: Yenilenmiş IPHONE 15 PRO MAX 512GB -A Kalite- Natural Titanyum
+              - generic [ref=f6e3530]:
+                - generic [ref=f6e3531]: 🧡
+                - generic [ref=f6e3532]: 12,4B kişi favoriledi!
+              - generic [ref=f6e3533]:
+                - generic [ref=f6e3534]: "4.5"
+                - generic [ref=f6e3556]: (126)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3557]
+              - generic [ref=f6e3558]:
+                - generic [ref=f6e3560]:
+                  - generic [ref=f6e3562]:
+                    - img "Sepet ikonu" [ref=f6e3563]
+                    - generic [ref=f6e3564]: Sepette %5 indirim
+                  - generic [ref=f6e3565]: Kargo Bedava
+                  - generic [ref=f6e3570]: 500 TL Kupon
+                  - generic [ref=f6e3576]:
+                    - img "Sepet ikonu" [ref=f6e3577]
+                    - generic [ref=f6e3578]: Sepette %5 indirim
+                - generic [ref=f6e3580]:
+                  - generic [ref=f6e3581]: Sepette
+                  - generic [ref=f6e3582]: 79.326,90 TL
+                  - generic [ref=f6e3583]: 83.502 TL
+            - button "Sepete Ekle" [ref=f6e3586]
+          - link "Apple Yenilenmiş iPhone 15 Pro Max 256 GB Naturel Titanyum Cep Telefonu (12 A... Damga Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 15 Pro Max 256 GB Naturel Titanyum Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 1,1B kişi favoriledi! 2.9 (9) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 70.299,05 TL 73.999 TL Sepete Ekle" [ref=f6e3587] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-15-pro-max-256-gb-naturel-titanyum-cep-telefonu-12-ay-garantili-a-kalite-p-931814571?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e3588]:
+              - img "Apple Yenilenmiş iPhone 15 Pro Max 256 GB Naturel Titanyum Cep Telefonu (12 A..." [ref=f6e3590]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3593]
+            - generic [ref=f6e3595]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 15 Pro Max 256 GB Naturel Titanyum Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e3596]:
+                - generic [ref=f6e3597]:
+                  - generic [ref=f6e3598]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3599]
+                  - generic [ref=f6e3600]: Yenilenmiş iPhone 15 Pro Max 256 GB Naturel Titanyum Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e3604]:
+                - generic [ref=f6e3605]: 🧡
+                - generic [ref=f6e3606]: 1,1B kişi favoriledi!
+              - generic [ref=f6e3607]:
+                - generic [ref=f6e3608]: "2.9"
+                - generic [ref=f6e3628]: (9)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3629]
+              - generic [ref=f6e3630]:
+                - generic [ref=f6e3632]:
+                  - generic [ref=f6e3634]:
+                    - img "Sepet ikonu" [ref=f6e3635]
+                    - generic [ref=f6e3636]: Sepette %5 indirim
+                  - generic [ref=f6e3637]: Kargo Bedava
+                  - generic [ref=f6e3642]: 500 TL Kupon
+                  - generic [ref=f6e3648]:
+                    - img "Sepet ikonu" [ref=f6e3649]
+                    - generic [ref=f6e3650]: Sepette %5 indirim
+                - generic [ref=f6e3652]:
+                  - generic [ref=f6e3653]: Sepette
+                  - generic [ref=f6e3654]: 70.299,05 TL
+                  - generic [ref=f6e3655]: 73.999 TL
+            - button "Sepete Ekle" [ref=f6e3658]
+          - link "Apple Yenilenmiş iPhone 16e 128 GB Beyaz (12 Ay Garantili) - B Grade Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 16e 128 GB Beyaz (12 Ay Garantili) - B Grade B seviye-Çok İyi Kargo Bedava 750 TL Kupon Kargo Bedava 35.649 TL Sepete Ekle" [ref=f6e3659] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-16e-128-gb-beyaz-12-ay-garantili-b-grade-p-1123705025?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e3660]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 16e 128 GB Beyaz (12 Ay Garantili) - B Grade"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3663]
+            - generic [ref=f6e3665]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 16e 128 GB Beyaz (12 Ay Garantili) - B Grade" [level=2] [ref=f6e3666]:
+                - generic [ref=f6e3667]:
+                  - generic [ref=f6e3668]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3669]
+                  - generic [ref=f6e3670]: Yenilenmiş iPhone 16e 128 GB Beyaz (12 Ay Garantili) - B Grade
+              - generic [ref=f6e3671]: B seviye-Çok İyi
+              - generic [ref=f6e3675]:
+                - generic [ref=f6e3677]:
+                  - generic [ref=f6e3678]: Kargo Bedava
+                  - generic [ref=f6e3683]: 750 TL Kupon
+                  - generic [ref=f6e3688]: Kargo Bedava
+                - generic [ref=f6e3693]: 35.649 TL
+            - button "Sepete Ekle" [ref=f6e3697]
+          - link "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - B Ka... Damga Favorilere Ekle 3 renk seçeneği En Çok Favorilenen 5. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 63,1B kişi favoriledi! 3.9 (191) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 27.330,55 TL 28.769 TL Sepete Ekle" [ref=f6e3698] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-13-128-gb-pembe-cep-telefonu-12-ay-garantili-b-kalite-p-647509173?boutiqueId=61&merchantId=285194
+            - generic [ref=f6e3699]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - B Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e3702]
+                    - button "3 renk seçeneği" [ref=f6e3704]:
+                      - generic [ref=f6e3706]: "3"
+                - generic: En Çok Favorilenen 5. Ürün
+            - generic [ref=f6e3707]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e3708]:
+                - generic [ref=f6e3709]:
+                  - generic [ref=f6e3710]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3711]
+                  - generic [ref=f6e3712]: Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e3716]:
+                - generic [ref=f6e3717]: 🧡
+                - generic [ref=f6e3718]: 63,1B kişi favoriledi!
+              - generic [ref=f6e3719]:
+                - generic [ref=f6e3720]: "3.9"
+                - generic [ref=f6e3741]: (191)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3742]
+              - generic [ref=f6e3743]:
+                - generic [ref=f6e3745]:
+                  - generic [ref=f6e3747]:
+                    - img "Sepet ikonu" [ref=f6e3748]
+                    - generic [ref=f6e3749]: Sepette %5 indirim
+                  - generic [ref=f6e3750]: Kargo Bedava
+                  - generic [ref=f6e3755]: 500 TL Kupon
+                  - generic [ref=f6e3761]:
+                    - img "Sepet ikonu" [ref=f6e3762]
+                    - generic [ref=f6e3763]: Sepette %5 indirim
+                - generic [ref=f6e3765]:
+                  - generic [ref=f6e3766]: Sepette
+                  - generic [ref=f6e3767]: 27.330,55 TL
+                  - generic [ref=f6e3768]: 28.769 TL
+            - button "Sepete Ekle" [ref=f6e3771]
+          - link "Apple iPhone 14 Pro Max 256GB Gümüş - Yenilenmis - A Kalite Damga Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti iPhone 14 Pro Max 256GB Gümüş - Yenilenmis - A Kalite 🧡 2,2B kişi favoriledi! 4.2 (18) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 55.099,05 TL 57.999 TL Sepete Ekle" [ref=f6e3772] [cursor=pointer]:
+            - /url: /apple/iphone-14-pro-max-256gb-gumus-yenilenmis-a-kalite-p-840052499?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e3773]:
+              - generic:
+                - img "Apple iPhone 14 Pro Max 256GB Gümüş - Yenilenmis - A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3778]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e3780]:
+              - heading "AppleResmi satıcı rozeti iPhone 14 Pro Max 256GB Gümüş - Yenilenmis - A Kalite" [level=2] [ref=f6e3781]:
+                - generic [ref=f6e3782]:
+                  - generic [ref=f6e3783]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3784]
+                  - generic [ref=f6e3785]: iPhone 14 Pro Max 256GB Gümüş - Yenilenmis - A Kalite
+              - generic [ref=f6e3789]:
+                - generic [ref=f6e3790]: 🧡
+                - generic [ref=f6e3791]: 2,2B kişi favoriledi!
+              - generic [ref=f6e3792]:
+                - generic [ref=f6e3793]: "4.2"
+                - generic [ref=f6e3815]: (18)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3816]
+              - generic [ref=f6e3817]:
+                - generic [ref=f6e3819]:
+                  - generic [ref=f6e3821]:
+                    - img "Sepet ikonu" [ref=f6e3822]
+                    - generic [ref=f6e3823]: Sepette %5 indirim
+                  - generic [ref=f6e3824]: Kargo Bedava
+                  - generic [ref=f6e3829]: 500 TL Kupon
+                  - generic [ref=f6e3835]:
+                    - img "Sepet ikonu" [ref=f6e3836]
+                    - generic [ref=f6e3837]: Sepette %5 indirim
+                - generic [ref=f6e3839]:
+                  - generic [ref=f6e3840]: Sepette
+                  - generic [ref=f6e3841]: 55.099,05 TL
+                  - generic [ref=f6e3842]: 57.999 TL
+            - button "Sepete Ekle" [ref=f6e3845]
+          - link "Apple Yenilenmiş iPhone 15 Pro 128 GB Mavi Titanyum A Kalite Damga Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 15 Pro 128 GB Mavi Titanyum A Kalite 🧡 913 kişi favoriledi! 4.1 (9) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 59.374,05 TL 62.499 TL Sepete Ekle" [ref=f6e3846] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-15-pro-128-gb-mavi-titanyum-a-kalite-p-931814399?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e3847]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 15 Pro 128 GB Mavi Titanyum A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e3850]
+            - generic [ref=f6e3852]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 15 Pro 128 GB Mavi Titanyum A Kalite" [level=2] [ref=f6e3853]:
+                - generic [ref=f6e3854]:
+                  - generic [ref=f6e3855]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e3856]
+                  - generic [ref=f6e3857]: Yenilenmiş iPhone 15 Pro 128 GB Mavi Titanyum A Kalite
+              - generic [ref=f6e3861]:
+                - generic [ref=f6e3862]: 🧡
+                - generic [ref=f6e3863]: 913 kişi favoriledi!
+              - generic [ref=f6e3864]:
+                - generic [ref=f6e3865]: "4.1"
+                - generic [ref=f6e3887]: (9)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e3888]
+              - generic [ref=f6e3889]:
+                - generic [ref=f6e3891]:
+                  - generic [ref=f6e3893]:
+                    - img "Sepet ikonu" [ref=f6e3894]
+                    - generic [ref=f6e3895]: Sepette %5 indirim
+                  - generic [ref=f6e3896]: Kargo Bedava
+                  - generic [ref=f6e3901]: 500 TL Kupon
+                  - generic [ref=f6e3907]:
+                    - img "Sepet ikonu" [ref=f6e3908]
+                    - generic [ref=f6e3909]: Sepette %5 indirim
+                - generic [ref=f6e3911]:
+                  - generic [ref=f6e3912]: Sepette
+                  - generic [ref=f6e3913]: 59.374,05 TL
+                  - generic [ref=f6e3914]: 62.499 TL
+            - button "Sepete Ekle" [ref=f6e3917]
+        - button "Yukarı çık"
+      - generic [ref=f6e1471]:
+        - generic [ref=f6e1867]:
+          - button "Kategori filter" [expanded] [ref=f6e1868] [cursor=pointer]:
+            - heading "Kategori" [level=3] [ref=f6e1869]
+          - generic [ref=f6e1875]:
+            - generic [ref=f6e3919] [cursor=pointer]:
+              - checkbox "Yenilenmiş Cep Telefonu" [checked] [ref=f6e3920]
+              - generic [ref=f6e3922]: Yenilenmiş Cep Telefonu
+            - generic [ref=f6e3924] [cursor=pointer]:
+              - checkbox "Tuşlu Cep Telefonu" [checked] [ref=f6e3925]
+              - generic [ref=f6e3927]: Tuşlu Cep Telefonu
+            - generic [ref=f6e3929] [cursor=pointer]:
+              - checkbox "Telsiz & Masaüstü Telefon" [checked] [ref=f6e3930]
+              - generic [ref=f6e3932]: Telsiz & Masaüstü Telefon
+        - generic [ref=f6e1891]:
+          - button "Marka filter" [expanded] [ref=f6e1892] [cursor=pointer]:
+            - heading "Marka" [level=3] [ref=f6e1893]
+          - generic [ref=f6e1898]:
+            - textbox "Marka Ara" [ref=f6e1900]
+            - group "Marka filter options" [ref=f6e3935]:
+              - generic [ref=f6e3937]:
+                - paragraph [ref=f6e3939]: Popüler Markalar
+                - generic [ref=f6e3942] [cursor=pointer]:
+                  - checkbox "Apple" [checked] [ref=f6e3943]
+                  - generic [ref=f6e3945]: Apple
+                - paragraph [ref=f6e3947]: Tüm Markalar
+                - generic [ref=f6e3950] [cursor=pointer]:
+                  - checkbox "Alcatel" [ref=f6e3951]
+                  - generic [ref=f6e3953]: Alcatel
+                - generic [ref=f6e3956] [cursor=pointer]:
+                  - checkbox "AntikHacı" [ref=f6e3957]
+                  - generic [ref=f6e3959]: AntikHacı
+                - generic [ref=f6e3962] [cursor=pointer]:
+                  - checkbox "Arçelik" [ref=f6e3963]
+                  - generic [ref=f6e3965]: Arçelik
+                - generic [ref=f6e3968] [cursor=pointer]:
+                  - checkbox "Aselsan" [ref=f6e3969]
+                  - generic [ref=f6e3971]: Aselsan
+                - generic [ref=f6e3974] [cursor=pointer]:
+                  - checkbox "ASPİLSAN" [ref=f6e3975]
+                  - generic [ref=f6e3977]: ASPİLSAN
+                - generic [ref=f6e3980] [cursor=pointer]:
+                  - checkbox "Auris" [ref=f6e3981]
+                  - generic [ref=f6e3983]: Auris
+                - generic [ref=f6e3986] [cursor=pointer]:
+                  - checkbox "BAOFENG" [ref=f6e3987]
+                  - generic [ref=f6e3989]: BAOFENG
+                - generic [ref=f6e3992] [cursor=pointer]:
+                  - checkbox "BB Mobile" [ref=f6e3993]
+                  - generic [ref=f6e3995]: BB Mobile
+                - generic [ref=f6e3998] [cursor=pointer]:
+                  - checkbox "Bilicra" [ref=f6e3999]
+                  - generic [ref=f6e4001]: Bilicra
+                - generic [ref=f6e4004] [cursor=pointer]:
+                  - checkbox "Cytac" [ref=f6e4005]
+                  - generic [ref=f6e4007]: Cytac
+                - generic [ref=f6e4010] [cursor=pointer]:
+                  - checkbox "DIAMOND" [ref=f6e4011]
+                  - generic [ref=f6e4013]: DIAMOND
+        - generic [ref=f6e1988]:
+          - button "Avantajlı Ürünler filter" [expanded] [ref=f6e1989] [cursor=pointer]:
+            - heading "Avantajlı Ürünler" [level=3] [ref=f6e1990]
+          - generic [ref=f6e1996]:
+            - generic [ref=f6e1998] [cursor=pointer]:
+              - checkbox "Süper Avantajlı Ürün" [ref=f6e1999]
+              - generic [ref=f6e2001]: Süper Avantajlı Ürün
+            - generic [ref=f6e2003] [cursor=pointer]:
+              - checkbox "Çok Avantajlı Ürün" [ref=f6e2004]
+              - generic [ref=f6e2006]: Çok Avantajlı Ürün
+            - generic [ref=f6e2008] [cursor=pointer]:
+              - checkbox "Avantajlı Ürün" [ref=f6e2009]
+              - generic [ref=f6e2011]: Avantajlı Ürün
+        - button "Cep Telefonu Modeli filter" [ref=f6e4015] [cursor=pointer]:
+          - heading "Cep Telefonu Modeli" [level=3] [ref=f6e4016]
+        - button "Kozmetik Durum filter" [ref=f6e4021] [cursor=pointer]:
+          - heading "Kozmetik Durum" [level=3] [ref=f6e4022]
+        - button "Ürün Puanı filter" [ref=f6e4027] [cursor=pointer]:
+          - heading "Ürün Puanı" [level=3] [ref=f6e4028]
+        - button "Fiyat filter" [ref=f6e4033] [cursor=pointer]:
+          - heading "Fiyat" [level=3] [ref=f6e4034]
+        - button "Ekran Boyutu filter" [ref=f6e4039] [cursor=pointer]:
+          - heading "Ekran Boyutu" [level=3] [ref=f6e4040]
+        - button "Satıcı Tipi filter" [ref=f6e4045] [cursor=pointer]:
+          - heading "Satıcı Tipi" [level=3] [ref=f6e4046]
+          - generic [ref=f6e4047]: Satıcı Tipi Nedir?
+        - button "Garanti Tipi filter" [ref=f6e4053] [cursor=pointer]:
+          - heading "Garanti Tipi" [level=3] [ref=f6e4054]
+        - button "Renk filter" [ref=f6e4059] [cursor=pointer]:
+          - heading "Renk" [level=3] [ref=f6e4060]
+        - button "RAM Kapasitesi filter" [ref=f6e4065] [cursor=pointer]:
+          - heading "RAM Kapasitesi" [level=3] [ref=f6e4066]
+        - button "Trendyol Plus" [ref=f6e4070]:
+          - heading "Trendyol Plus" [level=3] [ref=f6e4072] [cursor=pointer]
+        - button "Kurumsal Faturaya Uygun" [ref=f6e4076]:
+          - heading "Kurumsal Faturaya Uygun" [level=3] [ref=f6e4078] [cursor=pointer]
+        - button "Fiyat Geçmişi filter" [ref=f6e4083] [cursor=pointer]:
+          - heading "Fiyat Geçmişi" [level=3] [ref=f6e4084]
+        - button "Fenomenlerin Seçtikleri" [ref=f6e4088]:
+          - heading "Fenomenlerin Seçtikleri" [level=3] [ref=f6e4090] [cursor=pointer]
+        - button "Kuponlu Ürünler" [ref=f6e4094]:
+          - heading "Kuponlu Ürünler" [level=3] [ref=f6e4096] [cursor=pointer]
+        - button "Çok Al Az Öde" [ref=f6e4100]:
+          - heading "Çok Al Az Öde" [level=3] [ref=f6e4102] [cursor=pointer]
+        - button "Özellik filter" [ref=f6e4107] [cursor=pointer]:
+          - heading "Özellik" [level=3] [ref=f6e4108]
+        - button "Ek Hizmetler" [ref=f6e4112]:
+          - heading "Ek Hizmetler" [level=3] [ref=f6e4114] [cursor=pointer]
+        - button "Toplu Satışa Uygun" [ref=f6e4118]:
+          - heading "Toplu Satışa Uygun" [level=3] [ref=f6e4120] [cursor=pointer]
+        - button "Fotoğraflı Yorumlar" [ref=f6e4124]:
+          - heading "Fotoğraflı Yorumlar" [level=3] [ref=f6e4126] [cursor=pointer]
+        - button "Videolu Ürünler" [ref=f6e4130]:
+          - heading "Videolu Ürünler" [level=3] [ref=f6e4132] [cursor=pointer]
+        - generic [ref=f6e2164]: Sponsorlu ürünler reklam niteliğinde olup satıcıları tarafından öne çıkartılmaktadır.
+  - contentinfo [ref=f6e1563]:
+    - img "Group 2" [ref=f6e1565]
+    - generic [ref=f6e1570]:
+      - generic [ref=f6e1572]:
+        - generic [ref=f6e1573]:
+          - generic [ref=f6e1574]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f6e1579] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f6e1581] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f6e1583] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f6e1585] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f6e1587] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f6e1588]:
+          - generic [ref=f6e1589]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f6e1594] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f6e1596] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f6e1598] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f6e1599]:
+          - link "Satıcı" [ref=f6e1602] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f6e1606] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f6e1608] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f6e1610] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f6e1611]:
+          - generic [ref=f6e1612]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f6e1617] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f6e1619] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f6e1621] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f6e1623] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f6e1624]:
+          - generic [ref=f6e1625]:
+            - link "Ülke Değiştir" [ref=f6e1628] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f6e1629] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f6e1630]
+              - generic [ref=f6e1631]: Ülke Seç
+          - generic [ref=f6e1632]: Güvenli Alışveriş
+          - generic [ref=f6e1636]:
+            - generic [ref=f6e1637]: Güvenlik Sertifikası
+            - generic [ref=f6e1639]:
+              - link [ref=f6e1640] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f6e1642]
+              - link [ref=f6e1643] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f6e1645]
+              - img "PCI DSS" [ref=f6e1647]
+              - img "information security standard" [ref=f6e1649]
+      - generic [ref=f6e1652]:
+        - generic [ref=f6e1653]:
+          - generic [ref=f6e1654]:
+            - link "instagram-icon" [ref=f6e1655] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f6e1656]
+            - link "tiktok-icon" [ref=f6e1657] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f6e1658]
+            - link "youtube-icon" [ref=f6e1659] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f6e1660]
+            - link "facebook-icon" [ref=f6e1661] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f6e1662]
+            - link "x-icon" [ref=f6e1663] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f6e1664]
+          - generic [ref=f6e1665]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f6e1666]:
+          - generic [ref=f6e1667]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f6e1668]:
+            - link "Çerez Tercihleri" [ref=f6e1669] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f6e1670] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f6e1671] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f6e1672] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able yardım teknolojisi. ALT ile açın ve TAB ile 1. işlem yapın. Esc ile bırakın."

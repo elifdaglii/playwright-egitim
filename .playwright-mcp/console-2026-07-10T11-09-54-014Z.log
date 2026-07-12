@@ -1,0 +1,6 @@
+[    1289ms] [LOG] Ring check is less than one hour 1783681125171 @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1306ms] [LOG] Ring check is less than one hour 1783681125171 @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1779ms] [ERROR] Props of sd-basket-highlight fragment is not present! @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1785ms] [ERROR] Props of web-navigation-account-menu fragment is not present! @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1844ms] [LOG] KBT "RemoveFromBasket" initialized successfully. @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1845ms] [LOG] KBT "AddToBasket" initialized successfully. @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0

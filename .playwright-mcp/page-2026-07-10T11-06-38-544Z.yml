@@ -1,0 +1,818 @@
+- generic [active] [ref=f6e1]:
+  - banner [ref=f6e2]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7] [cursor=pointer]:
+        - button "Menu" [ref=f6e8]
+        - link "Trendyol" [ref=f6e10]:
+          - /url: /
+      - button "Search icon Ürün, kategori veya marka ara" [ref=f6e14]:
+        - img "Search icon" [ref=f6e15]
+        - generic [ref=f6e16]: Ürün, kategori veya marka ara
+      - generic [ref=f6e17]:
+        - link "Giriş Yap" [ref=f6e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fwc%3D109460%2C109459%2C109461%2C104034
+        - link "Favorilerim" [ref=f6e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f6e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f6e30]:
+    - generic [ref=f6e36]:
+      - generic [ref=f6e38]:
+        - heading [level=1]
+        - generic [ref=f6e39]: 6349+ Ürün
+      - button "Önerilen Sıralama sıralama" [ref=f6e49] [cursor=pointer]:
+        - generic [ref=f6e50]: Önerilen Sıralama
+        - img "sıralama" [ref=f6e51]
+      - generic [ref=f6e54]:
+        - link "Miosal Samsung(Orjinal Btk kayıtlı )Yüksek Ses Kalitesi Yaşlı Asker B310 Tuşl... Favorilere Ekle En Çok Satan 1. Ürün Miosal Samsung(Orjinal Btk kayıtlı )Yüksek Ses Kalitesi Yaşlı Asker B310 Tuşlu Telefon Hızlı Arama Mp3 Kamerasız Lacivert 2.5 (12) Değerlendirme fotoğrafları mevcut Kargo Bedava 1.199 TL Sepete Ekle" [ref=f6e58] [cursor=pointer]:
+          - /url: /miosal/samsung-orjinal-btk-kayitli-yuksek-ses-kalitesi-yasli-asker-b310-tuslu-telefon-hizli-arama-mp3-kamerasiz-lacivert-p-857172217?boutiqueId=61&merchantId=1248135
+          - generic [ref=f6e59]:
+            - img "Miosal Samsung(Orjinal Btk kayıtlı )Yüksek Ses Kalitesi Yaşlı Asker B310 Tuşl..." [ref=f6e61]
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e66]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f6e68]:
+            - heading "Miosal Samsung(Orjinal Btk kayıtlı )Yüksek Ses Kalitesi Yaşlı Asker B310 Tuşlu Telefon Hızlı Arama Mp3 Kamerasız Lacivert" [level=2] [ref=f6e69]:
+              - generic [ref=f6e70]:
+                - text: Miosal
+                - generic [ref=f6e71]: Samsung(Orjinal Btk kayıtlı )Yüksek Ses Kalitesi Yaşlı Asker B310 Tuşlu Telefon Hızlı Arama Mp3 Kamerasız Lacivert
+            - generic [ref=f6e72]:
+              - generic [ref=f6e73]: "2.5"
+              - generic [ref=f6e93]: (12)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e94]
+            - generic [ref=f6e95]:
+              - generic [ref=f6e96]: Kargo Bedava
+              - generic [ref=f6e103]: 1.199 TL
+          - button "Sepete Ekle" [ref=f6e107]
+        - link "Nokia N106 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) Favorilere Ekle En Çok Favorilenen 1. Ürün Nokia N106 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) 3.9 (397) Değerlendirme fotoğrafları mevcut Kargo Bedava 130 TL Kupon Kargo Bedava 2.703 TL Sepete Ekle" [ref=f6e108] [cursor=pointer]:
+          - /url: /nokia/n106-2023-tuslu-cep-telefonu-nokia-turkiye-resmi-distributor-garantili-p-901432491?boutiqueId=61&merchantId=345161
+          - generic [ref=f6e109]:
+            - img "Nokia N106 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)" [ref=f6e111]
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e116]
+              - generic: En Çok Favorilenen 1. Ürün
+          - generic [ref=f6e118]:
+            - heading "Nokia N106 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)" [level=2] [ref=f6e119]:
+              - generic [ref=f6e120]:
+                - text: Nokia
+                - generic [ref=f6e121]: N106 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)
+            - generic [ref=f6e122]:
+              - generic [ref=f6e123]: "3.9"
+              - generic [ref=f6e144]: (397)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e145]
+            - generic [ref=f6e146]:
+              - generic [ref=f6e148]:
+                - generic [ref=f6e149]: Kargo Bedava
+                - generic [ref=f6e154]: 130 TL Kupon
+                - generic [ref=f6e159]: Kargo Bedava
+              - generic [ref=f6e164]: 2.703 TL
+          - button "Sepete Ekle" [ref=f6e168]
+        - link "Flyingvoice P10 Giriş Seviyesi Kurumsal IP Telefon Favorilere Ekle Flyingvoice P10 Giriş Seviyesi Kurumsal IP Telefon Kargo Bedava 3.999 TL Trendyol Plus ile 3.799,05 TL Sepete Ekle" [ref=f6e169] [cursor=pointer]:
+          - /url: /flyingvoice/p10-giris-seviyesi-kurumsal-ip-telefon-p-1166799196?boutiqueId=61&merchantId=1292257
+          - generic [ref=f6e170]:
+            - img "Flyingvoice P10 Giriş Seviyesi Kurumsal IP Telefon" [ref=f6e172]
+            - button "Favorilere Ekle" [ref=f6e177]
+          - generic [ref=f6e179]:
+            - heading "Flyingvoice P10 Giriş Seviyesi Kurumsal IP Telefon" [level=2] [ref=f6e180]:
+              - generic [ref=f6e181]:
+                - text: Flyingvoice
+                - generic [ref=f6e182]: P10 Giriş Seviyesi Kurumsal IP Telefon
+            - generic [ref=f6e183]:
+              - generic [ref=f6e184]: Kargo Bedava
+              - generic [ref=f6e191]: 3.999 TL
+              - generic [ref=f6e194]:
+                - generic [ref=f6e195]: Trendyol Plus ile
+                - generic [ref=f6e196]: 3.799,05 TL
+          - button "Sepete Ekle" [ref=f6e199]
+        - link "PANASONIC KX-TG1611 Siyah DECT Telsiz Telefon – Kablosuz Masaüstü Ev ve Ofis ... Favorilere Ekle En Çok Satan 1. Ürün Panasonic KX-TG1611 Siyah DECT Telsiz Telefon – Kablosuz Masaüstü Ev ve Ofis Telefonu 4.6 (574) Değerlendirme fotoğrafları mevcut Kargo Bedava 2.703 TL Sepete Ekle" [ref=f6e200] [cursor=pointer]:
+          - /url: /panasonic/kx-tg1611-siyah-dect-telsiz-telefon-kablosuz-masaustu-ev-ve-ofis-telefonu-p-2582994?boutiqueId=61&merchantId=117578
+          - generic [ref=f6e201]:
+            - img "PANASONIC KX-TG1611 Siyah DECT Telsiz Telefon – Kablosuz Masaüstü Ev ve Ofis ..." [ref=f6e203]
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e209]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f6e211]:
+            - heading "Panasonic KX-TG1611 Siyah DECT Telsiz Telefon – Kablosuz Masaüstü Ev ve Ofis Telefonu" [level=2] [ref=f6e212]:
+              - generic [ref=f6e213]:
+                - text: Panasonic
+                - generic [ref=f6e214]: KX-TG1611 Siyah DECT Telsiz Telefon – Kablosuz Masaüstü Ev ve Ofis Telefonu
+            - generic [ref=f6e215]:
+              - generic [ref=f6e216]: "4.6"
+              - generic [ref=f6e238]: (574)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e239]
+            - generic [ref=f6e240]:
+              - generic [ref=f6e241]: Kargo Bedava
+              - generic [ref=f6e248]: 2.703 TL
+          - button "Sepete Ekle" [ref=f6e252]
+        - link "Apple Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka... Favorilere Ekle En Çok Satan 2. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.8 (1834) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 13.299,05 TL 13.999 TL Sepete Ekle" [ref=f6e253] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-11-128-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-665663788?boutiqueId=61&merchantId=414188
+          - generic [ref=f6e254]:
+            - img "Apple Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka..." [ref=f6e256]
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e261]
+              - generic: En Çok Satan 2. Ürün
+          - generic [ref=f6e263]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e264]:
+              - generic [ref=f6e265]:
+                - generic [ref=f6e266]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e267]
+                - generic [ref=f6e268]: Yenilenmiş iPhone 11 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e269]: A seviye-Mükemmel
+            - generic [ref=f6e273]:
+              - generic [ref=f6e274]: "3.8"
+              - generic [ref=f6e295]: (1834)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e296]
+            - generic [ref=f6e297]:
+              - generic [ref=f6e299]:
+                - generic [ref=f6e301]:
+                  - img "Sepet ikonu" [ref=f6e302]
+                  - generic [ref=f6e303]: Sepette %5 indirim
+                - generic [ref=f6e304]: Kargo Bedava
+                - generic [ref=f6e309]: 500 TL Kupon
+                - generic [ref=f6e315]:
+                  - img "Sepet ikonu" [ref=f6e316]
+                  - generic [ref=f6e317]: Sepette %5 indirim
+              - generic [ref=f6e319]:
+                - generic [ref=f6e320]: Sepette
+                - generic [ref=f6e321]: 13.299,05 TL
+                - generic [ref=f6e322]: 13.999 TL
+          - button "Sepete Ekle" [ref=f6e325]
+        - link "Flyingvoice P11 Renkli Ekranlı Giriş Seviyesi IP Telefon Favorilere Ekle Flyingvoice P11 Renkli Ekranlı Giriş Seviyesi IP Telefon Sepet ikonu Net %5 İndirim Kargo Bedava Sepet ikonu Net %5 İndirim Sepette 4.369,05 TL 4.599 TL Sepete Ekle" [ref=f6e326] [cursor=pointer]:
+          - /url: /flyingvoice/p11-renkli-ekranli-giris-seviyesi-ip-telefon-p-1167120001?boutiqueId=61&merchantId=1292257
+          - generic [ref=f6e327]:
+            - img "Flyingvoice P11 Renkli Ekranlı Giriş Seviyesi IP Telefon" [ref=f6e329]
+            - button "Favorilere Ekle" [ref=f6e335]
+          - generic [ref=f6e337]:
+            - heading "Flyingvoice P11 Renkli Ekranlı Giriş Seviyesi IP Telefon" [level=2] [ref=f6e338]:
+              - generic [ref=f6e339]:
+                - text: Flyingvoice
+                - generic [ref=f6e340]: P11 Renkli Ekranlı Giriş Seviyesi IP Telefon
+            - generic [ref=f6e341]:
+              - generic [ref=f6e343]:
+                - generic [ref=f6e345]:
+                  - img "Sepet ikonu" [ref=f6e346]
+                  - generic [ref=f6e347]: Net %5 İndirim
+                - generic [ref=f6e348]: Kargo Bedava
+                - generic [ref=f6e354]:
+                  - img "Sepet ikonu" [ref=f6e355]
+                  - generic [ref=f6e356]: Net %5 İndirim
+              - generic [ref=f6e358]:
+                - generic [ref=f6e359]: Sepette
+                - generic [ref=f6e360]: 4.369,05 TL
+                - generic [ref=f6e361]: 4.599 TL
+          - button "Sepete Ekle" [ref=f6e364]
+        - link "TCL Onetouch 5041 64/128Mb Tuşlu Telefon Favorilere Ekle En Çok Satan 3. Ürün TCLResmi satıcı rozeti Onetouch 5041 64/128Mb Tuşlu Telefon 4.2 (83) Değerlendirme fotoğrafları mevcut Kargo Bedava 2.169 TL Sepete Ekle" [ref=f6e365] [cursor=pointer]:
+          - /url: /tcl/onetouch-5041-64-128mb-tuslu-telefon-p-895479248?boutiqueId=61&merchantId=275331
+          - generic [ref=f6e366]:
+            - generic:
+              - img "TCL Onetouch 5041 64/128Mb Tuşlu Telefon"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e372]
+              - generic: En Çok Satan 3. Ürün
+          - generic [ref=f6e374]:
+            - heading "TCLResmi satıcı rozeti Onetouch 5041 64/128Mb Tuşlu Telefon" [level=2] [ref=f6e375]:
+              - generic [ref=f6e376]:
+                - generic [ref=f6e377]:
+                  - text: TCL
+                  - img "Resmi satıcı rozeti" [ref=f6e378]
+                - generic [ref=f6e379]: Onetouch 5041 64/128Mb Tuşlu Telefon
+            - generic [ref=f6e380]:
+              - generic [ref=f6e381]: "4.2"
+              - generic [ref=f6e403]: (83)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e404]
+            - generic [ref=f6e405]:
+              - generic [ref=f6e406]: Kargo Bedava
+              - generic [ref=f6e413]: 2.169 TL
+          - button "Sepete Ekle" [ref=f6e417]
+        - link "GIN qin F22 2gb + 16GB 2.8 Inç Android 12 Dokunmatik Kamerasız Asker Telefonu Favorilere Ekle En Çok Ziyaret Edilen 3. Ürün GIN qin F22 2gb + 16GB 2.8 Inç Android 12 Dokunmatik Kamerasız Asker Telefonu 3.5 (20) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Son 10 Günün En Düşük Fiyatı 6.899 TL 6.999 TL Sepete Ekle" [ref=f6e418] [cursor=pointer]:
+          - /url: /gin/qin-f22-2gb-16gb-2-8-inc-android-12-dokunmatik-kamerasiz-asker-telefonu-p-940054497?boutiqueId=61&merchantId=679221
+          - generic [ref=f6e419]:
+            - generic:
+              - img "GIN qin F22 2gb + 16GB 2.8 Inç Android 12 Dokunmatik Kamerasız Asker Telefonu"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e424]
+              - generic: En Çok Ziyaret Edilen 3. Ürün
+          - generic [ref=f6e426]:
+            - heading "GIN qin F22 2gb + 16GB 2.8 Inç Android 12 Dokunmatik Kamerasız Asker Telefonu" [level=2] [ref=f6e427]:
+              - generic [ref=f6e428]:
+                - text: GIN
+                - generic [ref=f6e429]: qin F22 2gb + 16GB 2.8 Inç Android 12 Dokunmatik Kamerasız Asker Telefonu
+            - generic [ref=f6e430]:
+              - generic [ref=f6e431]: "3.5"
+              - generic [ref=f6e452]: (20)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e453]
+            - generic [ref=f6e454]:
+              - generic [ref=f6e456]:
+                - paragraph [ref=f6e459]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f6e460]: Kargo Bedava
+                - paragraph [ref=f6e467]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f6e469]:
+                - generic [ref=f6e470]: 6.899 TL
+                - generic [ref=f6e471]: 6.999 TL
+          - button "Sepete Ekle" [ref=f6e474]
+        - link "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite Favorilere Ekle En Çok Favorilenen 1. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 4.0 (1948) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 10.449,05 TL 10.999 TL Sepete Ekle" [ref=f6e475] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-11-64-gb-beyaz-cep-telefonu-12-ay-garantili-b-kalite-p-316177451?boutiqueId=61&merchantId=226317
+          - generic [ref=f6e476]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e479]
+              - generic: En Çok Favorilenen 1. Ürün
+          - generic [ref=f6e481]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e482]:
+              - generic [ref=f6e483]:
+                - generic [ref=f6e484]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e485]
+                - generic [ref=f6e486]: Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite
+            - generic [ref=f6e487]: B seviye-Çok İyi
+            - generic [ref=f6e491]:
+              - generic [ref=f6e492]: "4.0"
+              - generic [ref=f6e514]: (1948)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e515]
+            - generic [ref=f6e516]:
+              - generic [ref=f6e518]:
+                - generic [ref=f6e520]:
+                  - img "Sepet ikonu" [ref=f6e521]
+                  - generic [ref=f6e522]: Sepette %5 indirim
+                - generic [ref=f6e523]: Kargo Bedava
+                - generic [ref=f6e528]: 500 TL Kupon
+                - generic [ref=f6e534]:
+                  - img "Sepet ikonu" [ref=f6e535]
+                  - generic [ref=f6e536]: Sepette %5 indirim
+              - generic [ref=f6e538]:
+                - generic [ref=f6e539]: Sepette
+                - generic [ref=f6e540]: 10.449,05 TL
+                - generic [ref=f6e541]: 10.999 TL
+          - button "Sepete Ekle" [ref=f6e544]
+        - link "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite Favorilere Ekle En Çok Değerlendirilen 3. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.9 (1574) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 10.829,05 TL 11.399 TL Sepete Ekle" [ref=f6e545] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-11-64-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-356251114?boutiqueId=61&merchantId=414188
+          - generic [ref=f6e546]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e549]
+              - generic: En Çok Değerlendirilen 3. Ürün
+          - generic [ref=f6e551]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e552]:
+              - generic [ref=f6e553]:
+                - generic [ref=f6e554]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e555]
+                - generic [ref=f6e556]: Yenilenmiş iPhone 11 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e557]: A seviye-Mükemmel
+            - generic [ref=f6e561]:
+              - generic [ref=f6e562]: "3.9"
+              - generic [ref=f6e583]: (1574)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e584]
+            - generic [ref=f6e585]:
+              - generic [ref=f6e587]:
+                - generic [ref=f6e589]:
+                  - img "Sepet ikonu" [ref=f6e590]
+                  - generic [ref=f6e591]: Sepette %5 indirim
+                - generic [ref=f6e592]: Kargo Bedava
+                - generic [ref=f6e597]: 500 TL Kupon
+                - generic [ref=f6e603]:
+                  - img "Sepet ikonu" [ref=f6e604]
+                  - generic [ref=f6e605]: Sepette %5 indirim
+              - generic [ref=f6e607]:
+                - generic [ref=f6e608]: Sepette
+                - generic [ref=f6e609]: 10.829,05 TL
+                - generic [ref=f6e610]: 11.399 TL
+          - button "Sepete Ekle" [ref=f6e613]
+        - 'link "Nokia 105 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) Favorilere Ekle Flaş ürün ikonu Flaş Ürün 09 : 53 : 22 Nokia 105 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) 3.7 (214) Değerlendirme fotoğrafları mevcut Kargo Bedava 130 TL Kupon Kargo Bedava 2.355,87 TL Sepete Ekle" [ref=f6e614] [cursor=pointer]':
+          - /url: /nokia/105-2023-tuslu-cep-telefonu-nokia-turkiye-resmi-distributor-garantili-p-900919906?boutiqueId=61&merchantId=345161
+          - generic [ref=f6e615]:
+            - generic:
+              - img "Nokia 105 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e621]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "09"
+                    - generic: ":"
+                    - generic: "53"
+                    - generic: ":"
+                    - generic: "22"
+          - generic [ref=f6e623]:
+            - heading "Nokia 105 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)" [level=2] [ref=f6e624]:
+              - generic [ref=f6e625]:
+                - text: Nokia
+                - generic [ref=f6e626]: 105 2023 Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)
+            - generic [ref=f6e627]:
+              - generic [ref=f6e628]: "3.7"
+              - generic [ref=f6e649]: (214)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e650]
+            - generic [ref=f6e651]:
+              - generic [ref=f6e653]:
+                - generic [ref=f6e654]: Kargo Bedava
+                - generic [ref=f6e659]: 130 TL Kupon
+                - generic [ref=f6e664]: Kargo Bedava
+              - generic [ref=f6e669]: 2.355,87 TL
+          - button "Sepete Ekle" [ref=f6e673]
+        - link "Apple Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)... Favorilere Ekle En Çok Satan 1. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.9 (920) Değerlendirme fotoğrafları mevcut Sepet ikonu Kampanyalı Fiyat Kargo Bedava 500 TL Kupon Sepet ikonu Kampanyalı Fiyat Sepette 26.504,05 TL 28.299 TL Sepete Ekle" [ref=f6e674] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-13-128-gb-yildiz-isigi-cep-telefonu-12-ay-garantili-a-kalite-p-812982801?boutiqueId=61&merchantId=414188
+          - generic [ref=f6e675]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili)..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e678]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f6e680]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e681]:
+              - generic [ref=f6e682]:
+                - generic [ref=f6e683]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e684]
+                - generic [ref=f6e685]: Yenilenmiş iPhone 13 128 GB Yıldız Işığı Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e686]: A seviye-Mükemmel
+            - generic [ref=f6e690]:
+              - generic [ref=f6e691]: "3.9"
+              - generic [ref=f6e712]: (920)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e713]
+            - generic [ref=f6e714]:
+              - generic [ref=f6e716]:
+                - generic [ref=f6e718]:
+                  - img "Sepet ikonu" [ref=f6e719]
+                  - generic [ref=f6e720]: Kampanyalı Fiyat
+                - generic [ref=f6e721]: Kargo Bedava
+                - generic [ref=f6e726]: 500 TL Kupon
+                - generic [ref=f6e732]:
+                  - img "Sepet ikonu" [ref=f6e733]
+                  - generic [ref=f6e734]: Kampanyalı Fiyat
+              - generic [ref=f6e736]:
+                - generic [ref=f6e737]: Sepette
+                - generic [ref=f6e738]: 26.504,05 TL
+                - generic [ref=f6e739]: 28.299 TL
+          - button "Sepete Ekle" [ref=f6e742]
+        - link "Nokia N110 4G Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) Favorilere Ekle En Çok Favorilenen 3. Ürün Nokia N110 4G Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili) 4.0 (232) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Son 10 Günün En Düşük Fiyatı 3.471 TL 3.579 TL Sepete Ekle" [ref=f6e743] [cursor=pointer]:
+          - /url: /nokia/n110-4g-tuslu-cep-telefonu-nokia-turkiye-resmi-distributor-garantili-p-901864533?boutiqueId=61&merchantId=104870
+          - generic [ref=f6e744]:
+            - generic:
+              - img "Nokia N110 4G Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e750]
+              - generic: En Çok Favorilenen 3. Ürün
+          - generic [ref=f6e752]:
+            - heading "Nokia N110 4G Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)" [level=2] [ref=f6e753]:
+              - generic [ref=f6e754]:
+                - text: Nokia
+                - generic [ref=f6e755]: N110 4G Tuşlu Cep Telefonu (Nokia Türkiye Resmi Distribütör Garantili)
+            - generic [ref=f6e756]:
+              - generic [ref=f6e757]: "4.0"
+              - generic [ref=f6e779]: (232)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e780]
+            - generic [ref=f6e781]:
+              - generic [ref=f6e783]:
+                - paragraph [ref=f6e786]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f6e787]: Kargo Bedava
+                - paragraph [ref=f6e794]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f6e796]:
+                - generic [ref=f6e797]: 3.471 TL
+                - generic [ref=f6e798]: 3.579 TL
+          - button "Sepete Ekle" [ref=f6e801]
+        - 'link "SenalStore SamsungKamerasız Tuşlu Cep Telefonu SET Favorilere Ekle Flaş ürün ikonu Flaş Ürün 09 : 53 : 22 SenalStore SamsungKamerasız Tuşlu Cep Telefonu SET 4.6 (12) Değerlendirme fotoğrafları mevcut Kargo Bedava 2.202,71 TL Sepete Ekle" [ref=f6e802] [cursor=pointer]':
+          - /url: /senalstore/samsungkamerasiz-tuslu-cep-telefonu-set-p-472082359?boutiqueId=61&merchantId=975382
+          - generic [ref=f6e803]:
+            - generic:
+              - img "SenalStore SamsungKamerasız Tuşlu Cep Telefonu SET"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e807]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "09"
+                    - generic: ":"
+                    - generic: "53"
+                    - generic: ":"
+                    - generic: "22"
+          - generic [ref=f6e809]:
+            - heading "SenalStore SamsungKamerasız Tuşlu Cep Telefonu SET" [level=2] [ref=f6e810]:
+              - generic [ref=f6e811]:
+                - text: SenalStore
+                - generic [ref=f6e812]: SamsungKamerasız Tuşlu Cep Telefonu SET
+            - generic [ref=f6e813]:
+              - generic [ref=f6e814]: "4.6"
+              - generic [ref=f6e836]: (12)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e837]
+            - generic [ref=f6e838]:
+              - generic [ref=f6e839]: Kargo Bedava
+              - generic [ref=f6e846]: 2.202,71 TL
+          - button "Sepete Ekle" [ref=f6e850]
+        - link "Siemens Gigaset A170 Dect Telsiz Telefon Favorilere Ekle En Çok Satan 2. Ürün Siemens Gigaset A170 Dect Telsiz Telefon 4.3 (20) Değerlendirme fotoğrafları mevcut Kargo Bedava 1.998 TL Sepete Ekle" [ref=f6e851] [cursor=pointer]:
+          - /url: /siemens/gigaset-a170-dect-telsiz-telefon-p-158588987?boutiqueId=61&merchantId=1198786
+          - generic [ref=f6e852]:
+            - generic:
+              - img "Siemens Gigaset A170 Dect Telsiz Telefon"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e857]
+              - generic: En Çok Satan 2. Ürün
+          - generic [ref=f6e859]:
+            - heading "Siemens Gigaset A170 Dect Telsiz Telefon" [level=2] [ref=f6e860]:
+              - generic [ref=f6e861]:
+                - text: Siemens
+                - generic [ref=f6e862]: Gigaset A170 Dect Telsiz Telefon
+            - generic [ref=f6e863]:
+              - generic [ref=f6e864]: "4.3"
+              - generic [ref=f6e886]: (20)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e887]
+            - generic [ref=f6e888]:
+              - generic [ref=f6e889]: Kargo Bedava
+              - generic [ref=f6e896]: 1.998 TL
+          - button "Sepete Ekle" [ref=f6e900]
+        - link "ASELSAN A446 Uyumlu Spiral Arkalıklı Telsiz Kulaklık – Mikrofonlu PTT 2 Pin W... Favorilere Ekle En Çok Satan 5. Ürün Aselsan A446 Uyumlu Spiral Arkalıklı Telsiz Kulaklık – Mikrofonlu PTT 2 Pin WLN PMR-446 PM580 PM985 4.2 (150) Değerlendirme fotoğrafları mevcut 289,90 TL Sepete Ekle" [ref=f6e901] [cursor=pointer]:
+          - /url: /aselsan/a446-uyumlu-spiral-arkalikli-telsiz-kulaklik-mikrofonlu-ptt-2-pin-wln-pmr-446-pm580-pm985-p-159029027?boutiqueId=61&merchantId=132531
+          - generic [ref=f6e902]:
+            - generic:
+              - img "ASELSAN A446 Uyumlu Spiral Arkalıklı Telsiz Kulaklık – Mikrofonlu PTT 2 Pin W..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e905]
+              - generic: En Çok Satan 5. Ürün
+          - generic [ref=f6e907]:
+            - heading "Aselsan A446 Uyumlu Spiral Arkalıklı Telsiz Kulaklık – Mikrofonlu PTT 2 Pin WLN PMR-446 PM580 PM985" [level=2] [ref=f6e908]:
+              - generic [ref=f6e909]:
+                - text: Aselsan
+                - generic [ref=f6e910]: A446 Uyumlu Spiral Arkalıklı Telsiz Kulaklık – Mikrofonlu PTT 2 Pin WLN PMR-446 PM580 PM985
+            - generic [ref=f6e911]:
+              - generic [ref=f6e912]: "4.2"
+              - generic [ref=f6e934]: (150)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e935]
+            - generic [ref=f6e936]: 289,90 TL
+          - button "Sepete Ekle" [ref=f6e941]
+        - link "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka... Favorilere Ekle En Çok Ziyaret Edilen 5. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.9 (311) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava Sepet ikonu Sepette %5 indirim Sepette 27.549,05 TL 28.999 TL Sepete Ekle" [ref=f6e942] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-13-128-gb-pembe-cep-telefonu-12-ay-garantili-a-kalite-p-808233696?boutiqueId=61&merchantId=848995
+          - generic [ref=f6e943]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Ka..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e946]
+              - generic: En Çok Ziyaret Edilen 5. Ürün
+          - generic [ref=f6e948]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e949]:
+              - generic [ref=f6e950]:
+                - generic [ref=f6e951]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e952]
+                - generic [ref=f6e953]: Yenilenmiş iPhone 13 128 GB Pembe Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e954]: A seviye-Mükemmel
+            - generic [ref=f6e958]:
+              - generic [ref=f6e959]: "3.9"
+              - generic [ref=f6e980]: (311)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e981]
+            - generic [ref=f6e982]:
+              - generic [ref=f6e984]:
+                - generic [ref=f6e986]:
+                  - img "Sepet ikonu" [ref=f6e987]
+                  - generic [ref=f6e988]: Sepette %5 indirim
+                - generic [ref=f6e989]: Kargo Bedava
+                - generic [ref=f6e995]:
+                  - img "Sepet ikonu" [ref=f6e996]
+                  - generic [ref=f6e997]: Sepette %5 indirim
+              - generic [ref=f6e999]:
+                - generic [ref=f6e1000]: Sepette
+                - generic [ref=f6e1001]: 27.549,05 TL
+                - generic [ref=f6e1002]: 28.999 TL
+          - button "Sepete Ekle" [ref=f6e1005]
+        - link "Apple Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 4.1 (237) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 12.463,05 TL 13.119 TL Trendyol Plus ile 12.363,05 TL Sepete Ekle" [ref=f6e1006] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-11-128-gb-cep-telefonu-12-ay-garantili-b-kalite-p-665683515?boutiqueId=61&merchantId=285194
+          - generic [ref=f6e1007]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite"
+            - button "Favorilere Ekle" [ref=f6e1013]
+          - generic [ref=f6e1015]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e1016]:
+              - generic [ref=f6e1017]:
+                - generic [ref=f6e1018]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e1019]
+                - generic [ref=f6e1020]: Yenilenmiş iPhone 11 128 GB Cep Telefonu (12 Ay Garantili) - B Kalite
+            - generic [ref=f6e1021]: B seviye-Çok İyi
+            - generic [ref=f6e1025]:
+              - generic [ref=f6e1026]: "4.1"
+              - generic [ref=f6e1048]: (237)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1049]
+            - generic [ref=f6e1050]:
+              - generic [ref=f6e1052]:
+                - generic [ref=f6e1054]:
+                  - img "Sepet ikonu" [ref=f6e1055]
+                  - generic [ref=f6e1056]: Sepette %5 indirim
+                - generic [ref=f6e1057]: Kargo Bedava
+                - generic [ref=f6e1062]: 500 TL Kupon
+                - generic [ref=f6e1068]:
+                  - img "Sepet ikonu" [ref=f6e1069]
+                  - generic [ref=f6e1070]: Sepette %5 indirim
+              - generic [ref=f6e1072]:
+                - generic [ref=f6e1073]: Sepette
+                - generic [ref=f6e1074]: 12.463,05 TL
+                - generic [ref=f6e1075]: 13.119 TL
+              - generic [ref=f6e1077]:
+                - generic [ref=f6e1078]: Trendyol Plus ile
+                - generic [ref=f6e1079]: 12.363,05 TL
+          - button "Sepete Ekle" [ref=f6e1082]
+        - link "KEEP IN TR BÜYÜK TUŞ S.O.S ARAMALI ASKER/YAŞLI CEP TELEFONU Favorilere Ekle En Çok Satan 7. Ürün KEEP IN TR BÜYÜK TUŞ S.O.S ARAMALI ASKER/YAŞLI CEP TELEFONU 4.6 (8) Kargo Bedava 1.445,53 TL Sepete Ekle" [ref=f6e1083] [cursor=pointer]:
+          - /url: /keep-in-tr/buyuk-tus-s-o-s-aramali-asker-yasli-cep-telefonu-p-1076731914?boutiqueId=61&merchantId=231792
+          - generic [ref=f6e1084]:
+            - generic:
+              - img "KEEP IN TR BÜYÜK TUŞ S.O.S ARAMALI ASKER/YAŞLI CEP TELEFONU"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e1090]
+              - generic: En Çok Satan 7. Ürün
+          - generic [ref=f6e1092]:
+            - heading "KEEP IN TR BÜYÜK TUŞ S.O.S ARAMALI ASKER/YAŞLI CEP TELEFONU" [level=2] [ref=f6e1093]:
+              - generic [ref=f6e1094]:
+                - text: KEEP IN TR
+                - generic [ref=f6e1095]: BÜYÜK TUŞ S.O.S ARAMALI ASKER/YAŞLI CEP TELEFONU
+            - generic [ref=f6e1096]:
+              - generic [ref=f6e1097]: "4.6"
+              - generic [ref=f6e1119]: (8)
+            - generic [ref=f6e1120]:
+              - generic [ref=f6e1121]: Kargo Bedava
+              - generic [ref=f6e1128]: 1.445,53 TL
+          - button "Sepete Ekle" [ref=f6e1132]
+        - link "Apple Yenilenmiş iPhone 13 128 GB Gece Yarısı Cep Telefonu (12 Ay Garantili) ... Favorilere Ekle En Çok Değerlendirilen 10. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Gece Yarısı Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.7 (431) Değerlendirme fotoğrafları mevcut Sepet ikonu Kampanyalı Fiyat Kargo Bedava Sepet ikonu Kampanyalı Fiyat Sepette 25.274,75 TL 26.655 TL Sepete Ekle" [ref=f6e1133] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-13-128-gb-gece-yarisi-cep-telefonu-12-ay-garantili-a-kalite-p-806177659?boutiqueId=61&merchantId=451060
+          - generic [ref=f6e1134]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Gece Yarısı Cep Telefonu (12 Ay Garantili) ..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e1138]
+              - generic: En Çok Değerlendirilen 10. Ürün
+          - generic [ref=f6e1140]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Gece Yarısı Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e1141]:
+              - generic [ref=f6e1142]:
+                - generic [ref=f6e1143]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e1144]
+                - generic [ref=f6e1145]: Yenilenmiş iPhone 13 128 GB Gece Yarısı Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e1146]: A seviye-Mükemmel
+            - generic [ref=f6e1150]:
+              - generic [ref=f6e1151]: "3.7"
+              - generic [ref=f6e1172]: (431)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1173]
+            - generic [ref=f6e1174]:
+              - generic [ref=f6e1176]:
+                - generic [ref=f6e1178]:
+                  - img "Sepet ikonu" [ref=f6e1179]
+                  - generic [ref=f6e1180]: Kampanyalı Fiyat
+                - generic [ref=f6e1181]: Kargo Bedava
+                - generic [ref=f6e1187]:
+                  - img "Sepet ikonu" [ref=f6e1188]
+                  - generic [ref=f6e1189]: Kampanyalı Fiyat
+              - generic [ref=f6e1191]:
+                - generic [ref=f6e1192]: Sepette
+                - generic [ref=f6e1193]: 25.274,75 TL
+                - generic [ref=f6e1194]: 26.655 TL
+          - button "Sepete Ekle" [ref=f6e1197]
+        - link "Apple Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Ka... Favorilere Ekle En Çok Ziyaret Edilen 6. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 4.1 (301) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 27.330,55 TL 28.769 TL Trendyol Plus ile 27.230,55 TL Sepete Ekle" [ref=f6e1198] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-13-128-gb-beyaz-cep-telefonu-12-ay-garantili-b-kalite-p-802325097?boutiqueId=61&merchantId=285194
+          - generic [ref=f6e1199]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Ka..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e1202]
+              - generic: En Çok Ziyaret Edilen 6. Ürün
+          - generic [ref=f6e1204]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e1205]:
+              - generic [ref=f6e1206]:
+                - generic [ref=f6e1207]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e1208]
+                - generic [ref=f6e1209]: Yenilenmiş iPhone 13 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite
+            - generic [ref=f6e1210]: B seviye-Çok İyi
+            - generic [ref=f6e1214]:
+              - generic [ref=f6e1215]: "4.1"
+              - generic [ref=f6e1237]: (301)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1238]
+            - generic [ref=f6e1239]:
+              - generic [ref=f6e1241]:
+                - generic [ref=f6e1243]:
+                  - img "Sepet ikonu" [ref=f6e1244]
+                  - generic [ref=f6e1245]: Sepette %5 indirim
+                - generic [ref=f6e1246]: Kargo Bedava
+                - generic [ref=f6e1251]: 500 TL Kupon
+                - generic [ref=f6e1257]:
+                  - img "Sepet ikonu" [ref=f6e1258]
+                  - generic [ref=f6e1259]: Sepette %5 indirim
+              - generic [ref=f6e1261]:
+                - generic [ref=f6e1262]: Sepette
+                - generic [ref=f6e1263]: 27.330,55 TL
+                - generic [ref=f6e1264]: 28.769 TL
+              - generic [ref=f6e1266]:
+                - generic [ref=f6e1267]: Trendyol Plus ile
+                - generic [ref=f6e1268]: 27.230,55 TL
+          - button "Sepete Ekle" [ref=f6e1271]
+        - link "Apple Yenilenmiş iPhone 11 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Ka... Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 3.8 (131) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 12.178,05 TL 12.819 TL Sepete Ekle" [ref=f6e1272] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-11-128-gb-siyah-cep-telefonu-12-ay-garantili-b-kalite-p-689224833?boutiqueId=61&merchantId=230886
+          - generic [ref=f6e1273]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 11 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Ka..."
+            - button "Favorilere Ekle" [ref=f6e1276]
+          - generic [ref=f6e1278]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e1279]:
+              - generic [ref=f6e1280]:
+                - generic [ref=f6e1281]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e1282]
+                - generic [ref=f6e1283]: Yenilenmiş iPhone 11 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite
+            - generic [ref=f6e1284]: B seviye-Çok İyi
+            - generic [ref=f6e1288]:
+              - generic [ref=f6e1289]: "3.8"
+              - generic [ref=f6e1310]: (131)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1311]
+            - generic [ref=f6e1312]:
+              - generic [ref=f6e1314]:
+                - generic [ref=f6e1316]:
+                  - img "Sepet ikonu" [ref=f6e1317]
+                  - generic [ref=f6e1318]: Sepette %5 indirim
+                - generic [ref=f6e1319]: Kargo Bedava
+                - generic [ref=f6e1324]: 750 TL Kupon
+                - generic [ref=f6e1330]:
+                  - img "Sepet ikonu" [ref=f6e1331]
+                  - generic [ref=f6e1332]: Sepette %5 indirim
+              - generic [ref=f6e1334]:
+                - generic [ref=f6e1335]: Sepette
+                - generic [ref=f6e1336]: 12.178,05 TL
+                - generic [ref=f6e1337]: 12.819 TL
+          - button "Sepete Ekle" [ref=f6e1340]
+        - link "SenalStore samsungKamerasız Tuşlu Cep Telefonu gold SET Favorilere Ekle En Çok Ziyaret Edilen 4. Ürün SenalStore samsungKamerasız Tuşlu Cep Telefonu gold SET 4.1 (11) Değerlendirme fotoğrafları mevcut Sepet ikonu Net %5 İndirim Kargo Bedava Sepet ikonu Net %5 İndirim Sepette 2.299 TL 2.420 TL Sepete Ekle" [ref=f6e1341] [cursor=pointer]:
+          - /url: /senalstore/samsungkamerasiz-tuslu-cep-telefonu-gold-set-p-634623201?boutiqueId=61&merchantId=975382
+          - generic [ref=f6e1342]:
+            - generic:
+              - img "SenalStore samsungKamerasız Tuşlu Cep Telefonu gold SET"
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e1346]
+              - generic: En Çok Ziyaret Edilen 4. Ürün
+          - generic [ref=f6e1348]:
+            - heading "SenalStore samsungKamerasız Tuşlu Cep Telefonu gold SET" [level=2] [ref=f6e1349]:
+              - generic [ref=f6e1350]:
+                - text: SenalStore
+                - generic [ref=f6e1351]: samsungKamerasız Tuşlu Cep Telefonu gold SET
+            - generic [ref=f6e1352]:
+              - generic [ref=f6e1353]: "4.1"
+              - generic [ref=f6e1375]: (11)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1376]
+            - generic [ref=f6e1377]:
+              - generic [ref=f6e1379]:
+                - generic [ref=f6e1381]:
+                  - img "Sepet ikonu" [ref=f6e1382]
+                  - generic [ref=f6e1383]: Net %5 İndirim
+                - generic [ref=f6e1384]: Kargo Bedava
+                - generic [ref=f6e1390]:
+                  - img "Sepet ikonu" [ref=f6e1391]
+                  - generic [ref=f6e1392]: Net %5 İndirim
+              - generic [ref=f6e1394]:
+                - generic [ref=f6e1395]: Sepette
+                - generic [ref=f6e1396]: 2.299 TL
+                - generic [ref=f6e1397]: 2.420 TL
+          - button "Sepete Ekle" [ref=f6e1400]
+        - link "Apple Yenilenmiş iPhone 12 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka... Favorilere Ekle En Çok Satan 10. Ürün AppleResmi satıcı rozeti Yenilenmiş iPhone 12 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 3.9 (221) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 18.999,05 TL 19.999 TL Sepete Ekle" [ref=f6e1401] [cursor=pointer]:
+          - /url: /apple/yenilenmis-iphone-12-128-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-689227924?boutiqueId=61&merchantId=226317
+          - generic [ref=f6e1402]:
+            - generic:
+              - img "Apple Yenilenmiş iPhone 12 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f6e1405]
+              - generic: En Çok Satan 10. Ürün
+          - generic [ref=f6e1407]:
+            - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 12 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e1408]:
+              - generic [ref=f6e1409]:
+                - generic [ref=f6e1410]:
+                  - text: Apple
+                  - img "Resmi satıcı rozeti" [ref=f6e1411]
+                - generic [ref=f6e1412]: Yenilenmiş iPhone 12 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+            - generic [ref=f6e1413]: A seviye-Mükemmel
+            - generic [ref=f6e1417]:
+              - generic [ref=f6e1418]: "3.9"
+              - generic [ref=f6e1439]: (221)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f6e1440]
+            - generic [ref=f6e1441]:
+              - generic [ref=f6e1443]:
+                - generic [ref=f6e1445]:
+                  - img "Sepet ikonu" [ref=f6e1446]
+                  - generic [ref=f6e1447]: Sepette %5 indirim
+                - generic [ref=f6e1448]: Kargo Bedava
+                - generic [ref=f6e1453]: 500 TL Kupon
+                - generic [ref=f6e1459]:
+                  - img "Sepet ikonu" [ref=f6e1460]
+                  - generic [ref=f6e1461]: Sepette %5 indirim
+              - generic [ref=f6e1463]:
+                - generic [ref=f6e1464]: Sepette
+                - generic [ref=f6e1465]: 18.999,05 TL
+                - generic [ref=f6e1466]: 19.999 TL
+          - button "Sepete Ekle" [ref=f6e1469]
+      - button "Yukarı çık"
+  - contentinfo [ref=f6e1563]:
+    - img "Group 2" [ref=f6e1565]
+    - generic [ref=f6e1570]:
+      - generic [ref=f6e1572]:
+        - generic [ref=f6e1573]:
+          - generic [ref=f6e1574]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f6e1579] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f6e1581] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f6e1583] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f6e1585] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f6e1587] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f6e1588]:
+          - generic [ref=f6e1589]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f6e1594] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f6e1596] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f6e1598] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f6e1599]:
+          - link "Satıcı" [ref=f6e1602] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f6e1606] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f6e1608] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f6e1610] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f6e1611]:
+          - generic [ref=f6e1612]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f6e1617] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f6e1619] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f6e1621] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f6e1623] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f6e1624]:
+          - generic [ref=f6e1625]:
+            - link "Ülke Değiştir" [ref=f6e1628] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f6e1629] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f6e1630]
+              - generic [ref=f6e1631]: Ülke Seç
+          - generic [ref=f6e1632]: Güvenli Alışveriş
+          - generic [ref=f6e1636]:
+            - generic [ref=f6e1637]: Güvenlik Sertifikası
+            - generic [ref=f6e1639]:
+              - link [ref=f6e1640] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f6e1642]
+              - link [ref=f6e1643] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f6e1645]
+              - img "PCI DSS" [ref=f6e1647]
+              - img "information security standard" [ref=f6e1649]
+      - generic [ref=f6e1652]:
+        - generic [ref=f6e1653]:
+          - generic [ref=f6e1654]:
+            - link "instagram-icon" [ref=f6e1655] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f6e1656]
+            - link "tiktok-icon" [ref=f6e1657] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f6e1658]
+            - link "youtube-icon" [ref=f6e1659] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f6e1660]
+            - link "facebook-icon" [ref=f6e1661] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f6e1662]
+            - link "x-icon" [ref=f6e1663] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f6e1664]
+          - generic [ref=f6e1665]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f6e1666]:
+          - generic [ref=f6e1667]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f6e1668]:
+            - link "Çerez Tercihleri" [ref=f6e1669] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f6e1670] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f6e1671] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f6e1672] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."

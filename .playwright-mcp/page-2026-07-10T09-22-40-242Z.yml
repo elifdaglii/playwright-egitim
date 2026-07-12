@@ -1,0 +1,2593 @@
+- generic [active] [ref=e1]:
+  - complementary "Görsel asistan yazılımını açın.":
+    - link "Görsel asistan yazılımını açın. ALT + 1 üzerinden klavye ile erişilebilir" [ref=e5999]:
+      - /url: javascript:EyeAbleAPI.toggleToolbar()
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8] [cursor=pointer]:
+          - button "Menu" [ref=e9]
+          - link "Trendyol" [ref=e11]:
+            - /url: /
+        - button "Search icon Ürün, kategori veya marka ara" [ref=e15]:
+          - img "Search icon" [ref=e16]
+          - generic [ref=e17]: Ürün, kategori veya marka ara
+        - generic [ref=e18]:
+          - link "Giriş Yap" [ref=e20] [cursor=pointer]:
+            - /url: /giris?cb=%2F
+          - link "Favorilerim" [ref=e23] [cursor=pointer]:
+            - /url: /hesabim/favoriler
+          - link "Sepetim" [ref=e27] [cursor=pointer]:
+            - /url: /sepetim
+      - generic [ref=e33]:
+        - link [ref=e34] [cursor=pointer]:
+          - /url: /butik/liste/1/kadin
+          - paragraph [ref=e35]: Kadın
+        - link [ref=e36] [cursor=pointer]:
+          - /url: /butik/liste/2/erkek
+          - paragraph [ref=e37]: Erkek
+        - link [ref=e38] [cursor=pointer]:
+          - /url: /butik/liste/3/anne-cocuk
+          - paragraph [ref=e39]: Anne & Çocuk
+        - link [ref=e40] [cursor=pointer]:
+          - /url: /butik/liste/12/ev-yasam
+          - paragraph [ref=e41]: Ev & Yaşam
+        - link [ref=e42] [cursor=pointer]:
+          - /url: /butik/liste/16/supermarket
+          - paragraph [ref=e43]: Süpermarket
+        - link [ref=e44] [cursor=pointer]:
+          - /url: /butik/liste/11/kozmetik
+          - paragraph [ref=e45]: Kozmetik
+        - link [ref=e46] [cursor=pointer]:
+          - /url: /butik/liste/9/ayakkabi-canta
+          - paragraph [ref=e47]: Ayakkabı & Çanta
+        - link [ref=e48] [cursor=pointer]:
+          - /url: /butik/liste/5/elektronik
+          - paragraph [ref=e49]: Elektronik
+        - link [ref=e50] [cursor=pointer]:
+          - /url: /butik/liste/10/saat-aksesuar
+          - paragraph [ref=e51]: Saat & Aksesuar
+        - link [ref=e52] [cursor=pointer]:
+          - /url: /butik/liste/22/spor-outdoor
+          - paragraph [ref=e53]: Spor & Outdoor
+        - link "Flaş Ürünler Yeni" [ref=e54] [cursor=pointer]:
+          - /url: /flas-indirimler
+          - paragraph [ref=e55]: Flaş Ürünler
+          - generic [ref=e56]: Yeni
+        - link "Çok Satanlar Yeni" [ref=e58] [cursor=pointer]:
+          - /url: /cok-satanlar?type=bestSeller&webGenderId=1
+          - paragraph [ref=e59]: Çok Satanlar
+          - generic [ref=e60]: Yeni
+  - main [ref=e62]:
+    - generic [ref=e63]:
+      - generic [ref=e65]:
+        - region "Product carousel" [ref=e68]:
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "TopSlider_none_1__Bugün Fiyatı Düşenler" [ref=e73] [cursor=pointer]:
+                - /url: /sr?lpd=30,10,14&tag=daily_discount
+                - img "Bugün Fiyatı Düşenler" [ref=e74]
+                - generic [ref=e75]: Bugün Fiyatı Düşenler
+            - listitem [ref=e76]:
+              - link "TopSlider_none_1__Yemek" [ref=e77] [cursor=pointer]:
+                - /url: /tgoyemek
+                - img "Yemek" [ref=e78]
+                - generic [ref=e79]: Yemek
+            - listitem [ref=e80]:
+              - link "TopSlider_none_1__Trendyol Plus" [ref=e81] [cursor=pointer]:
+                - /url: /sr?typ=true
+                - img "Ayrıcalıkları Keşfet" [ref=e82]
+                - generic [ref=e83]: Ayrıcalıkları Keşfet
+            - listitem [ref=e84]:
+              - link "TopSlider_none_1__Kampanya Detayları" [ref=e85] [cursor=pointer]:
+                - /url: /s/kampanya-detaylari
+                - img "Kampanya Detayları" [ref=e86]
+                - generic [ref=e87]: Kampanya Detayları
+            - listitem [ref=e88]:
+              - link "TopSlider_none_1__Evlilik Destek Kampanyası" [ref=e89] [cursor=pointer]:
+                - /url: /s/evlilik-destek-kampanyasi
+                - img "Evlilik Destek Kampanyası" [ref=e90]
+                - generic [ref=e91]: Evlilik Destek Kampanyası
+            - listitem [ref=e92]:
+              - link "TopSlider_none_1__Sanat Eserleri" [ref=e93] [cursor=pointer]:
+                - /url: /sr?gtd=3776174b-9b60-4730-a370-fb4e9859a84d&sst=BEST_SELLER
+                - img "Sanat Eserleri" [ref=e94]
+                - generic [ref=e95]: Sanat Eserleri
+            - listitem [ref=e96]:
+              - link "TopSlider_none_1__İyi Fiyatlı Ürünler" [ref=e97] [cursor=pointer]:
+                - /url: /sr?tag=hesapli_urunler
+                - img "İyi Fiyatlı Ürünler" [ref=e98]
+                - generic [ref=e99]: İyi Fiyatlı Ürünler
+            - listitem [ref=e100]:
+              - link "TopSlider_none_1_SenDeAl!" [ref=e101] [cursor=pointer]:
+                - /url: /sr/?fl=encoksatanurunler
+                - img "Sen De Al!" [ref=e102]
+                - generic [ref=e103]: Sen De Al!
+            - listitem [ref=e104]:
+              - link [ref=e105] [cursor=pointer]:
+                - /url: /sr?tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&sst=SCORE
+                - generic [ref=e107]: Avantajlı Ürünler
+            - listitem [ref=e108]:
+              - link [ref=e109] [cursor=pointer]:
+                - /url: /hesabim/indirim-kuponlari
+                - generic [ref=e111]: İndirim Kuponlarım
+            - listitem [ref=e112]:
+              - link [ref=e113] [cursor=pointer]:
+                - /url: /kredi
+                - generic [ref=e115]: Krediler
+            - listitem [ref=e116]:
+              - link [ref=e117] [cursor=pointer]:
+                - /url: /sr?wg=1&np=true
+                - generic [ref=e119]: Yeni Gelen Ürünler
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - paragraph [ref=e124] [cursor=pointer]: Popüler Ürünler
+            - link "Tümünü Gör" [ref=e125] [cursor=pointer]:
+              - /url: /sanaozel/1?versionKey=singleProducts_JFY_Original&SectionId=1
+          - region "Product carousel" [ref=e127]:
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - link "Hindiba Kahvesi 1 Aylık - (60 Kullanım) Net 150gr Add to favorites Kargo Bedava HARMANA Hindiba Kahvesi 1 Aylık - (60 Kullanım) Net 150gr 3 günde 5B+ ürün satıldı! 35,3B kişinin sepetinde, kaçırma! 1M kişi favoriledi! 24 saatte 17,1B kişi inceledi! gozdekaraman öneriyor! 3 günde 5B+ ürün satıldı! 4.1 (81139) Coupon icon Kupon Fırsatı Promotion icon 3 Al 2 Öde Coupon icon Kupon Fırsatı 419 TL (2.793,33 TL / kg)" [ref=e132] [cursor=pointer]:
+                  - /url: /harmana/hindiba-kahvesi-1-aylik-60-kullanim-net-150gr-p-288620006?boutiqueId=61&merchantId=733266
+                  - generic [ref=e133]:
+                    - generic [ref=e134]:
+                      - img "Hindiba Kahvesi 1 Aylık - (60 Kullanım) Net 150gr" [ref=e135]
+                      - generic [ref=e136]:
+                        - button "Add to favorites" [ref=e137]
+                        - paragraph [ref=e143]: Kargo Bedava
+                    - generic [ref=e144]:
+                      - paragraph [ref=e146]: HARMANA Hindiba Kahvesi 1 Aylık - (60 Kullanım) Net 150gr
+                      - generic [ref=e150]:
+                        - generic [ref=e151]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e153]: 35,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e155]: 1M kişi favoriledi!
+                        - generic [ref=e157]: 24 saatte 17,1B kişi inceledi!
+                        - generic [ref=e159]: gozdekaraman öneriyor!
+                        - generic [ref=e161]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e164]:
+                        - generic [ref=e165]: "4.1"
+                        - generic [ref=e166]: (81139)
+                      - generic [ref=e182]:
+                        - generic [ref=e186]:
+                          - generic [ref=e188]:
+                            - generic "Coupon icon" [ref=e189]
+                            - generic [ref=e190]: Kupon Fırsatı
+                          - generic [ref=e192]:
+                            - generic "Promotion icon" [ref=e193]
+                            - generic [ref=e194]: 3 Al 2 Öde
+                          - generic [ref=e196]:
+                            - generic "Coupon icon" [ref=e197]
+                            - generic [ref=e198]: Kupon Fırsatı
+                        - generic [ref=e199]:
+                          - generic [ref=e200]: 419 TL
+                          - generic [ref=e203]: (2.793,33 TL / kg)
+              - listitem [ref=e204]:
+                - link "Kolajen Ve Prebiyotik Tablet Add to favorites Kargo Bedava icollagen Kolajen Ve Prebiyotik Tablet 3 günde 10B+ ürün satıldı! 85B kişinin sepetinde, kaçırma! 991,7B kişi favoriledi! 24 saatte 19,4B kişi inceledi! Medinesaldiik öneriyor! 3 günde 10B+ ürün satıldı! 4.2 (51571) Promotion icon 3 Al 2 Öde 350 TL (5,83 TL / tablet)" [ref=e205] [cursor=pointer]:
+                  - /url: /icollagen/kolajen-ve-prebiyotik-tablet-p-752356123?boutiqueId=61&merchantId=1013507
+                  - generic [ref=e206]:
+                    - generic [ref=e207]:
+                      - img "Kolajen Ve Prebiyotik Tablet" [ref=e208]
+                      - generic [ref=e209]:
+                        - button "Add to favorites" [ref=e210]
+                        - paragraph [ref=e216]: Kargo Bedava
+                    - generic [ref=e217]:
+                      - paragraph [ref=e219]: icollagen Kolajen Ve Prebiyotik Tablet
+                      - generic [ref=e223]:
+                        - generic [ref=e224]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e226]: 85B kişinin sepetinde, kaçırma!
+                        - generic [ref=e228]: 991,7B kişi favoriledi!
+                        - generic [ref=e230]: 24 saatte 19,4B kişi inceledi!
+                        - generic [ref=e232]: Medinesaldiik öneriyor!
+                        - generic [ref=e234]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e237]:
+                        - generic [ref=e238]: "4.2"
+                        - generic [ref=e239]: (51571)
+                      - generic [ref=e255]:
+                        - generic [ref=e261]:
+                          - generic "Promotion icon" [ref=e262]
+                          - generic [ref=e263]: 3 Al 2 Öde
+                        - generic [ref=e264]:
+                          - generic [ref=e265]: 350 TL
+                          - generic [ref=e268]: (5,83 TL / tablet)
+              - listitem [ref=e269]:
+                - link "Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml Add to favorites CALLİEL Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml 3 günde 10B+ ürün satıldı! 131,3B kişinin sepetinde, kaçırma! 873B kişi favoriledi! 24 saatte 25B kişi inceledi! selinkotanci öneriyor! 3 günde 10B+ ürün satıldı! 4.3 (5430) Coupon icon Kupon Fırsatı Lowest price icon Son 10 Günün En Düşük Fiyatı Promotion icon İndirim Kodu Coupon icon Kupon Fırsatı 225,95 TL 228,23 TL" [ref=e270] [cursor=pointer]:
+                  - /url: /calliel/aydinlatici-leke-ve-siyah-nokta-karsiti-kojik-asit-tonik-200-ml-p-945832144?boutiqueId=61&merchantId=830154
+                  - generic [ref=e271]:
+                    - generic [ref=e272]:
+                      - img "Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml" [ref=e273]
+                      - button "Add to favorites" [ref=e275]
+                    - generic [ref=e278]:
+                      - paragraph [ref=e280]: CALLİEL Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml
+                      - generic [ref=e284]:
+                        - generic [ref=e285]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e287]: 131,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e289]: 873B kişi favoriledi!
+                        - generic [ref=e291]: 24 saatte 25B kişi inceledi!
+                        - generic [ref=e293]: selinkotanci öneriyor!
+                        - generic [ref=e295]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: "4.3"
+                        - generic [ref=e300]: (5430)
+                      - generic [ref=e316]:
+                        - generic [ref=e320]:
+                          - generic [ref=e322]:
+                            - generic "Coupon icon" [ref=e323]
+                            - generic [ref=e324]: Kupon Fırsatı
+                          - generic [ref=e326]:
+                            - generic "Lowest price icon" [ref=e327]
+                            - generic [ref=e328]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e330]:
+                            - generic "Promotion icon" [ref=e331]
+                            - generic [ref=e332]: İndirim Kodu
+                          - generic [ref=e334]:
+                            - generic "Coupon icon" [ref=e335]
+                            - generic [ref=e336]: Kupon Fırsatı
+                        - generic [ref=e339]:
+                          - generic [ref=e340]: 225,95 TL
+                          - generic [ref=e341]: 228,23 TL
+              - listitem [ref=e342]:
+                - link "Klimalı Yastık - Beyaz/Açık Gri - 50x70 cm Add to favorites Madame Coco Klimalı Yastık - Beyaz/Açık Gri - 50x70 cm 3 günde 2B+ ürün satıldı! 9,7B kişinin sepetinde, kaçırma! 294,1B kişi favoriledi! 24 saatte 4,5B kişi inceledi! ceylanaygun öneriyor! 3 günde 2B+ ürün satıldı! 4.4 (16991) Kampanyalı Fiyat Sepette 333 TL 1.849,99 TL" [ref=e343] [cursor=pointer]:
+                  - /url: /madame-coco/klimali-yastik-beyaz-acik-gri-50x70-cm-p-51738600?boutiqueId=61&merchantId=612
+                  - generic [ref=e344]:
+                    - generic [ref=e345]:
+                      - img "Klimalı Yastık - Beyaz/Açık Gri - 50x70 cm" [ref=e346]
+                      - button "Add to favorites" [ref=e348]
+                    - generic [ref=e351]:
+                      - paragraph [ref=e353]: Madame Coco Klimalı Yastık - Beyaz/Açık Gri - 50x70 cm
+                      - generic [ref=e357]:
+                        - generic [ref=e358]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e360]: 9,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e362]: 294,1B kişi favoriledi!
+                        - generic [ref=e364]: 24 saatte 4,5B kişi inceledi!
+                        - generic [ref=e366]: ceylanaygun öneriyor!
+                        - generic [ref=e368]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e371]:
+                        - generic [ref=e372]: "4.4"
+                        - generic [ref=e373]: (16991)
+                      - generic [ref=e389]:
+                        - generic [ref=e390]: Kampanyalı Fiyat
+                        - generic [ref=e398]:
+                          - generic [ref=e399]:
+                            - generic [ref=e400]: Sepette
+                            - generic [ref=e401]: 333 TL
+                          - generic [ref=e403]: 1.849,99 TL
+              - listitem [ref=e405]:
+                - link [ref=e406] [cursor=pointer]:
+                  - /url: /momordica/coconut-mix-250-ml-p-974364895?boutiqueId=61&merchantId=1024688
+                  - generic [ref=e407]:
+                    - button [ref=e411]
+                    - generic [ref=e414]:
+                      - paragraph [ref=e416]: MOMORDİCA Coconut Mix - 250 ml
+                      - generic [ref=e420]:
+                        - generic [ref=e421]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e423]: 45B kişinin sepetinde, kaçırma!
+                        - generic [ref=e425]: 595,6B kişi favoriledi!
+                        - generic [ref=e427]: 24 saatte 15,6B kişi inceledi!
+                        - generic [ref=e429]: gozdekaraman öneriyor!
+                        - generic [ref=e431]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e434]:
+                        - generic [ref=e435]: "3.7"
+                        - generic [ref=e436]: (29527)
+                      - generic [ref=e452]:
+                        - generic [ref=e453]: 3 Al 2 Öde
+                        - generic [ref=e461]: 309 TL
+              - listitem [ref=e465]:
+                - link [ref=e466] [cursor=pointer]:
+                  - /url: /harmana/beform-mumiyo-sirkesi-250-ml-p-833275565?boutiqueId=61&merchantId=733266
+                  - generic [ref=e467]:
+                    - button [ref=e471]
+                    - generic [ref=e474]:
+                      - paragraph [ref=e476]: HARMANA Beform - Mumiyo Sirkesi 250 ml
+                      - generic [ref=e480]:
+                        - generic [ref=e481]: 3 günde 1,5B+ ürün satıldı!
+                        - generic [ref=e483]: 8,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e485]: 76,2B kişi favoriledi!
+                        - generic [ref=e487]: 24 saatte 2,4B kişi inceledi!
+                        - generic [ref=e489]: burcukoc öneriyor!
+                        - generic [ref=e491]: 3 günde 1,5B+ ürün satıldı!
+                      - generic [ref=e494]:
+                        - generic [ref=e495]: "4.4"
+                        - generic [ref=e496]: (4714)
+                      - generic [ref=e512]:
+                        - generic [ref=e516]:
+                          - generic [ref=e517]: Kupon Fırsatı
+                          - generic [ref=e521]: 3 Al 2 Öde
+                          - generic [ref=e525]: Kupon Fırsatı
+                        - generic [ref=e529]: 349 TL
+              - listitem [ref=e533]:
+                - link [ref=e534] [cursor=pointer]:
+                  - /url: /embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922?boutiqueId=61&merchantId=1219999
+                  - generic [ref=e535]:
+                    - generic [ref=e538]:
+                      - button [ref=e539]
+                      - paragraph [ref=e545]: Kargo Bedava
+                    - generic [ref=e546]:
+                      - paragraph [ref=e548]: Embeauty Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili
+                      - generic [ref=e552]:
+                        - generic [ref=e553]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e555]: 89,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e557]: 1,1M kişi favoriledi!
+                        - generic [ref=e559]: 24 saatte 15,2B kişi inceledi!
+                        - generic [ref=e561]: gozdekaraman öneriyor!
+                        - generic [ref=e563]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e566]:
+                        - generic [ref=e567]: "4.2"
+                        - generic [ref=e568]: (23975)
+                      - generic [ref=e584]: 440 TL
+              - listitem [ref=e590]:
+                - link [ref=e591] [cursor=pointer]:
+                  - /url: /missha/ton-esitleyici-aydinlatici-gunes-kremi-50ml-a-pieu-power-block-tone-up-base-pink-spf50-pa-p-6427232?boutiqueId=61&merchantId=104886
+                  - generic [ref=e592]:
+                    - generic [ref=e595]:
+                      - button [ref=e596]
+                      - paragraph [ref=e602]: Kargo Bedava
+                    - generic [ref=e603]:
+                      - paragraph [ref=e605]: Missha Ton Eşitleyici Aydınlatıcı Güneş Kremi 50ml A'PIEU Power Block Tone Up Base Pink SPF50+/PA++++
+                      - generic [ref=e609]:
+                        - generic [ref=e610]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e612]: 32,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e614]: 1,4M kişi favoriledi!
+                        - generic [ref=e616]: 24 saatte 9,7B kişi inceledi!
+                        - generic [ref=e618]: mikaraun öneriyor!
+                        - generic [ref=e620]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e623]:
+                        - generic [ref=e624]: "4.6"
+                        - generic [ref=e625]: (67165)
+                      - generic [ref=e641]:
+                        - generic [ref=e642]: Kupon Fırsatı
+                        - generic [ref=e650]: 502,59 TL
+              - listitem [ref=e654]:
+                - link [ref=e655] [cursor=pointer]:
+                  - /url: /embeauty/9-aktifli-sac-dokulmesine-karsi-hizli-sac-uzatan-onarici-dolgunlastirici-besleyici-sampuan-400-ml-p-776827526?boutiqueId=61&merchantId=1266961
+                  - generic [ref=e656]:
+                    - generic [ref=e659]:
+                      - button [ref=e660]
+                      - paragraph [ref=e666]: Kargo Bedava
+                    - generic [ref=e667]:
+                      - paragraph [ref=e669]: Embeauty 9 Aktifli Saç Dökülmesine Karşı Hızlı Saç Uzatan & Onarıcı Dolgunlaştırıcı Besleyici Şampuan 400 ML
+                      - generic [ref=e673]:
+                        - generic [ref=e674]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e676]: 54,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e678]: 1,2M kişi favoriledi!
+                        - generic [ref=e680]: 24 saatte 10,6B kişi inceledi!
+                        - generic [ref=e682]: gozdekaraman öneriyor!
+                        - generic [ref=e684]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e687]:
+                        - generic [ref=e688]: "4.1"
+                        - generic [ref=e689]: (80592)
+                      - generic [ref=e705]:
+                        - generic [ref=e706]: Çok Al Az Öde
+                        - generic [ref=e714]:
+                          - generic [ref=e715]: 410 TL
+                          - generic [ref=e718]: (1.025 TL / lt)
+              - listitem [ref=e719]:
+                - link [ref=e720] [cursor=pointer]:
+                  - /url: /swedent/gurme-serisi-sutlu-cikolata-sos-kremsi-dokusu-ile-zengin-ve-akiskan-kivam-p-1130262186?boutiqueId=61&merchantId=1272305
+                  - generic [ref=e721]:
+                    - button [ref=e725]
+                    - generic [ref=e728]:
+                      - paragraph [ref=e730]: Swedent Gurme Serisi Sütlü Çikolata Sos Kremsi Dokusu ile Zengin ve Akışkan Kıvam
+                      - generic [ref=e734]:
+                        - generic [ref=e735]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e737]: 41,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e739]: 76,3B kişi favoriledi!
+                        - generic [ref=e741]: 24 saatte 9,4B kişi inceledi!
+                        - generic [ref=e743]: gozdekaraman öneriyor!
+                        - generic [ref=e745]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e748]:
+                        - generic [ref=e749]: "4.2"
+                        - generic [ref=e750]: (1047)
+                      - generic [ref=e767]:
+                        - generic [ref=e768]: Trendyol Plus'a Özel
+                        - generic [ref=e772]:
+                          - generic [ref=e773]:
+                            - generic [ref=e774]: Sepette
+                            - generic [ref=e775]: 249,90 TL
+                          - generic [ref=e776]: 269,90 TL
+              - listitem [ref=e778]:
+                - link [ref=e779] [cursor=pointer]:
+                  - /url: /jeonju/leke-karsiti-nemlendirici-yuksek-korumali-paris-isiltisi-pirinc-gunes-sprey-p-1147185852?boutiqueId=61&merchantId=104968
+                  - generic [ref=e780]:
+                    - button [ref=e784]
+                    - generic [ref=e787]:
+                      - paragraph [ref=e789]: JEONJU Leke Karşıtı.Nemlendirici,Yüksek Korumalı Paris Işıltısı Pirinç Güneş Sprey
+                      - generic [ref=e793]:
+                        - generic [ref=e794]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e796]: 74,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e798]: 228,1B kişi favoriledi!
+                        - generic [ref=e800]: 24 saatte 13,7B kişi inceledi!
+                        - generic [ref=e802]: unalnarman öneriyor!
+                        - generic [ref=e804]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e807]:
+                        - generic [ref=e808]: "4.4"
+                        - generic [ref=e809]: (4592)
+                      - generic [ref=e825]:
+                        - generic [ref=e826]: Kupon Fırsatı
+                        - generic [ref=e834]: 299,99 TL
+              - listitem [ref=e838]:
+                - link [ref=e839] [cursor=pointer]:
+                  - /url: /mamaaura/hamileler-icin-catlak-onleyici-maximum-elasticity-cream-150-ml-p-277595826?boutiqueId=61&merchantId=638264
+                  - generic [ref=e840]:
+                    - button [ref=e844]
+                    - generic [ref=e847]:
+                      - paragraph [ref=e849]: MAMAAURA Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml
+                      - generic [ref=e853]:
+                        - generic [ref=e854]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e856]: 33,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e858]: 201,1B kişi favoriledi!
+                        - generic [ref=e860]: 24 saatte 12,3B kişi inceledi!
+                        - generic [ref=e862]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e864]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e867]:
+                        - generic [ref=e868]: "4.5"
+                        - generic [ref=e869]: (7810)
+                      - generic [ref=e885]:
+                        - generic [ref=e889]:
+                          - generic [ref=e890]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e894]: Çok Al Az Öde
+                          - generic [ref=e898]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e904]:
+                          - generic [ref=e905]: 340 TL
+                          - generic [ref=e906]: 345 TL
+              - listitem [ref=e907]:
+                - link [ref=e908] [cursor=pointer]:
+                  - /url: /mamaaura/catlak-ve-selulit-karsiti-shape-me-oil-125-ml-p-764715111?boutiqueId=61&merchantId=638264
+                  - generic [ref=e909]:
+                    - generic [ref=e912]:
+                      - button [ref=e913]
+                      - paragraph [ref=e919]: Kargo Bedava
+                    - generic [ref=e920]:
+                      - paragraph [ref=e922]: MAMAAURA Çatlak ve Selülit Karşıtı - Shape Me Oil 125 ml
+                      - generic [ref=e926]:
+                        - generic [ref=e927]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e929]: 43,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e931]: 238,9B kişi favoriledi!
+                        - generic [ref=e933]: 24 saatte 14,4B kişi inceledi!
+                        - generic [ref=e935]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e937]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e940]:
+                        - generic [ref=e941]: "4.5"
+                        - generic [ref=e942]: (2064)
+                      - generic [ref=e958]:
+                        - generic [ref=e959]: Çok Al Az Öde
+                        - generic [ref=e967]: 360 TL
+              - listitem [ref=e971]:
+                - link [ref=e972] [cursor=pointer]:
+                  - /url: /koreaco/retinal-0-1-shot-corrector-booster-krem-20-ml-niacinamide-5-pantehnol-1-matrixyl-3-p-1075418107?boutiqueId=61&merchantId=126383
+                  - generic [ref=e973]:
+                    - generic [ref=e976]:
+                      - button [ref=e977]
+                      - paragraph [ref=e983]: Kargo Bedava
+                    - generic [ref=e984]:
+                      - paragraph [ref=e986]: KOREACO Retinal (%0,1) Shot Corrector Booster Krem 20 ml | Niacinamide %5 Pantehnol %1 Matrixyl %3
+                      - generic [ref=e990]:
+                        - generic [ref=e991]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e993]: 24,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e995]: 388,7B kişi favoriledi!
+                        - generic [ref=e997]: 24 saatte 6,6B kişi inceledi!
+                        - generic [ref=e999]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e1002]:
+                        - generic [ref=e1003]: "4.0"
+                        - generic [ref=e1004]: (10358)
+                      - generic [ref=e1021]:
+                        - generic [ref=e1022]: Trendyol Plus'a Özel
+                        - generic [ref=e1026]:
+                          - generic [ref=e1027]:
+                            - generic [ref=e1028]: Sepette
+                            - generic [ref=e1029]: 434,80 TL
+                          - generic [ref=e1030]: 457,68 TL
+              - listitem [ref=e1032]:
+                - link [ref=e1033] [cursor=pointer]:
+                  - /url: /embeauty/brow-lock-fix-laminasyon-etkili-kas-sabitleyici-maskara-seffaf-biotin-b5-icerikli-p-1072042577?boutiqueId=61&merchantId=1266961
+                  - generic [ref=e1034]:
+                    - generic [ref=e1037]:
+                      - button [ref=e1038]
+                      - paragraph [ref=e1044]: Kargo Bedava
+                    - generic [ref=e1045]:
+                      - paragraph [ref=e1047]: Embeauty Brow Lock Fıx Laminasyon Etkili Kaş Sabitleyici Maskara (Şeffaf Biotin & B5 İçerikli)
+                      - generic [ref=e1051]:
+                        - generic [ref=e1052]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e1054]: 30,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1056]: 84,6B kişi favoriledi!
+                        - generic [ref=e1058]: 24 saatte 4,1B kişi inceledi!
+                        - generic [ref=e1060]: Dima Aslan öneriyor!
+                        - generic [ref=e1062]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e1065]:
+                        - generic [ref=e1066]: "4.0"
+                        - generic [ref=e1067]: (2370)
+                      - generic [ref=e1083]:
+                        - generic [ref=e1084]: Çok Al Az Öde
+                        - generic [ref=e1092]: 350 TL
+              - listitem [ref=e1096]:
+                - link [ref=e1097] [cursor=pointer]:
+                  - /url: /siveno/sivrisinek-ve-kene-kovucu-sprey-losyon-bitkisel-tum-vucut-icin-seyahat-tatil-boy-50-ml-p-684477925?boutiqueId=61&merchantId=106852
+                  - generic [ref=e1098]:
+                    - button [ref=e1102]
+                    - generic [ref=e1105]:
+                      - paragraph [ref=e1107]: Siveno Sivrisinek ve Kene Kovucu Sprey Losyon Bitkisel Tüm Vücut İçin Seyahat Tatil Boy 50 ml
+                      - generic [ref=e1111]:
+                        - generic [ref=e1112]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e1114]: 58,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1116]: 438,6B kişi favoriledi!
+                        - generic [ref=e1118]: 24 saatte 8,7B kişi inceledi!
+                        - generic [ref=e1120]: gozdekaraman öneriyor!
+                        - generic [ref=e1122]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e1125]:
+                        - generic [ref=e1126]: "4.4"
+                        - generic [ref=e1127]: (10353)
+                      - generic [ref=e1143]:
+                        - generic [ref=e1144]: Sepette %15 İndirim
+                        - generic [ref=e1152]:
+                          - generic [ref=e1153]:
+                            - generic [ref=e1154]: Sepette
+                            - generic [ref=e1155]: 289,89 TL
+                          - generic [ref=e1157]: 341,05 TL
+              - listitem [ref=e1159]:
+                - link [ref=e1160] [cursor=pointer]:
+                  - /url: /epify/epify-tuy-dokucu-krem-p-98844337?boutiqueId=61&merchantId=1125806
+                  - generic [ref=e1161]:
+                    - generic [ref=e1164]:
+                      - button [ref=e1165]
+                      - paragraph [ref=e1171]: Kargo Bedava
+                    - generic [ref=e1172]:
+                      - paragraph [ref=e1174]: EPİFY Epify Tüy Dökücü Krem
+                      - generic [ref=e1178]:
+                        - generic [ref=e1179]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e1181]: 24,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1183]: 550,9B kişi favoriledi!
+                        - generic [ref=e1185]: 24 saatte 9,4B kişi inceledi!
+                        - generic [ref=e1187]: nevrabilem öneriyor!
+                        - generic [ref=e1189]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e1192]:
+                        - generic [ref=e1193]: "3.6"
+                        - generic [ref=e1194]: (37790)
+                      - generic [ref=e1210]:
+                        - generic [ref=e1211]: 3 Al 2 Öde
+                        - generic [ref=e1219]:
+                          - generic [ref=e1220]: 549 TL
+                          - generic [ref=e1223]: (2,20 TL / ml)
+              - listitem [ref=e1224]:
+                - link [ref=e1225] [cursor=pointer]:
+                  - /url: /jeven-brus/kiss-me-erkek-parfum-edp-50-ml-p-841178228?boutiqueId=61&merchantId=650812
+                  - generic [ref=e1226]:
+                    - generic [ref=e1229]:
+                      - button [ref=e1230]
+                      - paragraph [ref=e1236]: Kargo Bedava
+                    - generic [ref=e1237]:
+                      - paragraph [ref=e1239]: Jeven Brus Kiss Me Erkek Parfüm - Edp 50 ml
+                      - generic [ref=e1243]:
+                        - generic [ref=e1244]: 3 günde 1,5B+ ürün satıldı!
+                        - generic [ref=e1246]: 24B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1248]: 191B kişi favoriledi!
+                        - generic [ref=e1250]: 24 saatte 7,6B kişi inceledi!
+                        - generic [ref=e1252]: rabiapelit öneriyor!
+                        - generic [ref=e1254]: 3 günde 1,5B+ ürün satıldı!
+                      - generic [ref=e1257]:
+                        - generic [ref=e1258]: "4.3"
+                        - generic [ref=e1259]: (11021)
+                      - generic [ref=e1275]:
+                        - generic [ref=e1276]: 3 Al 2 Öde
+                        - generic [ref=e1284]: 1.690 TL
+              - listitem [ref=e1288]:
+                - link [ref=e1289] [cursor=pointer]:
+                  - /url: /jeonju/pirinc-mayasi-beyazlatici-aydinlatici-leke-karsiti-nemlendirici-tonik-p-813530927?boutiqueId=61&merchantId=104968
+                  - generic [ref=e1290]:
+                    - button [ref=e1294]
+                    - generic [ref=e1297]:
+                      - paragraph [ref=e1299]: JEONJU Pirinç Mayası Beyazlatıcı Aydınlatıcı Leke Karşıtı Nemlendirici Tonik
+                      - generic [ref=e1303]:
+                        - generic [ref=e1304]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e1306]: 55,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1308]: 1,3M kişi favoriledi!
+                        - generic [ref=e1310]: 24 saatte 12,5B kişi inceledi!
+                        - generic [ref=e1312]: gozdekaraman öneriyor!
+                        - generic [ref=e1314]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e1317]:
+                        - generic [ref=e1318]: "4.2"
+                        - generic [ref=e1319]: (62933)
+                      - generic [ref=e1335]:
+                        - generic [ref=e1339]:
+                          - generic [ref=e1340]: Kupon Fırsatı
+                          - generic [ref=e1344]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e1348]: Kupon Fırsatı
+                        - generic [ref=e1354]:
+                          - generic [ref=e1355]: 291,08 TL
+                          - generic [ref=e1356]: 294,02 TL
+              - listitem [ref=e1357]:
+                - link [ref=e1358] [cursor=pointer]:
+                  - /url: /lumenascent/liora-kadin-parfum-floral-edp-50-ml-p-971347342?boutiqueId=61&merchantId=733266
+                  - generic [ref=e1359]:
+                    - generic [ref=e1362]:
+                      - button [ref=e1363]
+                      - paragraph [ref=e1369]: Kargo Bedava
+                    - generic [ref=e1370]:
+                      - paragraph [ref=e1372]: LumenaScent Liora Kadın Parfüm Floral Edp 50 ml
+                      - generic [ref=e1376]:
+                        - generic [ref=e1377]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e1379]: 70,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1381]: 829B kişi favoriledi!
+                        - generic [ref=e1383]: 24 saatte 18,5B kişi inceledi!
+                        - generic [ref=e1385]: RukenEkinci öneriyor!
+                        - generic [ref=e1387]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e1390]:
+                        - generic [ref=e1391]: "3.8"
+                        - generic [ref=e1392]: (29760)
+                      - generic [ref=e1408]:
+                        - generic [ref=e1412]:
+                          - generic [ref=e1413]: Kupon Fırsatı
+                          - generic [ref=e1417]: 3 Al 2 Öde
+                          - generic [ref=e1421]: Kupon Fırsatı
+                        - generic [ref=e1425]: 419,90 TL
+              - listitem [ref=e1429]:
+                - link [ref=e1430] [cursor=pointer]:
+                  - /url: /sanaozel/1?versionKey=singleProducts_JFY_Original&SectionId=1
+                  - generic [ref=e1431]: Tümünü gör
+        - generic [ref=e1434]:
+          - paragraph [ref=e1437] [cursor=pointer]: İndirim Oranlarına Göre Avantajları Keşfet
+          - generic [ref=e1438]:
+            - link [ref=e1439] [cursor=pointer]:
+              - /url: /sr?bu=100289,100300,100119,100116,100299,100118,100120,100306,100169&tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lpd=10,14,30&dcr=5
+              - img "DSBoutiques_% İndirim_5" [ref=e1441]
+            - link [ref=e1442] [cursor=pointer]:
+              - /url: /sr?tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lpd=10,14,30&sst=SCORE&dcr=10
+              - img "DSBoutiques_% İndirim_10" [ref=e1444]
+            - link [ref=e1445] [cursor=pointer]:
+              - /url: /sr?tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lpd=10,14,30&sst=SCORE&dcr=30
+              - img "DSBoutiques_% İndirim_30" [ref=e1447]
+            - link [ref=e1448] [cursor=pointer]:
+              - /url: /sr?tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu&lpd=10,14,30&sst=SCORE&dcr=50
+              - img "DSBoutiques_% İndirim_50" [ref=e1450]
+        - generic [ref=e1452]:
+          - paragraph [ref=e1455] [cursor=pointer]: Kategorilerdeki İndirimleri Keşfet
+          - region "Product carousel" [ref=e1456]:
+            - list [ref=e1459]:
+              - listitem [ref=e1460]:
+                - link [ref=e1461] [cursor=pointer]:
+                  - /url: /sr?q=%C3%A7ocuk&qt=%C3%A7ocuk&st=%C3%A7ocuk&lpd=30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Anne & Çocuk" [ref=e1463]
+              - listitem [ref=e1464]:
+                - link [ref=e1465] [cursor=pointer]:
+                  - /url: /sr?wc=82&wg=2&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Erkek Giyim" [ref=e1467]
+              - listitem [ref=e1468]:
+                - link [ref=e1469] [cursor=pointer]:
+                  - /url: /sr?wc=109552%2C103483%2C109002%2C103904%2C103897%2C103720%2C104050&lpd=10%2C14%2C30&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Oto & Yapı Market" [ref=e1471]
+              - listitem [ref=e1472]:
+                - link [ref=e1473] [cursor=pointer]:
+                  - /url: /sr?bu=100289%2C100300%2C100118%2C100116&lpd=10%2C14%2C30&sst=MOST_FAVOURITE&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Tüketici Elektroniği" [ref=e1475]
+              - listitem [ref=e1476]:
+                - link [ref=e1477] [cursor=pointer]:
+                  - /url: /sr?wc=114&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Ayakkabı" [ref=e1479]
+              - listitem [ref=e1480]:
+                - link [ref=e1481] [cursor=pointer]:
+                  - /url: /sr?wc=82&wg=1&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Kadın Giyim" [ref=e1483]
+              - listitem [ref=e1484]:
+                - link [ref=e1485] [cursor=pointer]:
+                  - /url: /sr?wc=103799&lpd=10,14,30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Süpermarket" [ref=e1487]
+              - listitem [ref=e1488]:
+                - link [ref=e1489] [cursor=pointer]:
+                  - /url: /sr?wc=104125,91&lpd=30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Kitap & Kırtasiye" [ref=e1491]
+              - listitem [ref=e1492]:
+                - link [ref=e1493] [cursor=pointer]:
+                  - /url: /sr?wc=86,1180,109363,143992,1346,143835,1347&lpd=30
+                  - img "DSBoutiques_Kategorilerdeki İndirimleri Keşfet_Kozmetik" [ref=e1495]
+              - listitem [ref=e1496]:
+                - link [ref=e1497] [cursor=pointer]:
+                  - /url: /sr?wc=101514,1365,1119&lpd=10,14,30
+              - listitem [ref=e1500]:
+                - link [ref=e1501] [cursor=pointer]:
+                  - /url: /sr?wc=145704&lpd=30
+              - listitem [ref=e1504]:
+                - link [ref=e1505] [cursor=pointer]:
+                  - /url: /sr?bu=100299,100120,100306%2C100169&sst=MOST_FAVOURITE&lpd=10,14,30
+              - listitem [ref=e1508]:
+                - link [ref=e1509] [cursor=pointer]:
+                  - /url: /sr?wc=27&bu=100103,100102,100295,92,90,100095&lpd=10,14,30
+              - listitem [ref=e1512]:
+                - link [ref=e1513] [cursor=pointer]:
+                  - /url: /sr?bu=100146,100150,100151&lpd=10,14,30
+        - link "banner-boutique" [ref=e1518] [cursor=pointer]:
+          - /url: /sr?mid=61&prm=28940428,28940455
+          - img "pim_bu_100146" [ref=e1520]
+        - link "banner-boutique" [ref=e1523] [cursor=pointer]:
+          - /url: /sr?fl=encoksatanurunler&bu=100100,100141,100142,100144,100113,100143,100108&sst=BEST_SELLER
+          - img "pim_bu_100096" [ref=e1525]
+        - link "banner-boutique" [ref=e1528] [cursor=pointer]:
+          - /url: /sr?mid=167526&os=1&lpd=10,14,30
+          - img "pim_bu_100150" [ref=e1530]
+        - link "banner-boutique" [ref=e1533] [cursor=pointer]:
+          - /url: /sr?wc=103946&sst=BEST_SELLER&os=1
+          - img "pim_bu_100096" [ref=e1535]
+        - link "banner-boutique" [ref=e1538] [cursor=pointer]:
+          - /url: /sr?prm=28827108
+          - img "pim_bu_100119" [ref=e1540]
+        - link "banner-boutique" [ref=e1543] [cursor=pointer]:
+          - /url: /sr?wc=105548&tag=kirmizi_kampanya_urunu%2Cturuncu_kampanya_urunu%2Csari_kampanya_urunu
+          - img "pim_bu_100096" [ref=e1545]
+        - generic [ref=e1548]:
+          - generic [ref=e1549]:
+            - generic [ref=e1551]:
+              - paragraph [ref=e1554] [cursor=pointer]: Flaş Ürünler
+              - generic [ref=e1555]:
+                - generic [ref=e1556]: "02"
+                - generic [ref=e1558]: ":"
+                - generic [ref=e1559]: "37"
+                - generic [ref=e1561]: ":"
+                - generic [ref=e1562]: "21"
+            - link "Tümünü gör" [ref=e1566] [cursor=pointer]:
+              - /url: /sr?tag=fs_10_7_2026_12_15%2Cfs_10_7_2026_0_24
+          - region "Product carousel" [ref=e1568]:
+            - list [ref=e1571]:
+              - listitem [ref=e1572]:
+                - link "Anymetre Vücut Yağ Analizi Yağ Ölçer Kare Dijital Baskül Tartı Add to favorites Onetick Anymetre Vücut Yağ Analizi Yağ Ölçer Kare Dijital Baskül Tartı 3 günde 1B+ ürün satıldı! 2,6B kişinin sepetinde, kaçırma! 25,2B kişi favoriledi! 24 saatte 1,8B kişi inceledi! rabiapelit öneriyor! Hızlı Teslimat yapılıyor! 3 günde 1B+ ürün satıldı! 4.4 (2537) 241,14 TL" [ref=e1573] [cursor=pointer]:
+                  - /url: /onetick/anymetre-vucut-yag-analizi-yag-olcer-kare-dijital-baskul-tarti-p-765433561?boutiqueId=61
+                  - generic [ref=e1574]:
+                    - generic [ref=e1575]:
+                      - img "Anymetre Vücut Yağ Analizi Yağ Ölçer Kare Dijital Baskül Tartı" [ref=e1576]
+                      - button "Add to favorites" [ref=e1578]
+                    - generic [ref=e1581]:
+                      - paragraph [ref=e1583]: Onetick Anymetre Vücut Yağ Analizi Yağ Ölçer Kare Dijital Baskül Tartı
+                      - generic [ref=e1587]:
+                        - generic [ref=e1588]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e1590]: 2,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1592]: 25,2B kişi favoriledi!
+                        - generic [ref=e1594]: 24 saatte 1,8B kişi inceledi!
+                        - generic [ref=e1596]: rabiapelit öneriyor!
+                        - generic [ref=e1598]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1600]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e1603]:
+                        - generic [ref=e1604]: "4.4"
+                        - generic [ref=e1605]: (2537)
+                      - generic [ref=e1621]: 241,14 TL
+              - listitem [ref=e1627]:
+                - link "Kadın yumuşak gecelik Add to favorites WINDY LAND Kadın yumuşak gecelik 3 günde 100+ ürün satıldı! 717 kişinin sepetinde, kaçırma! 15,6B kişi favoriledi! 24 saatte 1,1B kişi inceledi! Hızlı Teslimat yapılıyor! 3 günde 100+ ürün satıldı! 4.3 (365) Coupon icon Kupon Fırsatı Promotion icon 2. Ürün %10 Coupon icon Kupon Fırsatı 155,57 TL" [ref=e1628] [cursor=pointer]:
+                  - /url: /windy-land/kadin-yumusak-gecelik-p-895195141?boutiqueId=61
+                  - generic [ref=e1629]:
+                    - generic [ref=e1630]:
+                      - img "Kadın yumuşak gecelik" [ref=e1631]
+                      - button "Add to favorites" [ref=e1633]
+                    - generic [ref=e1636]:
+                      - paragraph [ref=e1638]: WINDY LAND Kadın yumuşak gecelik
+                      - generic [ref=e1642]:
+                        - generic [ref=e1643]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e1645]: 717 kişinin sepetinde, kaçırma!
+                        - generic [ref=e1647]: 15,6B kişi favoriledi!
+                        - generic [ref=e1649]: 24 saatte 1,1B kişi inceledi!
+                        - generic [ref=e1651]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1653]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e1656]:
+                        - generic [ref=e1657]: "4.3"
+                        - generic [ref=e1658]: (365)
+                      - generic [ref=e1674]:
+                        - generic [ref=e1678]:
+                          - generic [ref=e1680]:
+                            - generic "Coupon icon" [ref=e1681]
+                            - generic [ref=e1682]: Kupon Fırsatı
+                          - generic [ref=e1684]:
+                            - generic "Promotion icon" [ref=e1685]
+                            - generic [ref=e1686]: 2. Ürün %10
+                          - generic [ref=e1688]:
+                            - generic "Coupon icon" [ref=e1689]
+                            - generic [ref=e1690]: Kupon Fırsatı
+                        - generic [ref=e1691]: 155,57 TL
+              - listitem [ref=e1695]:
+                - link "Kırmızı Kore Ginsengi Ekstresi 30 Kapsül Add to favorites Kargo Bedava Erbatab Kırmızı Kore Ginsengi Ekstresi 30 Kapsül 701 kişinin sepetinde, kaçırma! 14,4B kişi favoriledi! 24 saatte 1,1B kişi inceledi! sevdaasiltekin öneriyor! Hızlı Teslimat yapılıyor! 701 kişinin sepetinde, kaçırma! 4.3 (436) Promotion icon İndirim Kodu 352,33 TL (11,74 TL / kapsül)" [ref=e1696] [cursor=pointer]:
+                  - /url: /erbatab/kirmizi-kore-ginsengi-ekstresi-30-kapsul-p-682657874?boutiqueId=61
+                  - generic [ref=e1697]:
+                    - generic [ref=e1698]:
+                      - img "Kırmızı Kore Ginsengi Ekstresi 30 Kapsül" [ref=e1699]
+                      - generic [ref=e1700]:
+                        - button "Add to favorites" [ref=e1701]
+                        - paragraph [ref=e1707]: Kargo Bedava
+                    - generic [ref=e1708]:
+                      - paragraph [ref=e1710]: Erbatab Kırmızı Kore Ginsengi Ekstresi 30 Kapsül
+                      - generic [ref=e1714]:
+                        - generic [ref=e1715]: 701 kişinin sepetinde, kaçırma!
+                        - generic [ref=e1717]: 14,4B kişi favoriledi!
+                        - generic [ref=e1719]: 24 saatte 1,1B kişi inceledi!
+                        - generic [ref=e1721]: sevdaasiltekin öneriyor!
+                        - generic [ref=e1723]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1725]: 701 kişinin sepetinde, kaçırma!
+                      - generic [ref=e1728]:
+                        - generic [ref=e1729]: "4.3"
+                        - generic [ref=e1730]: (436)
+                      - generic [ref=e1746]:
+                        - generic [ref=e1752]:
+                          - generic "Promotion icon" [ref=e1753]
+                          - generic [ref=e1754]: İndirim Kodu
+                        - generic [ref=e1755]:
+                          - generic [ref=e1756]: 352,33 TL
+                          - generic [ref=e1759]: (11,74 TL / kapsül)
+              - listitem [ref=e1760]:
+                - link "Temassız Kızılötesi Ateş Ölçer Renkli Ekranlı, Nesne Ve Vücut Ölçer Add to favorites SONEX Temassız Kızılötesi Ateş Ölçer Renkli Ekranlı, Nesne Ve Vücut Ölçer 3 günde 500+ ürün satıldı! 2,4B kişinin sepetinde, kaçırma! 16,3B kişi favoriledi! 24 saatte 1,2B kişi inceledi! Hızlı Teslimat yapılıyor! 3 günde 500+ ürün satıldı! 4.0 (1466) Lowest price icon Son 10 Günün En Düşük Fiyatı -%19 156,60 TL 195 TL" [ref=e1761] [cursor=pointer]:
+                  - /url: /sonex/temassiz-kizilotesi-ates-olcer-renkli-ekranli-nesne-ve-vucut-olcer-p-985216408?boutiqueId=61
+                  - generic [ref=e1762]:
+                    - generic [ref=e1763]:
+                      - img "Temassız Kızılötesi Ateş Ölçer Renkli Ekranlı, Nesne Ve Vücut Ölçer" [ref=e1764]
+                      - button "Add to favorites" [ref=e1766]
+                    - generic [ref=e1769]:
+                      - paragraph [ref=e1771]: SONEX Temassız Kızılötesi Ateş Ölçer Renkli Ekranlı, Nesne Ve Vücut Ölçer
+                      - generic [ref=e1775]:
+                        - generic [ref=e1776]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e1778]: 2,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1780]: 16,3B kişi favoriledi!
+                        - generic [ref=e1782]: 24 saatte 1,2B kişi inceledi!
+                        - generic [ref=e1784]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1786]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e1789]:
+                        - generic [ref=e1790]: "4.0"
+                        - generic [ref=e1791]: (1466)
+                      - generic [ref=e1807]:
+                        - generic [ref=e1813]:
+                          - generic "Lowest price icon" [ref=e1814]
+                          - generic [ref=e1815]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e1818]:
+                          - generic [ref=e1819]: "-%19"
+                          - generic [ref=e1820]: 156,60 TL
+                          - generic [ref=e1821]: 195 TL
+              - listitem [ref=e1822]:
+                - link [ref=e1823] [cursor=pointer]:
+                  - /url: /mse-hold/buzgulu-cop-poseti-lavanta-kokulu-65-70-cm-buyuk-boy-5-rulo-dayanikli-sizdirmaz-kalin-cop-torbasi-p-1148094498?boutiqueId=61
+                  - generic [ref=e1824]:
+                    - button [ref=e1828]
+                    - generic [ref=e1831]:
+                      - paragraph [ref=e1833]: MSE HOLD Büzgülü Çöp Poşeti Lavanta Kokulu 65×70 cm Büyük Boy 5 Rulo Dayanıklı Sızdırmaz Kalın Çöp Torbası
+                      - generic [ref=e1837]:
+                        - generic [ref=e1838]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e1840]: 251 kişinin sepetinde, kaçırma!
+                        - generic [ref=e1842]: 546 kişi favoriledi!
+                        - generic [ref=e1844]: 24 saatte 280 kişi inceledi!
+                        - generic [ref=e1846]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1848]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e1851]:
+                        - generic [ref=e1852]: "4.8"
+                        - generic [ref=e1853]: (42)
+                      - generic [ref=e1870]:
+                        - generic [ref=e1871]: Trendyol Plus'a Özel
+                        - generic [ref=e1875]:
+                          - generic [ref=e1876]:
+                            - generic [ref=e1877]: Sepette
+                            - generic [ref=e1878]: 171,88 TL
+                          - generic [ref=e1879]: 198,40 TL
+              - listitem [ref=e1881]:
+                - link [ref=e1882] [cursor=pointer]:
+                  - /url: /shark/stainstriker-tasinabilir-hali-ve-koltuk-temizleme-makinesi-p-892048878?boutiqueId=61
+                  - generic [ref=e1883]:
+                    - generic [ref=e1886]:
+                      - button [ref=e1887]
+                      - paragraph [ref=e1893]: Kargo Bedava
+                    - generic [ref=e1894]:
+                      - paragraph [ref=e1896]: Shark Stainstriker Taşınabilir Halı ve Koltuk Temizleme Makinesi
+                      - generic [ref=e1900]:
+                        - generic [ref=e1901]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=e1903]: 2,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1905]: 170,4B kişi favoriledi!
+                        - generic [ref=e1907]: 24 saatte 4,6B kişi inceledi!
+                        - generic [ref=e1909]: arabaa_doktoru öneriyor!
+                        - generic [ref=e1911]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e1913]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=e1916]:
+                        - generic [ref=e1917]: "4.5"
+                        - generic [ref=e1918]: (2463)
+                      - generic [ref=e1934]:
+                        - generic [ref=e1935]: Son 14 Günün En Düşük Fiyatı
+                        - generic [ref=e1945]:
+                          - generic [ref=e1946]: "-%25"
+                          - generic [ref=e1947]: 5.999 TL
+                          - generic [ref=e1948]: 7.999 TL
+              - listitem [ref=e1949]:
+                - link [ref=e1950] [cursor=pointer]:
+                  - /url: /esivitalia/dokum-granit-3-lu-sahan-18-20-22-cm-siyah-p-746372196?boutiqueId=61
+                  - generic [ref=e1951]:
+                    - generic [ref=e1954]:
+                      - button [ref=e1955]
+                      - paragraph [ref=e1961]: Kargo Bedava
+                    - generic [ref=e1962]:
+                      - paragraph [ref=e1964]: ESIVITALIA Döküm Granit 3'lü Sahan 18-20-22 Cm Siyah
+                      - generic [ref=e1968]:
+                        - generic [ref=e1969]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e1971]: 3,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e1973]: 134,1B kişi favoriledi!
+                        - generic [ref=e1975]: 24 saatte 1,3B kişi inceledi!
+                        - generic [ref=e1977]: tawfir_ayman öneriyor!
+                        - generic [ref=e1979]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e1982]:
+                        - generic [ref=e1983]: "4.1"
+                        - generic [ref=e1984]: (10667)
+                      - generic [ref=e2000]:
+                        - generic [ref=e2004]:
+                          - generic [ref=e2005]: Sepette %1 İndirim
+                          - generic [ref=e2008]: Kupon Fırsatı
+                          - generic [ref=e2012]: Sepette %1 İndirim
+                        - generic [ref=e2016]:
+                          - generic [ref=e2017]:
+                            - generic [ref=e2018]: Sepette
+                            - generic [ref=e2019]: 386,01 TL
+                          - generic [ref=e2021]: 389,91 TL
+              - listitem [ref=e2023]:
+                - link [ref=e2024] [cursor=pointer]:
+                  - /url: /nandy-home/7-li-set-freshbox-mikroldaga-ve-difrize-uygun-saklama-kabi-x1-2-4-lt-x2-1-17-lt-x4-0-6-lt-p-811046171?boutiqueId=61
+                  - generic [ref=e2025]:
+                    - button [ref=e2029]
+                    - generic [ref=e2032]:
+                      - paragraph [ref=e2034]: Nandy Home 7'li Set Freshbox Mikroldaga Ve Difrize Uygun Saklama Kabı X1 2,4 Lt / X2 1,17 Lt/x4 0,6 Lt
+                      - generic [ref=e2038]:
+                        - generic [ref=e2039]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e2041]: 402 kişinin sepetinde, kaçırma!
+                        - generic [ref=e2043]: 5,1B kişi favoriledi!
+                        - generic [ref=e2045]: 24 saatte 892 kişi inceledi!
+                        - generic [ref=e2047]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2049]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e2052]:
+                        - generic [ref=e2053]: "4.5"
+                        - generic [ref=e2054]: (62)
+                      - generic [ref=e2071]:
+                        - generic [ref=e2072]: Trendyol Plus'a Özel
+                        - generic [ref=e2076]:
+                          - generic [ref=e2077]:
+                            - generic [ref=e2078]: Sepette
+                            - generic [ref=e2079]: 125,03 TL
+                          - generic [ref=e2080]:
+                            - generic [ref=e2081]: 178,38 TL
+                            - generic [ref=e2082]: 183,90 TL
+              - listitem [ref=e2083]:
+                - link [ref=e2084] [cursor=pointer]:
+                  - /url: /herbamina/kayisi-biberiye-karisik-bitki-cayi-apricot-rosemary-tea-1-5grx45-saset-p-879916674?boutiqueId=61
+                  - generic [ref=e2085]:
+                    - generic [ref=e2088]:
+                      - button [ref=e2089]
+                      - paragraph [ref=e2095]: Kargo Bedava
+                    - generic [ref=e2096]:
+                      - paragraph [ref=e2098]: Herbamina Kayısı & Biberiye Karışık Bitki Çayı (APRİCOT & ROSEMARY TEA) 1,5grx45 Saşet
+                      - generic [ref=e2102]:
+                        - generic [ref=e2103]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e2105]: 3,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2107]: 72,2B kişi favoriledi!
+                        - generic [ref=e2109]: 24 saatte 672 kişi inceledi!
+                        - generic [ref=e2111]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e2114]:
+                        - generic [ref=e2115]: "3.8"
+                        - generic [ref=e2116]: (2689)
+                      - generic [ref=e2132]:
+                        - generic [ref=e2136]:
+                          - generic [ref=e2137]: Kupon Fırsatı
+                          - generic [ref=e2141]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e2145]: İndirim Kodu
+                          - generic [ref=e2149]: Kupon Fırsatı
+                        - generic [ref=e2153]:
+                          - generic [ref=e2155]:
+                            - generic [ref=e2156]: "-%14"
+                            - generic [ref=e2157]: 399,96 TL
+                            - generic [ref=e2158]: 465,84 TL
+                          - generic [ref=e2159]: (266,64 TL / kg)
+              - listitem [ref=e2160]:
+                - link [ref=e2161] [cursor=pointer]:
+                  - /url: /zuhre-ana/bromelain-ananas-iceren-detox-surubu-p-796088323?boutiqueId=61
+                  - generic [ref=e2162]:
+                    - button [ref=e2166]
+                    - generic [ref=e2169]:
+                      - paragraph [ref=e2171]: Zühre Ana Bromelain Ananas İçeren Detox Şurubu
+                      - generic [ref=e2175]:
+                        - generic [ref=e2176]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e2178]: 46,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2180]: 1,3M kişi favoriledi!
+                        - generic [ref=e2182]: 24 saatte 7,3B kişi inceledi!
+                        - generic [ref=e2184]: gozdekaraman öneriyor!
+                        - generic [ref=e2186]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2188]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e2191]:
+                        - generic [ref=e2192]: "4.1"
+                        - generic [ref=e2193]: (132952)
+                      - generic [ref=e2209]:
+                        - generic [ref=e2213]:
+                          - generic [ref=e2214]: Kupon Fırsatı
+                          - generic [ref=e2218]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e2222]: 3 Al 2 Öde
+                          - generic [ref=e2226]: Kupon Fırsatı
+                        - generic [ref=e2232]:
+                          - generic [ref=e2233]: 270,23 TL
+                          - generic [ref=e2234]: 285,90 TL
+              - listitem [ref=e2235]:
+                - link [ref=e2236] [cursor=pointer]:
+                  - /url: /johnson-s-baby/sac-sampuani-klasik-goz-yakmayan-hassas-saclar-ve-bebekler-icin-750-ml-p-33354185?boutiqueId=61
+                  - generic [ref=e2237]:
+                    - button [ref=e2241]
+                    - generic [ref=e2244]:
+                      - paragraph [ref=e2246]: Johnson's Baby Saç Şampuanı & Klasik Göz Yakmayan Hassas Saçlar Ve Bebekler Için 750 ml
+                      - generic [ref=e2250]:
+                        - generic [ref=e2251]: 3 günde 100 ürün satıldı!
+                        - generic [ref=e2253]: 278 kişinin sepetinde, kaçırma!
+                        - generic [ref=e2255]: 3,2B kişi favoriledi!
+                        - generic [ref=e2257]: 24 saatte 242 kişi inceledi!
+                        - generic [ref=e2259]: samir_samar öneriyor!
+                        - generic [ref=e2261]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2263]: 3 günde 100 ürün satıldı!
+                      - generic [ref=e2266]:
+                        - generic [ref=e2267]: "4.6"
+                        - generic [ref=e2268]: (193)
+                      - generic [ref=e2285]:
+                        - generic [ref=e2286]: Trendyol Plus'a Özel
+                        - generic [ref=e2290]:
+                          - generic [ref=e2291]:
+                            - generic [ref=e2292]: Sepette
+                            - generic [ref=e2293]: 92,74 TL
+                          - generic [ref=e2294]: 94,63 TL
+              - listitem [ref=e2296]:
+                - link [ref=e2297] [cursor=pointer]:
+                  - /url: /mamaaura/bebek-bakim-yagi-baby-oil-150-ml-p-804417182?boutiqueId=61
+                  - generic [ref=e2298]:
+                    - button [ref=e2302]
+                    - generic [ref=e2305]:
+                      - paragraph [ref=e2307]: MAMAAURA Bebek Bakım Yağı - Baby Oil 150 ml
+                      - generic [ref=e2311]:
+                        - generic [ref=e2312]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e2314]: 1,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2316]: 25,3B kişi favoriledi!
+                        - generic [ref=e2318]: 24 saatte 625 kişi inceledi!
+                        - generic [ref=e2320]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2322]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e2325]:
+                        - generic [ref=e2326]: "4.6"
+                        - generic [ref=e2327]: (5211)
+                      - generic [ref=e2343]:
+                        - generic [ref=e2347]:
+                          - generic [ref=e2348]: 25 TL Kupon
+                          - generic [ref=e2352]: İndirim Kodu
+                          - generic [ref=e2356]: 25 TL Kupon
+                        - generic [ref=e2360]:
+                          - generic [ref=e2361]: 344,51 TL
+                          - generic [ref=e2364]: (2.296,73 TL / lt)
+              - listitem [ref=e2365]:
+                - link [ref=e2366] [cursor=pointer]:
+                  - /url: /afrodizyac/5-li-lazer-kesim-extra-yuksek-bel-iz-yapmaz-extra-yumusak-dikissiz-bato-kulot-p-878601793?boutiqueId=61
+                  - generic [ref=e2367]:
+                    - button [ref=e2371]
+                    - generic [ref=e2374]:
+                      - paragraph [ref=e2376]: Afrodizyac 5'li Lazer Kesim Extra Yüksek bel İz Yapmaz Extra Yumuşak Dikişsiz Bato Külot
+                      - generic [ref=e2380]:
+                        - generic [ref=e2381]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e2383]: 971 kişinin sepetinde, kaçırma!
+                        - generic [ref=e2385]: 20,9B kişi favoriledi!
+                        - generic [ref=e2387]: 24 saatte 679 kişi inceledi!
+                        - generic [ref=e2389]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2391]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e2394]:
+                        - generic [ref=e2395]: "4.0"
+                        - generic [ref=e2396]: (2112)
+                      - generic [ref=e2412]:
+                        - generic [ref=e2416]:
+                          - generic [ref=e2417]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e2421]: Çok Al Az Öde
+                          - generic [ref=e2425]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e2431]:
+                          - generic [ref=e2432]: 197,98 TL
+                          - generic [ref=e2433]: 199,98 TL
+              - listitem [ref=e2434]:
+                - link [ref=e2435] [cursor=pointer]:
+                  - /url: /furuize/genital-bolge-sikilastirici-jel-1-adet-p-947096272?boutiqueId=61
+                  - generic [ref=e2436]:
+                    - button [ref=e2440]
+                    - generic [ref=e2443]:
+                      - paragraph [ref=e2445]: Furuize Genital Bölge Sıkılaştırıcı Jel (1 Adet)
+                      - generic [ref=e2449]:
+                        - generic [ref=e2450]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=e2452]: 461 kişinin sepetinde, kaçırma!
+                        - generic [ref=e2454]: 4,9B kişi favoriledi!
+                        - generic [ref=e2456]: 24 saatte 383 kişi inceledi!
+                        - generic [ref=e2458]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=e2461]:
+                        - generic [ref=e2462]: "4.3"
+                        - generic [ref=e2463]: (206)
+                      - generic [ref=e2479]:
+                        - generic [ref=e2480]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e2490]:
+                          - generic [ref=e2491]: "-%22"
+                          - generic [ref=e2492]: 87,87 TL
+                          - generic [ref=e2493]: 113,33 TL
+              - listitem [ref=e2494]:
+                - link [ref=e2495] [cursor=pointer]:
+                  - /url: /ezere/turbovac-20000pa-guclu-dijital-gostergeli-vakumlu-kablosuz-uflemeli-mini-arac-supurgesi-p-975598255?boutiqueId=61
+                  - generic [ref=e2496]:
+                    - generic [ref=e2499]:
+                      - button [ref=e2500]
+                      - paragraph [ref=e2506]: Kargo Bedava
+                    - generic [ref=e2507]:
+                      - paragraph [ref=e2509]: EZERE TurboVac 20000pa Güçlü Dijital Göstergeli Vakumlu Kablosuz Üflemeli Mini Araç Süpürgesi
+                      - generic [ref=e2513]:
+                        - generic [ref=e2514]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=e2516]: 1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2518]: 73B kişi favoriledi!
+                        - generic [ref=e2520]: 24 saatte 1,1B kişi inceledi!
+                        - generic [ref=e2522]: sulemakaroglu öneriyor!
+                        - generic [ref=e2524]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2526]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=e2529]:
+                        - generic [ref=e2530]: "4.6"
+                        - generic [ref=e2531]: (4993)
+                      - generic [ref=e2547]:
+                        - generic [ref=e2548]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e2558]:
+                          - generic [ref=e2559]: 1.132,44 TL
+                          - generic [ref=e2560]: 1.183,89 TL
+              - listitem [ref=e2561]:
+                - link [ref=e2562] [cursor=pointer]:
+                  - /url: /barucca/inceltici-etkili-toparlayici-lazer-kesim-iz-yapmayan-hayalet-pacali-korse-p-772206134?boutiqueId=61
+                  - generic [ref=e2563]:
+                    - button [ref=e2567]
+                    - generic [ref=e2570]:
+                      - paragraph [ref=e2572]: BARUCCA İnceltici Etkili Toparlayıcı Lazer Kesim Iz Yapmayan Hayalet Paçalı Korse
+                      - generic [ref=e2576]:
+                        - generic [ref=e2577]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e2579]: 6,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2581]: 113,6B kişi favoriledi!
+                        - generic [ref=e2583]: 24 saatte 2,9B kişi inceledi!
+                        - generic [ref=e2585]: fatmatezcan öneriyor!
+                        - generic [ref=e2587]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2589]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e2592]:
+                        - generic [ref=e2593]: "4.2"
+                        - generic [ref=e2594]: (7820)
+                      - generic [ref=e2611]:
+                        - generic [ref=e2612]: Trendyol Plus'a Özel
+                        - generic [ref=e2616]:
+                          - generic [ref=e2617]:
+                            - generic [ref=e2618]: Sepette
+                            - generic [ref=e2619]: 248,82 TL
+                          - generic [ref=e2620]: 299,23 TL
+              - listitem [ref=e2622]:
+                - link [ref=e2623] [cursor=pointer]:
+                  - /url: /genel-markalar/6li-dudak-nemlendirici-meyveli-dudak-koruyucu-6-meyve-kokusu-p-906417724?boutiqueId=61
+                  - generic [ref=e2624]:
+                    - button [ref=e2628]
+                    - generic [ref=e2631]:
+                      - paragraph [ref=e2633]: Genel Markalar 6Lı Dudak Nemlendirici meyveli Dudak Koruyucu 6 Meyve Kokusu
+                      - generic [ref=e2637]:
+                        - generic [ref=e2638]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e2640]: 1,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2642]: 52,7B kişi favoriledi!
+                        - generic [ref=e2644]: 24 saatte 1,9B kişi inceledi!
+                        - generic [ref=e2646]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2648]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e2651]:
+                        - generic [ref=e2652]: "4.3"
+                        - generic [ref=e2653]: (24)
+                      - generic [ref=e2669]: 197,01 TL
+              - listitem [ref=e2675]:
+                - link [ref=e2676] [cursor=pointer]:
+                  - /url: /jeven-brus/love-me-50ml-kadin-parfumu-p-841179873?boutiqueId=61
+                  - generic [ref=e2677]:
+                    - generic [ref=e2680]:
+                      - button [ref=e2681]
+                      - paragraph [ref=e2687]: Kargo Bedava
+                    - generic [ref=e2688]:
+                      - paragraph [ref=e2690]: Jeven Brus Love Me 50ml Kadın Parfümü
+                      - generic [ref=e2694]:
+                        - generic [ref=e2695]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e2697]: 4,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2699]: 79,9B kişi favoriledi!
+                        - generic [ref=e2701]: 24 saatte 2,2B kişi inceledi!
+                        - generic [ref=e2703]: DİLAN YILDIRIM öneriyor!
+                        - generic [ref=e2705]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2707]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e2710]:
+                        - generic [ref=e2711]: "4.4"
+                        - generic [ref=e2712]: (1940)
+                      - generic [ref=e2728]:
+                        - generic [ref=e2729]: 3 Al 2 Öde
+                        - generic [ref=e2737]: 1.470 TL
+              - listitem [ref=e2741]:
+                - link [ref=e2742] [cursor=pointer]:
+                  - /url: /clnk/araba-gunes-golge-koruyucu-yenilenmis-yansitma-teknoloji-semsiye-oto-on-cam-guneslik-arac-semsiyesi-p-939791424?boutiqueId=61
+                  - generic [ref=e2743]:
+                    - button [ref=e2747]
+                    - generic [ref=e2750]:
+                      - paragraph [ref=e2752]: CLNK Araba Güneş Gölge Koruyucu Yenilenmiş Yansıtma Teknoloji Şemsiye Oto Ön Cam Güneşlik Araç Şemsiyesi
+                      - generic [ref=e2756]:
+                        - generic [ref=e2757]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e2759]: 5,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2761]: 20,6B kişi favoriledi!
+                        - generic [ref=e2763]: 24 saatte 2,5B kişi inceledi!
+                        - generic [ref=e2765]: MEHMET ZEKi öneriyor!
+                        - generic [ref=e2767]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2769]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e2772]:
+                        - generic [ref=e2773]: "4.0"
+                        - generic [ref=e2774]: (2020)
+                      - generic [ref=e2790]:
+                        - generic [ref=e2794]:
+                          - generic [ref=e2795]: Kupon Fırsatı
+                          - generic [ref=e2799]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e2803]: Kupon Fırsatı
+                        - generic [ref=e2809]:
+                          - generic [ref=e2810]: "-%17"
+                          - generic [ref=e2811]: 243,90 TL
+                          - generic [ref=e2812]: 295 TL
+              - listitem [ref=e2813]:
+                - link [ref=e2814] [cursor=pointer]:
+                  - /url: /ekostem/100-adet-pratik-tazeligi-koruyan-tencere-ve-tabak-bonesi-cok-amacli-kapak-gida-bonesi-p-836402405?boutiqueId=61
+                  - generic [ref=e2815]:
+                    - button [ref=e2819]
+                    - generic [ref=e2822]:
+                      - paragraph [ref=e2824]: Ekostem 100 Adet Pratik Tazeliği Koruyan Tencere ve Tabak Bonesi Çok Amaçlı Kapak Gıda Bonesi
+                      - generic [ref=e2828]:
+                        - generic [ref=e2829]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e2831]: 1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2833]: 46,4B kişi favoriledi!
+                        - generic [ref=e2835]: 24 saatte 420 kişi inceledi!
+                        - generic [ref=e2837]: sunumtakintisi öneriyor!
+                        - generic [ref=e2839]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2841]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e2844]:
+                        - generic [ref=e2845]: "4.1"
+                        - generic [ref=e2846]: (5006)
+                      - generic [ref=e2862]:
+                        - generic [ref=e2863]: 10 TL Kupon
+                        - generic [ref=e2871]:
+                          - generic [ref=e2872]: 30 TL
+                          - generic [ref=e2875]: (0,30 TL / adet)
+              - listitem [ref=e2876]:
+                - link [ref=e2877] [cursor=pointer]:
+                  - /url: /dream-time/collagen-luxury-sivi-gecirmez-ozel-kutulu-alez-anti-aging-anti-alerjik-anti-bakteriyel-p-1075158610?boutiqueId=61
+                  - generic [ref=e2878]:
+                    - generic [ref=e2881]:
+                      - button [ref=e2882]
+                      - paragraph [ref=e2888]: Kargo Bedava
+                    - generic [ref=e2889]:
+                      - paragraph [ref=e2891]: Dream Time Collagen Luxury Sıvı Geçirmez Özel Kutulu Alez | Anti-Aging | Anti-Alerjik | Anti-Bakteriyel
+                      - generic [ref=e2895]:
+                        - generic [ref=e2896]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=e2898]: 2,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2900]: 37,9B kişi favoriledi!
+                        - generic [ref=e2902]: 24 saatte 1,9B kişi inceledi!
+                        - generic [ref=e2904]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2906]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=e2909]:
+                        - generic [ref=e2910]: "4.7"
+                        - generic [ref=e2911]: (602)
+                      - generic [ref=e2928]:
+                        - generic [ref=e2929]: Trendyol Plus'a Özel
+                        - generic [ref=e2933]:
+                          - generic [ref=e2934]:
+                            - generic [ref=e2935]: Sepette
+                            - generic [ref=e2936]: 474,05 TL
+                          - generic [ref=e2937]: 499 TL
+              - listitem [ref=e2939]:
+                - link [ref=e2940] [cursor=pointer]:
+                  - /url: /calliel/aydinlatici-leke-ve-siyah-nokta-karsiti-kojik-asit-tonik-200-ml-p-945832144?boutiqueId=61
+                  - generic [ref=e2941]:
+                    - button [ref=e2945]
+                    - generic [ref=e2948]:
+                      - paragraph [ref=e2950]: CALLİEL Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml
+                      - generic [ref=e2954]:
+                        - generic [ref=e2955]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e2957]: 131,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e2959]: 873B kişi favoriledi!
+                        - generic [ref=e2961]: 24 saatte 25B kişi inceledi!
+                        - generic [ref=e2963]: selinkotanci öneriyor!
+                        - generic [ref=e2965]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e2967]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e2970]:
+                        - generic [ref=e2971]: "4.3"
+                        - generic [ref=e2972]: (5430)
+                      - generic [ref=e2988]:
+                        - generic [ref=e2992]:
+                          - generic [ref=e2993]: Kupon Fırsatı
+                          - generic [ref=e2997]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e3001]: İndirim Kodu
+                          - generic [ref=e3005]: Kupon Fırsatı
+                        - generic [ref=e3011]:
+                          - generic [ref=e3012]: 225,95 TL
+                          - generic [ref=e3013]: 228,23 TL
+              - listitem [ref=e3014]:
+                - link [ref=e3015] [cursor=pointer]:
+                  - /url: /s-w-sweet-women/seamless-zibin-korse-citcitli-body-2-beden-incelten-toparlayici-push-up-etkili-karin-bel-gobek-sikilastirici-kadin-body-korse-9051-p-870496699?boutiqueId=61
+                  - generic [ref=e3016]:
+                    - button [ref=e3020]
+                    - generic [ref=e3023]:
+                      - paragraph [ref=e3025]: S&W SWEET WOMEN Seamless Zıbın Korse Çıtçıtlı Body 2 Beden İncelten Toparlayıcı Push Up Etkili Karın Bel Göbek Sıkılaştırıcı Kadın Body Korse 9051
+                      - generic [ref=e3029]:
+                        - generic [ref=e3030]: 3 günde 250+ ürün satıldı!
+                        - generic [ref=e3032]: 3,1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3034]: 55,4B kişi favoriledi!
+                        - generic [ref=e3036]: 24 saatte 1,5B kişi inceledi!
+                        - generic [ref=e3038]: 3 günde 250+ ürün satıldı!
+                      - generic [ref=e3041]:
+                        - generic [ref=e3042]: "4.1"
+                        - generic [ref=e3043]: (2796)
+                      - generic [ref=e3059]:
+                        - generic [ref=e3063]:
+                          - generic [ref=e3064]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e3068]: İndirim Kodu
+                          - generic [ref=e3072]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e3078]:
+                          - generic [ref=e3079]: 220,26 TL
+                          - generic [ref=e3080]: 222,48 TL
+              - listitem [ref=e3081]:
+                - link [ref=e3082] [cursor=pointer]:
+                  - /url: /serfa-somnibom/somnibom-bitkisel-gaz-giderici-uyku-damlasi-50-ml-p-960313499?boutiqueId=61
+                  - generic [ref=e3083]:
+                    - generic [ref=e3086]:
+                      - button [ref=e3087]
+                      - paragraph [ref=e3093]: Kargo Bedava
+                    - generic [ref=e3094]:
+                      - paragraph [ref=e3096]: SERFA SOMNIBOM SOMNİBOM BİTKİSEL GAZ GİDERİCİ, UYKU DAMLASI 50 ML
+                      - generic [ref=e3100]:
+                        - generic [ref=e3101]: 143 kişinin sepetinde, kaçırma!
+                        - generic [ref=e3103]: 5,3B kişi favoriledi!
+                        - generic [ref=e3105]: 24 saatte 360 kişi inceledi!
+                        - generic [ref=e3107]: 143 kişinin sepetinde, kaçırma!
+                      - generic [ref=e3110]:
+                        - generic [ref=e3111]: "4.7"
+                        - generic [ref=e3112]: (633)
+                      - generic [ref=e3128]:
+                        - generic [ref=e3129]: 40 TL Kupon
+                        - generic [ref=e3137]: 597,47 TL
+              - listitem [ref=e3141]:
+                - link [ref=e3142] [cursor=pointer]:
+                  - /url: /sr?tag=fs_10_7_2026_12_15%2Cfs_10_7_2026_0_24
+                  - generic [ref=e3143]: Tümünü gör
+        - generic [ref=e3146]:
+          - generic [ref=e3147]:
+            - paragraph [ref=e3149] [cursor=pointer]: Avantajlı Ürünler
+            - link "Tümünü Gör" [ref=e3150] [cursor=pointer]:
+              - /url: /sr?tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu
+          - region "Product carousel" [ref=e3152]:
+            - list [ref=e3155]:
+              - listitem [ref=e3156]:
+                - link "Kolajen Ve Prebiyotik Tablet Add to favorites Kargo Bedava icollagen Kolajen Ve Prebiyotik Tablet 3 günde 10B+ ürün satıldı! 85B kişinin sepetinde, kaçırma! 991,7B kişi favoriledi! 24 saatte 19,4B kişi inceledi! Medinesaldiik öneriyor! Hızlı Teslimat yapılıyor! 3 günde 10B+ ürün satıldı! 4.2 (51571) Promotion icon 3 Al 2 Öde 350 TL (5,83 TL / tablet)" [ref=e3157] [cursor=pointer]:
+                  - /url: /icollagen/kolajen-ve-prebiyotik-tablet-p-752356123?boutiqueId=61
+                  - generic [ref=e3158]:
+                    - generic [ref=e3159]:
+                      - img "Kolajen Ve Prebiyotik Tablet" [ref=e3160]
+                      - generic [ref=e3161]:
+                        - button "Add to favorites" [ref=e3162]
+                        - paragraph [ref=e3168]: Kargo Bedava
+                    - generic [ref=e3169]:
+                      - paragraph [ref=e3171]: icollagen Kolajen Ve Prebiyotik Tablet
+                      - generic [ref=e3175]:
+                        - generic [ref=e3176]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e3178]: 85B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3180]: 991,7B kişi favoriledi!
+                        - generic [ref=e3182]: 24 saatte 19,4B kişi inceledi!
+                        - generic [ref=e3184]: Medinesaldiik öneriyor!
+                        - generic [ref=e3186]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3188]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e3191]:
+                        - generic [ref=e3192]: "4.2"
+                        - generic [ref=e3193]: (51571)
+                      - generic [ref=e3209]:
+                        - generic [ref=e3215]:
+                          - generic "Promotion icon" [ref=e3216]
+                          - generic [ref=e3217]: 3 Al 2 Öde
+                        - generic [ref=e3218]:
+                          - generic [ref=e3219]: 350 TL
+                          - generic [ref=e3222]: (5,83 TL / tablet)
+              - listitem [ref=e3223]:
+                - link "İyi Uykular Kolajen Jelibonu - Kedi Otu & 5 Tip Kolajen Add to favorites icollagen İyi Uykular Kolajen Jelibonu - Kedi Otu & 5 Tip Kolajen 3 günde 2B+ ürün satıldı! 23,2B kişinin sepetinde, kaçırma! 291,6B kişi favoriledi! 24 saatte 7,2B kişi inceledi! gozdekaraman öneriyor! Hızlı Teslimat yapılıyor! 3 günde 2B+ ürün satıldı! 4.2 (6924) Lowest price icon Son 10 Günün En Düşük Fiyatı Promotion icon 3 Al 2 Öde Lowest price icon Son 10 Günün En Düşük Fiyatı 332,99 TL 350 TL (5,55 TL / tablet)" [ref=e3224] [cursor=pointer]:
+                  - /url: /icollagen/iyi-uykular-kolajen-jelibonu-kedi-otu-5-tip-kolajen-p-806589462?boutiqueId=61
+                  - generic [ref=e3225]:
+                    - generic [ref=e3226]:
+                      - img "İyi Uykular Kolajen Jelibonu - Kedi Otu & 5 Tip Kolajen" [ref=e3227]
+                      - button "Add to favorites" [ref=e3229]
+                    - generic [ref=e3232]:
+                      - paragraph [ref=e3234]: icollagen İyi Uykular Kolajen Jelibonu - Kedi Otu & 5 Tip Kolajen
+                      - generic [ref=e3238]:
+                        - generic [ref=e3239]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e3241]: 23,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3243]: 291,6B kişi favoriledi!
+                        - generic [ref=e3245]: 24 saatte 7,2B kişi inceledi!
+                        - generic [ref=e3247]: gozdekaraman öneriyor!
+                        - generic [ref=e3249]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3251]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e3254]:
+                        - generic [ref=e3255]: "4.2"
+                        - generic [ref=e3256]: (6924)
+                      - generic [ref=e3272]:
+                        - generic [ref=e3276]:
+                          - generic [ref=e3278]:
+                            - generic "Lowest price icon" [ref=e3279]
+                            - generic [ref=e3280]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e3282]:
+                            - generic "Promotion icon" [ref=e3283]
+                            - generic [ref=e3284]: 3 Al 2 Öde
+                          - generic [ref=e3286]:
+                            - generic "Lowest price icon" [ref=e3287]
+                            - generic [ref=e3288]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e3289]:
+                          - generic [ref=e3291]:
+                            - generic [ref=e3292]: 332,99 TL
+                            - generic [ref=e3293]: 350 TL
+                          - generic [ref=e3294]: (5,55 TL / tablet)
+              - listitem [ref=e3295]:
+                - link "KMPAC-7 Juniper Portatif Taşınabilir Klima Add to favorites KUMTEL KMPAC-7 Juniper Portatif Taşınabilir Klima 3 günde 100+ ürün satıldı! 2,5B kişinin sepetinde, kaçırma! 31,5B kişi favoriledi! 24 saatte 5,5B kişi inceledi! Hızlı Teslimat yapılıyor! 3 günde 100+ ürün satıldı! 4.1 (409) Lowest price icon Son 10 Günün En Düşük Fiyatı 9.770 TL 9.899 TL" [ref=e3296] [cursor=pointer]:
+                  - /url: /kumtel/kmpac-7-juniper-portatif-tasinabilir-klima-p-932665737?boutiqueId=689770
+                  - generic [ref=e3297]:
+                    - generic [ref=e3298]:
+                      - img "KMPAC-7 Juniper Portatif Taşınabilir Klima" [ref=e3299]
+                      - button "Add to favorites" [ref=e3301]
+                    - generic [ref=e3304]:
+                      - paragraph [ref=e3306]: KUMTEL KMPAC-7 Juniper Portatif Taşınabilir Klima
+                      - generic [ref=e3310]:
+                        - generic [ref=e3311]: 3 günde 100+ ürün satıldı!
+                        - generic [ref=e3313]: 2,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3315]: 31,5B kişi favoriledi!
+                        - generic [ref=e3317]: 24 saatte 5,5B kişi inceledi!
+                        - generic [ref=e3319]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3321]: 3 günde 100+ ürün satıldı!
+                      - generic [ref=e3324]:
+                        - generic [ref=e3325]: "4.1"
+                        - generic [ref=e3326]: (409)
+                      - generic [ref=e3342]:
+                        - generic [ref=e3348]:
+                          - generic "Lowest price icon" [ref=e3349]
+                          - generic [ref=e3350]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e3353]:
+                          - generic [ref=e3354]: 9.770 TL
+                          - generic [ref=e3355]: 9.899 TL
+              - listitem [ref=e3356]:
+                - link "Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml Add to favorites MAMAAURA Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml 3 günde 5B+ ürün satıldı! 33,9B kişinin sepetinde, kaçırma! 201,1B kişi favoriledi! 24 saatte 12,3B kişi inceledi! cisemcakirsulusoglu öneriyor! Hızlı Teslimat yapılıyor! 3 günde 5B+ ürün satıldı! 4.5 (7810) Lowest price icon Son 10 Günün En Düşük Fiyatı Promotion icon Çok Al Az Öde Lowest price icon Son 10 Günün En Düşük Fiyatı 340 TL 345 TL" [ref=e3357] [cursor=pointer]:
+                  - /url: /mamaaura/hamileler-icin-catlak-onleyici-maximum-elasticity-cream-150-ml-p-277595826?boutiqueId=61
+                  - generic [ref=e3358]:
+                    - generic [ref=e3359]:
+                      - img "Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml" [ref=e3360]
+                      - button "Add to favorites" [ref=e3362]
+                    - generic [ref=e3365]:
+                      - paragraph [ref=e3367]: MAMAAURA Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml
+                      - generic [ref=e3371]:
+                        - generic [ref=e3372]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e3374]: 33,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3376]: 201,1B kişi favoriledi!
+                        - generic [ref=e3378]: 24 saatte 12,3B kişi inceledi!
+                        - generic [ref=e3380]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e3382]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3384]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e3387]:
+                        - generic [ref=e3388]: "4.5"
+                        - generic [ref=e3389]: (7810)
+                      - generic [ref=e3405]:
+                        - generic [ref=e3409]:
+                          - generic [ref=e3411]:
+                            - generic "Lowest price icon" [ref=e3412]
+                            - generic [ref=e3413]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e3415]:
+                            - generic "Promotion icon" [ref=e3416]
+                            - generic [ref=e3417]: Çok Al Az Öde
+                          - generic [ref=e3419]:
+                            - generic "Lowest price icon" [ref=e3420]
+                            - generic [ref=e3421]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e3424]:
+                          - generic [ref=e3425]: 340 TL
+                          - generic [ref=e3426]: 345 TL
+              - listitem [ref=e3427]:
+                - link [ref=e3428] [cursor=pointer]:
+                  - /url: /viemore/safran-bitkili-dokulme-karsiti-ve-canlilik-veren-vegan-sac-bakim-serumu-p-775818063?boutiqueId=61
+                  - generic [ref=e3429]:
+                    - generic [ref=e3432]:
+                      - button [ref=e3433]
+                      - paragraph [ref=e3439]: Kargo Bedava
+                    - generic [ref=e3440]:
+                      - paragraph [ref=e3442]: Viemore Safran Bitkili Dökülme Karşıtı Ve Canlılık Veren Vegan Saç Bakım Serumu
+                      - generic [ref=e3446]:
+                        - generic [ref=e3447]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e3449]: 3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3451]: 102,5B kişi favoriledi!
+                        - generic [ref=e3453]: 24 saatte 1,5B kişi inceledi!
+                        - generic [ref=e3455]: Suekinboyraz öneriyor!
+                        - generic [ref=e3457]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3459]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e3462]:
+                        - generic [ref=e3463]: "4.5"
+                        - generic [ref=e3464]: (3506)
+                      - generic [ref=e3480]: 389 TL
+              - listitem [ref=e3486]:
+                - link [ref=e3487] [cursor=pointer]:
+                  - /url: /arifoglu/karniyarik-otu-tozu-psyllium-100g-p-1143775782?boutiqueId=61
+                  - generic [ref=e3488]:
+                    - button [ref=e3492]
+                    - generic [ref=e3495]:
+                      - paragraph [ref=e3497]: Arifoğlu Karnıyarık Otu Tozu (Psyllium) 100g
+                      - generic [ref=e3501]:
+                        - generic [ref=e3502]: 157 kişinin sepetinde, kaçırma!
+                        - generic [ref=e3504]: 751 kişi favoriledi!
+                        - generic [ref=e3506]: 24 saatte 253 kişi inceledi!
+                        - generic [ref=e3508]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3510]: 157 kişinin sepetinde, kaçırma!
+                      - generic [ref=e3513]: 220 TL
+              - listitem [ref=e3519]:
+                - link [ref=e3520] [cursor=pointer]:
+                  - /url: /zuhre-ana/kekre-termojenik-mix-250-ml-p-1120997705?boutiqueId=61
+                  - generic [ref=e3521]:
+                    - button [ref=e3525]
+                    - generic [ref=e3528]:
+                      - paragraph [ref=e3530]: Zühre Ana Kekre Termojenik Mix 250 Ml
+                      - generic [ref=e3534]:
+                        - generic [ref=e3535]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e3537]: 49,1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3539]: 108,3B kişi favoriledi!
+                        - generic [ref=e3541]: 24 saatte 11,9B kişi inceledi!
+                        - generic [ref=e3543]: sunumtakintisi öneriyor!
+                        - generic [ref=e3545]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3547]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e3550]:
+                        - generic [ref=e3551]: "4.1"
+                        - generic [ref=e3552]: (1727)
+                      - generic [ref=e3568]:
+                        - generic [ref=e3572]:
+                          - generic [ref=e3573]: Kupon Fırsatı
+                          - generic [ref=e3577]: 3 Al 2 Öde
+                          - generic [ref=e3581]: Kupon Fırsatı
+                        - generic [ref=e3585]: 336,64 TL
+              - listitem [ref=e3589]:
+                - link [ref=e3590] [cursor=pointer]:
+                  - /url: /mamaaura/catlak-ve-selulit-karsiti-shape-me-oil-125-ml-p-764715111?boutiqueId=61
+                  - generic [ref=e3591]:
+                    - generic [ref=e3594]:
+                      - button [ref=e3595]
+                      - paragraph [ref=e3601]: Kargo Bedava
+                    - generic [ref=e3602]:
+                      - paragraph [ref=e3604]: MAMAAURA Çatlak ve Selülit Karşıtı - Shape Me Oil 125 ml
+                      - generic [ref=e3608]:
+                        - generic [ref=e3609]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e3611]: 43,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3613]: 238,9B kişi favoriledi!
+                        - generic [ref=e3615]: 24 saatte 14,4B kişi inceledi!
+                        - generic [ref=e3617]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e3619]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3621]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e3624]:
+                        - generic [ref=e3625]: "4.5"
+                        - generic [ref=e3626]: (2064)
+                      - generic [ref=e3642]:
+                        - generic [ref=e3643]: Çok Al Az Öde
+                        - generic [ref=e3651]: 360 TL
+              - listitem [ref=e3655]:
+                - link [ref=e3656] [cursor=pointer]:
+                  - /url: /avene/cicalfate-hassas-ve-yipranmis-ciltler-icin-yatistirici-ve-onarici-bakim-kremi-40-ml-p-36381584?boutiqueId=61
+                  - generic [ref=e3657]:
+                    - generic [ref=e3660]:
+                      - button [ref=e3661]
+                      - paragraph [ref=e3667]: Kargo Bedava
+                    - generic [ref=e3668]:
+                      - paragraph [ref=e3670]: Avene Cicalfate+ Hassas ve Yıpranmış Ciltler için Yatıştırıcı ve Onarıcı Bakım Kremi 40 ml
+                      - generic [ref=e3674]:
+                        - generic [ref=e3675]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e3677]: 5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3679]: 343,2B kişi favoriledi!
+                        - generic [ref=e3681]: 24 saatte 3,4B kişi inceledi!
+                        - generic [ref=e3683]: ozgeunver öneriyor!
+                        - generic [ref=e3685]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3687]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e3690]:
+                        - generic [ref=e3691]: "4.3"
+                        - generic [ref=e3692]: (8910)
+                      - generic [ref=e3709]:
+                        - generic [ref=e3710]: Trendyol Plus'a Özel
+                        - generic [ref=e3714]:
+                          - generic [ref=e3715]:
+                            - generic [ref=e3716]: Sepette
+                            - generic [ref=e3717]: 502,55 TL
+                          - generic [ref=e3718]: 529 TL
+              - listitem [ref=e3720]:
+                - link [ref=e3721] [cursor=pointer]:
+                  - /url: /kara-kutu-yayin/2026-kpss-on-lisans-osym-cikmis-soru-tipki-basim-7li-deneme-paketi-turkiye-geneli-dijital-cozumlu-p-798375432?boutiqueId=61
+                  - generic [ref=e3722]:
+                    - button [ref=e3726]
+                    - generic [ref=e3729]:
+                      - paragraph [ref=e3731]: KARA KUTU YAYIN 2026 Kpss Ön Lisans Ösym Çıkmış Soru Tıpkı Basım 7li Deneme Paketi Türkiye Geneli Dijital Çözümlü
+                      - generic [ref=e3735]:
+                        - generic [ref=e3736]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e3738]: 5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3740]: 44B kişi favoriledi!
+                        - generic [ref=e3742]: 24 saatte 2,9B kişi inceledi!
+                        - generic [ref=e3744]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3746]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e3749]:
+                        - generic [ref=e3750]: "4.4"
+                        - generic [ref=e3751]: (1537)
+                      - generic [ref=e3767]:
+                        - generic [ref=e3771]:
+                          - generic [ref=e3772]: Sepette %10 İndirim
+                          - generic [ref=e3775]: Kupon Fırsatı
+                          - generic [ref=e3779]: Sepette %10 İndirim
+                        - generic [ref=e3783]:
+                          - generic [ref=e3784]:
+                            - generic [ref=e3785]: Sepette
+                            - generic [ref=e3786]: 199,99 TL
+                          - generic [ref=e3788]: 222,21 TL
+              - listitem [ref=e3790]:
+                - link [ref=e3791] [cursor=pointer]:
+                  - /url: /beesafe/kene-ve-sivrisinek-koruyucu-sprey-vegan-12-dogal-bitki-ozu-100-ml-p-1140514552?boutiqueId=61
+                  - generic [ref=e3792]:
+                    - button [ref=e3796]
+                    - generic [ref=e3799]:
+                      - paragraph [ref=e3801]: BeeSafe Kene Ve Sivrisinek Koruyucu Sprey (VEGAN & 12 DOĞAL BİTKİ ÖZÜ) - 100 ml
+                      - generic [ref=e3805]:
+                        - generic [ref=e3806]: 3 günde 1,5B+ ürün satıldı!
+                        - generic [ref=e3808]: 19,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3810]: 100,5B kişi favoriledi!
+                        - generic [ref=e3812]: 24 saatte 2,6B kişi inceledi!
+                        - generic [ref=e3814]: ssalihasultanmeral öneriyor!
+                        - generic [ref=e3816]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3818]: 3 günde 1,5B+ ürün satıldı!
+                      - generic [ref=e3821]:
+                        - generic [ref=e3822]: "4.2"
+                        - generic [ref=e3823]: (667)
+                      - generic [ref=e3839]:
+                        - generic [ref=e3840]: 3 Al 2 Öde
+                        - generic [ref=e3848]: 249 TL
+              - listitem [ref=e3852]:
+                - link [ref=e3853] [cursor=pointer]:
+                  - /url: /novacolin/cinko-l-karnosin-67-mg-30-bitkisel-kapsul-p-1095361868?boutiqueId=61
+                  - generic [ref=e3854]:
+                    - button [ref=e3858]
+                    - generic [ref=e3861]:
+                      - paragraph [ref=e3863]: NOVACOLIN Çinko L-Karnosin 67 mg 30 Bitkisel Kapsül
+                      - generic [ref=e3867]:
+                        - generic [ref=e3868]: 82 kişinin sepetinde, kaçırma!
+                        - generic [ref=e3870]: 722 kişi favoriledi!
+                        - generic [ref=e3872]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3874]: 82 kişinin sepetinde, kaçırma!
+                      - generic [ref=e3877]:
+                        - generic [ref=e3878]: "4.8"
+                        - generic [ref=e3879]: (20)
+                      - generic [ref=e3895]:
+                        - generic [ref=e3896]: Sepette 75 TL İndirim
+                        - generic [ref=e3904]:
+                          - generic [ref=e3905]:
+                            - generic [ref=e3906]: Sepette
+                            - generic [ref=e3907]: 255 TL
+                          - generic [ref=e3909]: 330 TL
+              - listitem [ref=e3911]:
+                - link [ref=e3912] [cursor=pointer]:
+                  - /url: /swedent/gurme-serisi-sutlu-cikolata-sos-kremsi-dokusu-ile-zengin-ve-akiskan-kivam-p-1130262186?boutiqueId=61
+                  - generic [ref=e3913]:
+                    - button [ref=e3917]
+                    - generic [ref=e3920]:
+                      - paragraph [ref=e3922]: Swedent Gurme Serisi Sütlü Çikolata Sos Kremsi Dokusu ile Zengin ve Akışkan Kıvam
+                      - generic [ref=e3926]:
+                        - generic [ref=e3927]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e3929]: 41,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3931]: 76,3B kişi favoriledi!
+                        - generic [ref=e3933]: 24 saatte 9,4B kişi inceledi!
+                        - generic [ref=e3935]: gozdekaraman öneriyor!
+                        - generic [ref=e3937]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e3940]:
+                        - generic [ref=e3941]: "4.2"
+                        - generic [ref=e3942]: (1047)
+                      - generic [ref=e3959]:
+                        - generic [ref=e3960]: Trendyol Plus'a Özel
+                        - generic [ref=e3964]:
+                          - generic [ref=e3965]:
+                            - generic [ref=e3966]: Sepette
+                            - generic [ref=e3967]: 249,90 TL
+                          - generic [ref=e3968]: 269,90 TL
+              - listitem [ref=e3970]:
+                - link [ref=e3971] [cursor=pointer]:
+                  - /url: /nilem/sihirli-muhtesem-sivi-1-l-p-22730659?boutiqueId=61
+                  - generic [ref=e3972]:
+                    - button [ref=e3976]
+                    - generic [ref=e3979]:
+                      - paragraph [ref=e3981]: Nilem Sihirli Muhteşem Sıvı 1 L
+                      - generic [ref=e3985]:
+                        - generic [ref=e3986]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e3988]: 37,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e3990]: 918,8B kişi favoriledi!
+                        - generic [ref=e3992]: 24 saatte 8,9B kişi inceledi!
+                        - generic [ref=e3994]: mesutseimen öneriyor!
+                        - generic [ref=e3996]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e3998]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e4001]:
+                        - generic [ref=e4002]: "4.2"
+                        - generic [ref=e4003]: (21767)
+                      - generic [ref=e4019]:
+                        - generic [ref=e4020]: 3 Al 2 Öde
+                        - generic [ref=e4028]:
+                          - generic [ref=e4029]: 199,90 TL
+                          - generic [ref=e4032]: (199,90 TL / lt)
+              - listitem [ref=e4033]:
+                - link [ref=e4034] [cursor=pointer]:
+                  - /url: /bigjoy/l-karnitin-thermonator-limon-aromali-33-servis-l-karnitin-3000-mg-servis-p-742039413?boutiqueId=61
+                  - generic [ref=e4035]:
+                    - generic [ref=e4038]:
+                      - button [ref=e4039]
+                      - paragraph [ref=e4045]: Kargo Bedava
+                    - generic [ref=e4046]:
+                      - paragraph [ref=e4048]: Bigjoy L-Karnitin ThermoNator Limon Aromalı – 33 Servis (L-Karnitin 3000 mg / Servis)
+                      - generic [ref=e4052]:
+                        - generic [ref=e4053]: 294 kişinin sepetinde, kaçırma!
+                        - generic [ref=e4055]: 1,8B kişi favoriledi!
+                        - generic [ref=e4057]: 24 saatte 271 kişi inceledi!
+                        - generic [ref=e4059]: 294 kişinin sepetinde, kaçırma!
+                      - generic [ref=e4062]:
+                        - generic [ref=e4063]: "4.7"
+                        - generic [ref=e4064]: (115)
+                      - generic [ref=e4080]:
+                        - generic [ref=e4081]: Sepette %25 İndirim
+                        - generic [ref=e4089]:
+                          - generic [ref=e4090]:
+                            - generic [ref=e4091]: Sepette
+                            - generic [ref=e4092]: 787,50 TL
+                          - generic [ref=e4094]: 1.050 TL
+              - listitem [ref=e4096]:
+                - link [ref=e4097] [cursor=pointer]:
+                  - /url: /homence/beyaz-sabun-oda-kokusu-p-1106395479?boutiqueId=61
+                  - generic [ref=e4098]:
+                    - button [ref=e4102]
+                    - generic [ref=e4105]:
+                      - paragraph [ref=e4107]: homence Beyaz Sabun Oda Kokusu
+                      - generic [ref=e4111]:
+                        - generic [ref=e4112]: 3 günde 500+ ürün satıldı!
+                        - generic [ref=e4114]: 2,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4116]: 14,8B kişi favoriledi!
+                        - generic [ref=e4118]: 24 saatte 979 kişi inceledi!
+                        - generic [ref=e4120]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4122]: 3 günde 500+ ürün satıldı!
+                      - generic [ref=e4125]:
+                        - generic [ref=e4126]: "3.9"
+                        - generic [ref=e4127]: (179)
+                      - generic [ref=e4143]:
+                        - generic [ref=e4144]: Ev'de Sepette %3 İndirim
+                        - generic [ref=e4152]:
+                          - generic [ref=e4153]:
+                            - generic [ref=e4154]: Sepette
+                            - generic [ref=e4155]: 242,40 TL
+                          - generic [ref=e4157]: 249,90 TL
+              - listitem [ref=e4159]:
+                - link [ref=e4160] [cursor=pointer]:
+                  - /url: /armese/1-adet-pencere-sineklik-sinek-tulu-bocek-tutucu-130x150-cm-ozel-kesim-cirt-bantli-p-826064711?boutiqueId=61
+                  - generic [ref=e4161]:
+                    - button [ref=e4165]
+                    - generic [ref=e4168]:
+                      - paragraph [ref=e4170]: ARMESE 1 Adet Pencere Sineklik Sinek Tülü Böcek Tutucu 130x150 Cm Özel Kesim Cırt Bantlı
+                      - generic [ref=e4174]:
+                        - generic [ref=e4175]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e4177]: 1,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4179]: 3,8B kişi favoriledi!
+                        - generic [ref=e4181]: 24 saatte 1,9B kişi inceledi!
+                        - generic [ref=e4183]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4185]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e4188]:
+                        - generic [ref=e4189]: "4.2"
+                        - generic [ref=e4190]: (129)
+                      - generic [ref=e4206]:
+                        - generic [ref=e4207]: Sepette %1 İndirim
+                        - generic [ref=e4215]:
+                          - generic [ref=e4216]:
+                            - generic [ref=e4217]: Sepette
+                            - generic [ref=e4218]: 61,54 TL
+                          - generic [ref=e4220]: 62,16 TL
+              - listitem [ref=e4222]:
+                - link [ref=e4223] [cursor=pointer]:
+                  - /url: /xenon-smart/akilli-otomatik-kedi-tuvaleti-mama-kabi-ve-su-pinari-4-lu-pet-urunleri-seti-p-956360073?boutiqueId=61
+                  - generic [ref=e4224]:
+                    - generic [ref=e4227]:
+                      - button [ref=e4228]
+                      - paragraph [ref=e4234]: Kargo Bedava
+                    - generic [ref=e4235]:
+                      - paragraph [ref=e4237]: Xenon Smart Akıllı Otomatik Kedi Tuvaleti, Mama Kabı ve Su Pınarı 4'lü Pet Ürünleri Seti
+                      - generic [ref=e4241]:
+                        - generic [ref=e4242]: 562 kişinin sepetinde, kaçırma!
+                        - generic [ref=e4244]: 21,2B kişi favoriledi!
+                        - generic [ref=e4246]: 24 saatte 1B kişi inceledi!
+                        - generic [ref=e4248]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4250]: 562 kişinin sepetinde, kaçırma!
+                      - generic [ref=e4253]:
+                        - generic [ref=e4254]: "4.6"
+                        - generic [ref=e4255]: (273)
+                      - generic [ref=e4271]:
+                        - generic [ref=e4272]: Sepette 1300 TL İndirim
+                        - generic [ref=e4280]:
+                          - generic [ref=e4281]:
+                            - generic [ref=e4282]: Sepette
+                            - generic [ref=e4283]: 19.699 TL
+                          - generic [ref=e4285]: 20.999 TL
+              - listitem [ref=e4287]:
+                - link [ref=e4288] [cursor=pointer]:
+                  - /url: /genel-markalar/mobilya-dolap-cekmece-kulp-kopru-96-128mm-mat-siyah-renk-sert-polimerr-p-68783437?boutiqueId=61
+                  - generic [ref=e4289]:
+                    - button [ref=e4293]
+                    - generic [ref=e4296]:
+                      - paragraph [ref=e4298]: Genel Markalar Mobilya Dolap Çekmece Kulp Köprü 96-128mm Mat Siyah Renk Sert Polimerr
+                      - generic [ref=e4302]:
+                        - generic [ref=e4303]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e4305]: 1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4307]: 9,8B kişi favoriledi!
+                        - generic [ref=e4309]: 24 saatte 978 kişi inceledi!
+                        - generic [ref=e4311]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4313]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e4316]:
+                        - generic [ref=e4317]: "4.2"
+                        - generic [ref=e4318]: (694)
+                      - generic [ref=e4334]:
+                        - generic [ref=e4338]:
+                          - generic [ref=e4339]: Sepette %3 İndirim
+                          - generic [ref=e4342]: 15 TL Kupon
+                          - generic [ref=e4346]: Sepette %3 İndirim
+                        - generic [ref=e4350]:
+                          - generic [ref=e4351]:
+                            - generic [ref=e4352]: Sepette
+                            - generic [ref=e4353]: 15,01 TL
+                          - generic [ref=e4355]: 15,47 TL
+              - listitem [ref=e4357]:
+                - link [ref=e4358] [cursor=pointer]:
+                  - /url: /cleaning-mate-solutions/leke-sihirbazi-p-882472249?boutiqueId=61
+                  - generic [ref=e4359]:
+                    - button [ref=e4363]
+                    - generic [ref=e4366]:
+                      - paragraph [ref=e4368]: Cleaning Mate Solutions Leke Sihirbazı
+                      - generic [ref=e4372]:
+                        - generic [ref=e4373]: 3 günde 1B+ ürün satıldı!
+                        - generic [ref=e4375]: 6,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4377]: 970,7B kişi favoriledi!
+                        - generic [ref=e4379]: 24 saatte 1,5B kişi inceledi!
+                        - generic [ref=e4381]: gozdekaraman öneriyor!
+                        - generic [ref=e4383]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4385]: 3 günde 1B+ ürün satıldı!
+                      - generic [ref=e4388]:
+                        - generic [ref=e4389]: "3.7"
+                        - generic [ref=e4390]: (43399)
+                      - generic [ref=e4407]:
+                        - generic [ref=e4408]: Trendyol Plus'a Özel
+                        - generic [ref=e4412]:
+                          - generic [ref=e4413]:
+                            - generic [ref=e4414]: Sepette
+                            - generic [ref=e4415]: 217,55 TL
+                          - generic [ref=e4416]: 229 TL
+              - listitem [ref=e4418]:
+                - link [ref=e4419] [cursor=pointer]:
+                  - /url: /sr?tag=kirmizi_kampanya_urunu,turuncu_kampanya_urunu
+                  - generic [ref=e4420]: Tümünü gör
+        - link "banner-boutique" [ref=e4424] [cursor=pointer]:
+          - /url: /sr?prm=28755790&mid=985455
+          - img "pim_bu_100144" [ref=e4426]
+        - link "banner-boutique" [ref=e4429] [cursor=pointer]:
+          - /url: /sr?tag=hesapli_urunler&bu=100143&sst=BEST_SELLER
+          - img "pim_bu_100096" [ref=e4431]
+        - link "banner-boutique" [ref=e4434] [cursor=pointer]:
+          - /url: /sr?wc=103946&sst=BEST_SELLER&fp=true&os=1
+          - img "pim_bu_100096" [ref=e4436]
+        - generic [ref=e4438]:
+          - generic [ref=e4439]:
+            - paragraph [ref=e4441] [cursor=pointer]: Çok Satan Ürünler
+            - link "Tümünü Gör" [ref=e4442] [cursor=pointer]:
+              - /url: /sr?tag=kategori_encoksatanlar&sst=BEST_SELLER&tag=kategori_encoksatanlar&tag=kategori_encoksatanlar&tag=kategori_encoksatanlar
+          - region "Product carousel" [ref=e4444]:
+            - list [ref=e4447]:
+              - listitem [ref=e4448]:
+                - link "Kolajen Ve Prebiyotik Tablet Add to favorites Kargo Bedava icollagen Kolajen Ve Prebiyotik Tablet 3 günde 10B+ ürün satıldı! 85B kişinin sepetinde, kaçırma! 991,7B kişi favoriledi! 24 saatte 19,4B kişi inceledi! Medinesaldiik öneriyor! Hızlı Teslimat yapılıyor! 3 günde 10B+ ürün satıldı! 4.2 (51571) Promotion icon 3 Al 2 Öde 350 TL (5,83 TL / tablet)" [ref=e4449] [cursor=pointer]:
+                  - /url: /icollagen/kolajen-ve-prebiyotik-tablet-p-752356123?boutiqueId=61
+                  - generic [ref=e4450]:
+                    - generic [ref=e4451]:
+                      - img "Kolajen Ve Prebiyotik Tablet" [ref=e4452]
+                      - generic [ref=e4453]:
+                        - button "Add to favorites" [ref=e4454]
+                        - paragraph [ref=e4460]: Kargo Bedava
+                    - generic [ref=e4461]:
+                      - paragraph [ref=e4463]: icollagen Kolajen Ve Prebiyotik Tablet
+                      - generic [ref=e4467]:
+                        - generic [ref=e4468]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e4470]: 85B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4472]: 991,7B kişi favoriledi!
+                        - generic [ref=e4474]: 24 saatte 19,4B kişi inceledi!
+                        - generic [ref=e4476]: Medinesaldiik öneriyor!
+                        - generic [ref=e4478]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4480]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e4483]:
+                        - generic [ref=e4484]: "4.2"
+                        - generic [ref=e4485]: (51571)
+                      - generic [ref=e4501]:
+                        - generic [ref=e4507]:
+                          - generic "Promotion icon" [ref=e4508]
+                          - generic [ref=e4509]: 3 Al 2 Öde
+                        - generic [ref=e4510]:
+                          - generic [ref=e4511]: 350 TL
+                          - generic [ref=e4514]: (5,83 TL / tablet)
+              - listitem [ref=e4515]:
+                - link "Ton Eşitleyici Aydınlık Verici Yoğun Nemlendirici +50 SPF Güneş Kremi 80 ML Add to favorites Kargo Bedava CALLİEL Ton Eşitleyici Aydınlık Verici Yoğun Nemlendirici +50 SPF Güneş Kremi 80 ML 3 günde 10B+ ürün satıldı! 131,3B kişinin sepetinde, kaçırma! 920,1B kişi favoriledi! 24 saatte 37,6B kişi inceledi! gozdekaraman öneriyor! Hızlı Teslimat yapılıyor! 3 günde 10B+ ürün satıldı! 4.2 (14947) Trendyol Plus'a Özel Sepette 474,90 TL 499,90 TL" [ref=e4516] [cursor=pointer]:
+                  - /url: /calliel/ton-esitleyici-aydinlik-verici-yogun-nemlendirici-50-spf-gunes-kremi-80-ml-p-951534808?boutiqueId=61
+                  - generic [ref=e4517]:
+                    - generic [ref=e4518]:
+                      - img "Ton Eşitleyici Aydınlık Verici Yoğun Nemlendirici +50 SPF Güneş Kremi 80 ML" [ref=e4519]
+                      - generic [ref=e4520]:
+                        - button "Add to favorites" [ref=e4521]
+                        - paragraph [ref=e4527]: Kargo Bedava
+                    - generic [ref=e4528]:
+                      - paragraph [ref=e4530]: CALLİEL Ton Eşitleyici Aydınlık Verici Yoğun Nemlendirici +50 SPF Güneş Kremi 80 ML
+                      - generic [ref=e4534]:
+                        - generic [ref=e4535]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e4537]: 131,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4539]: 920,1B kişi favoriledi!
+                        - generic [ref=e4541]: 24 saatte 37,6B kişi inceledi!
+                        - generic [ref=e4543]: gozdekaraman öneriyor!
+                        - generic [ref=e4545]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4547]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e4550]:
+                        - generic [ref=e4551]: "4.2"
+                        - generic [ref=e4552]: (14947)
+                      - generic [ref=e4569]:
+                        - generic [ref=e4570]: Trendyol Plus'a Özel
+                        - generic [ref=e4574]:
+                          - generic [ref=e4575]:
+                            - generic [ref=e4576]: Sepette
+                            - generic [ref=e4577]: 474,90 TL
+                          - generic [ref=e4578]: 499,90 TL
+              - listitem [ref=e4580]:
+                - link "Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili Add to favorites Kargo Bedava Embeauty Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili 3 günde 10B+ ürün satıldı! 89,6B kişinin sepetinde, kaçırma! 1,1M kişi favoriledi! 24 saatte 15,2B kişi inceledi! gozdekaraman öneriyor! Hızlı Teslimat yapılıyor! 3 günde 10B+ ürün satıldı! 4.2 (23975) 440 TL" [ref=e4581] [cursor=pointer]:
+                  - /url: /embeauty/ultra-siyah-dolgunlastirici-maskara-hacim-ve-uzunluk-etkili-p-1016742922?boutiqueId=61
+                  - generic [ref=e4582]:
+                    - generic [ref=e4583]:
+                      - img "Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili" [ref=e4584]
+                      - generic [ref=e4585]:
+                        - button "Add to favorites" [ref=e4586]
+                        - paragraph [ref=e4592]: Kargo Bedava
+                    - generic [ref=e4593]:
+                      - paragraph [ref=e4595]: Embeauty Ultra Siyah Dolgunlaştırıcı Maskara – Hacim ve Uzunluk Etkili
+                      - generic [ref=e4599]:
+                        - generic [ref=e4600]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e4602]: 89,6B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4604]: 1,1M kişi favoriledi!
+                        - generic [ref=e4606]: 24 saatte 15,2B kişi inceledi!
+                        - generic [ref=e4608]: gozdekaraman öneriyor!
+                        - generic [ref=e4610]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4612]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e4615]:
+                        - generic [ref=e4616]: "4.2"
+                        - generic [ref=e4617]: (23975)
+                      - generic [ref=e4633]: 440 TL
+              - listitem [ref=e4639]:
+                - link "Coconut Mix - 250 ml Add to favorites MOMORDİCA Coconut Mix - 250 ml 3 günde 10B+ ürün satıldı! 45B kişinin sepetinde, kaçırma! 595,6B kişi favoriledi! 24 saatte 15,6B kişi inceledi! gozdekaraman öneriyor! Hızlı Teslimat yapılıyor! 3 günde 10B+ ürün satıldı! 3.7 (29527) Promotion icon 3 Al 2 Öde 309 TL" [ref=e4640] [cursor=pointer]:
+                  - /url: /momordica/coconut-mix-250-ml-p-974364895?boutiqueId=61
+                  - generic [ref=e4641]:
+                    - generic [ref=e4642]:
+                      - img "Coconut Mix - 250 ml" [ref=e4643]
+                      - button "Add to favorites" [ref=e4645]
+                    - generic [ref=e4648]:
+                      - paragraph [ref=e4650]: MOMORDİCA Coconut Mix - 250 ml
+                      - generic [ref=e4654]:
+                        - generic [ref=e4655]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e4657]: 45B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4659]: 595,6B kişi favoriledi!
+                        - generic [ref=e4661]: 24 saatte 15,6B kişi inceledi!
+                        - generic [ref=e4663]: gozdekaraman öneriyor!
+                        - generic [ref=e4665]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4667]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e4670]:
+                        - generic [ref=e4671]: "3.7"
+                        - generic [ref=e4672]: (29527)
+                      - generic [ref=e4688]:
+                        - generic [ref=e4694]:
+                          - generic "Promotion icon" [ref=e4695]
+                          - generic [ref=e4696]: 3 Al 2 Öde
+                        - generic [ref=e4697]: 309 TL
+              - listitem [ref=e4701]:
+                - link [ref=e4702] [cursor=pointer]:
+                  - /url: /calliel/aydinlatici-leke-ve-siyah-nokta-karsiti-kojik-asit-tonik-200-ml-p-945832144?boutiqueId=61
+                  - generic [ref=e4703]:
+                    - button [ref=e4707]
+                    - generic [ref=e4710]:
+                      - paragraph [ref=e4712]: CALLİEL Aydınlatıcı, Leke Ve Siyah Nokta Karşıtı Kojik Asit Tonik 200 ml
+                      - generic [ref=e4716]:
+                        - generic [ref=e4717]: 3 günde 10B+ ürün satıldı!
+                        - generic [ref=e4719]: 131,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4721]: 873B kişi favoriledi!
+                        - generic [ref=e4723]: 24 saatte 25B kişi inceledi!
+                        - generic [ref=e4725]: selinkotanci öneriyor!
+                        - generic [ref=e4727]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4729]: 3 günde 10B+ ürün satıldı!
+                      - generic [ref=e4732]:
+                        - generic [ref=e4733]: "4.3"
+                        - generic [ref=e4734]: (5430)
+                      - generic [ref=e4750]:
+                        - generic [ref=e4754]:
+                          - generic [ref=e4755]: Kupon Fırsatı
+                          - generic [ref=e4759]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e4763]: İndirim Kodu
+                          - generic [ref=e4767]: Kupon Fırsatı
+                        - generic [ref=e4773]:
+                          - generic [ref=e4774]: 225,95 TL
+                          - generic [ref=e4775]: 228,23 TL
+              - listitem [ref=e4776]:
+                - link [ref=e4777] [cursor=pointer]:
+                  - /url: /markasiz-ucuz/a4-kagit-1-adet-p-1116231056?boutiqueId=61
+                  - generic [ref=e4778]:
+                    - button [ref=e4782]
+                    - generic [ref=e4785]:
+                      - paragraph [ref=e4787]: Markasız ucuz A4 kağıt 1 adet
+                      - generic [ref=e4791]:
+                        - generic [ref=e4792]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e4794]: 119 kişinin sepetinde, kaçırma!
+                        - generic [ref=e4796]: 269 kişi favoriledi!
+                        - generic [ref=e4798]: 24 saatte 300 kişi inceledi!
+                        - generic [ref=e4800]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e4802]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e4805]:
+                        - generic [ref=e4806]: "2.0"
+                        - generic [ref=e4807]: (3)
+                      - generic [ref=e4823]: 2 TL
+              - listitem [ref=e4829]:
+                - link [ref=e4830] [cursor=pointer]:
+                  - /url: /harmana/hindiba-kahvesi-1-aylik-60-kullanim-net-150gr-p-288620006?boutiqueId=61
+                  - generic [ref=e4831]:
+                    - generic [ref=e4834]:
+                      - button [ref=e4835]
+                      - paragraph [ref=e4841]: Kargo Bedava
+                    - generic [ref=e4842]:
+                      - paragraph [ref=e4844]: HARMANA Hindiba Kahvesi 1 Aylık - (60 Kullanım) Net 150gr
+                      - generic [ref=e4848]:
+                        - generic [ref=e4849]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e4851]: 35,3B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4853]: 1M kişi favoriledi!
+                        - generic [ref=e4855]: 24 saatte 17,1B kişi inceledi!
+                        - generic [ref=e4857]: gozdekaraman öneriyor!
+                        - generic [ref=e4859]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e4862]:
+                        - generic [ref=e4863]: "4.1"
+                        - generic [ref=e4864]: (81139)
+                      - generic [ref=e4880]:
+                        - generic [ref=e4884]:
+                          - generic [ref=e4885]: Kupon Fırsatı
+                          - generic [ref=e4889]: 3 Al 2 Öde
+                          - generic [ref=e4893]: Kupon Fırsatı
+                        - generic [ref=e4897]:
+                          - generic [ref=e4898]: 419 TL
+                          - generic [ref=e4901]: (2.793,33 TL / kg)
+              - listitem [ref=e4902]:
+                - link [ref=e4903] [cursor=pointer]:
+                  - /url: /lumenascent/liora-kadin-parfum-floral-edp-50-ml-p-971347342?boutiqueId=61
+                  - generic [ref=e4904]:
+                    - generic [ref=e4907]:
+                      - button [ref=e4908]
+                      - paragraph [ref=e4914]: Kargo Bedava
+                    - generic [ref=e4915]:
+                      - paragraph [ref=e4917]: LumenaScent Liora Kadın Parfüm Floral Edp 50 ml
+                      - generic [ref=e4921]:
+                        - generic [ref=e4922]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e4924]: 70,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4926]: 829B kişi favoriledi!
+                        - generic [ref=e4928]: 24 saatte 18,5B kişi inceledi!
+                        - generic [ref=e4930]: RukenEkinci öneriyor!
+                        - generic [ref=e4932]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e4935]:
+                        - generic [ref=e4936]: "3.8"
+                        - generic [ref=e4937]: (29760)
+                      - generic [ref=e4953]:
+                        - generic [ref=e4957]:
+                          - generic [ref=e4958]: Kupon Fırsatı
+                          - generic [ref=e4962]: 3 Al 2 Öde
+                          - generic [ref=e4966]: Kupon Fırsatı
+                        - generic [ref=e4970]: 419,90 TL
+              - listitem [ref=e4974]:
+                - link [ref=e4975] [cursor=pointer]:
+                  - /url: /stop-forte/leke-cikarici-750-ml-p-795882353?boutiqueId=61
+                  - generic [ref=e4976]:
+                    - button [ref=e4980]
+                    - generic [ref=e4983]:
+                      - paragraph [ref=e4985]: STOP Forte Leke Çıkarıcı 750 ML
+                      - generic [ref=e4989]:
+                        - generic [ref=e4990]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e4992]: 32,8B kişinin sepetinde, kaçırma!
+                        - generic [ref=e4994]: 1,5M kişi favoriledi!
+                        - generic [ref=e4996]: 24 saatte 10,6B kişi inceledi!
+                        - generic [ref=e4998]: gozdekaraman öneriyor!
+                        - generic [ref=e5000]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5003]:
+                        - generic [ref=e5004]: "4.0"
+                        - generic [ref=e5005]: (121779)
+                      - generic [ref=e5021]:
+                        - generic [ref=e5025]:
+                          - generic [ref=e5026]: Kupon Fırsatı
+                          - generic [ref=e5030]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e5034]: 3 Al 2 Öde
+                          - generic [ref=e5038]: Kupon Fırsatı
+                        - generic [ref=e5042]:
+                          - generic [ref=e5044]:
+                            - generic [ref=e5045]: "-%10"
+                            - generic [ref=e5046]: 179 TL
+                            - generic [ref=e5047]: 199 TL
+                          - generic [ref=e5048]: (238,67 TL / lt)
+              - listitem [ref=e5049]:
+                - link [ref=e5050] [cursor=pointer]:
+                  - /url: /siveno/sivrisinek-ve-kene-kovucu-sprey-losyon-bitkisel-tum-vucut-icin-seyahat-tatil-boy-50-ml-p-684477925?boutiqueId=61
+                  - generic [ref=e5051]:
+                    - button [ref=e5055]
+                    - generic [ref=e5058]:
+                      - paragraph [ref=e5060]: Siveno Sivrisinek ve Kene Kovucu Sprey Losyon Bitkisel Tüm Vücut İçin Seyahat Tatil Boy 50 ml
+                      - generic [ref=e5064]:
+                        - generic [ref=e5065]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5067]: 58,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5069]: 438,6B kişi favoriledi!
+                        - generic [ref=e5071]: 24 saatte 8,7B kişi inceledi!
+                        - generic [ref=e5073]: gozdekaraman öneriyor!
+                        - generic [ref=e5075]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5077]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5080]:
+                        - generic [ref=e5081]: "4.4"
+                        - generic [ref=e5082]: (10353)
+                      - generic [ref=e5098]:
+                        - generic [ref=e5099]: Sepette %15 İndirim
+                        - generic [ref=e5107]:
+                          - generic [ref=e5108]:
+                            - generic [ref=e5109]: Sepette
+                            - generic [ref=e5110]: 289,89 TL
+                          - generic [ref=e5112]: 341,05 TL
+              - listitem [ref=e5114]:
+                - link [ref=e5115] [cursor=pointer]:
+                  - /url: /zuhre-ana/bromelain-ananas-iceren-detox-surubu-p-796088323?boutiqueId=61
+                  - generic [ref=e5116]:
+                    - button [ref=e5120]
+                    - generic [ref=e5123]:
+                      - paragraph [ref=e5125]: Zühre Ana Bromelain Ananas İçeren Detox Şurubu
+                      - generic [ref=e5129]:
+                        - generic [ref=e5130]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5132]: 46,7B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5134]: 1,3M kişi favoriledi!
+                        - generic [ref=e5136]: 24 saatte 7,3B kişi inceledi!
+                        - generic [ref=e5138]: gozdekaraman öneriyor!
+                        - generic [ref=e5140]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5142]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5145]:
+                        - generic [ref=e5146]: "4.1"
+                        - generic [ref=e5147]: (132952)
+                      - generic [ref=e5163]:
+                        - generic [ref=e5167]:
+                          - generic [ref=e5168]: Kupon Fırsatı
+                          - generic [ref=e5172]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e5176]: 3 Al 2 Öde
+                          - generic [ref=e5180]: Kupon Fırsatı
+                        - generic [ref=e5186]:
+                          - generic [ref=e5187]: 270,23 TL
+                          - generic [ref=e5188]: 285,90 TL
+              - listitem [ref=e5189]:
+                - link [ref=e5190] [cursor=pointer]:
+                  - /url: /mamaaura/catlak-ve-selulit-karsiti-shape-me-oil-125-ml-p-764715111?boutiqueId=61
+                  - generic [ref=e5191]:
+                    - generic [ref=e5194]:
+                      - button [ref=e5195]
+                      - paragraph [ref=e5201]: Kargo Bedava
+                    - generic [ref=e5202]:
+                      - paragraph [ref=e5204]: MAMAAURA Çatlak ve Selülit Karşıtı - Shape Me Oil 125 ml
+                      - generic [ref=e5208]:
+                        - generic [ref=e5209]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5211]: 43,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5213]: 238,9B kişi favoriledi!
+                        - generic [ref=e5215]: 24 saatte 14,4B kişi inceledi!
+                        - generic [ref=e5217]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e5219]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5221]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5224]:
+                        - generic [ref=e5225]: "4.5"
+                        - generic [ref=e5226]: (2064)
+                      - generic [ref=e5242]:
+                        - generic [ref=e5243]: Çok Al Az Öde
+                        - generic [ref=e5251]: 360 TL
+              - listitem [ref=e5255]:
+                - link [ref=e5256] [cursor=pointer]:
+                  - /url: /nilem/sihirli-muhtesem-sivi-1-l-p-22730659?boutiqueId=61
+                  - generic [ref=e5257]:
+                    - button [ref=e5261]
+                    - generic [ref=e5264]:
+                      - paragraph [ref=e5266]: Nilem Sihirli Muhteşem Sıvı 1 L
+                      - generic [ref=e5270]:
+                        - generic [ref=e5271]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5273]: 37,2B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5275]: 918,8B kişi favoriledi!
+                        - generic [ref=e5277]: 24 saatte 8,9B kişi inceledi!
+                        - generic [ref=e5279]: mesutseimen öneriyor!
+                        - generic [ref=e5281]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5283]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5286]:
+                        - generic [ref=e5287]: "4.2"
+                        - generic [ref=e5288]: (21767)
+                      - generic [ref=e5304]:
+                        - generic [ref=e5305]: 3 Al 2 Öde
+                        - generic [ref=e5313]:
+                          - generic [ref=e5314]: 199,90 TL
+                          - generic [ref=e5317]: (199,90 TL / lt)
+              - listitem [ref=e5318]:
+                - link [ref=e5319] [cursor=pointer]:
+                  - /url: /mamaaura/hamileler-icin-catlak-onleyici-maximum-elasticity-cream-150-ml-p-277595826?boutiqueId=61
+                  - generic [ref=e5320]:
+                    - button [ref=e5324]
+                    - generic [ref=e5327]:
+                      - paragraph [ref=e5329]: MAMAAURA Hamileler Için Çatlak Önleyici - Maximum Elasticity Cream 150 ml
+                      - generic [ref=e5333]:
+                        - generic [ref=e5334]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5336]: 33,9B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5338]: 201,1B kişi favoriledi!
+                        - generic [ref=e5340]: 24 saatte 12,3B kişi inceledi!
+                        - generic [ref=e5342]: cisemcakirsulusoglu öneriyor!
+                        - generic [ref=e5344]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5346]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5349]:
+                        - generic [ref=e5350]: "4.5"
+                        - generic [ref=e5351]: (7810)
+                      - generic [ref=e5367]:
+                        - generic [ref=e5371]:
+                          - generic [ref=e5372]: Son 10 Günün En Düşük Fiyatı
+                          - generic [ref=e5376]: Çok Al Az Öde
+                          - generic [ref=e5380]: Son 10 Günün En Düşük Fiyatı
+                        - generic [ref=e5386]:
+                          - generic [ref=e5387]: 340 TL
+                          - generic [ref=e5388]: 345 TL
+              - listitem [ref=e5389]:
+                - link [ref=e5390] [cursor=pointer]:
+                  - /url: /epify/epify-tuy-dokucu-krem-p-98844337?boutiqueId=61
+                  - generic [ref=e5391]:
+                    - generic [ref=e5394]:
+                      - button [ref=e5395]
+                      - paragraph [ref=e5401]: Kargo Bedava
+                    - generic [ref=e5402]:
+                      - paragraph [ref=e5404]: EPİFY Epify Tüy Dökücü Krem
+                      - generic [ref=e5408]:
+                        - generic [ref=e5409]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5411]: 24,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5413]: 550,9B kişi favoriledi!
+                        - generic [ref=e5415]: 24 saatte 9,4B kişi inceledi!
+                        - generic [ref=e5417]: nevrabilem öneriyor!
+                        - generic [ref=e5419]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5422]:
+                        - generic [ref=e5423]: "3.6"
+                        - generic [ref=e5424]: (37790)
+                      - generic [ref=e5440]:
+                        - generic [ref=e5441]: 3 Al 2 Öde
+                        - generic [ref=e5449]:
+                          - generic [ref=e5450]: 549 TL
+                          - generic [ref=e5453]: (2,20 TL / ml)
+              - listitem [ref=e5454]:
+                - link [ref=e5455] [cursor=pointer]:
+                  - /url: /nutraxin/magnezyum-complex-60-tablet-125-mg-bisiglinat-taurat-malat-sitrat-b6-p-450797981?boutiqueId=61
+                  - generic [ref=e5456]:
+                    - generic [ref=e5459]:
+                      - button [ref=e5460]
+                      - paragraph [ref=e5466]: Kargo Bedava
+                    - generic [ref=e5467]:
+                      - paragraph [ref=e5469]: Nutraxin Magnezyum Complex 60 Tablet 125 Mg - Bisiglinat - Taurat - Malat - Sitrat - B6
+                      - generic [ref=e5473]:
+                        - generic [ref=e5474]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5476]: 20B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5478]: 588,2B kişi favoriledi!
+                        - generic [ref=e5480]: 24 saatte 8B kişi inceledi!
+                        - generic [ref=e5482]: gozdekaraman öneriyor!
+                        - generic [ref=e5484]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5486]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5489]:
+                        - generic [ref=e5490]: "4.6"
+                        - generic [ref=e5491]: (33324)
+                      - generic [ref=e5507]:
+                        - generic [ref=e5508]: Çok Al Az Öde
+                        - generic [ref=e5516]:
+                          - generic [ref=e5517]: 352 TL
+                          - generic [ref=e5520]: (5,87 TL / tablet)
+              - listitem [ref=e5521]:
+                - link [ref=e5522] [cursor=pointer]:
+                  - /url: /swedent/gurme-serisi-sutlu-cikolata-sos-kremsi-dokusu-ile-zengin-ve-akiskan-kivam-p-1130262186?boutiqueId=61
+                  - generic [ref=e5523]:
+                    - button [ref=e5527]
+                    - generic [ref=e5530]:
+                      - paragraph [ref=e5532]: Swedent Gurme Serisi Sütlü Çikolata Sos Kremsi Dokusu ile Zengin ve Akışkan Kıvam
+                      - generic [ref=e5536]:
+                        - generic [ref=e5537]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5539]: 41,4B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5541]: 76,3B kişi favoriledi!
+                        - generic [ref=e5543]: 24 saatte 9,4B kişi inceledi!
+                        - generic [ref=e5545]: gozdekaraman öneriyor!
+                        - generic [ref=e5547]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5550]:
+                        - generic [ref=e5551]: "4.2"
+                        - generic [ref=e5552]: (1047)
+                      - generic [ref=e5569]:
+                        - generic [ref=e5570]: Trendyol Plus'a Özel
+                        - generic [ref=e5574]:
+                          - generic [ref=e5575]:
+                            - generic [ref=e5576]: Sepette
+                            - generic [ref=e5577]: 249,90 TL
+                          - generic [ref=e5578]: 269,90 TL
+              - listitem [ref=e5580]:
+                - link [ref=e5581] [cursor=pointer]:
+                  - /url: /embeauty/brow-lock-fix-laminasyon-etkili-kas-sabitleyici-maskara-seffaf-biotin-b5-icerikli-p-1072042577?boutiqueId=61
+                  - generic [ref=e5582]:
+                    - generic [ref=e5585]:
+                      - button [ref=e5586]
+                      - paragraph [ref=e5592]: Kargo Bedava
+                    - generic [ref=e5593]:
+                      - paragraph [ref=e5595]: Embeauty Brow Lock Fıx Laminasyon Etkili Kaş Sabitleyici Maskara (Şeffaf Biotin & B5 İçerikli)
+                      - generic [ref=e5599]:
+                        - generic [ref=e5600]: 3 günde 5B+ ürün satıldı!
+                        - generic [ref=e5602]: 30,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5604]: 84,6B kişi favoriledi!
+                        - generic [ref=e5606]: 24 saatte 4,1B kişi inceledi!
+                        - generic [ref=e5608]: Dima Aslan öneriyor!
+                        - generic [ref=e5610]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5612]: 3 günde 5B+ ürün satıldı!
+                      - generic [ref=e5615]:
+                        - generic [ref=e5616]: "4.0"
+                        - generic [ref=e5617]: (2370)
+                      - generic [ref=e5633]:
+                        - generic [ref=e5634]: Çok Al Az Öde
+                        - generic [ref=e5642]: 350 TL
+              - listitem [ref=e5646]:
+                - link [ref=e5647] [cursor=pointer]:
+                  - /url: /qremfi/sifir-gozenek-siyah-nokta-mavi-kil-maskesi-aha-bha-pha-100-ml-p-1087380299?boutiqueId=61
+                  - generic [ref=e5648]:
+                    - button [ref=e5652]
+                    - generic [ref=e5655]:
+                      - paragraph [ref=e5657]: Qremfi Sıfır Gözenek Siyah Nokta Mavi Kil Maskesi | AHA + BHA+PHA 100 ml
+                      - generic [ref=e5661]:
+                        - generic [ref=e5662]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e5664]: 42,1B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5666]: 565,8B kişi favoriledi!
+                        - generic [ref=e5668]: 24 saatte 15,1B kişi inceledi!
+                        - generic [ref=e5670]: Hızlı Teslimat yapılıyor!
+                        - generic [ref=e5672]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e5675]:
+                        - generic [ref=e5676]: "4.2"
+                        - generic [ref=e5677]: (4776)
+                      - generic [ref=e5694]:
+                        - generic [ref=e5695]: Trendyol Plus'a Özel
+                        - generic [ref=e5699]:
+                          - generic [ref=e5700]:
+                            - generic [ref=e5701]: Sepette
+                            - generic [ref=e5702]: 294,80 TL
+                          - generic [ref=e5703]: 310,32 TL
+              - listitem [ref=e5705]:
+                - link [ref=e5706] [cursor=pointer]:
+                  - /url: /wou-world-of-unique/stick-krem-koltuk-alti-terleme-onleyici-48-saat-etkin-koruma-vegan-kadin-koltuk-alti-stick-75ml-p-777619668?boutiqueId=61
+                  - generic [ref=e5707]:
+                    - button [ref=e5711]
+                    - generic [ref=e5714]:
+                      - paragraph [ref=e5716]: WOU World of Unique Stick Krem, Koltuk Altı Terleme Önleyici 48 Saat Etkin Koruma Vegan, Kadın Koltuk Altı Stick 75ml
+                      - generic [ref=e5720]:
+                        - generic [ref=e5721]: 3 günde 2B+ ürün satıldı!
+                        - generic [ref=e5723]: 15,5B kişinin sepetinde, kaçırma!
+                        - generic [ref=e5725]: 151,6B kişi favoriledi!
+                        - generic [ref=e5727]: 24 saatte 2,6B kişi inceledi!
+                        - generic [ref=e5729]: 3 günde 2B+ ürün satıldı!
+                      - generic [ref=e5732]:
+                        - generic [ref=e5733]: "4.4"
+                        - generic [ref=e5734]: (8455)
+                      - generic [ref=e5750]: 243,50 TL
+              - listitem [ref=e5756]:
+                - link [ref=e5757] [cursor=pointer]:
+                  - /url: /sr?tag=kategori_encoksatanlar&sst=BEST_SELLER&tag=kategori_encoksatanlar&tag=kategori_encoksatanlar&tag=kategori_encoksatanlar
+                  - generic [ref=e5758]: Tümünü gör
+        - link "banner-boutique" [ref=e5762] [cursor=pointer]:
+          - /url: /sr?wc=104192&tag=sari_kampanya_urunu&tag=kirmizi_kampanya_urunu&tag=turuncu_kampanya_urunu
+          - img "pim_bu_100150" [ref=e5764]
+        - generic [ref=e5766]:
+          - paragraph [ref=e5769] [cursor=pointer]: Sana Özel Kategoriler
+          - region "Product carousel" [ref=e5770]:
+            - list [ref=e5773]:
+              - listitem [ref=e5774]:
+                - link [ref=e5775] [cursor=pointer]:
+                  - /url: /sr?wc=64
+                  - img "DSBoutiques_JFYCategoriesNew_İçGiyim" [ref=e5777]
+              - listitem [ref=e5778]:
+                - link [ref=e5779] [cursor=pointer]:
+                  - /url: /sr?wc=73
+                  - img "DSBoutiques_JFYCategoriesNew_TShirt" [ref=e5781]
+              - listitem [ref=e5782]:
+                - link [ref=e5783] [cursor=pointer]:
+                  - /url: /sr?wc=85
+                  - img "DSBoutiques_JFYCategoriesNew_CiltBakım" [ref=e5785]
+              - listitem [ref=e5786]:
+                - link [ref=e5787] [cursor=pointer]:
+                  - /url: /sr?wc=100
+                  - img "DSBoutiques_JFYCategoriesNew_Makyaj" [ref=e5789]
+              - listitem [ref=e5790]:
+                - link [ref=e5791] [cursor=pointer]:
+                  - /url: /sr?wc=105478
+                  - img "DSBoutiques_JFYCategoriesNew_EvBakımveTemizlik" [ref=e5793]
+              - listitem [ref=e5794]:
+                - link [ref=e5795] [cursor=pointer]:
+                  - /url: /sr?wc=105548
+                  - img "DSBoutiques_JFYCategoriesNew_Sağlık" [ref=e5797]
+      - text: 
+    - generic [ref=e5803]:
+      - heading "Türkiye’nin En Trend Online Alışveriş Sitesi Trendyol" [level=2] [ref=e5805]
+      - generic [ref=e5808]:
+        - heading "Türkiye’nin Online Alışveriş Sitesi Trendyol" [level=3] [ref=e5809]
+        - paragraph [ref=e5810]: Günümüzün online alışveriş alışkanlıkları hızla değişirken kullanıcılar hem güvenilir hem de geniş ürün yelpazesine sahip e-ticaret platformlarını tercih etmektedir. Türkiye’nin en büyük e-ticaret platformlarından biri olan Trendyol da milyonlarca ürünü tek bir platformda sunarak alışveriş deneyimini kolaylaştırıyor. Giyimden teknolojiye, ev dekorasyonundan kozmetiğe kadar pek çok kategoride ürün bulabileceğiniz platform, kullanıcı dostu arayüzü ve hızlı teslimat seçenekleriyle öne çıkıyor. Trendyol’dan alışveriş yapan kullanıcılar, farklı kategorilerde binlerce marka ve ürün seçeneğini karşılaştırabilir, ihtiyaçlarına en uygun ürünleri kolayca bulabilir. Platform yalnızca ürün çeşitliliğiyle değil aynı zamanda düzenli olarak sunduğu kampanya ve indirim fırsatlarıyla da dikkat çekiyor. Böylece kullanıcılar hem ihtiyaçlarını karşılayabiliyor hem de avantajlı alışveriş yapma fırsatı yakalayabiliyor. İnternetten alış-veriş yaparken güvenli ödeme seçenekleri ve hızlı teslimat süreçleri oldukça önemlidir. Trendyol alışveriş deneyimi, güvenli ödeme altyapısı ve kullanıcı memnuniyeti odaklı hizmet anlayışı sayesinde Türkiye’de milyonlarca kişinin tercih ettiği bir platform haline gelmiştir. Geniş ürün seçenekleri, kolay kullanım ve avantajlı fiyat politikası sayesinde platform, online alışverişin en popüler adreslerinden biri olmayı sürdürüyor.
+        - heading "Online Alışverişte Geniş Ürün Çeşitliliğiyle Trendyol" [level=3] [ref=e5811]
+        - paragraph [ref=e5812]: E-ticaret platformlarının en önemli özelliklerinden biri sundukları ürün çeşitliliğidir. Trendyol, farklı kategorilerde milyonlarca ürünü bir araya getirerek kullanıcıların tüm ihtiyaçlarını tek bir platform üzerinden karşılamasına olanak tanır. Elektronikten ev eşyalarına, modadan kişisel bakım ürünlerine kadar pek çok kategori, kullanıcıların farklı ihtiyaçlarına yönelik geniş seçenekler sunar. Platformda bulunan ürünler yalnızca sayıca fazla olmakla kalmaz, aynı zamanda farklı fiyat aralıklarında alternatifler de sunar. Böylece kullanıcılar bütçelerine uygun ürünleri rahatlıkla bulabilir. Özellikle günlük ihtiyaçlar, ev yaşam ürünleri ve teknolojik cihazlar gibi birçok kategori aynı platformda yer aldığı için alışveriş süreci oldukça pratik hale gelir. Kullanıcılar alışveriş yaparken ürün yorumları ve değerlendirmeleri sayesinde daha bilinçli seçimler yapabilir. Bu özellik, online alışverişte güven duygusunu artırırken kullanıcıların satın alma kararını da kolaylaştırır. Geniş ürün çeşitliliği ve kullanıcı odaklı özellikleri sayesinde Trendyol, Türkiye’de online alışveriş denildiğinde akla gelen ilk platformlardan biri olmayı başarmıştır.
+        - heading "Moda, Giyim ve Ayakkabı Kategorilerinde Trend Seçenekler" [level=3] [ref=e5813]
+        - paragraph [ref=e5814]: Moda dünyası sürekli değişen ve yenilenen bir yapıya sahiptir. Her sezon ortaya çıkan yeni trendler, kullanıcıların stil tercihlerini etkiler ve birçok kişi güncel moda akımlarını yakından takip etmek ister. Bu noktada online alışveriş platformları, kullanıcılara geniş ürün seçenekleri sunarak moda trendlerine kolayca ulaşma imkânı sağlar. Trendyol, moda dünyasının en güncel ürünlerini kullanıcılarla buluşturarak stil sahibi kombinler oluşturmayı oldukça pratik hale getirir. Platformda kadın, erkek ve çocuk kategorilerinde binlerce farklı giyim ürünü bulunur ve bu ürünler farklı yaş gruplarına, tarzlara ve ihtiyaçlara hitap eder. Günlük yaşamda kullanılan basic parçalar, spor kombinler, ofis stiline uygun kıyafetler veya özel günler için tercih edilen şık tasarımlar gibi pek çok seçenek moda kategorisinde yer alır. Elbise, pantolon, gömlek, mont, tişört ve ceket gibi ürünler farklı tasarım anlayışlarıyla sunularak kullanıcıların kendi tarzlarını oluşturmasına yardımcı olur. Ayrıca yaz ve kış sezonlarına uygun farklı kumaş türleri ve modeller sayesinde kullanıcılar yılın her döneminde ihtiyaç duydukları ürünleri kolayca bulabilir. Bu durum, modayı yakından takip eden kişiler için alışveriş deneyimini daha keyifli hale getirir. Bunun yanı sıra aksesuar ve tamamlayıcı parçalar da kombin oluştururken önemli bir rol oynar. Çantalar, kemerler, şapkalar ve çeşitli moda aksesuarları, kullanıcıların stilini tamamlayan detaylar arasında yer alır. Trendyol’da bulunan geniş ürün çeşitliliği sayesinde kullanıcılar yalnızca kıyafet değil, aynı zamanda stilini tamamlayacak farklı aksesuarları da tek bir platform üzerinden temin edebilir. Moda kategorisinin önemli bir parçası olan ayakkabı ürünleri de oldukça geniş bir seçenek sunar. Spor ayakkabılardan klasik modellere, günlük kullanım için tasarlanan rahat ayakkabılardan özel günler için tercih edilen şık modellere kadar birçok alternatif bulunur. Sneaker modelleri, topuklu ayakkabılar, botlar ve sandaletler farklı tarzlara hitap ederek kullanıcıların ihtiyaçlarına uygun seçenekler sunar. Bu çeşitlilik, kullanıcıların hem konforlu hem de şık kombinler oluşturmasını kolaylaştırır.
+        - heading "Teknoloji Ürünleri ve Akıllı Telefon Modelleri" [level=3] [ref=e5815]
+        - paragraph [ref=e5816]: Teknoloji dünyası her geçen gün yeni ürünlerle gelişmeye devam ediyor. Trendyol, geniş teknoloji ürünleri kategorisi sayesinde kullanıcıların en güncel cihazlara kolayca ulaşmasını sağlar. Dizüstü bilgisayarlar, tabletler, kulaklıklar ve akıllı ev cihazları gibi pek çok ürün platformda bulunur. Özellikle akıllı telefon modelleri, e-ticaret platformlarında en çok ilgi gören ürün gruplarından biridir. Farklı markalara ait yeni nesil akıllı telefonlar, kullanıcıların ihtiyaçlarına ve bütçelerine uygun seçeneklerle sunulur. Kamera özellikleri, depolama kapasitesi ve performans gibi kriterlere göre filtreleme yapılabilmesi alışveriş sürecini kolaylaştırır. Bunun yanı sıra akıllı ürünler kategorisi de teknolojinin günlük hayata entegrasyonunu destekler. Akıllı saatler, akıllı bileklikler ve çeşitli IoT cihazları sayesinde kullanıcılar teknolojiyi daha verimli bir şekilde kullanabilir. Teknolojik yenilikleri takip eden kullanıcılar için Trendyol, geniş ürün yelpazesiyle önemli bir alışveriş noktası haline gelmiştir.
+        - heading "Ev, Yaşam ve Günlük İhtiyaçlar İçin Popüler Kategoriler" [level=3] [ref=e5817]
+        - paragraph [ref=e5818]: Ev düzeni ve yaşam alanlarının konforu, günlük yaşam kalitesini doğrudan etkiler. Bu nedenle ev yaşam kategorisi, online alışveriş platformlarında oldukça popülerdir. Trendyol’da ev düzenini kolaylaştıran pek çok ürün farklı kategorilerde sunulur ve kullanıcılar ihtiyaç duydukları ürünlere tek bir platform üzerinden kolayca ulaşabilir. Pratik kullanım sağlayan ürünler sayesinde yaşam alanlarını daha düzenli ve konforlu hale getirmek mümkündür. Ev yasam ürünleri arasında mutfak ekipmanları, dekoratif aksesuarlar ve depolama çözümleri gibi pek çok alternatif bulunur. Özellikle sofra-mutfak kategorisinde tabak takımları, mutfak gereçleri ve pişirme ekipmanları gibi ürünler kullanıcıların ilgisini çeker. Günlük kullanım için tasarlanan pratik mutfak araçlarının yanı sıra, özel davetlerde kullanılabilecek şık sofra ürünleri de bu kategoride yer alır. Bunun yanı sıra ev dekorasyonu için tercih edilen halı, ev tekstili ve mobilya ürünleri de oldukça geniş bir seçenek sunar. Perdeler, yatak örtüleri ve dekoratif yastıklar gibi ev tekstili ürünleri yaşam alanlarına farklı bir atmosfer kazandırabilir. Aynı zamanda modern ve klasik tarzlarda sunulan ev dekorasyon ürünleri sayesinde kullanıcılar evlerini kendi zevklerine göre düzenleyebilir ve yaşam alanlarını daha estetik bir görünüme kavuşturabilir.
+        - heading "Kozmetik ve Kişisel Bakım Ürünlerinde Öne Çıkan Markalar Trendyol’da" [level=3] [ref=e5819]
+        - paragraph [ref=e5820]: Kişisel bakım ve güzellik ürünleri, online alışverişte en çok tercih edilen kategorilerden biridir. Trendyol, geniş kozmetik kategorisi sayesinde kullanıcıların farklı markalara ait ürünleri kolayca keşfetmesini sağlar. Cilt bakım ürünlerinden saç bakımına kadar pek çok farklı kişisel bakım ürünü platformda bulunur. Günlük bakım rutinini destekleyen kozmetik ürünleri, kullanıcıların ihtiyaçlarına göre geniş bir yelpazede sunulur. Bunun yanı sıra makyaj severler için çeşitli makyaj ürünleri de platformda yer alır. Fondöten, ruj, maskara ve far paletleri gibi ürünler farklı markalar tarafından sunulmaktadır. Ayrıca saç, cilt ve vücut bakımına yönelik kişisel bakım ürünleri sayesinde kullanıcılar kendi bakım rutinlerini kolayca oluşturabilir.
+        - heading "Anne, Bebek ve Çocuk Ürünlerinde Geniş Seçenekler" [level=3] [ref=e5821]
+        - paragraph [ref=e5822]: Ailelerin en çok önem verdiği konulardan biri çocukları için kaliteli ve güvenilir ürünler seçmektir. Trendyol, anne, bebek ve çocuk kategorilerinde geniş ürün seçenekleri sunarak ebeveynlerin ihtiyaçlarını karşılamaya yardımcı olur. Platformda farklı markalara ait bebek ürünleri ve bebek bakım ürünleri yer alır. Bebek bezleri, bakım kremleri ve beslenme ürünleri gibi temel ihtiyaçlar kolayca bulunabilir. Aynı zamanda farklı bebek ürünleri markaları tarafından sunulan ürünler sayesinde ebeveynler güvenilir seçenekleri değerlendirebilir. Bebek arabaları, mama sandalyeleri ve oyuncaklar gibi bebek eşyaları da bu kategoride oldukça popülerdir. Bu çeşitlilik sayesinde ebeveynler hem günlük ihtiyaçlarını hem de çocuklarının gelişimini destekleyen ürünleri tek bir platform üzerinden temin edebilir.
+        - heading "Spor, Outdoor ve Hobi Ürünleriyle Aktif Yaşam" [level=3] [ref=e5823]
+        - paragraph [ref=e5824]: Sağlıklı ve aktif bir yaşam tarzı benimseyen kullanıcılar için spor ekipmanları büyük önem taşır. Günümüzde spor yapmak yalnızca profesyonel sporcuların değil, günlük hayatında daha sağlıklı bir yaşam sürmek isteyen herkesin tercih ettiği bir alışkanlık haline gelmiştir. Bu nedenle spor ekipmanlarına ve spor giyim ürünlerine kolay erişim sağlamak oldukça önemlidir. Trendyol’da spor kategorisinde birçok farklı ürün bulunur ve bu ürünler hem amatör hem de profesyonel kullanıcıların ihtiyaçlarını karşılayacak şekilde geniş bir yelpazeye sahiptir. Platformda yer alan spor giyim ürünleri, kullanıcıların egzersiz sırasında konforlu hareket etmesine yardımcı olacak şekilde tasarlanmıştır. Nefes alabilen kumaşlara sahip tişörtler, spor taytları, eşofman takımları ve performans odaklı ayakkabılar spor yapan kişiler için oldukça önemli ürünler arasında yer alır. Bunun yanı sıra fitness ekipmanları da evde spor yapmak isteyen kullanıcılar için büyük bir kolaylık sağlar. Dambıllar, yoga matları, direnç bantları ve kondisyon ekipmanları gibi birçok ürün, kullanıcıların kendi spor rutinlerini oluşturmasına yardımcı olur. Böylece spor salonuna gitmeden de ev ortamında düzenli egzersiz yapmak mümkün hale gelir. Ayrıca doğa aktivitelerini sevenler için outdoor kategorisi de oldukça geniştir. Doğa sporları son yıllarda giderek daha fazla ilgi görmektedir ve bu aktiviteler için doğru ekipman seçimi oldukça önemlidir. Trendyol’da kamp çadırları, uyku tulumları, kamp sandalyeleri, termoslar ve doğa yürüyüşü ekipmanları gibi birçok ürün bu kategoride yer alır. Kamp ve doğa yürüyüşü gibi aktiviteler için gerekli ekipmanlar kolayca temin edilebilir ve farklı bütçelere uygun alternatifler bulunabilir. Outdoor kategorisinde yalnızca kamp ekipmanları değil, aynı zamanda trekking ayakkabıları, sırt çantaları ve dayanıklı kıyafetler gibi doğa koşullarına uygun ürünler de bulunmaktadır. Bu ürünler doğada geçirilen zamanı daha güvenli ve konforlu hale getirir. Özellikle doğa yürüyüşü, dağcılık ve kamp gibi aktivitelerle ilgilenen kullanıcılar için doğru ekipman seçimi oldukça önemlidir. Trendyol’daki geniş ürün seçenekleri sayesinde kullanıcılar ihtiyaç duydukları ekipmanları kolayca karşılaştırabilir ve kendileri için en uygun ürünü seçebilir. Boş zamanlarını verimli değerlendirmek isteyen kullanıcılar için hobi ürünleri de platformda geniş bir seçenek sunar. Günümüzde birçok kişi stres atmak, yaratıcılığını geliştirmek veya yeni beceriler kazanmak için farklı hobiler edinmektedir. Trendyol’da yer alan hobi kategorisi, bu ilgi alanlarını destekleyecek çok sayıda ürün içerir. Resim yapmak isteyenler için boya setleri ve tuval ürünleri, el işi ile ilgilenenler için çeşitli malzemeler ve model yapımıyla ilgilenenler için farklı model kitleri gibi seçenekler bulunur.
+        - heading "Trendyol’da Online Alışveriş Deneyimini Kolaylaştıran Özellikler" [level=3] [ref=e5825]
+        - paragraph [ref=e5826]: Günümüzde online alışveriş yaparken kullanıcıların en çok önem verdiği konuların başında kolay kullanım, hızlı erişim ve güvenilir hizmet gelir. Trendyol, kullanıcı dostu arayüzü sayesinde ürün arama ve karşılaştırma süreçlerini oldukça pratik hale getirir. Gelişmiş filtreleme seçenekleri sayesinde kullanıcılar kategori, fiyat aralığı, marka veya kullanıcı puanı gibi kriterlere göre arama yaparak istedikleri ürüne çok daha kısa sürede ulaşabilir. Platformda bulunan ürün değerlendirmeleri ve kullanıcı yorumları da alışveriş deneyimini önemli ölçüde kolaylaştırır. Kullanıcılar daha önce ürünü satın alan kişilerin yorumlarını inceleyerek ürün hakkında fikir sahibi olabilir ve daha bilinçli bir alışveriş kararı verebilir. Bu özellik özellikle giyim, teknoloji ürünleri veya ev yaşam ürünleri gibi farklı kategorilerde doğru ürün seçimini destekleyen önemli bir avantaj sağlar. Bunun yanı sıra Trendyol’un sunduğu hızlı teslimat seçenekleri ve güvenli ödeme sistemleri alışveriş sürecini daha konforlu hale getirir. Kullanıcılar farklı ödeme yöntemleri arasından kendileri için en uygun olanı seçebilir ve siparişlerini güvenli bir şekilde tamamlayabilir. Tüm bu özellikler sayesinde Trendyol, kullanıcılarına pratik, hızlı ve güvenilir bir Trendyol alışveriş deneyimi sunarak online alışverişin en popüler platformlarından biri olmayı sürdürmektedir.
+        - heading "Kampanya, İndirim ve Avantajlı Alışveriş Fırsatları" [level=3] [ref=e5827]
+        - paragraph [ref=e5828]: E-ticaret platformlarının kullanıcılar tarafından tercih edilmesindeki en önemli nedenlerden biri sundukları avantajlı fiyat seçenekleridir. Trendyol, yıl boyunca düzenlediği alışveriş kampanyası ve özel fırsatlar sayesinde kullanıcıların bütçelerini koruyarak alışveriş yapmasına yardımcı olur. Farklı kategorilerde sunulan kampanyalar sayesinde moda, teknoloji, ev yaşam ürünleri ve kişisel bakım gibi birçok alanda uygun fiyatlı ürünlere ulaşmak mümkündür. Böylece kullanıcılar yalnızca ihtiyaçlarını karşılamakla kalmaz, aynı zamanda bütçelerine uygun seçenekleri değerlendirerek daha bilinçli bir alışveriş deneyimi yaşayabilir. Platformda düzenli olarak gerçekleştirilen kampanya dönemlerinde birçok üründe büyük indirim fırsatları sunulur. Günlük fırsatlar, haftalık kampanyalar ve özel etkinlik indirimleri sayesinde kullanıcılar aradıkları ürünleri çok daha uygun fiyatlarla satın alabilir. Özellikle yoğun ilgi gören kampanya dönemlerinde giyim, ayakkabı, teknoloji ürünleri ve ev dekorasyon ürünlerinde dikkat çekici fiyat avantajları ortaya çıkar. Bu durum, online alışveriş yapan kullanıcıların aynı ürünü farklı satıcılar arasında karşılaştırarak en uygun fiyatı bulmasını da kolaylaştırır. Trendyol yıl boyunca devam eden çeşitli promosyonlar ve satıcı indirimleri sunar. Böylelikle yıl boyunca birçok üründe kampanyalar ve birbirinden güzel fırsatlar bulabilirsiniz. Ayrıca belirli ürün gruplarında yapılan toplu indirimler ve özel kupon fırsatları da alışveriş deneyimini daha cazip hale getirir. Bu tür fırsatlar ile daha planlı ve ekonomik alışveriş yapmak mümkün hale gelir. Özellikle sezon sonu indirimleri ve özel gün kampanyaları, kullanıcıların avantajlı alışveriş yapmasına olanak tanır. Yılın belirli dönemlerinde gerçekleştirilen büyük indirim etkinlikleri sırasında pek çok kategoride önemli fiyat düşüşleri yaşanır. Bu kampanyalar sayesinde kullanıcılar hem yeni sezon ürünlerini hem de günlük ihtiyaçlarını çok daha uygun fiyatlarla satın alma fırsatı yakalayabilir. Aynı zamanda özel günlerde düzenlenen kampanyalar, alışveriş deneyimini daha da cazip hale getirir.
+        - heading "Trendyol Ayrıcalıklarıyla Kolay ve Güvenli Alışveriş" [level=3] [ref=e5829]
+        - paragraph [ref=e5830]: Online alışverişte güvenli ödeme sistemleri ve hızlı teslimat seçenekleri büyük önem taşır. Trendyol, kullanıcılarına güvenli alışveriş deneyimi sunmak için gelişmiş ödeme altyapıları ve müşteri hizmetleri desteği sağlar. Platform üzerinden yapılan Trendyol alışveriş işlemleri, kullanıcı dostu arayüz sayesinde oldukça kolaydır. Ürün arama, filtreleme ve karşılaştırma gibi özellikler alışveriş sürecini hızlandırır. Ayrıca kullanıcı yorumları ve puanlama sistemi sayesinde satın alma kararı daha bilinçli bir şekilde verilebilir. Trendyol’un sunduğu geniş ürün yelpazesi, kampanyalar ve kullanıcı dostu özellikler sayesinde online alışveriş deneyimi daha pratik ve keyifli hale gelir. Giyimden teknolojiye, ev ürünlerinden kozmetiğe kadar pek çok kategoride ürün sunan platform, Türkiye’nin en büyük e-ticaret sitelerinden biridir.
+        - heading "En Yeni Ürünlerle İlginizi Çekebilecek Kategoriler" [level=3] [ref=e5831]
+        - paragraph [ref=e5832]:
+          - link "iPhone 15" [ref=e5833] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-15-cep-telefonu-x-c103498-a292-v1218519
+          - text: "|"
+          - link "iPhone 15 Pro" [ref=e5834] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-15-pro-cep-telefonu-x-c103498-a292-v1218520
+          - text: "|"
+          - link "iPhone 15 Pro Max" [ref=e5835] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-15-pro-max-cep-telefonu-x-c103498-a292-v1218522
+          - text: "|"
+          - link "iPhone 15 Plus" [ref=e5836] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-15-plus-cep-telefonu-x-c103498-a292-v1218521
+          - text: "|"
+          - link "iPhone 16 Pro" [ref=e5837] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-16-pro-cep-telefonu-x-c103498-a292-v10577551
+          - text: "|"
+          - link "iPhone 16 Pro Max" [ref=e5838] [cursor=pointer]:
+            - /url: https://www.trendyol.com/apple/iphone-16-pro-max-256gb-siyah-titanyum-p-857296077
+          - text: "|"
+          - link "iPhone 14 Pro" [ref=e5839] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-14-pro-cep-telefonu-x-c103498-a292-v1195066
+          - text: "|"
+          - link "iPhone 14 Plus" [ref=e5840] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-14-plus-cep-telefonu-x-c103498-a292-v1195068
+          - text: "|"
+          - link "iPhone 14 Pro Max" [ref=e5841] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-14-pro-max-cep-telefonu-x-c103498-a292-v1195067
+          - text: "|"
+          - link "iPhone 14" [ref=e5842] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-14-cep-telefonu-x-c103498-a292-v1195053
+          - text: "|"
+          - link "iPhone 17 Pro" [ref=e5843] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-17-pro-cep-telefonu-x-c103498-a292-v10632551
+          - text: "|"
+          - link "iPhone 17 Pro Max" [ref=e5844] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-17-pro-max-cep-telefonu-x-c103498-a292-v10632552
+          - text: "|"
+          - link "iPhone 17 Air" [ref=e5845] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-17-air-cep-telefonu-x-c103498-a292-v10632550
+          - text: "|"
+          - link "iPhone 17" [ref=e5846] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-17-cep-telefonu-x-c103498-a292-v10632549
+          - text: "|"
+          - link "iPhone 16" [ref=e5847] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-16-cep-telefonu-x-c103498-a292-v10577547
+          - text: "|"
+          - link "iPhone 16e" [ref=e5848] [cursor=pointer]:
+            - /url: https://www.trendyol.com/apple/iphone-16e-128gb-siyah-p-900754126
+          - text: "|"
+          - link "iPhone 17e" [ref=e5849] [cursor=pointer]:
+            - /url: https://www.trendyol.com/iphone-17e-cep-telefonu-x-c103498-a292-v10651727
+          - text: "|"
+          - link "Trendyol Kuponlar" [ref=e5850] [cursor=pointer]:
+            - /url: https://www.trendyol.com/s/mega-kuponlar
+        - heading "Daha Fazla Popüler Kategori" [level=3] [ref=e5851]
+        - group [ref=e5852]:
+          - generic "Kategoriler" [ref=e5853]
+        - group [ref=e5854]:
+          - generic "Categorii" [ref=e5855]
+  - contentinfo [ref=e5856]:
+    - img "Group 2" [ref=e5858]
+    - generic [ref=e5863]:
+      - generic [ref=e5865]:
+        - generic [ref=e5866]:
+          - generic [ref=e5867]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=e5872] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=e5874] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=e5876] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=e5878] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=e5880] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=e5881]:
+          - generic [ref=e5882]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=e5887] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=e5889] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=e5891] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=e5892]:
+          - link "Satıcı" [ref=e5895] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=e5899] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=e5901] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=e5903] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=e5904]:
+          - generic [ref=e5905]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=e5910] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=e5912] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=e5914] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=e5916] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=e5917]:
+          - generic [ref=e5918]:
+            - link "Ülke Değiştir" [ref=e5921] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=e5922] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=e5923]
+              - generic [ref=e5924]: Ülke Seç
+          - generic [ref=e5925]: Güvenli Alışveriş
+          - generic [ref=e5929]:
+            - generic [ref=e5930]: Güvenlik Sertifikası
+            - generic [ref=e5932]:
+              - link [ref=e5933] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=e5935]
+              - link [ref=e5936] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=e5938]
+              - img "PCI DSS" [ref=e5940]
+              - img "information security standard" [ref=e5942]
+      - generic [ref=e5945]:
+        - generic [ref=e5946]:
+          - generic [ref=e5947]:
+            - link "instagram-icon" [ref=e5948] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=e5949]
+            - link "tiktok-icon" [ref=e5950] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=e5951]
+            - link "youtube-icon" [ref=e5952] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=e5953]
+            - link "facebook-icon" [ref=e5954] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=e5955]
+            - link "x-icon" [ref=e5956] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=e5957]
+          - generic [ref=e5958]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=e5959]:
+          - generic [ref=e5960]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=e5961]:
+            - link "Çerez Tercihleri" [ref=e5962] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=e5963] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=e5964] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=e5965] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - generic [ref=e5968]:
+    - generic [ref=e5969]:
+      - generic [ref=e5970]: Aradığın her şey Trendyol'da!
+      - generic [ref=e5971]: Sana özel öneriler sunabilmemiz için hangi ürünlerle ilgilendiğini seçebilir misin?
+    - generic [ref=e5972]:
+      - generic [ref=e5974] [cursor=pointer]:
+        - img "Kadın" [ref=e5976]
+        - generic [ref=e5977]: Kadın
+      - generic [ref=e5980] [cursor=pointer]:
+        - img "Erkek" [ref=e5982]
+        - generic [ref=e5983]: Erkek
+  - complementary "Eye-Able yardım teknolojisi. ALT ile açın ve TAB ile 1. işlem yapın. Esc ile bırakın."

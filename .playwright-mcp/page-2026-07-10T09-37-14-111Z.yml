@@ -1,0 +1,751 @@
+- generic [active] [ref=f10e1]:
+  - banner [ref=f10e2]:
+    - generic [ref=f10e6]:
+      - generic [ref=f10e7] [cursor=pointer]:
+        - button "Menu" [ref=f10e8]
+        - link "Trendyol" [ref=f10e10]:
+          - /url: /
+      - button "Search icon @#$%" [ref=f10e14]:
+        - img "Search icon" [ref=f10e15]
+        - generic [ref=f10e16]: "@#$%"
+      - generic [ref=f10e17]:
+        - link "Giriş Yap" [ref=f10e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fq%3D%2540%2523%2524%2525
+        - link "Favorilerim" [ref=f10e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f10e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f10e30]:
+    - generic [ref=f10e36]:
+      - generic [ref=f10e38]:
+        - heading "@#$%" [level=1] [ref=f10e39]
+        - generic [ref=f10e40]: 41448+ Ürün
+      - button "Önerilen Sıralama sıralama" [ref=f10e50] [cursor=pointer]:
+        - generic [ref=f10e51]: Önerilen Sıralama
+        - img "sıralama" [ref=f10e52]
+      - generic [ref=f10e53]:
+        - generic [ref=f10e54]:
+          - text: Bunu mu demek istedin?
+          - link "asm" [ref=f10e55] [cursor=pointer]:
+            - /url: sr?q=asm
+        - generic [ref=f10e56]: Aradığın ürün bulunamadı. Aşağıdakiler ilgini çekebilir.
+      - generic [ref=f10e61]:
+        - link "BienHome 50x50Cm Kendinden Yapışkanlı Duvar Kağıdı Esnek Köpük Paneli 3d Boyu... Favorilere Ekle En Çok Satan 2. Ürün BienHome 50x50Cm Kendinden Yapışkanlı Duvar Kağıdı Esnek Köpük Paneli 3d Boyutlu Tuğla Desen Beyaz 0,25 M² 0-5 mm 3.7 (409) Değerlendirme fotoğrafları mevcut 21,83 TL Sepete Ekle" [ref=f10e62] [cursor=pointer]:
+          - /url: /bienhome/50x50cm-kendinden-yapiskanli-duvar-kagidi-esnek-kopuk-paneli-3d-boyutlu-tugla-desen-beyaz-0-25-m-p-939762929?boutiqueId=61&merchantId=105163
+          - generic [ref=f10e63]:
+            - img "BienHome 50x50Cm Kendinden Yapışkanlı Duvar Kağıdı Esnek Köpük Paneli 3d Boyu..." [ref=f10e65]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e71]
+              - generic: En Çok Satan 2. Ürün
+          - generic [ref=f10e73]:
+            - heading "BienHome 50x50Cm Kendinden Yapışkanlı Duvar Kağıdı Esnek Köpük Paneli 3d Boyutlu Tuğla Desen Beyaz 0,25 M²" [level=2] [ref=f10e74]:
+              - generic [ref=f10e75]:
+                - text: BienHome
+                - generic [ref=f10e76]: 50x50Cm Kendinden Yapışkanlı Duvar Kağıdı Esnek Köpük Paneli 3d Boyutlu Tuğla Desen Beyaz 0,25 M²
+            - generic [ref=f10e77]: 0-5 mm
+            - generic [ref=f10e81]:
+              - generic [ref=f10e82]: "3.7"
+              - generic [ref=f10e103]: (409)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e104]
+            - generic [ref=f10e105]: 21,83 TL
+          - button "Sepete Ekle" [ref=f10e110]
+        - link "Papia Home Asmalı Havlu 750 Yaprak (3 Paketx250 Yaprak) Favorilere Ekle En Çok Satan 1. Ürün PapiaResmi satıcı rozeti Home Asmalı Havlu 750 Yaprak (3 Paketx250 Yaprak) 3 Katlı 4.4 (157) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %15 İndirim Kargo Bedava Sepet ikonu Sepette %15 İndirim Sepette 471,75 TL 555 TL Trendyol Plus ile 448,16 TL Sepete Ekle" [ref=f10e111] [cursor=pointer]:
+          - /url: /papia/home-asmali-havlu-750-yaprak-3-paketx250-yaprak-p-1085851748?boutiqueId=61&merchantId=332840
+          - generic [ref=f10e112]:
+            - img "Papia Home Asmalı Havlu 750 Yaprak (3 Paketx250 Yaprak)" [ref=f10e114]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e120]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e122]:
+            - heading "PapiaResmi satıcı rozeti Home Asmalı Havlu 750 Yaprak (3 Paketx250 Yaprak)" [level=2] [ref=f10e123]:
+              - generic [ref=f10e124]:
+                - generic [ref=f10e125]:
+                  - text: Papia
+                  - img "Resmi satıcı rozeti" [ref=f10e126]
+                - generic [ref=f10e127]: Home Asmalı Havlu 750 Yaprak (3 Paketx250 Yaprak)
+            - generic [ref=f10e128]: 3 Katlı
+            - generic [ref=f10e132]:
+              - generic [ref=f10e133]: "4.4"
+              - generic [ref=f10e155]: (157)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e156]
+            - generic [ref=f10e157]:
+              - generic [ref=f10e159]:
+                - generic [ref=f10e161]:
+                  - img "Sepet ikonu" [ref=f10e162]
+                  - generic [ref=f10e163]: Sepette %15 İndirim
+                - generic [ref=f10e164]: Kargo Bedava
+                - generic [ref=f10e170]:
+                  - img "Sepet ikonu" [ref=f10e171]
+                  - generic [ref=f10e172]: Sepette %15 İndirim
+              - generic [ref=f10e174]:
+                - generic [ref=f10e175]: Sepette
+                - generic [ref=f10e176]: 471,75 TL
+                - generic [ref=f10e177]: 555 TL
+              - generic [ref=f10e179]:
+                - generic [ref=f10e180]: Trendyol Plus ile
+                - generic [ref=f10e181]: 448,16 TL
+          - button "Sepete Ekle" [ref=f10e184]
+        - link "RAMTON Slim Band Favorilere Ekle En Çok Satan 1. Ürün RAMTON Slim Band 3.9 (741) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette 100 TL İndirim Kargo Bedava Sepet ikonu Sepette 100 TL İndirim Sepette 979 TL 1.079 TL Sepete Ekle" [ref=f10e185] [cursor=pointer]:
+          - /url: /ramton/slim-band-p-1090132986?boutiqueId=61&merchantId=1173511
+          - generic [ref=f10e186]:
+            - img "RAMTON Slim Band" [ref=f10e188]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e194]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e196]:
+            - heading "RAMTON Slim Band" [level=2] [ref=f10e197]:
+              - generic [ref=f10e198]:
+                - text: RAMTON
+                - generic [ref=f10e199]: Slim Band
+            - generic [ref=f10e200]:
+              - generic [ref=f10e201]: "3.9"
+              - generic [ref=f10e222]: (741)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e223]
+            - generic [ref=f10e224]:
+              - generic [ref=f10e226]:
+                - generic [ref=f10e228]:
+                  - img "Sepet ikonu" [ref=f10e229]
+                  - generic [ref=f10e230]: Sepette 100 TL İndirim
+                - generic [ref=f10e231]: Kargo Bedava
+                - generic [ref=f10e237]:
+                  - img "Sepet ikonu" [ref=f10e238]
+                  - generic [ref=f10e239]: Sepette 100 TL İndirim
+              - generic [ref=f10e241]:
+                - generic [ref=f10e242]: Sepette
+                - generic [ref=f10e243]: 979 TL
+                - generic [ref=f10e244]: 1.079 TL
+          - button "Sepete Ekle" [ref=f10e247]
+        - link "Genel Markalar Anahtarlı Bisiklet Kilidi Çelik Halat Üzeri Silikon Kaplamalı ... Favorilere Ekle En Çok Satan 1. Ürün Genel MarkalarResmi satıcı rozeti Anahtarlı Bisiklet Kilidi Çelik Halat Üzeri Silikon Kaplamalı 1 Adet (Siyah-Kırmızı-Mavi) 4.0 (241) Değerlendirme fotoğrafları mevcut 4 Al 3 Öde 74,95 TL Trendyol Plus ile 73,45 TL Sepete Ekle" [ref=f10e248] [cursor=pointer]:
+          - /url: /genel-markalar/anahtarli-bisiklet-kilidi-celik-halat-uzeri-silikon-kaplamali-1-adet-siyah-kirmizi-mavi-p-803682728?boutiqueId=61&merchantId=453256
+          - generic [ref=f10e249]:
+            - img "Genel Markalar Anahtarlı Bisiklet Kilidi Çelik Halat Üzeri Silikon Kaplamalı ..." [ref=f10e251]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e254]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e256]:
+            - heading "Genel MarkalarResmi satıcı rozeti Anahtarlı Bisiklet Kilidi Çelik Halat Üzeri Silikon Kaplamalı 1 Adet (Siyah-Kırmızı-Mavi)" [level=2] [ref=f10e257]:
+              - generic [ref=f10e258]:
+                - generic [ref=f10e259]:
+                  - text: Genel Markalar
+                  - img "Resmi satıcı rozeti" [ref=f10e260]
+                - generic [ref=f10e261]: Anahtarlı Bisiklet Kilidi Çelik Halat Üzeri Silikon Kaplamalı 1 Adet (Siyah-Kırmızı-Mavi)
+            - generic [ref=f10e262]:
+              - generic [ref=f10e263]: "4.0"
+              - generic [ref=f10e284]: (241)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e285]
+            - generic [ref=f10e286]:
+              - generic [ref=f10e287]: 4 Al 3 Öde
+              - generic [ref=f10e294]: 74,95 TL
+              - generic [ref=f10e297]:
+                - generic [ref=f10e298]: Trendyol Plus ile
+                - generic [ref=f10e299]: 73,45 TL
+          - button "Sepete Ekle" [ref=f10e302]
+        - link "ARVALE Pratik 1 Adet Güçlü Yapışkanlı Duvar Vidası Matkap Delme Yok - Elbise ... Favorilere Ekle En Çok Satan 5. Ürün ARVALEResmi satıcı rozeti Pratik 1 Adet Güçlü Yapışkanlı Duvar Vidası Matkap Delme Yok - Elbise Çervece Askısı Çivi Metal 4.1 (1176) Değerlendirme fotoğrafları mevcut 13,99 TL (13,99 TL/adet) Sepete Ekle" [ref=f10e303] [cursor=pointer]:
+          - /url: /arvale/pratik-1-adet-guclu-yapiskanli-duvar-vidasi-matkap-delme-yok-elbise-cervece-askisi-civi-p-852793084?boutiqueId=61&merchantId=858465
+          - generic [ref=f10e304]:
+            - img "ARVALE Pratik 1 Adet Güçlü Yapışkanlı Duvar Vidası Matkap Delme Yok - Elbise ..." [ref=f10e306]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e312]
+              - generic: En Çok Satan 5. Ürün
+          - generic [ref=f10e314]:
+            - heading "ARVALEResmi satıcı rozeti Pratik 1 Adet Güçlü Yapışkanlı Duvar Vidası Matkap Delme Yok - Elbise Çervece Askısı Çivi" [level=2] [ref=f10e315]:
+              - generic [ref=f10e316]:
+                - generic [ref=f10e317]:
+                  - text: ARVALE
+                  - img "Resmi satıcı rozeti" [ref=f10e318]
+                - generic [ref=f10e319]: Pratik 1 Adet Güçlü Yapışkanlı Duvar Vidası Matkap Delme Yok - Elbise Çervece Askısı Çivi
+            - generic [ref=f10e320]: Metal
+            - generic [ref=f10e324]:
+              - generic [ref=f10e325]: "4.1"
+              - generic [ref=f10e347]: (1176)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e348]
+            - generic [ref=f10e350]:
+              - generic [ref=f10e351]: 13,99 TL
+              - generic [ref=f10e352]:
+                - generic [ref=f10e353]: (13,99 TL
+                - generic [ref=f10e354]: /adet)
+          - button "Sepete Ekle" [ref=f10e357]
+        - link "DYSON Cyclone V10 Submarine™ ıslak ve kuru temizleme özellikli kablosuz süpürge Favorilere Ekle Fenomen Seçimi DYSONResmi satıcı rozeti Cyclone V10 Submarine™ ıslak ve kuru temizleme özellikli kablosuz süpürge Belirtilmemiş 4.5 (419) Değerlendirme fotoğrafları mevcut Kargo Bedava 23.999 TL Sepete Ekle" [ref=f10e358] [cursor=pointer]:
+          - /url: /dyson/cyclone-v10-submarine-islak-ve-kuru-temizleme-ozellikli-kablosuz-supurge-p-1065906249?boutiqueId=61&merchantId=275331
+          - generic [ref=f10e359]:
+            - img "DYSON Cyclone V10 Submarine™ ıslak ve kuru temizleme özellikli kablosuz süpürge" [ref=f10e361]
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e367]
+              - generic: Fenomen Seçimi
+          - generic [ref=f10e369]:
+            - heading "DYSONResmi satıcı rozeti Cyclone V10 Submarine™ ıslak ve kuru temizleme özellikli kablosuz süpürge" [level=2] [ref=f10e370]:
+              - generic [ref=f10e371]:
+                - generic [ref=f10e372]:
+                  - text: DYSON
+                  - img "Resmi satıcı rozeti" [ref=f10e373]
+                - generic [ref=f10e374]: Cyclone V10 Submarine™ ıslak ve kuru temizleme özellikli kablosuz süpürge
+            - generic [ref=f10e375]: Belirtilmemiş
+            - generic [ref=f10e379]:
+              - generic [ref=f10e380]: "4.5"
+              - generic [ref=f10e402]: (419)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e403]
+            - generic [ref=f10e404]:
+              - generic [ref=f10e405]: Kargo Bedava
+              - generic [ref=f10e412]: 23.999 TL
+          - button "Sepete Ekle" [ref=f10e416]
+        - link "COMMAND 3M Çerçeve Asma Bandı Orta Boy | Duvar Delmeden Askı | İz Bırakmaz | ... Favorilere Ekle COMMAND 3M Çerçeve Asma Bandı Orta Boy | Duvar Delmeden Askı | İz Bırakmaz | 5,4 Kg Çift Taraflı Bant 4.2 (71) Değerlendirme fotoğrafları mevcut Kupon Fırsatı Çok Al Az Öde Kupon Fırsatı 158 TL Sepete Ekle" [ref=f10e417] [cursor=pointer]:
+          - /url: /command/3m-cerceve-asma-bandi-orta-boy-duvar-delmeden-aski-iz-birakmaz-5-4-kg-p-1098925731?boutiqueId=61&merchantId=1090972
+          - generic [ref=f10e418]:
+            - generic:
+              - img "COMMAND 3M Çerçeve Asma Bandı Orta Boy | Duvar Delmeden Askı | İz Bırakmaz | ..."
+            - button "Favorilere Ekle" [ref=f10e424]
+          - generic [ref=f10e426]:
+            - heading "COMMAND 3M Çerçeve Asma Bandı Orta Boy | Duvar Delmeden Askı | İz Bırakmaz | 5,4 Kg" [level=2] [ref=f10e427]:
+              - generic [ref=f10e428]:
+                - text: COMMAND
+                - generic [ref=f10e429]: 3M Çerçeve Asma Bandı Orta Boy | Duvar Delmeden Askı | İz Bırakmaz | 5,4 Kg
+            - generic [ref=f10e430]: Çift Taraflı Bant
+            - generic [ref=f10e434]:
+              - generic [ref=f10e435]: "4.2"
+              - generic [ref=f10e457]: (71)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e458]
+            - generic [ref=f10e459]:
+              - generic [ref=f10e461]:
+                - generic [ref=f10e462]: Kupon Fırsatı
+                - generic [ref=f10e467]: Çok Al Az Öde
+                - generic [ref=f10e472]: Kupon Fırsatı
+              - generic [ref=f10e477]: 158 TL
+          - button "Sepete Ekle" [ref=f10e481]
+        - link "RED KİTCHEN 1 Adet Yapışkanlı Yazlık Kapı Banyo Terlik Asma Ayakkabı Askısı T... Favorilere Ekle En Çok Ziyaret Edilen 8. Ürün RED KİTCHEN 1 Adet Yapışkanlı Yazlık Kapı Banyo Terlik Asma Ayakkabı Askısı Tutucu Kurutma Rafı Plastik 4.6 (17) Değerlendirme fotoğrafları mevcut Kupon Fırsatı 20 TL (20 TL/adet) Trendyol Plus ile 19,90 TL Sepete Ekle" [ref=f10e482] [cursor=pointer]:
+          - /url: /red-kitchen/1-adet-yapiskanli-yazlik-kapi-banyo-terlik-asma-ayakkabi-askisi-tutucu-kurutma-rafi-p-1143806202?boutiqueId=61&merchantId=576149
+          - generic [ref=f10e483]:
+            - generic:
+              - img "RED KİTCHEN 1 Adet Yapışkanlı Yazlık Kapı Banyo Terlik Asma Ayakkabı Askısı T..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e487]
+              - generic: En Çok Ziyaret Edilen 8. Ürün
+          - generic [ref=f10e489]:
+            - heading "RED KİTCHEN 1 Adet Yapışkanlı Yazlık Kapı Banyo Terlik Asma Ayakkabı Askısı Tutucu Kurutma Rafı" [level=2] [ref=f10e490]:
+              - generic [ref=f10e491]:
+                - text: RED KİTCHEN
+                - generic [ref=f10e492]: 1 Adet Yapışkanlı Yazlık Kapı Banyo Terlik Asma Ayakkabı Askısı Tutucu Kurutma Rafı
+            - generic [ref=f10e493]: Plastik
+            - generic [ref=f10e497]:
+              - generic [ref=f10e498]: "4.6"
+              - generic [ref=f10e520]: (17)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e521]
+            - generic [ref=f10e522]:
+              - generic [ref=f10e523]: Kupon Fırsatı
+              - generic [ref=f10e530]:
+                - generic [ref=f10e531]: 20 TL
+                - generic [ref=f10e532]:
+                  - generic [ref=f10e533]: (20 TL
+                  - generic [ref=f10e534]: /adet)
+              - generic [ref=f10e536]:
+                - generic [ref=f10e537]: Trendyol Plus ile
+                - generic [ref=f10e538]: 19,90 TL
+          - button "Sepete Ekle" [ref=f10e541]
+        - link "Philips 8000 Serisi Aqua Kablosuz Dik Süpürge, 80 dk'ya Çalışma, PrecisionPow... Favorilere Ekle En Çok Ziyaret Edilen 4. Ürün Philips 8000 Serisi Aqua Kablosuz Dik Süpürge, 80 dk'ya Çalışma, PrecisionPower Aqua Plus Başlık, XC8053/01 Belirtilmemiş 3.9 (2016) Değerlendirme fotoğrafları mevcut Kargo Bedava 750 TL Kupon Kargo Bedava 15.399 TL Sepete Ekle" [ref=f10e542] [cursor=pointer]:
+          - /url: /philips/8000-serisi-aqua-kablosuz-dik-supurge-80-dk-ya-calisma-precisionpower-aqua-plus-baslik-xc8053-01-p-857639184?boutiqueId=61&merchantId=106320
+          - generic [ref=f10e543]:
+            - generic:
+              - img "Philips 8000 Serisi Aqua Kablosuz Dik Süpürge, 80 dk'ya Çalışma, PrecisionPow..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e549]
+              - generic: En Çok Ziyaret Edilen 4. Ürün
+          - generic [ref=f10e551]:
+            - heading "Philips 8000 Serisi Aqua Kablosuz Dik Süpürge, 80 dk'ya Çalışma, PrecisionPower Aqua Plus Başlık, XC8053/01" [level=2] [ref=f10e552]:
+              - generic [ref=f10e553]:
+                - text: Philips
+                - generic [ref=f10e554]: 8000 Serisi Aqua Kablosuz Dik Süpürge, 80 dk'ya Çalışma, PrecisionPower Aqua Plus Başlık, XC8053/01
+            - generic [ref=f10e555]: Belirtilmemiş
+            - generic [ref=f10e559]:
+              - generic [ref=f10e560]: "3.9"
+              - generic [ref=f10e581]: (2016)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e582]
+            - generic [ref=f10e583]:
+              - generic [ref=f10e585]:
+                - generic [ref=f10e586]: Kargo Bedava
+                - generic [ref=f10e591]: 750 TL Kupon
+                - generic [ref=f10e596]: Kargo Bedava
+              - generic [ref=f10e601]: 15.399 TL
+          - button "Sepete Ekle" [ref=f10e605]
+        - link "bt bayır teknoloji Tüm Markalar Ile Uyumlu Televizyon Duvar Asma Aparatı 37”-... Favorilere Ekle En Çok Satan 1. Ürün bt bayır teknoloji Tüm Markalar Ile Uyumlu Televizyon Duvar Asma Aparatı 37”-40”-50”-55”-65” Inç Arası 4.3 (3656) Değerlendirme fotoğrafları mevcut 192,51 TL Sepete Ekle" [ref=f10e606] [cursor=pointer]:
+          - /url: /bt-bayir-teknoloji/tum-markalar-ile-uyumlu-televizyon-duvar-asma-aparati-37-40-50-55-65-inc-arasi-p-94679185?boutiqueId=61&merchantId=716051
+          - generic [ref=f10e607]:
+            - generic:
+              - img "bt bayır teknoloji Tüm Markalar Ile Uyumlu Televizyon Duvar Asma Aparatı 37”-..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e613]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e615]:
+            - heading "bt bayır teknoloji Tüm Markalar Ile Uyumlu Televizyon Duvar Asma Aparatı 37”-40”-50”-55”-65” Inç Arası" [level=2] [ref=f10e616]:
+              - generic [ref=f10e617]:
+                - text: bt bayır teknoloji
+                - generic [ref=f10e618]: Tüm Markalar Ile Uyumlu Televizyon Duvar Asma Aparatı 37”-40”-50”-55”-65” Inç Arası
+            - generic [ref=f10e619]:
+              - generic [ref=f10e620]: "4.3"
+              - generic [ref=f10e642]: (3656)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e643]
+            - generic [ref=f10e644]: 192,51 TL
+          - button "Sepete Ekle" [ref=f10e649]
+        - link "Cengo Çamaşır Kurutmalık Ekstra Sağlam Kurutma Askısı Favorilere Ekle En Çok Favorilenen 1. Ürün Cengo Çamaşır Kurutmalık Ekstra Sağlam Kurutma Askısı 3.5 (17079) Değerlendirme fotoğrafları mevcut Kargo Bedava 839 TL Sepete Ekle" [ref=f10e650] [cursor=pointer]:
+          - /url: /cengo/camasir-kurutmalik-ekstra-saglam-kurutma-askisi-p-56041509?boutiqueId=61&merchantId=1072784
+          - generic [ref=f10e651]:
+            - generic:
+              - img "Cengo Çamaşır Kurutmalık Ekstra Sağlam Kurutma Askısı"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e655]
+              - generic: En Çok Favorilenen 1. Ürün
+          - generic [ref=f10e657]:
+            - heading "Cengo Çamaşır Kurutmalık Ekstra Sağlam Kurutma Askısı" [level=2] [ref=f10e658]:
+              - generic [ref=f10e659]:
+                - text: Cengo
+                - generic [ref=f10e660]: Çamaşır Kurutmalık Ekstra Sağlam Kurutma Askısı
+            - generic [ref=f10e661]:
+              - generic [ref=f10e662]: "3.5"
+              - generic [ref=f10e683]: (17079)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e684]
+            - generic [ref=f10e685]:
+              - generic [ref=f10e686]: Kargo Bedava
+              - generic [ref=f10e693]: 839 TL
+          - button "Sepete Ekle" [ref=f10e697]
+        - link "Shark PowerPro Turbo Başlıklı Şarjlı Dikey Süpürge Favorilere Ekle SharkResmi satıcı rozeti PowerPro Turbo Başlıklı Şarjlı Dikey Süpürge 0 - 250 Watt 4.7 (46) Değerlendirme fotoğrafları mevcut Son 14 Günün En Düşük Fiyatı Kargo Bedava Son 14 Günün En Düşük Fiyatı -%27 12.999 TL 17.999 TL Sepete Ekle" [ref=f10e698] [cursor=pointer]:
+          - /url: /shark/powerpro-turbo-baslikli-sarjli-dikey-supurge-p-953782312?boutiqueId=61&merchantId=1075287
+          - generic [ref=f10e699]:
+            - generic:
+              - img "Shark PowerPro Turbo Başlıklı Şarjlı Dikey Süpürge"
+            - button "Favorilere Ekle" [ref=f10e705]
+          - generic [ref=f10e707]:
+            - heading "SharkResmi satıcı rozeti PowerPro Turbo Başlıklı Şarjlı Dikey Süpürge" [level=2] [ref=f10e708]:
+              - generic [ref=f10e709]:
+                - generic [ref=f10e710]:
+                  - text: Shark
+                  - img "Resmi satıcı rozeti" [ref=f10e711]
+                - generic [ref=f10e712]: PowerPro Turbo Başlıklı Şarjlı Dikey Süpürge
+            - generic [ref=f10e713]: 0 - 250 Watt
+            - generic [ref=f10e717]:
+              - generic [ref=f10e718]: "4.7"
+              - generic [ref=f10e740]: (46)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e741]
+            - generic [ref=f10e742]:
+              - generic [ref=f10e744]:
+                - paragraph [ref=f10e747]: Son 14 Günün En Düşük Fiyatı
+                - generic [ref=f10e748]: Kargo Bedava
+                - paragraph [ref=f10e755]: Son 14 Günün En Düşük Fiyatı
+              - generic [ref=f10e757]:
+                - paragraph [ref=f10e759]: "-%27"
+                - generic [ref=f10e760]: 12.999 TL
+                - generic [ref=f10e761]: 17.999 TL
+          - button "Sepete Ekle" [ref=f10e764]
+        - 'link "adornazzle Duvar Delmeden Tablo Askı Aparatı, Yapışkanlı Çivi, Eşyalar İçin P... Favorilere Ekle Flaş ürün ikonu Flaş Ürün 11 : 22 : 46 adornazzleResmi satıcı rozeti Duvar Delmeden Tablo Askı Aparatı, Yapışkanlı Çivi, Eşyalar İçin Pratik Montaj 3 Adet Plastik 4.2 (40) Değerlendirme fotoğrafları mevcut Kupon Fırsatı 29,45 TL (9,82 TL/adet) Sepete Ekle" [ref=f10e765] [cursor=pointer]':
+          - /url: /adornazzle/duvar-delmeden-tablo-aski-aparati-yapiskanli-civi-esyalar-icin-pratik-montaj-3-adet-p-1043872526?boutiqueId=61&merchantId=1024262
+          - generic [ref=f10e766]:
+            - generic:
+              - img "adornazzle Duvar Delmeden Tablo Askı Aparatı, Yapışkanlı Çivi, Eşyalar İçin P..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e772]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Flaş ürün ikonu"
+                    - generic: Flaş Ürün
+                  - generic:
+                    - generic: "11"
+                    - generic: ":"
+                    - generic: "22"
+                    - generic: ":"
+                    - generic: "46"
+          - generic [ref=f10e774]:
+            - heading "adornazzleResmi satıcı rozeti Duvar Delmeden Tablo Askı Aparatı, Yapışkanlı Çivi, Eşyalar İçin Pratik Montaj 3 Adet" [level=2] [ref=f10e775]:
+              - generic [ref=f10e776]:
+                - generic [ref=f10e777]:
+                  - text: adornazzle
+                  - img "Resmi satıcı rozeti" [ref=f10e778]
+                - generic [ref=f10e779]: Duvar Delmeden Tablo Askı Aparatı, Yapışkanlı Çivi, Eşyalar İçin Pratik Montaj 3 Adet
+            - generic [ref=f10e780]: Plastik
+            - generic [ref=f10e784]:
+              - generic [ref=f10e785]: "4.2"
+              - generic [ref=f10e807]: (40)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e808]
+            - generic [ref=f10e809]:
+              - generic [ref=f10e810]: Kupon Fırsatı
+              - generic [ref=f10e817]:
+                - generic [ref=f10e818]: 29,45 TL
+                - generic [ref=f10e819]:
+                  - generic [ref=f10e820]: (9,82 TL
+                  - generic [ref=f10e821]: /adet)
+          - button "Sepete Ekle" [ref=f10e824]
+        - link "Devecioğlu Harbinger MM395 EliteBoard Ütü Masası Favorilere Ekle En Çok Satan 1. Ürün DevecioğluResmi satıcı rozeti Harbinger MM395 EliteBoard Ütü Masası 4.6 (246) Değerlendirme fotoğrafları mevcut Kargo Bedava 1.339 TL Sepete Ekle" [ref=f10e825] [cursor=pointer]:
+          - /url: /devecioglu/harbinger-mm395-eliteboard-utu-masasi-p-1137859286?boutiqueId=61&merchantId=111730
+          - generic [ref=f10e826]:
+            - generic:
+              - img "Devecioğlu Harbinger MM395 EliteBoard Ütü Masası"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e832]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e834]:
+            - heading "DevecioğluResmi satıcı rozeti Harbinger MM395 EliteBoard Ütü Masası" [level=2] [ref=f10e835]:
+              - generic [ref=f10e836]:
+                - generic [ref=f10e837]:
+                  - text: Devecioğlu
+                  - img "Resmi satıcı rozeti" [ref=f10e838]
+                - generic [ref=f10e839]: Harbinger MM395 EliteBoard Ütü Masası
+            - generic [ref=f10e840]:
+              - generic [ref=f10e841]: "4.6"
+              - generic [ref=f10e863]: (246)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e864]
+            - generic [ref=f10e865]:
+              - generic [ref=f10e866]: Kargo Bedava
+              - generic [ref=f10e873]: 1.339 TL
+          - button "Sepete Ekle" [ref=f10e877]
+        - link "Shark PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey S... Favorilere Ekle Hızlı Teslimat SharkResmi satıcı rozeti PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey Süpürge 251 - 500 Watt 4.6 (319) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Son 10 Günün En Düşük Fiyatı -%9 29.999 TL 32.999 TL Sepete Ekle" [ref=f10e878] [cursor=pointer]:
+          - /url: /shark/powerdetect-clean-empty-auto-empty-sistemli-pet-baslikli-sarjli-dikey-supurge-p-917795722?boutiqueId=61&merchantId=1075287
+          - generic [ref=f10e879]:
+            - generic:
+              - img "Shark PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey S..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e885]
+              - generic: Hızlı Teslimat
+          - generic [ref=f10e887]:
+            - heading "SharkResmi satıcı rozeti PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey Süpürge" [level=2] [ref=f10e888]:
+              - generic [ref=f10e889]:
+                - generic [ref=f10e890]:
+                  - text: Shark
+                  - img "Resmi satıcı rozeti" [ref=f10e891]
+                - generic [ref=f10e892]: PowerDetect Clean&Empty Auto-Empty Sistemli Pet Başlıklı Şarjlı Dikey Süpürge
+            - generic [ref=f10e893]: 251 - 500 Watt
+            - generic [ref=f10e897]:
+              - generic [ref=f10e898]: "4.6"
+              - generic [ref=f10e920]: (319)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e921]
+            - generic [ref=f10e922]:
+              - generic [ref=f10e924]:
+                - paragraph [ref=f10e927]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f10e928]: Kargo Bedava
+                - paragraph [ref=f10e935]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f10e937]:
+                - paragraph [ref=f10e939]: "-%9"
+                - generic [ref=f10e940]: 29.999 TL
+                - generic [ref=f10e941]: 32.999 TL
+          - button "Sepete Ekle" [ref=f10e944]
+        - link "Hagen 6lı Kapı Arkası Askılık Banyo Askısı Duvar Askısı Elbise Kıyafet Askısı... Favorilere Ekle En Çok Satan 3. Ürün HagenResmi satıcı rozeti 6lı Kapı Arkası Askılık Banyo Askısı Duvar Askısı Elbise Kıyafet Askısı Premium Üretim 47 cm 20 cm 4.6 (1665) Değerlendirme fotoğrafları mevcut Kupon Fırsatı 199,90 TL Sepete Ekle" [ref=f10e945] [cursor=pointer]:
+          - /url: /hagen/6li-kapi-arkasi-askilik-banyo-askisi-duvar-askisi-elbise-kiyafet-askisi-premium-uretim-p-831620233?boutiqueId=61&merchantId=120834
+          - generic [ref=f10e946]:
+            - generic:
+              - img "Hagen 6lı Kapı Arkası Askılık Banyo Askısı Duvar Askısı Elbise Kıyafet Askısı..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e952]
+              - generic: En Çok Satan 3. Ürün
+          - generic [ref=f10e954]:
+            - heading "HagenResmi satıcı rozeti 6lı Kapı Arkası Askılık Banyo Askısı Duvar Askısı Elbise Kıyafet Askısı Premium Üretim" [level=2] [ref=f10e955]:
+              - generic [ref=f10e956]:
+                - generic [ref=f10e957]:
+                  - text: Hagen
+                  - img "Resmi satıcı rozeti" [ref=f10e958]
+                - generic [ref=f10e959]: 6lı Kapı Arkası Askılık Banyo Askısı Duvar Askısı Elbise Kıyafet Askısı Premium Üretim
+            - generic [ref=f10e961]:
+              - generic [ref=f10e962]: 47 cm
+              - generic [ref=f10e964]: 20 cm
+            - generic [ref=f10e966]:
+              - generic [ref=f10e967]: "4.6"
+              - generic [ref=f10e989]: (1665)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e990]
+            - generic [ref=f10e991]:
+              - generic [ref=f10e992]: Kupon Fırsatı
+              - generic [ref=f10e999]: 199,90 TL
+          - button "Sepete Ekle" [ref=f10e1003]
+        - link "Reidan Alarmlı Disk Kilidi Motorsiklet Martı Scooter Bisiklet Sesli Alarm 110... Favorilere Ekle En Çok Satan 1. Ürün Reidan Alarmlı Disk Kilidi Motorsiklet Martı Scooter Bisiklet Sesli Alarm 110 Desibel Yüksek Ses 4.4 (1542) Değerlendirme fotoğrafları mevcut Kargo Bedava 470 TL Sepete Ekle" [ref=f10e1004] [cursor=pointer]:
+          - /url: /reidan/alarmli-disk-kilidi-motorsiklet-marti-scooter-bisiklet-sesli-alarm-110-desibel-yuksek-ses-p-775423539?boutiqueId=61&merchantId=966865
+          - generic [ref=f10e1005]:
+            - generic:
+              - img "Reidan Alarmlı Disk Kilidi Motorsiklet Martı Scooter Bisiklet Sesli Alarm 110..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1011]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e1013]:
+            - heading "Reidan Alarmlı Disk Kilidi Motorsiklet Martı Scooter Bisiklet Sesli Alarm 110 Desibel Yüksek Ses" [level=2] [ref=f10e1014]:
+              - generic [ref=f10e1015]:
+                - text: Reidan
+                - generic [ref=f10e1016]: Alarmlı Disk Kilidi Motorsiklet Martı Scooter Bisiklet Sesli Alarm 110 Desibel Yüksek Ses
+            - generic [ref=f10e1017]:
+              - generic [ref=f10e1018]: "4.4"
+              - generic [ref=f10e1040]: (1542)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1041]
+            - generic [ref=f10e1042]:
+              - generic [ref=f10e1043]: Kargo Bedava
+              - generic [ref=f10e1050]: 470 TL
+          - button "Sepete Ekle" [ref=f10e1054]
+        - link "kosmo slim Göbek Bandı (Paket İçi 30 Adet) Favorilere Ekle En Çok Değerlendirilen 1. Ürün kosmo slim Göbek Bandı (Paket İçi 30 Adet) 3.7 (1515) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %20 İndirim Kargo Bedava 29 TL Kupon Sepet ikonu Sepette %20 İndirim Sepette 599,99 TL 749,99 TL Sepete Ekle" [ref=f10e1055] [cursor=pointer]:
+          - /url: /kosmo-slim/gobek-bandi-paket-ici-30-adet-p-926342015?boutiqueId=61&merchantId=116724
+          - generic [ref=f10e1056]:
+            - generic:
+              - img "kosmo slim Göbek Bandı (Paket İçi 30 Adet)"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1062]
+              - generic: En Çok Değerlendirilen 1. Ürün
+          - generic [ref=f10e1064]:
+            - heading "kosmo slim Göbek Bandı (Paket İçi 30 Adet)" [level=2] [ref=f10e1065]:
+              - generic [ref=f10e1066]:
+                - text: kosmo slim
+                - generic [ref=f10e1067]: Göbek Bandı (Paket İçi 30 Adet)
+            - generic [ref=f10e1068]:
+              - generic [ref=f10e1069]: "3.7"
+              - generic [ref=f10e1090]: (1515)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1091]
+            - generic [ref=f10e1092]:
+              - generic [ref=f10e1094]:
+                - generic [ref=f10e1096]:
+                  - img "Sepet ikonu" [ref=f10e1097]
+                  - generic [ref=f10e1098]: Sepette %20 İndirim
+                - generic [ref=f10e1099]: Kargo Bedava
+                - generic [ref=f10e1104]: 29 TL Kupon
+                - generic [ref=f10e1110]:
+                  - img "Sepet ikonu" [ref=f10e1111]
+                  - generic [ref=f10e1112]: Sepette %20 İndirim
+              - generic [ref=f10e1114]:
+                - generic [ref=f10e1115]: Sepette
+                - generic [ref=f10e1116]: 599,99 TL
+                - generic [ref=f10e1117]: 749,99 TL
+          - button "Sepete Ekle" [ref=f10e1120]
+        - link "KARTEYA Yapışkanlı 4 lü Siyah Uzun Havluluk Rulo Havluluk Wc Tuvalet Kağıtlık... Favorilere Ekle En Çok Ziyaret Edilen 1. Ürün KARTEYA Yapışkanlı 4 lü Siyah Uzun Havluluk Rulo Havluluk Wc Tuvalet Kağıtlık Yuvarlak Havluluk Set 4.4 (6782) Değerlendirme fotoğrafları mevcut Kupon Fırsatı 157,95 TL Sepete Ekle" [ref=f10e1121] [cursor=pointer]:
+          - /url: /karteya/yapiskanli-4-lu-siyah-uzun-havluluk-rulo-havluluk-wc-tuvalet-kagitlik-yuvarlak-havluluk-set-p-748165402?boutiqueId=61&merchantId=652389
+          - generic [ref=f10e1122]:
+            - generic:
+              - img "KARTEYA Yapışkanlı 4 lü Siyah Uzun Havluluk Rulo Havluluk Wc Tuvalet Kağıtlık..."
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1128]
+              - generic: En Çok Ziyaret Edilen 1. Ürün
+          - generic [ref=f10e1130]:
+            - heading "KARTEYA Yapışkanlı 4 lü Siyah Uzun Havluluk Rulo Havluluk Wc Tuvalet Kağıtlık Yuvarlak Havluluk Set" [level=2] [ref=f10e1131]:
+              - generic [ref=f10e1132]:
+                - text: KARTEYA
+                - generic [ref=f10e1133]: Yapışkanlı 4 lü Siyah Uzun Havluluk Rulo Havluluk Wc Tuvalet Kağıtlık Yuvarlak Havluluk Set
+            - generic [ref=f10e1134]:
+              - generic [ref=f10e1135]: "4.4"
+              - generic [ref=f10e1157]: (6782)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1158]
+            - generic [ref=f10e1159]:
+              - generic [ref=f10e1160]: Kupon Fırsatı
+              - generic [ref=f10e1167]: 157,95 TL
+          - button "Sepete Ekle" [ref=f10e1171]
+        - link "Antep Pazarı Salamura Tokat Bağ Yaprağı - 500g Favorilere Ekle Başarılı Satıcı Antep PazarıResmi satıcı rozeti Salamura Tokat Bağ Yaprağı - 500g 4.4 (90) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %45 İndirim Kupon Fırsatı Sepet ikonu Sepette %45 İndirim Sepette 315 TL 572,72 TL Sepete Ekle" [ref=f10e1172] [cursor=pointer]:
+          - /url: /antep-pazari/salamura-tokat-bag-yapragi-500g-p-1096457792?boutiqueId=61&merchantId=164437
+          - generic [ref=f10e1173]:
+            - generic:
+              - img "Antep Pazarı Salamura Tokat Bağ Yaprağı - 500g"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1179]
+              - generic: Başarılı Satıcı
+          - generic [ref=f10e1181]:
+            - heading "Antep PazarıResmi satıcı rozeti Salamura Tokat Bağ Yaprağı - 500g" [level=2] [ref=f10e1182]:
+              - generic [ref=f10e1183]:
+                - generic [ref=f10e1184]:
+                  - text: Antep Pazarı
+                  - img "Resmi satıcı rozeti" [ref=f10e1185]
+                - generic [ref=f10e1186]: Salamura Tokat Bağ Yaprağı - 500g
+            - generic [ref=f10e1187]:
+              - generic [ref=f10e1188]: "4.4"
+              - generic [ref=f10e1210]: (90)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1211]
+            - generic [ref=f10e1212]:
+              - generic [ref=f10e1214]:
+                - generic [ref=f10e1216]:
+                  - img "Sepet ikonu" [ref=f10e1217]
+                  - generic [ref=f10e1218]: Sepette %45 İndirim
+                - generic [ref=f10e1219]: Kupon Fırsatı
+                - generic [ref=f10e1225]:
+                  - img "Sepet ikonu" [ref=f10e1226]
+                  - generic [ref=f10e1227]: Sepette %45 İndirim
+              - generic [ref=f10e1229]:
+                - generic [ref=f10e1230]: Sepette
+                - generic [ref=f10e1231]: 315 TL
+                - generic [ref=f10e1232]: 572,72 TL
+          - button "Sepete Ekle" [ref=f10e1235]
+        - link "ANKARA KARTONPİYER Hazır Kartonpiyer Model Bl-04 (1 METRE) Favorilere Ekle En Çok Satan 8. Ürün ANKARA KARTONPİYER Hazır Kartonpiyer Model Bl-04 (1 METRE) 4.1 (135) Değerlendirme fotoğrafları mevcut 48,90 TL Sepete Ekle" [ref=f10e1236] [cursor=pointer]:
+          - /url: /ankara-kartonpiyer/hazir-kartonpiyer-model-bl-04-1-metre-p-361058272?boutiqueId=61&merchantId=439089
+          - generic [ref=f10e1237]:
+            - generic:
+              - img "ANKARA KARTONPİYER Hazır Kartonpiyer Model Bl-04 (1 METRE)"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1240]
+              - generic: En Çok Satan 8. Ürün
+          - generic [ref=f10e1242]:
+            - heading "ANKARA KARTONPİYER Hazır Kartonpiyer Model Bl-04 (1 METRE)" [level=2] [ref=f10e1243]:
+              - generic [ref=f10e1244]:
+                - text: ANKARA KARTONPİYER
+                - generic [ref=f10e1245]: Hazır Kartonpiyer Model Bl-04 (1 METRE)
+            - generic [ref=f10e1246]:
+              - generic [ref=f10e1247]: "4.1"
+              - generic [ref=f10e1269]: (135)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1270]
+            - generic [ref=f10e1271]: 48,90 TL
+          - button "Sepete Ekle" [ref=f10e1276]
+        - link "Genel Markalar Alüminyum Balkon Çamaşır Askısı Çamaşır Ipi Hediyeli Favorilere Ekle En Çok Satan 8. Ürün Genel Markalar Alüminyum Balkon Çamaşır Askısı Çamaşır Ipi Hediyeli 4.1 (2353) Değerlendirme fotoğrafları mevcut 2. Ürün %2 347,73 TL Sepete Ekle" [ref=f10e1277] [cursor=pointer]:
+          - /url: /genel-markalar/aluminyum-balkon-camasir-askisi-camasir-ipi-hediyeli-p-372604566?boutiqueId=61&merchantId=1224600
+          - generic [ref=f10e1278]:
+            - generic:
+              - img "Genel Markalar Alüminyum Balkon Çamaşır Askısı Çamaşır Ipi Hediyeli"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1283]
+              - generic: En Çok Satan 8. Ürün
+          - generic [ref=f10e1285]:
+            - heading "Genel Markalar Alüminyum Balkon Çamaşır Askısı Çamaşır Ipi Hediyeli" [level=2] [ref=f10e1286]:
+              - generic [ref=f10e1287]:
+                - text: Genel Markalar
+                - generic [ref=f10e1288]: Alüminyum Balkon Çamaşır Askısı Çamaşır Ipi Hediyeli
+            - generic [ref=f10e1289]:
+              - generic [ref=f10e1290]: "4.1"
+              - generic [ref=f10e1312]: (2353)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1313]
+            - generic [ref=f10e1314]:
+              - generic [ref=f10e1315]: 2. Ürün %2
+              - generic [ref=f10e1322]: 347,73 TL
+          - button "Sepete Ekle" [ref=f10e1326]
+        - link "perdemhome Mıknatıslı Perde Bağlama Aparat Aksesuarı Braçol ( 1 Adet) Favorilere Ekle En Çok Favorilenen 2. Ürün perdemhome Mıknatıslı Perde Bağlama Aparat Aksesuarı Braçol ( 1 Adet) Perde Tutucu 4.5 (1469) Değerlendirme fotoğrafları mevcut 83 TL Sepete Ekle" [ref=f10e1327] [cursor=pointer]:
+          - /url: /perdemhome/miknatisli-perde-baglama-aparat-aksesuari-bracol-1-adet-p-101163474?boutiqueId=61&merchantId=1172184
+          - generic [ref=f10e1328]:
+            - generic:
+              - img "perdemhome Mıknatıslı Perde Bağlama Aparat Aksesuarı Braçol ( 1 Adet)"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1331]
+              - generic: En Çok Favorilenen 2. Ürün
+          - generic [ref=f10e1333]:
+            - heading "perdemhome Mıknatıslı Perde Bağlama Aparat Aksesuarı Braçol ( 1 Adet)" [level=2] [ref=f10e1334]:
+              - generic [ref=f10e1335]:
+                - text: perdemhome
+                - generic [ref=f10e1336]: Mıknatıslı Perde Bağlama Aparat Aksesuarı Braçol ( 1 Adet)
+            - generic [ref=f10e1337]: Perde Tutucu
+            - generic [ref=f10e1341]:
+              - generic [ref=f10e1342]: "4.5"
+              - generic [ref=f10e1364]: (1469)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1365]
+            - generic [ref=f10e1366]: 83 TL
+          - button "Sepete Ekle" [ref=f10e1371]
+        - link "Fantom Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit Favorilere Ekle En Çok Satan 1. Ürün FANTOMResmi satıcı rozeti Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit 501 - 1000 Watt 4.6 (38632) Değerlendirme fotoğrafları mevcut Kargo Bedava 2.254,40 TL Sepete Ekle" [ref=f10e1372] [cursor=pointer]:
+          - /url: /fantom/pratic-s-p1200-toz-torbasiz-dikey-supurge-antrasit-p-35509789?boutiqueId=61&merchantId=4591
+          - generic [ref=f10e1373]:
+            - generic:
+              - img "Fantom Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit"
+            - generic:
+              - button "Favorilere Ekle" [ref=f10e1379]
+              - generic: En Çok Satan 1. Ürün
+          - generic [ref=f10e1381]:
+            - heading "FANTOMResmi satıcı rozeti Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit" [level=2] [ref=f10e1382]:
+              - generic [ref=f10e1383]:
+                - generic [ref=f10e1384]:
+                  - text: FANTOM
+                  - img "Resmi satıcı rozeti" [ref=f10e1385]
+                - generic [ref=f10e1386]: Pratıc-S P1200 Toz Torbasız Dikey Süpürge Antrasit
+            - generic [ref=f10e1387]: 501 - 1000 Watt
+            - generic [ref=f10e1391]:
+              - generic [ref=f10e1392]: "4.6"
+              - generic [ref=f10e1414]: (38632)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f10e1415]
+            - generic [ref=f10e1416]:
+              - generic [ref=f10e1417]: Kargo Bedava
+              - generic [ref=f10e1424]: 2.254,40 TL
+          - button "Sepete Ekle" [ref=f10e1428]
+      - button "Yukarı çık"
+  - contentinfo [ref=f10e1546]:
+    - img "Group 2" [ref=f10e1548]
+    - generic [ref=f10e1553]:
+      - generic [ref=f10e1555]:
+        - generic [ref=f10e1556]:
+          - generic [ref=f10e1557]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f10e1562] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f10e1564] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f10e1566] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f10e1568] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f10e1570] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f10e1571]:
+          - generic [ref=f10e1572]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f10e1577] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f10e1579] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f10e1581] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f10e1582]:
+          - link "Satıcı" [ref=f10e1585] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f10e1589] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f10e1591] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f10e1593] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f10e1594]:
+          - generic [ref=f10e1595]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f10e1600] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f10e1602] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f10e1604] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f10e1606] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f10e1607]:
+          - generic [ref=f10e1608]:
+            - link "Ülke Değiştir" [ref=f10e1611] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f10e1612] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f10e1613]
+              - generic [ref=f10e1614]: Ülke Seç
+          - generic [ref=f10e1615]: Güvenli Alışveriş
+          - generic [ref=f10e1619]:
+            - generic [ref=f10e1620]: Güvenlik Sertifikası
+            - generic [ref=f10e1622]:
+              - link [ref=f10e1623] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f10e1625]
+              - link [ref=f10e1626] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f10e1628]
+              - img "PCI DSS" [ref=f10e1630]
+              - img "information security standard" [ref=f10e1632]
+      - generic [ref=f10e1635]:
+        - generic [ref=f10e1636]:
+          - generic [ref=f10e1637]:
+            - link "instagram-icon" [ref=f10e1638] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f10e1639]
+            - link "tiktok-icon" [ref=f10e1640] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f10e1641]
+            - link "youtube-icon" [ref=f10e1642] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f10e1643]
+            - link "facebook-icon" [ref=f10e1644] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f10e1645]
+            - link "x-icon" [ref=f10e1646] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f10e1647]
+          - generic [ref=f10e1648]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f10e1649]:
+          - generic [ref=f10e1650]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f10e1651]:
+            - link "Çerez Tercihleri" [ref=f10e1652] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f10e1653] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f10e1654] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f10e1655] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."

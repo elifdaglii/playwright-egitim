@@ -1,0 +1,1097 @@
+- generic [active] [ref=f6e1]:
+  - complementary "Görsel asistan yazılımını açın.":
+    - link "Görsel asistan yazılımını açın. ALT + 1 üzerinden klavye ile erişilebilir" [ref=f6e1673]:
+      - /url: javascript:EyeAbleAPI.toggleToolbar()
+  - banner [ref=f6e2]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7] [cursor=pointer]:
+        - button "Menu" [ref=f6e8]
+        - link "Trendyol" [ref=f6e10]:
+          - /url: /
+      - button "Search icon Ürün, kategori veya marka ara" [ref=f6e14]:
+        - img "Search icon" [ref=f6e15]
+        - generic [ref=f6e16]: Ürün, kategori veya marka ara
+      - generic [ref=f6e17]:
+        - link "Giriş Yap" [ref=f6e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fwc%3D109460%2C109459%2C109461%2C104034
+        - link "Favorilerim" [ref=f6e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f6e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f6e30]:
+    - generic [ref=f6e35]:
+      - generic [ref=f6e36]:
+        - generic [ref=f6e38]:
+          - heading "Apple" [level=1] [ref=f6e2176]
+          - generic [ref=f6e39]: 1010+ Ürün
+        - generic [ref=f6e40]:
+          - generic [ref=f6e1676]:
+            - button "Yüksek Puanlı Ürünler" [ref=f6e2177] [cursor=pointer]
+            - button "Yüksek Puanlı Satıcılar" [ref=f6e2179] [cursor=pointer]
+            - button "Kargo Bedava" [ref=f6e2181] [cursor=pointer]
+            - button "Hızlı Teslimat" [ref=f6e2183] [cursor=pointer]
+            - button "Bugün Kargoda" [ref=f6e2185] [cursor=pointer]
+          - button "En Düşük Fiyat sıralama" [ref=f6e4159] [cursor=pointer]:
+            - generic [ref=f6e50]: En Düşük Fiyat
+            - img "sıralama" [ref=f6e51]
+        - generic [ref=f6e54]:
+          - link "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite 🧡 2B kişi favoriledi! 4.2 (37) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava Kupon Fırsatı Sepet ikonu Sepette %5 indirim Sepette 7.095,55 TL 7.469 TL Sepete Ekle" [ref=f6e4160] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-64-gb-siyah-cep-telefonu-12-ay-garantili-c-kalite-p-846879815?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4161]:
+              - img "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ..." [ref=f6e4163]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e4168]
+            - generic [ref=f6e4170]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite" [level=2] [ref=f6e4171]:
+                - generic [ref=f6e4172]:
+                  - generic [ref=f6e4173]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4174]
+                  - generic [ref=f6e4175]: Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite
+              - generic [ref=f6e4179]:
+                - generic [ref=f6e4180]: 🧡
+                - generic [ref=f6e4181]: 2B kişi favoriledi!
+              - generic [ref=f6e4182]:
+                - generic [ref=f6e4183]: "4.2"
+                - generic [ref=f6e4205]: (37)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4206]
+              - generic [ref=f6e4207]:
+                - generic [ref=f6e4209]:
+                  - generic [ref=f6e4211]:
+                    - img "Sepet ikonu" [ref=f6e4212]
+                    - generic [ref=f6e4213]: Sepette %5 indirim
+                  - generic [ref=f6e4214]: Kargo Bedava
+                  - generic [ref=f6e4219]: Kupon Fırsatı
+                  - generic [ref=f6e4225]:
+                    - img "Sepet ikonu" [ref=f6e4226]
+                    - generic [ref=f6e4227]: Sepette %5 indirim
+                - generic [ref=f6e4229]:
+                  - generic [ref=f6e4230]: Sepette
+                  - generic [ref=f6e4231]: 7.095,55 TL
+                  - generic [ref=f6e4232]: 7.469 TL
+            - button "Sepete Ekle" [ref=f6e4235]
+          - link "Apple Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle Hızlı önizleme 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 1,1B kişi favoriledi! 4.1 (10) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 7.469 TL Sepete Ekle" [ref=f6e4236] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-64-gb-beyaz-cep-telefonu-12-ay-garantili-b-kalite-p-689223712?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4237]:
+              - img "Apple Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - ..." [ref=f6e4239]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4242]
+                    - generic:
+                      - button "Hızlı önizleme" [ref=f6e4244]:
+                        - generic [ref=f6e4246]: Hızlı Bakış
+                      - button "2 renk seçeneği" [ref=f6e4247]:
+                        - generic [ref=f6e4249]: "2"
+            - generic [ref=f6e4250]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4251]:
+                - generic [ref=f6e4252]:
+                  - generic [ref=f6e4253]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4254]
+                  - generic [ref=f6e4255]: Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e4259]:
+                - generic [ref=f6e4260]: 🧡
+                - generic [ref=f6e4261]: 1,1B kişi favoriledi!
+              - generic [ref=f6e4262]:
+                - generic [ref=f6e4263]: "4.1"
+                - generic [ref=f6e4285]: (10)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4286]
+              - generic [ref=f6e4287]:
+                - generic [ref=f6e4289]:
+                  - generic [ref=f6e4290]: Kargo Bedava
+                  - generic [ref=f6e4295]: Kupon Fırsatı
+                  - generic [ref=f6e4300]: Kargo Bedava
+                - generic [ref=f6e4305]: 7.469 TL
+            - button "Sepete Ekle" [ref=f6e4309]
+          - link "Apple Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 3,5B kişi favoriledi! 3.7 (47) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava Kupon Fırsatı Sepet ikonu Sepette %5 indirim Sepette 7.475,55 TL 7.869 TL Sepete Ekle" [ref=f6e4310] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-64-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-689225100?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4311]:
+              - img "Apple Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - ..." [ref=f6e4313]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4317]
+                    - button "2 renk seçeneği" [ref=f6e4319]:
+                      - generic [ref=f6e4321]: "2"
+            - generic [ref=f6e4322]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e4323]:
+                - generic [ref=f6e4324]:
+                  - generic [ref=f6e4325]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4326]
+                  - generic [ref=f6e4327]: Yenilenmiş iPhone Se 2020 64 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e4331]:
+                - generic [ref=f6e4332]: 🧡
+                - generic [ref=f6e4333]: 3,5B kişi favoriledi!
+              - generic [ref=f6e4334]:
+                - generic [ref=f6e4335]: "3.7"
+                - generic [ref=f6e4356]: (47)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4357]
+              - generic [ref=f6e4358]:
+                - generic [ref=f6e4360]:
+                  - generic [ref=f6e4362]:
+                    - img "Sepet ikonu" [ref=f6e4363]
+                    - generic [ref=f6e4364]: Sepette %5 indirim
+                  - generic [ref=f6e4365]: Kargo Bedava
+                  - generic [ref=f6e4370]: Kupon Fırsatı
+                  - generic [ref=f6e4376]:
+                    - img "Sepet ikonu" [ref=f6e4377]
+                    - generic [ref=f6e4378]: Sepette %5 indirim
+                - generic [ref=f6e4380]:
+                  - generic [ref=f6e4381]: Sepette
+                  - generic [ref=f6e4382]: 7.475,55 TL
+                  - generic [ref=f6e4383]: 7.869 TL
+            - button "Sepete Ekle" [ref=f6e4386]
+          - link "Apple Yenilenmiş iPhone 8 Plus 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B... Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone 8 Plus 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 1,2B kişi favoriledi! 3.1 (18) Değerlendirme fotoğrafları mevcut Kargo Bedava 750 TL Kupon Kargo Bedava 7.669 TL Sepete Ekle" [ref=f6e4387] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-8-plus-64-gb-gumus-cep-telefonu-12-ay-garantili-b-kalite-p-689223573?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4388]:
+              - img "Apple Yenilenmiş iPhone 8 Plus 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B..." [ref=f6e4390]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4393]
+                    - button "2 renk seçeneği" [ref=f6e4395]:
+                      - generic [ref=f6e4397]: "2"
+            - generic [ref=f6e4398]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 8 Plus 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4399]:
+                - generic [ref=f6e4400]:
+                  - generic [ref=f6e4401]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4402]
+                  - generic [ref=f6e4403]: Yenilenmiş iPhone 8 Plus 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e4407]:
+                - generic [ref=f6e4408]: 🧡
+                - generic [ref=f6e4409]: 1,2B kişi favoriledi!
+              - generic [ref=f6e4410]:
+                - generic [ref=f6e4411]: "3.1"
+                - generic [ref=f6e4432]: (18)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4433]
+              - generic [ref=f6e4434]:
+                - generic [ref=f6e4436]:
+                  - generic [ref=f6e4437]: Kargo Bedava
+                  - generic [ref=f6e4442]: 750 TL Kupon
+                  - generic [ref=f6e4447]: Kargo Bedava
+                - generic [ref=f6e4452]: 7.669 TL
+            - button "Sepete Ekle" [ref=f6e4456]
+          - link "Apple Yenilenmiş iPhone 8 Plus 128 GB Uzay Grisi Cep Telefonu (12 Ay Garantil... Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone 8 Plus 128 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 1,9B kişi favoriledi! 3.0 (20) Değerlendirme fotoğrafları mevcut Kargo Bedava 750 TL Kupon Kargo Bedava 7.979 TL Sepete Ekle" [ref=f6e4457] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-8-plus-128-gb-uzay-grisi-cep-telefonu-12-ay-garantili-b-kalite-p-689222843?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4458]:
+              - img "Apple Yenilenmiş iPhone 8 Plus 128 GB Uzay Grisi Cep Telefonu (12 Ay Garantil..." [ref=f6e4460]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4463]
+                    - button "2 renk seçeneği" [ref=f6e4465]:
+                      - generic [ref=f6e4467]: "2"
+            - generic [ref=f6e4468]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 8 Plus 128 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4469]:
+                - generic [ref=f6e4470]:
+                  - generic [ref=f6e4471]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4472]
+                  - generic [ref=f6e4473]: Yenilenmiş iPhone 8 Plus 128 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e4477]:
+                - generic [ref=f6e4478]: 🧡
+                - generic [ref=f6e4479]: 1,9B kişi favoriledi!
+              - generic [ref=f6e4480]:
+                - generic [ref=f6e4481]: "3.0"
+                - generic [ref=f6e4501]: (20)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4502]
+              - generic [ref=f6e4503]:
+                - generic [ref=f6e4505]:
+                  - generic [ref=f6e4506]: Kargo Bedava
+                  - generic [ref=f6e4511]: 750 TL Kupon
+                  - generic [ref=f6e4516]: Kargo Bedava
+                - generic [ref=f6e4521]: 7.979 TL
+            - button "Sepete Ekle" [ref=f6e4525]
+          - link "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle 2 renk seçeneği Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 1,7B kişi favoriledi! 3.6 (61) Değerlendirme fotoğrafları mevcut Kargo Bedava 500 TL Kupon Kargo Bedava 7.999 TL Sepete Ekle" [ref=f6e4526] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-64-gb-siyah-cep-telefonu-12-ay-garantili-a-kalite-p-689225161?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e4527]:
+              - img "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ..." [ref=f6e4529]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4532]
+                    - button "2 renk seçeneği" [ref=f6e4534]:
+                      - generic [ref=f6e4536]: "2"
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e4537]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e4538]:
+                - generic [ref=f6e4539]:
+                  - generic [ref=f6e4540]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4541]
+                  - generic [ref=f6e4542]: Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e4546]:
+                - generic [ref=f6e4547]: 🧡
+                - generic [ref=f6e4548]: 1,7B kişi favoriledi!
+              - generic [ref=f6e4549]:
+                - generic [ref=f6e4550]: "3.6"
+                - generic [ref=f6e4571]: (61)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4572]
+              - generic [ref=f6e4573]:
+                - generic [ref=f6e4575]:
+                  - generic [ref=f6e4576]: Kargo Bedava
+                  - generic [ref=f6e4581]: 500 TL Kupon
+                  - generic [ref=f6e4586]: Kargo Bedava
+                - generic [ref=f6e4591]: 7.999 TL
+            - button "Sepete Ekle" [ref=f6e4595]
+          - link "Apple Yenilenmiş iPhone Se 2020 128 GB Beyaz Cep Telefonu (12 Ay Garantili) -... Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 2.3 (6) Değerlendirme fotoğrafları mevcut Sepet ikonu Net 400 TL İndirim Kargo Bedava 500 TL Kupon Sepet ikonu Net 400 TL İndirim Sepette 8.393,86 TL 8.793,86 TL Sepete Ekle" [ref=f6e4596] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-128-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-897402325?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e4597]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se 2020 128 GB Beyaz Cep Telefonu (12 Ay Garantili) -..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e4602]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e4604]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e4605]:
+                - generic [ref=f6e4606]:
+                  - generic [ref=f6e4607]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4608]
+                  - generic [ref=f6e4609]: Yenilenmiş iPhone Se 2020 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e4610]: A seviye-Mükemmel
+              - generic [ref=f6e4614]:
+                - generic [ref=f6e4615]: "2.3"
+                - generic [ref=f6e4635]: (6)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4636]
+              - generic [ref=f6e4637]:
+                - generic [ref=f6e4639]:
+                  - generic [ref=f6e4641]:
+                    - img "Sepet ikonu" [ref=f6e4642]
+                    - generic [ref=f6e4643]: Net 400 TL İndirim
+                  - generic [ref=f6e4644]: Kargo Bedava
+                  - generic [ref=f6e4649]: 500 TL Kupon
+                  - generic [ref=f6e4655]:
+                    - img "Sepet ikonu" [ref=f6e4656]
+                    - generic [ref=f6e4657]: Net 400 TL İndirim
+                - generic [ref=f6e4659]:
+                  - generic [ref=f6e4660]: Sepette
+                  - generic [ref=f6e4661]: 8.393,86 TL
+                  - generic [ref=f6e4662]: 8.793,86 TL
+            - button "Sepete Ekle" [ref=f6e4665]
+          - link "Apple Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite Damga Favorilere Ekle 3 renk seçeneği Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 1,4B kişi favoriledi! 2.8 (20) Değerlendirme fotoğrafları mevcut Kargo Bedava 500 TL Kupon Kargo Bedava 8.499 TL Sepete Ekle" [ref=f6e4666] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xr-64-gb-siyah-cep-telefonu-12-ay-garantili-a-kalite-p-689225163?boutiqueId=61&merchantId=414188
+            - generic [ref=f6e4667]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4673]
+                    - button "3 renk seçeneği" [ref=f6e4675]:
+                      - generic [ref=f6e4677]: "3"
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e4678]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e4679]:
+                - generic [ref=f6e4680]:
+                  - generic [ref=f6e4681]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4682]
+                  - generic [ref=f6e4683]: Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e4687]:
+                - generic [ref=f6e4688]: 🧡
+                - generic [ref=f6e4689]: 1,4B kişi favoriledi!
+              - generic [ref=f6e4690]:
+                - generic [ref=f6e4691]: "2.8"
+                - generic [ref=f6e4711]: (20)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4712]
+              - generic [ref=f6e4713]:
+                - generic [ref=f6e4715]:
+                  - generic [ref=f6e4716]: Kargo Bedava
+                  - generic [ref=f6e4721]: 500 TL Kupon
+                  - generic [ref=f6e4726]: Kargo Bedava
+                - generic [ref=f6e4731]: 8.499 TL
+            - button "Sepete Ekle" [ref=f6e4735]
+          - link "Apple Yenilenmiş iPhone Se 2020 128 GB Siyah Cep Telefonu (12 Ay Garantili) -... Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 324 kişi favoriledi! 4.1 (11) Kargo Bedava 750 TL Kupon Kargo Bedava 8.579 TL Sepete Ekle" [ref=f6e4736] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-128-gb-siyah-cep-telefonu-12-ay-garantili-b-kalite-p-689226221?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4737]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se 2020 128 GB Siyah Cep Telefonu (12 Ay Garantili) -..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4740]
+                    - button "2 renk seçeneği" [ref=f6e4742]:
+                      - generic [ref=f6e4744]: "2"
+            - generic [ref=f6e4745]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4746]:
+                - generic [ref=f6e4747]:
+                  - generic [ref=f6e4748]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4749]
+                  - generic [ref=f6e4750]: Yenilenmiş iPhone Se 2020 128 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e4754]:
+                - generic [ref=f6e4755]: 🧡
+                - generic [ref=f6e4756]: 324 kişi favoriledi!
+              - generic [ref=f6e4757]:
+                - generic [ref=f6e4758]: "4.1"
+                - generic [ref=f6e4780]: (11)
+              - generic [ref=f6e4781]:
+                - generic [ref=f6e4783]:
+                  - generic [ref=f6e4784]: Kargo Bedava
+                  - generic [ref=f6e4789]: 750 TL Kupon
+                  - generic [ref=f6e4794]: Kargo Bedava
+                - generic [ref=f6e4799]: 8.579 TL
+            - button "Sepete Ekle" [ref=f6e4803]
+          - link "Apple ıPhone SE 2020 128GB B Grade Yenilenmiş Cep Telefonu (12 Ay Garantili) Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti ıPhone SE 2020 128GB B Grade Yenilenmiş Cep Telefonu (12 Ay Garantili) C seviye-İyi Kargo Bedava 750 TL Kupon Kargo Bedava 8.579 TL Sepete Ekle" [ref=f6e4804] [cursor=pointer]:
+            - /url: /apple/iphone-se-2020-128gb-b-grade-yenilenmis-cep-telefonu-12-ay-garantili-p-689222787?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4805]:
+              - generic:
+                - img "Apple ıPhone SE 2020 128GB B Grade Yenilenmiş Cep Telefonu (12 Ay Garantili)"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4811]
+                    - button "2 renk seçeneği" [ref=f6e4813]:
+                      - generic [ref=f6e4815]: "2"
+            - generic [ref=f6e4816]:
+              - heading "AppleResmi satıcı rozeti ıPhone SE 2020 128GB B Grade Yenilenmiş Cep Telefonu (12 Ay Garantili)" [level=2] [ref=f6e4817]:
+                - generic [ref=f6e4818]:
+                  - generic [ref=f6e4819]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4820]
+                  - generic [ref=f6e4821]: ıPhone SE 2020 128GB B Grade Yenilenmiş Cep Telefonu (12 Ay Garantili)
+              - generic [ref=f6e4822]: C seviye-İyi
+              - generic [ref=f6e4826]:
+                - generic [ref=f6e4828]:
+                  - generic [ref=f6e4829]: Kargo Bedava
+                  - generic [ref=f6e4834]: 750 TL Kupon
+                  - generic [ref=f6e4839]: Kargo Bedava
+                - generic [ref=f6e4844]: 8.579 TL
+            - button "Sepete Ekle" [ref=f6e4848]
+          - link "Apple Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 4,3B kişi favoriledi! 3.5 (66) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 8.729,55 TL 9.189 TL Sepete Ekle" [ref=f6e4849] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xr-64-gb-siyah-cep-telefonu-12-ay-garantili-b-kalite-p-689223281?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e4850]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4853]
+                    - button "2 renk seçeneği" [ref=f6e4855]:
+                      - generic [ref=f6e4857]: "2"
+            - generic [ref=f6e4858]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4859]:
+                - generic [ref=f6e4860]:
+                  - generic [ref=f6e4861]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4862]
+                  - generic [ref=f6e4863]: Yenilenmiş iPhone XR 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e4867]:
+                - generic [ref=f6e4868]: 🧡
+                - generic [ref=f6e4869]: 4,3B kişi favoriledi!
+              - generic [ref=f6e4870]:
+                - generic [ref=f6e4871]: "3.5"
+                - generic [ref=f6e4892]: (66)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4893]
+              - generic [ref=f6e4894]:
+                - generic [ref=f6e4896]:
+                  - generic [ref=f6e4898]:
+                    - img "Sepet ikonu" [ref=f6e4899]
+                    - generic [ref=f6e4900]: Sepette %5 indirim
+                  - generic [ref=f6e4901]: Kargo Bedava
+                  - generic [ref=f6e4906]: 750 TL Kupon
+                  - generic [ref=f6e4912]:
+                    - img "Sepet ikonu" [ref=f6e4913]
+                    - generic [ref=f6e4914]: Sepette %5 indirim
+                - generic [ref=f6e4916]:
+                  - generic [ref=f6e4917]: Sepette
+                  - generic [ref=f6e4918]: 8.729,55 TL
+                  - generic [ref=f6e4919]: 9.189 TL
+            - button "Sepete Ekle" [ref=f6e4922]
+          - link "Apple Yenilenmiş iPhone XR 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka... Damga Favorilere Ekle 3 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone XR 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 1,2B kişi favoriledi! 3.4 (9) Değerlendirme fotoğrafları mevcut Kargo Bedava 500 TL Kupon Kargo Bedava 8.999 TL Sepete Ekle" [ref=f6e4923] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xr-128-gb-beyaz-cep-telefonu-12-ay-garantili-a-kalite-p-689227346?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e4924]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone XR 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e4927]
+                    - button "3 renk seçeneği" [ref=f6e4929]:
+                      - generic [ref=f6e4931]: "3"
+            - generic [ref=f6e4932]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone XR 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e4933]:
+                - generic [ref=f6e4934]:
+                  - generic [ref=f6e4935]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e4936]
+                  - generic [ref=f6e4937]: Yenilenmiş iPhone XR 128 GB Beyaz Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e4941]:
+                - generic [ref=f6e4942]: 🧡
+                - generic [ref=f6e4943]: 1,2B kişi favoriledi!
+              - generic [ref=f6e4944]:
+                - generic [ref=f6e4945]: "3.4"
+                - generic [ref=f6e4966]: (9)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e4967]
+              - generic [ref=f6e4968]:
+                - generic [ref=f6e4970]:
+                  - generic [ref=f6e4971]: Kargo Bedava
+                  - generic [ref=f6e4976]: 500 TL Kupon
+                  - generic [ref=f6e4981]: Kargo Bedava
+                - generic [ref=f6e4986]: 8.999 TL
+            - button "Sepete Ekle" [ref=f6e4990]
+          - link "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 3.0 (1) Değerlendirme fotoğrafları mevcut Kargo Bedava 500 TL Kupon Kargo Bedava 8.999 TL Sepete Ekle" [ref=f6e4991] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-64-gb-siyah-cep-telefonu-12-ay-garantili-b-kalite-p-780560888?boutiqueId=61&merchantId=992531
+            - generic [ref=f6e4992]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - ..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e4995]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e4997]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e4998]:
+                - generic [ref=f6e4999]:
+                  - generic [ref=f6e5000]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5001]
+                  - generic [ref=f6e5002]: Yenilenmiş iPhone Se 2020 64 GB Siyah Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5003]: B seviye-Çok İyi
+              - generic [ref=f6e5007]:
+                - generic [ref=f6e5008]: "3.0"
+                - generic [ref=f6e5028]: (1)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5029]
+              - generic [ref=f6e5030]:
+                - generic [ref=f6e5032]:
+                  - generic [ref=f6e5033]: Kargo Bedava
+                  - generic [ref=f6e5038]: 500 TL Kupon
+                  - generic [ref=f6e5043]: Kargo Bedava
+                - generic [ref=f6e5048]: 8.999 TL
+            - button "Sepete Ekle" [ref=f6e5052]
+          - link "Apple Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 14B kişi favoriledi! 3.6 (106) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 9.299,55 TL 9.789 TL Sepete Ekle" [ref=f6e5053] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-x-64-gb-gumus-cep-telefonu-12-ay-garantili-b-kalite-p-689214692?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e5054]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5057]
+            - generic [ref=f6e5059]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5060]:
+                - generic [ref=f6e5061]:
+                  - generic [ref=f6e5062]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5063]
+                  - generic [ref=f6e5064]: Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5068]:
+                - generic [ref=f6e5069]: 🧡
+                - generic [ref=f6e5070]: 14B kişi favoriledi!
+              - generic [ref=f6e5071]:
+                - generic [ref=f6e5072]: "3.6"
+                - generic [ref=f6e5093]: (106)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5094]
+              - generic [ref=f6e5095]:
+                - generic [ref=f6e5097]:
+                  - generic [ref=f6e5099]:
+                    - img "Sepet ikonu" [ref=f6e5100]
+                    - generic [ref=f6e5101]: Sepette %5 indirim
+                  - generic [ref=f6e5102]: Kargo Bedava
+                  - generic [ref=f6e5107]: 750 TL Kupon
+                  - generic [ref=f6e5113]:
+                    - img "Sepet ikonu" [ref=f6e5114]
+                    - generic [ref=f6e5115]: Sepette %5 indirim
+                - generic [ref=f6e5117]:
+                  - generic [ref=f6e5118]: Sepette
+                  - generic [ref=f6e5119]: 9.299,55 TL
+                  - generic [ref=f6e5120]: 9.789 TL
+            - button "Sepete Ekle" [ref=f6e5123]
+          - link "Apple Yenilenmiş iPhone Se 2020 128 GB Kırmızı Cep Telefonu (12 Ay Garantili)... Damga Favorilere Ekle Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi 3.0 (1) Kargo Bedava 500 TL Kupon Kargo Bedava 9.499 TL Sepete Ekle" [ref=f6e5124] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2020-128-gb-kirmizi-cep-telefonu-12-ay-garantili-b-kalite-p-890460328?boutiqueId=61&merchantId=992531
+            - generic [ref=f6e5125]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se 2020 128 GB Kırmızı Cep Telefonu (12 Ay Garantili)..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5130]
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e5132]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se 2020 128 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5133]:
+                - generic [ref=f6e5134]:
+                  - generic [ref=f6e5135]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5136]
+                  - generic [ref=f6e5137]: Yenilenmiş iPhone Se 2020 128 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5138]: B seviye-Çok İyi
+              - generic [ref=f6e5142]:
+                - generic [ref=f6e5143]: "3.0"
+                - generic [ref=f6e5163]: (1)
+              - generic [ref=f6e5164]:
+                - generic [ref=f6e5166]:
+                  - generic [ref=f6e5167]: Kargo Bedava
+                  - generic [ref=f6e5172]: 500 TL Kupon
+                  - generic [ref=f6e5177]: Kargo Bedava
+                - generic [ref=f6e5182]: 9.499 TL
+            - button "Sepete Ekle" [ref=f6e5186]
+          - link "Apple Yenilenmiş iPhone Se (2. Nesil) Siyah 64 GB Cep Telefonu (12 Ay Garanti... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Se (2. Nesil) Siyah 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi Kargo Bedava 9.699 TL Sepete Ekle" [ref=f6e5187] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2-nesil-siyah-64-gb-cep-telefonu-12-ay-garantili-b-kalite-p-840085329?boutiqueId=61&merchantId=848995
+            - generic [ref=f6e5188]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se (2. Nesil) Siyah 64 GB Cep Telefonu (12 Ay Garanti..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5194]
+            - generic [ref=f6e5196]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se (2. Nesil) Siyah 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5197]:
+                - generic [ref=f6e5198]:
+                  - generic [ref=f6e5199]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5200]
+                  - generic [ref=f6e5201]: Yenilenmiş iPhone Se (2. Nesil) Siyah 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5202]: B seviye-Çok İyi
+              - generic [ref=f6e5206]:
+                - generic [ref=f6e5207]: Kargo Bedava
+                - generic [ref=f6e5214]: 9.699 TL
+            - button "Sepete Ekle" [ref=f6e5218]
+          - link "Apple Yenilenmiş iPhone Se (2. Nesil) Beyaz 64 GB Cep Telefonu (12 Ay Garanti... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Se (2. Nesil) Beyaz 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite B seviye-Çok İyi Kargo Bedava 9.699 TL Sepete Ekle" [ref=f6e5219] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-se-2-nesil-beyaz-64-gb-cep-telefonu-12-ay-garantili-b-kalite-p-815695258?boutiqueId=61&merchantId=848995
+            - generic [ref=f6e5220]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Se (2. Nesil) Beyaz 64 GB Cep Telefonu (12 Ay Garanti..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5226]
+            - generic [ref=f6e5228]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Se (2. Nesil) Beyaz 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5229]:
+                - generic [ref=f6e5230]:
+                  - generic [ref=f6e5231]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5232]
+                  - generic [ref=f6e5233]: Yenilenmiş iPhone Se (2. Nesil) Beyaz 64 GB Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5234]: B seviye-Çok İyi
+              - generic [ref=f6e5238]:
+                - generic [ref=f6e5239]: Kargo Bedava
+                - generic [ref=f6e5246]: 9.699 TL
+            - button "Sepete Ekle" [ref=f6e5250]
+          - link "Apple Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - A Kalite Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 13,9B kişi favoriledi! 3.8 (109) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 9.784,05 TL 10.299 TL Sepete Ekle" [ref=f6e5251] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-x-64-gb-gumus-cep-telefonu-12-ay-garantili-a-kalite-p-689226938?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e5252]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e5255]
+                    - button "2 renk seçeneği" [ref=f6e5257]:
+                      - generic [ref=f6e5259]: "2"
+            - generic [ref=f6e5260]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e5261]:
+                - generic [ref=f6e5262]:
+                  - generic [ref=f6e5263]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5264]
+                  - generic [ref=f6e5265]: Yenilenmiş iPhone X 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e5269]:
+                - generic [ref=f6e5270]: 🧡
+                - generic [ref=f6e5271]: 13,9B kişi favoriledi!
+              - generic [ref=f6e5272]:
+                - generic [ref=f6e5273]: "3.8"
+                - generic [ref=f6e5294]: (109)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5295]
+              - generic [ref=f6e5296]:
+                - generic [ref=f6e5298]:
+                  - generic [ref=f6e5300]:
+                    - img "Sepet ikonu" [ref=f6e5301]
+                    - generic [ref=f6e5302]: Sepette %5 indirim
+                  - generic [ref=f6e5303]: Kargo Bedava
+                  - generic [ref=f6e5308]: 750 TL Kupon
+                  - generic [ref=f6e5314]:
+                    - img "Sepet ikonu" [ref=f6e5315]
+                    - generic [ref=f6e5316]: Sepette %5 indirim
+                - generic [ref=f6e5318]:
+                  - generic [ref=f6e5319]: Sepette
+                  - generic [ref=f6e5320]: 9.784,05 TL
+                  - generic [ref=f6e5321]: 10.299 TL
+            - button "Sepete Ekle" [ref=f6e5324]
+          - link "Apple Yenilenmiş iPhone X 64 GB Silver Cep Telefonu (12 Ay Garantili) - A Kalite Damga Favorilere Ekle 2 renk seçeneği AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Silver Cep Telefonu (12 Ay Garantili) - A Kalite 🧡 6,9B kişi favoriledi! 3.8 (61) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 750 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 9.784,05 TL 10.299 TL Sepete Ekle" [ref=f6e5325] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-x-64-gb-silver-cep-telefonu-12-ay-garantili-a-kalite-p-689214809?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e5326]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone X 64 GB Silver Cep Telefonu (12 Ay Garantili) - A Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e5331]
+                    - button "2 renk seçeneği" [ref=f6e5333]:
+                      - generic [ref=f6e5335]: "2"
+            - generic [ref=f6e5336]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone X 64 GB Silver Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e5337]:
+                - generic [ref=f6e5338]:
+                  - generic [ref=f6e5339]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5340]
+                  - generic [ref=f6e5341]: Yenilenmiş iPhone X 64 GB Silver Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e5345]:
+                - generic [ref=f6e5346]: 🧡
+                - generic [ref=f6e5347]: 6,9B kişi favoriledi!
+              - generic [ref=f6e5348]:
+                - generic [ref=f6e5349]: "3.8"
+                - generic [ref=f6e5370]: (61)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5371]
+              - generic [ref=f6e5372]:
+                - generic [ref=f6e5374]:
+                  - generic [ref=f6e5376]:
+                    - img "Sepet ikonu" [ref=f6e5377]
+                    - generic [ref=f6e5378]: Sepette %5 indirim
+                  - generic [ref=f6e5379]: Kargo Bedava
+                  - generic [ref=f6e5384]: 750 TL Kupon
+                  - generic [ref=f6e5390]:
+                    - img "Sepet ikonu" [ref=f6e5391]
+                    - generic [ref=f6e5392]: Sepette %5 indirim
+                - generic [ref=f6e5394]:
+                  - generic [ref=f6e5395]: Sepette
+                  - generic [ref=f6e5396]: 9.784,05 TL
+                  - generic [ref=f6e5397]: 10.299 TL
+            - button "Sepete Ekle" [ref=f6e5400]
+          - link "Apple Yenilenmiş iPhone Xr 256 GB Siyah Cep Telefonu (12 Ay Garantili) - A Ka... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Xr 256 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite A seviye-Mükemmel 1.0 (1) Kargo Bedava 500 TL Kupon Kargo Bedava 9.999 TL Sepete Ekle" [ref=f6e5401] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xr-256-gb-siyah-cep-telefonu-12-ay-garantili-a-kalite-p-852213836?boutiqueId=61&merchantId=226317
+            - generic [ref=f6e5402]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Xr 256 GB Siyah Cep Telefonu (12 Ay Garantili) - A Ka..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5405]
+            - generic [ref=f6e5407]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Xr 256 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite" [level=2] [ref=f6e5408]:
+                - generic [ref=f6e5409]:
+                  - generic [ref=f6e5410]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5411]
+                  - generic [ref=f6e5412]: Yenilenmiş iPhone Xr 256 GB Siyah Cep Telefonu (12 Ay Garantili) - A Kalite
+              - generic [ref=f6e5413]: A seviye-Mükemmel
+              - generic [ref=f6e5417]:
+                - generic [ref=f6e5418]: "1.0"
+                - generic [ref=f6e5436]: (1)
+              - generic [ref=f6e5437]:
+                - generic [ref=f6e5439]:
+                  - generic [ref=f6e5440]: Kargo Bedava
+                  - generic [ref=f6e5445]: 500 TL Kupon
+                  - generic [ref=f6e5450]: Kargo Bedava
+                - generic [ref=f6e5455]: 9.999 TL
+            - button "Sepete Ekle" [ref=f6e5459]
+          - link "Apple Yenilenmiş iPhone 11 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite Damga Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite 🧡 1,1B kişi favoriledi! 3.9 (14) Kargo Bedava 500 TL Kupon Kargo Bedava 10.089 TL Sepete Ekle" [ref=f6e5460] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-64-gb-siyah-cep-telefonu-12-ay-garantili-c-kalite-p-846611470?boutiqueId=61&merchantId=285194
+            - generic [ref=f6e5461]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 11 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5466]
+            - generic [ref=f6e5468]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite" [level=2] [ref=f6e5469]:
+                - generic [ref=f6e5470]:
+                  - generic [ref=f6e5471]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5472]
+                  - generic [ref=f6e5473]: Yenilenmiş iPhone 11 64 GB Siyah Cep Telefonu (12 Ay Garantili) - C Kalite
+              - generic [ref=f6e5477]:
+                - generic [ref=f6e5478]: 🧡
+                - generic [ref=f6e5479]: 1,1B kişi favoriledi!
+              - generic [ref=f6e5480]:
+                - generic [ref=f6e5481]: "3.9"
+                - generic [ref=f6e5502]: (14)
+              - generic [ref=f6e5503]:
+                - generic [ref=f6e5505]:
+                  - generic [ref=f6e5506]: Kargo Bedava
+                  - generic [ref=f6e5511]: 500 TL Kupon
+                  - generic [ref=f6e5516]: Kargo Bedava
+                - generic [ref=f6e5521]: 10.089 TL
+            - button "Sepete Ekle" [ref=f6e5525]
+          - link "Apple Yenilenmiş iPhone Xs 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Xs 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 694 kişi favoriledi! 2.2 (5) Kargo Bedava 750 TL Kupon Kargo Bedava 10.099 TL Sepete Ekle" [ref=f6e5526] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xs-64-gb-gumus-cep-telefonu-12-ay-garantili-b-kalite-p-689224726?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e5527]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Xs 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite"
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5530]
+            - generic [ref=f6e5532]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Xs 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5533]:
+                - generic [ref=f6e5534]:
+                  - generic [ref=f6e5535]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5536]
+                  - generic [ref=f6e5537]: Yenilenmiş iPhone Xs 64 GB Gümüş Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5541]:
+                - generic [ref=f6e5542]: 🧡
+                - generic [ref=f6e5543]: 694 kişi favoriledi!
+              - generic [ref=f6e5544]:
+                - generic [ref=f6e5545]: "2.2"
+                - generic [ref=f6e5565]: (5)
+              - generic [ref=f6e5566]:
+                - generic [ref=f6e5568]:
+                  - generic [ref=f6e5569]: Kargo Bedava
+                  - generic [ref=f6e5574]: 750 TL Kupon
+                  - generic [ref=f6e5579]: Kargo Bedava
+                - generic [ref=f6e5584]: 10.099 TL
+            - button "Sepete Ekle" [ref=f6e5588]
+          - link "Apple Yenilenmiş iPhone Xs 64 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - ... Damga Favorilere Ekle AppleResmi satıcı rozeti Yenilenmiş iPhone Xs 64 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 670 kişi favoriledi! 3.0 (7) Değerlendirme fotoğrafları mevcut Kargo Bedava 750 TL Kupon Kargo Bedava 10.099 TL Sepete Ekle" [ref=f6e5589] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-xs-64-gb-uzay-grisi-cep-telefonu-12-ay-garantili-b-kalite-p-801761089?boutiqueId=61&merchantId=230886
+            - generic [ref=f6e5590]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone Xs 64 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - ..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - button "Favorilere Ekle" [ref=f6e5593]
+            - generic [ref=f6e5595]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone Xs 64 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5596]:
+                - generic [ref=f6e5597]:
+                  - generic [ref=f6e5598]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5599]
+                  - generic [ref=f6e5600]: Yenilenmiş iPhone Xs 64 GB Uzay Grisi Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5604]:
+                - generic [ref=f6e5605]: 🧡
+                - generic [ref=f6e5606]: 670 kişi favoriledi!
+              - generic [ref=f6e5607]:
+                - generic [ref=f6e5608]: "3.0"
+                - generic [ref=f6e5628]: (7)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5629]
+              - generic [ref=f6e5630]:
+                - generic [ref=f6e5632]:
+                  - generic [ref=f6e5633]: Kargo Bedava
+                  - generic [ref=f6e5638]: 750 TL Kupon
+                  - generic [ref=f6e5643]: Kargo Bedava
+                - generic [ref=f6e5648]: 10.099 TL
+            - button "Sepete Ekle" [ref=f6e5652]
+          - link "Apple Yenilenmiş iPhone 11 64 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B K... Damga Favorilere Ekle 4 renk seçeneği Yetkili Satıcı AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite 🧡 8,8B kişi favoriledi! 3.8 (137) Değerlendirme fotoğrafları mevcut Sepet ikonu Sepette %5 indirim Kargo Bedava 500 TL Kupon Sepet ikonu Sepette %5 indirim Sepette 10.425,30 TL 10.974 TL Sepete Ekle" [ref=f6e5653] [cursor=pointer]:
+            - /url: /apple/yenilenmis-iphone-11-64-gb-kirmizi-cep-telefonu-12-ay-garantili-b-kalite-p-689224780?boutiqueId=61&merchantId=992531
+            - generic [ref=f6e5654]:
+              - generic:
+                - img "Apple Yenilenmiş iPhone 11 64 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B K..."
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Damga"
+                  - generic:
+                    - button "Favorilere Ekle" [ref=f6e5657]
+                    - button "4 renk seçeneği" [ref=f6e5659]:
+                      - generic [ref=f6e5661]: "4"
+                - generic: Yetkili Satıcı
+            - generic [ref=f6e5662]:
+              - heading "AppleResmi satıcı rozeti Yenilenmiş iPhone 11 64 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite" [level=2] [ref=f6e5663]:
+                - generic [ref=f6e5664]:
+                  - generic [ref=f6e5665]:
+                    - text: Apple
+                    - img "Resmi satıcı rozeti" [ref=f6e5666]
+                  - generic [ref=f6e5667]: Yenilenmiş iPhone 11 64 GB Kırmızı Cep Telefonu (12 Ay Garantili) - B Kalite
+              - generic [ref=f6e5671]:
+                - generic [ref=f6e5672]: 🧡
+                - generic [ref=f6e5673]: 8,8B kişi favoriledi!
+              - generic [ref=f6e5674]:
+                - generic [ref=f6e5675]: "3.8"
+                - generic [ref=f6e5696]: (137)
+                - img "Değerlendirme fotoğrafları mevcut" [ref=f6e5697]
+              - generic [ref=f6e5698]:
+                - generic [ref=f6e5700]:
+                  - generic [ref=f6e5702]:
+                    - img "Sepet ikonu" [ref=f6e5703]
+                    - generic [ref=f6e5704]: Sepette %5 indirim
+                  - generic [ref=f6e5705]: Kargo Bedava
+                  - generic [ref=f6e5710]: 500 TL Kupon
+                  - generic [ref=f6e5716]:
+                    - img "Sepet ikonu" [ref=f6e5717]
+                    - generic [ref=f6e5718]: Sepette %5 indirim
+                - generic [ref=f6e5720]:
+                  - generic [ref=f6e5721]: Sepette
+                  - generic [ref=f6e5722]: 10.425,30 TL
+                  - generic [ref=f6e5723]: 10.974 TL
+            - button "Sepete Ekle" [ref=f6e5726]
+        - button "Yukarı çık"
+      - generic [ref=f6e1471]:
+        - generic [ref=f6e1867]:
+          - button "Kategori filter" [expanded] [ref=f6e1868] [cursor=pointer]:
+            - heading "Kategori" [level=3] [ref=f6e1869]
+          - generic [ref=f6e1875]:
+            - generic [ref=f6e3919] [cursor=pointer]:
+              - checkbox "Yenilenmiş Cep Telefonu" [checked] [ref=f6e3920]
+              - generic [ref=f6e3922]: Yenilenmiş Cep Telefonu
+            - generic [ref=f6e3924] [cursor=pointer]:
+              - checkbox "Tuşlu Cep Telefonu" [checked] [ref=f6e3925]
+              - generic [ref=f6e3927]: Tuşlu Cep Telefonu
+            - generic [ref=f6e3929] [cursor=pointer]:
+              - checkbox "Telsiz & Masaüstü Telefon" [checked] [ref=f6e3930]
+              - generic [ref=f6e3932]: Telsiz & Masaüstü Telefon
+        - generic [ref=f6e1891]:
+          - button "Marka filter" [expanded] [ref=f6e1892] [cursor=pointer]:
+            - heading "Marka" [level=3] [ref=f6e1893]
+          - generic [ref=f6e1898]:
+            - textbox "Marka Ara" [ref=f6e1900]
+            - group "Marka filter options" [ref=f6e3935]:
+              - generic [ref=f6e3937]:
+                - paragraph [ref=f6e3939]: Popüler Markalar
+                - generic [ref=f6e3942] [cursor=pointer]:
+                  - checkbox "Apple" [checked] [ref=f6e3943]
+                  - generic [ref=f6e3945]: Apple
+                - paragraph [ref=f6e3947]: Tüm Markalar
+                - generic [ref=f6e3950] [cursor=pointer]:
+                  - checkbox "Alcatel" [ref=f6e3951]
+                  - generic [ref=f6e3953]: Alcatel
+                - generic [ref=f6e3956] [cursor=pointer]:
+                  - checkbox "AntikHacı" [ref=f6e3957]
+                  - generic [ref=f6e3959]: AntikHacı
+                - generic [ref=f6e3962] [cursor=pointer]:
+                  - checkbox "Arçelik" [ref=f6e3963]
+                  - generic [ref=f6e3965]: Arçelik
+                - generic [ref=f6e3968] [cursor=pointer]:
+                  - checkbox "Aselsan" [ref=f6e3969]
+                  - generic [ref=f6e3971]: Aselsan
+                - generic [ref=f6e3974] [cursor=pointer]:
+                  - checkbox "ASPİLSAN" [ref=f6e3975]
+                  - generic [ref=f6e3977]: ASPİLSAN
+                - generic [ref=f6e3980] [cursor=pointer]:
+                  - checkbox "Auris" [ref=f6e3981]
+                  - generic [ref=f6e3983]: Auris
+                - generic [ref=f6e3986] [cursor=pointer]:
+                  - checkbox "BAOFENG" [ref=f6e3987]
+                  - generic [ref=f6e3989]: BAOFENG
+                - generic [ref=f6e3992] [cursor=pointer]:
+                  - checkbox "BB Mobile" [ref=f6e3993]
+                  - generic [ref=f6e3995]: BB Mobile
+                - generic [ref=f6e3998] [cursor=pointer]:
+                  - checkbox "Bilicra" [ref=f6e3999]
+                  - generic [ref=f6e4001]: Bilicra
+                - generic [ref=f6e4004] [cursor=pointer]:
+                  - checkbox "Cytac" [ref=f6e4005]
+                  - generic [ref=f6e4007]: Cytac
+                - generic [ref=f6e4010] [cursor=pointer]:
+                  - checkbox "DIAMOND" [ref=f6e4011]
+                  - generic [ref=f6e4013]: DIAMOND
+        - generic [ref=f6e1988]:
+          - button "Avantajlı Ürünler filter" [expanded] [ref=f6e1989] [cursor=pointer]:
+            - heading "Avantajlı Ürünler" [level=3] [ref=f6e1990]
+          - generic [ref=f6e1996]:
+            - generic [ref=f6e1998] [cursor=pointer]:
+              - checkbox "Süper Avantajlı Ürün" [ref=f6e1999]
+              - generic [ref=f6e2001]: Süper Avantajlı Ürün
+            - generic [ref=f6e2003] [cursor=pointer]:
+              - checkbox "Çok Avantajlı Ürün" [ref=f6e2004]
+              - generic [ref=f6e2006]: Çok Avantajlı Ürün
+            - generic [ref=f6e2008] [cursor=pointer]:
+              - checkbox "Avantajlı Ürün" [ref=f6e2009]
+              - generic [ref=f6e2011]: Avantajlı Ürün
+        - button "Cep Telefonu Modeli filter" [ref=f6e4015] [cursor=pointer]:
+          - heading "Cep Telefonu Modeli" [level=3] [ref=f6e4016]
+        - button "Kozmetik Durum filter" [ref=f6e4021] [cursor=pointer]:
+          - heading "Kozmetik Durum" [level=3] [ref=f6e4022]
+        - button "Ürün Puanı filter" [ref=f6e4027] [cursor=pointer]:
+          - heading "Ürün Puanı" [level=3] [ref=f6e4028]
+        - button "Fiyat filter" [ref=f6e4033] [cursor=pointer]:
+          - heading "Fiyat" [level=3] [ref=f6e4034]
+        - button "Ekran Boyutu filter" [ref=f6e4039] [cursor=pointer]:
+          - heading "Ekran Boyutu" [level=3] [ref=f6e4040]
+        - button "Satıcı Tipi filter" [ref=f6e4045] [cursor=pointer]:
+          - heading "Satıcı Tipi" [level=3] [ref=f6e4046]
+          - generic [ref=f6e4047]: Satıcı Tipi Nedir?
+        - button "Garanti Tipi filter" [ref=f6e4053] [cursor=pointer]:
+          - heading "Garanti Tipi" [level=3] [ref=f6e4054]
+        - button "Renk filter" [ref=f6e4059] [cursor=pointer]:
+          - heading "Renk" [level=3] [ref=f6e4060]
+        - button "RAM Kapasitesi filter" [ref=f6e4065] [cursor=pointer]:
+          - heading "RAM Kapasitesi" [level=3] [ref=f6e4066]
+        - button "Trendyol Plus" [ref=f6e4070]:
+          - heading "Trendyol Plus" [level=3] [ref=f6e4072] [cursor=pointer]
+        - button "Kurumsal Faturaya Uygun" [ref=f6e4076]:
+          - heading "Kurumsal Faturaya Uygun" [level=3] [ref=f6e4078] [cursor=pointer]
+        - button "Fiyat Geçmişi filter" [ref=f6e4083] [cursor=pointer]:
+          - heading "Fiyat Geçmişi" [level=3] [ref=f6e4084]
+        - button "Fenomenlerin Seçtikleri" [ref=f6e4088]:
+          - heading "Fenomenlerin Seçtikleri" [level=3] [ref=f6e4090] [cursor=pointer]
+        - button "Kuponlu Ürünler" [ref=f6e4094]:
+          - heading "Kuponlu Ürünler" [level=3] [ref=f6e4096] [cursor=pointer]
+        - button "Çok Al Az Öde" [ref=f6e4100]:
+          - heading "Çok Al Az Öde" [level=3] [ref=f6e4102] [cursor=pointer]
+        - button "Özellik filter" [ref=f6e4107] [cursor=pointer]:
+          - heading "Özellik" [level=3] [ref=f6e4108]
+        - button "Ek Hizmetler" [ref=f6e4112]:
+          - heading "Ek Hizmetler" [level=3] [ref=f6e4114] [cursor=pointer]
+        - button "Toplu Satışa Uygun" [ref=f6e4118]:
+          - heading "Toplu Satışa Uygun" [level=3] [ref=f6e4120] [cursor=pointer]
+        - button "Fotoğraflı Yorumlar" [ref=f6e4124]:
+          - heading "Fotoğraflı Yorumlar" [level=3] [ref=f6e4126] [cursor=pointer]
+        - button "Videolu Ürünler" [ref=f6e4130]:
+          - heading "Videolu Ürünler" [level=3] [ref=f6e4132] [cursor=pointer]
+        - generic [ref=f6e2164]: Sponsorlu ürünler reklam niteliğinde olup satıcıları tarafından öne çıkartılmaktadır.
+  - contentinfo [ref=f6e1563]:
+    - img "Group 2" [ref=f6e1565]
+    - generic [ref=f6e1570]:
+      - generic [ref=f6e1572]:
+        - generic [ref=f6e1573]:
+          - generic [ref=f6e1574]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f6e1579] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f6e1581] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f6e1583] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f6e1585] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f6e1587] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f6e1588]:
+          - generic [ref=f6e1589]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f6e1594] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f6e1596] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f6e1598] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f6e1599]:
+          - link "Satıcı" [ref=f6e1602] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f6e1606] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f6e1608] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f6e1610] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f6e1611]:
+          - generic [ref=f6e1612]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f6e1617] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f6e1619] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f6e1621] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f6e1623] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f6e1624]:
+          - generic [ref=f6e1625]:
+            - link "Ülke Değiştir" [ref=f6e1628] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f6e1629] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f6e1630]
+              - generic [ref=f6e1631]: Ülke Seç
+          - generic [ref=f6e1632]: Güvenli Alışveriş
+          - generic [ref=f6e1636]:
+            - generic [ref=f6e1637]: Güvenlik Sertifikası
+            - generic [ref=f6e1639]:
+              - link [ref=f6e1640] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f6e1642]
+              - link [ref=f6e1643] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f6e1645]
+              - img "PCI DSS" [ref=f6e1647]
+              - img "information security standard" [ref=f6e1649]
+      - generic [ref=f6e1652]:
+        - generic [ref=f6e1653]:
+          - generic [ref=f6e1654]:
+            - link "instagram-icon" [ref=f6e1655] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f6e1656]
+            - link "tiktok-icon" [ref=f6e1657] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f6e1658]
+            - link "youtube-icon" [ref=f6e1659] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f6e1660]
+            - link "facebook-icon" [ref=f6e1661] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f6e1662]
+            - link "x-icon" [ref=f6e1663] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f6e1664]
+          - generic [ref=f6e1665]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f6e1666]:
+          - generic [ref=f6e1667]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f6e1668]:
+            - link "Çerez Tercihleri" [ref=f6e1669] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f6e1670] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f6e1671] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f6e1672] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able yardım teknolojisi. ALT ile açın ve TAB ile 1. işlem yapın. Esc ile bırakın."

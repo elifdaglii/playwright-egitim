@@ -1,0 +1,812 @@
+- generic [active] [ref=f9e1]:
+  - banner [ref=f9e2]:
+    - generic [ref=f9e6]:
+      - generic [ref=f9e7] [cursor=pointer]:
+        - button "Menu" [ref=f9e8]
+        - link "Trendyol" [ref=f9e10]:
+          - /url: /
+      - button "Search icon Ürün, kategori veya marka ara" [ref=f9e14]:
+        - img "Search icon" [ref=f9e15]
+        - generic [ref=f9e16]: Ürün, kategori veya marka ara
+      - generic [ref=f9e17]:
+        - link "Giriş Yap" [ref=f9e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fesrahelvaci%2Faskili-drapeli-sifon-elbise-p-958438187%3FboutiqueId%3D61%26merchantId%3D267844
+        - link "Favorilerim" [ref=f9e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f9e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f9e30]:
+    - main [ref=f9e31]:
+      - generic [ref=f9e32]:
+        - generic [ref=f9e37]:
+          - img "ty-plus-banner-desktop-left-plus-icon" [ref=f9e39]
+          - img "ty-plus-banner-desktop-right-plus-icon" [ref=f9e41]
+          - generic [ref=f9e42]:
+            - img "ty-plus-banner-desktop-content-logo" [ref=f9e44]
+            - generic [ref=f9e45]: Trendyol Plus'a Özel sepette 1.806 TL
+            - button "Plus'a geç " [ref=f9e47] [cursor=pointer]:
+              - generic [ref=f9e48]: Plus'a geç
+              - generic [ref=f9e49]: 
+        - generic [ref=f9e50]:
+          - generic [ref=f9e51]:
+            - generic [ref=f9e56]:
+              - generic [ref=f9e57]:
+                - generic [ref=f9e59] [cursor=pointer]:
+                  - generic [ref=f9e63]:
+                    - img "Askılı Drapeli Şifon Elbise - 1"
+                  - generic [ref=f9e67]:
+                    - img "Askılı Drapeli Şifon Elbise - 2"
+                  - generic [ref=f9e71]:
+                    - img "Askılı Drapeli Şifon Elbise - 3"
+                  - generic [ref=f9e75]:
+                    - img "Askılı Drapeli Şifon Elbise - 4"
+                  - generic [ref=f9e79]:
+                    - img "Askılı Drapeli Şifon Elbise - 5"
+                  - generic [ref=f9e83]:
+                    - img "Askılı Drapeli Şifon Elbise - 6"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: 
+                          - generic: KARGOBEDAVA
+                        - generic:
+                          - generic: 
+                          - generic: YARINKARGODA
+                  - generic:
+                    - generic:
+                      - img "Product stamp"
+                    - generic [ref=f9e86]:
+                      - img "promotion" [ref=f9e87]
+                      - generic [ref=f9e88]: Kampanyalı Fiyat
+                      - generic [ref=f9e89]:
+                        - img "info" [ref=f9e90]
+                        - generic [ref=f9e91]: Sepette Uygulanacak!
+                - generic:
+                  - button "Prev Button" [ref=f9e92] [cursor=pointer]:
+                    - generic [ref=f9e93]: 
+                  - button "Next Button" [ref=f9e94] [cursor=pointer]:
+                    - generic [ref=f9e95]: 
+              - generic [ref=f9e98]:
+                - button [ref=f9e100] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 1" [ref=f9e101]
+                - button [ref=f9e103] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 2" [ref=f9e104]
+                - button [ref=f9e106] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 3" [ref=f9e107]
+                - button [ref=f9e109] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 4" [ref=f9e110]
+                - button [ref=f9e112] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 5" [ref=f9e113]
+                - button [ref=f9e115] [cursor=pointer]:
+                  - img "Askılı Drapeli Şifon Elbise - 6" [ref=f9e116]
+            - generic [ref=f9e118]:
+              - generic [ref=f9e119]:
+                - generic [ref=f9e121]:
+                  - heading [level=1] [ref=f9e122]:
+                    - link [ref=f9e123] [cursor=pointer]:
+                      - /url: /esrahelvaci-x-b156233
+                      - strong [ref=f9e124]: ESRAHELVACI
+                    - text: Askılı Drapeli Şifon Elbise
+                  - generic [ref=f9e126]:
+                    - generic [ref=f9e127]:
+                      - generic [ref=f9e128] [cursor=pointer]: "4.2"
+                      - link "100 Değerlendirme fotoğraflı yorum iconu" [ref=f9e132] [cursor=pointer]:
+                        - /url: /esrahelvaci/askili-drapeli-sifon-elbise-p-958438187/yorumlar?boutiqueId=61&merchantId=267844
+                        - generic [ref=f9e133]: 100 Değerlendirme
+                        - img "fotoğraflı yorum iconu" [ref=f9e134]
+                    - link "37 Soru-Cevap" [ref=f9e135] [cursor=pointer]:
+                      - /url: /esrahelvaci/askili-drapeli-sifon-elbise-p-958438187/saticiya-sor?merchantId=267844&showSelectedSeller=false&hasQuestionOfSelectedMerchant=false&merchantHasQuestions=false&showOriginal=false&fulfilmentType=mp&qaContentId=958438187
+                  - generic [ref=f9e138]:
+                    - generic [ref=f9e139]:
+                      - img "basket-count" [ref=f9e140]
+                      - paragraph [ref=f9e141]: 344 kişinin sepetinde, tükenmeden al!
+                    - generic [ref=f9e142]:
+                      - img "favorite-count" [ref=f9e143]
+                      - paragraph [ref=f9e144]: Sevilen ürün! 57B kişi favoriledi!
+                    - generic [ref=f9e145]:
+                      - img "page-view-count" [ref=f9e146]
+                      - paragraph [ref=f9e147]: Popüler ürün! Son 24 saatte 5,6B kişi görüntüledi!
+                    - generic [ref=f9e148]:
+                      - img "basket-count" [ref=f9e149]
+                      - paragraph [ref=f9e150]: 344 kişinin sepetinde, tükenmeden al!
+                  - generic [ref=f9e152]:
+                    - generic [ref=f9e153]:
+                      - img "TY Plus icon" [ref=f9e154]
+                      - text: Trendyol Plus'a Özel
+                    - generic [ref=f9e155]:
+                      - generic [ref=f9e156]:
+                        - generic [ref=f9e157]: Sepette
+                        - generic [ref=f9e158]: 1.806 TL
+                      - generic [ref=f9e159]: 1.901,05 TL
+                  - generic [ref=f9e160] [cursor=pointer]:
+                    - generic [ref=f9e162]:
+                      - text: Peşin Fiyatına
+                      - strong [ref=f9e163]: 3 Taksit
+                    - generic [ref=f9e165]:
+                      - generic [ref=f9e166]:
+                        - text: 3x
+                        - strong [ref=f9e167]: 633,68 TL
+                      - generic [ref=f9e168]: 
+                - generic [ref=f9e171]:
+                  - generic [ref=f9e173]:
+                    - generic [ref=f9e174]: "Renk:"
+                    - generic [ref=f9e175]: pembe
+                    - generic [ref=f9e176] [cursor=pointer]: 
+                  - generic [ref=f9e180]:
+                    - button [ref=f9e182] [cursor=pointer]:
+                      - img "slicing attribute product" [ref=f9e183]
+                    - button [ref=f9e185] [cursor=pointer]:
+                      - img "slicing attribute product" [ref=f9e186]
+                    - generic [ref=f9e187]:
+                      - button "slicing attribute product":
+                        - img "slicing attribute product"
+                    - button [ref=f9e189] [cursor=pointer]:
+                      - img "slicing attribute product" [ref=f9e190]
+                - generic [ref=f9e192]:
+                  - generic [ref=f9e193]: "Beden: M"
+                  - generic [ref=f9e197]:
+                    - radio "XS " [ref=f9e199] [cursor=pointer]:
+                      - generic [ref=f9e200]: XS
+                      - generic [ref=f9e201]: 
+                    - radio "S" [ref=f9e204] [cursor=pointer]
+                    - generic [ref=f9e206]:
+                      - radio "M" [checked]
+                    - radio "L" [ref=f9e208] [cursor=pointer]
+                  - generic [ref=f9e210]:
+                    - generic [ref=f9e211]: 
+                    - generic [ref=f9e212]: Kullanıcıların çoğu kendi bedeninizi almanızı öneriyor.
+                - generic [ref=f9e215]:
+                  - generic [ref=f9e216]:
+                    - button "Şimdi Al" [ref=f9e217] [cursor=pointer]
+                    - button "Sepete Ekle Sepete Eklendi" [ref=f9e219] [cursor=pointer]:
+                      - generic [ref=f9e220]:
+                        - paragraph [ref=f9e222]: Sepete Ekle
+                        - generic [ref=f9e226]: Sepete Eklendi
+                  - button "Favorite" [ref=f9e227] [cursor=pointer]:
+                    - generic [ref=f9e228]: 
+                - generic [ref=f9e232]:
+                  - generic [ref=f9e233]:
+                    - generic [ref=f9e234]: 
+                    - paragraph [ref=f9e236]:
+                      - strong [ref=f9e237]: 9 saat 45 dakika
+                      - text: içinde sipariş verirsen en geç yarın kargoda!
+                  - generic [ref=f9e239]:
+                    - generic [ref=f9e240]: 
+                    - generic [ref=f9e242]:
+                      - generic [ref=f9e243]: "Tahmini Teslim:"
+                      - generic [ref=f9e244]: Adresini seç ne zaman teslim edileceğini öğren!
+                    - button "Konum Seç " [ref=f9e246] [cursor=pointer]:
+                      - text: Konum Seç
+                      - generic [ref=f9e247]: 
+                - generic [ref=f9e250]:
+                  - generic [ref=f9e251]: "Ödeme Seçenekleri:"
+                  - generic [ref=f9e252]:
+                    - generic [ref=f9e254]:
+                      - generic [ref=f9e257] [cursor=pointer]:
+                        - generic [ref=f9e258]:
+                          - img "banner-logo" [ref=f9e259]
+                          - generic [ref=f9e260]:
+                            - generic [ref=f9e261]: Alışveriş Kredisi
+                            - generic [ref=f9e262]: 36 ay 112 TL'den başlayan ödeme fırsatları
+                        - generic [ref=f9e263]: 
+                      - generic [ref=f9e267]:
+                        - img "banner-logo" [ref=f9e268]
+                        - generic [ref=f9e269]:
+                          - generic [ref=f9e270]: Peşin Fiyatına 3 Taksit
+                          - generic [ref=f9e271]: Axess, Bonus, QNB Trendyol, Maximum, Paraf, World Karta özel
+                      - generic [ref=f9e275]:
+                        - img "banner-logo" [ref=f9e276]
+                        - generic [ref=f9e277]:
+                          - generic [ref=f9e278]: 12 Aya Varan Taksit Fırsatı
+                          - generic [ref=f9e279]: Aylık 204.62 TL'den başlayan 12 aya varan taksit fırsatı
+                    - button "Previous" [disabled] [ref=f9e280]:
+                      - generic [ref=f9e281]: 
+                    - button "Next" [ref=f9e282] [cursor=pointer]:
+                      - generic [ref=f9e283]: 
+                    - button "slider.more-content-indicator.aria-label"
+                - generic [ref=f9e285]:
+                  - heading "Öne Çıkan Özellikler:" [level=2] [ref=f9e286]
+                  - generic [ref=f9e287]:
+                    - list [ref=f9e289]:
+                      - listitem [ref=f9e290]:
+                        - text: Bu ürün
+                        - button "Esra Helvacı" [ref=f9e291]
+                        - text: tarafından gönderilecektir.
+                      - listitem [ref=f9e293]: Kampanya fiyatından satılmak üzere 10 adetten fazla stok sunulmuştur.
+                      - listitem [ref=f9e294]: Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.
+                      - listitem [ref=f9e295]: Bu üründen en fazla 11 adet sipariş verilebilir. 11 adedin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar. Belirlenen bu limit kurumsal siparişlerde geçerli olmayıp, kurumsal siparişler için farklı limitler belirlenebilmektedir.
+                    - generic [ref=f9e299]:
+                      - generic [ref=f9e300]:
+                        - generic [ref=f9e301]: Kumaş Tipi
+                        - generic [ref=f9e302]: Dokuma
+                      - generic [ref=f9e303]:
+                        - generic [ref=f9e304]: Materyal
+                        - generic [ref=f9e305]: Polyester
+                      - generic [ref=f9e306]:
+                        - generic [ref=f9e307]: Desen
+                        - generic [ref=f9e308]: Çiçekli
+                      - generic [ref=f9e309]:
+                        - generic [ref=f9e310]: Kalıp
+                        - generic [ref=f9e311]: Kloş
+                      - generic [ref=f9e312]:
+                        - generic [ref=f9e313]: Kol Boyu
+                        - generic [ref=f9e314]: Askılı
+                      - generic [ref=f9e315]:
+                        - generic [ref=f9e316]: Persona
+                        - generic [ref=f9e317]: Fashion Forward
+                      - generic [ref=f9e318]:
+                        - generic [ref=f9e319]: Kol Tipi
+                        - generic [ref=f9e320]: İnce Askılı
+                      - generic [ref=f9e321]:
+                        - generic [ref=f9e322]: Renk
+                        - generic [ref=f9e323]: Pembe
+                  - generic [ref=f9e324]:
+                    - separator [ref=f9e325]
+                    - button "ÜRÜNÜN TÜM ÖZELLİKLERİ " [ref=f9e326] [cursor=pointer]:
+                      - generic [ref=f9e327]: ÜRÜNÜN TÜM ÖZELLİKLERİ
+                      - generic [ref=f9e328]: 
+              - generic [ref=f9e329]:
+                - generic [ref=f9e331]:
+                  - heading "Ürünün Kampanyaları" [level=2] [ref=f9e332]
+                  - link " 350 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)  promotion-item-badge-image Sepette Uygulanacak" [ref=f9e333] [cursor=pointer]:
+                    - /url: /sr?prm=27457140
+                    - generic [ref=f9e334]:
+                      - generic [ref=f9e335]:
+                        - generic [ref=f9e336]: 
+                        - paragraph [ref=f9e340]: 350 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)
+                        - generic [ref=f9e341]: 
+                      - generic [ref=f9e343]:
+                        - img "promotion-item-badge-image" [ref=f9e344]
+                        - paragraph [ref=f9e345]: Sepette Uygulanacak
+                  - link " Sepette %10 İndirim  promotion-item-badge-image Sepette Uygulanacak" [ref=f9e346] [cursor=pointer]:
+                    - /url: /sr?prm=28961551
+                    - generic [ref=f9e347]:
+                      - generic [ref=f9e348]:
+                        - generic [ref=f9e349]: 
+                        - paragraph [ref=f9e353]: Sepette %10 İndirim
+                        - generic [ref=f9e354]: 
+                      - generic [ref=f9e356]:
+                        - img "promotion-item-badge-image" [ref=f9e357]
+                        - paragraph [ref=f9e358]: Sepette Uygulanacak
+                  - link " TY Plus icon Trendyol Plus’a Özel Trendyol Plus'a Özel Fiyat  promotion-item-badge-image Sepette Uygulanacak" [ref=f9e359] [cursor=pointer]:
+                    - /url: /sr?prm=28914959
+                    - generic [ref=f9e360]:
+                      - generic [ref=f9e361]:
+                        - generic [ref=f9e362]: 
+                        - generic [ref=f9e364]:
+                          - generic [ref=f9e365]:
+                            - img "TY Plus icon" [ref=f9e366]
+                            - generic [ref=f9e367]: Trendyol Plus’a Özel
+                          - paragraph [ref=f9e369]: Trendyol Plus'a Özel Fiyat
+                        - generic [ref=f9e370]: 
+                      - generic [ref=f9e372]:
+                        - img "promotion-item-badge-image" [ref=f9e373]
+                        - paragraph [ref=f9e374]: Sepette Uygulanacak
+                  - link " 2 Adet ve Üzeri 30 TL İndirim  2 Adet ve Üzeri 30 TL İndirim 2 Adet ve Üzeri 30 TL İndirim 2 Adet ve Üzeri 30 TL İndirim 2 Adet ve Üzeri 30 TL İndirim" [ref=f9e375] [cursor=pointer]:
+                    - /url: /sr?prm=28961346
+                    - generic [ref=f9e376]:
+                      - generic [ref=f9e377]:
+                        - generic [ref=f9e378]: 
+                        - paragraph [ref=f9e382]: 2 Adet ve Üzeri 30 TL İndirim
+                        - generic [ref=f9e383]: 
+                      - generic [ref=f9e385]:
+                        - img "2 Adet ve Üzeri 30 TL İndirim" [ref=f9e387]
+                        - img "2 Adet ve Üzeri 30 TL İndirim" [ref=f9e389]
+                        - img "2 Adet ve Üzeri 30 TL İndirim" [ref=f9e391]
+                        - img "2 Adet ve Üzeri 30 TL İndirim" [ref=f9e393]
+                  - link " 3 Adet ve Üzeri 80 TL İndirim  3 Adet ve Üzeri 80 TL İndirim 3 Adet ve Üzeri 80 TL İndirim 3 Adet ve Üzeri 80 TL İndirim 3 Adet ve Üzeri 80 TL İndirim" [ref=f9e394] [cursor=pointer]:
+                    - /url: /sr?prm=28961347
+                    - generic [ref=f9e395]:
+                      - generic [ref=f9e396]:
+                        - generic [ref=f9e397]: 
+                        - paragraph [ref=f9e401]: 3 Adet ve Üzeri 80 TL İndirim
+                        - generic [ref=f9e402]: 
+                      - generic [ref=f9e404]:
+                        - img "3 Adet ve Üzeri 80 TL İndirim" [ref=f9e406]
+                        - img "3 Adet ve Üzeri 80 TL İndirim" [ref=f9e408]
+                        - img "3 Adet ve Üzeri 80 TL İndirim" [ref=f9e410]
+                        - img "3 Adet ve Üzeri 80 TL İndirim" [ref=f9e412]
+                - generic [ref=f9e414]:
+                  - generic [ref=f9e416]:
+                    - generic [ref=f9e417]:
+                      - link "Esra Helvacı" [ref=f9e418] [cursor=pointer]:
+                        - /url: https://www.trendyol.com/magaza/esra-helvaci-m-267844
+                      - img "marker" [ref=f9e421]
+                      - generic [ref=f9e422]: "9.1"
+                      - button "Information button" [ref=f9e423] [cursor=pointer]:
+                        - generic [ref=f9e424]: 
+                    - generic [ref=f9e426]: 1,3M Takipçi
+                  - button " Takip Et" [ref=f9e427] [cursor=pointer]:
+                    - generic [ref=f9e428]: 
+                    - generic [ref=f9e430]: Takip Et
+                  - button " Satıcı Soruları (37) " [ref=f9e431] [cursor=pointer]:
+                    - generic [ref=f9e432]: 
+                    - generic [ref=f9e434]: Satıcı Soruları (37)
+                    - generic [ref=f9e436]: 
+                  - link "MAĞAZAYA GİT " [ref=f9e437] [cursor=pointer]:
+                    - /url: https://www.trendyol.com/magaza/esra-helvaci-m-267844
+                    - generic [ref=f9e438]: MAĞAZAYA GİT
+                    - generic [ref=f9e439]: 
+          - generic [ref=f9e448]:
+            - heading "Ürün Bilgileri" [level=2] [ref=f9e449]
+            - generic [ref=f9e456]:
+              - generic [ref=f9e459]:
+                - heading "Ürün Özellikleri" [level=3] [ref=f9e460]
+                - generic [ref=f9e461]:
+                  - generic [ref=f9e462]:
+                    - generic [ref=f9e463]: Kumaş Tipi
+                    - generic [ref=f9e464]: Dokuma
+                  - generic [ref=f9e465]:
+                    - generic [ref=f9e466]: Materyal
+                    - generic [ref=f9e467]: Polyester
+                  - generic [ref=f9e468]:
+                    - generic [ref=f9e469]: Desen
+                    - generic [ref=f9e470]: Çiçekli
+                  - generic [ref=f9e471]:
+                    - generic [ref=f9e472]: Kalıp
+                    - generic [ref=f9e473]: Kloş
+                  - generic [ref=f9e474]:
+                    - generic [ref=f9e475]: Kol Boyu
+                    - generic [ref=f9e476]: Askılı
+                  - generic [ref=f9e477]:
+                    - generic [ref=f9e478]: Persona
+                    - generic [ref=f9e479]: Fashion Forward
+                  - generic [ref=f9e480]:
+                    - generic [ref=f9e481]: Kol Tipi
+                    - generic [ref=f9e482]: İnce Askılı
+                  - generic [ref=f9e483]:
+                    - generic [ref=f9e484]: Renk
+                    - generic [ref=f9e485]: Pembe
+                  - generic [ref=f9e486]:
+                    - generic [ref=f9e487]: Yaka Tipi
+                    - generic [ref=f9e488]: Kare Yaka
+                  - generic [ref=f9e489]:
+                    - generic [ref=f9e490]: Kapama Şekli
+                    - generic [ref=f9e491]: Fermuarlı
+                  - generic [ref=f9e492]:
+                    - generic [ref=f9e493]: Ürün Detayı
+                    - generic [ref=f9e494]: Büzgü / Drape
+                  - generic [ref=f9e495]:
+                    - generic [ref=f9e496]: Cep
+                    - generic [ref=f9e497]: Cepsiz
+                  - generic [ref=f9e498]:
+                    - generic [ref=f9e499]: Koleksiyon
+                    - generic [ref=f9e500]: Zarif
+                  - generic [ref=f9e501]:
+                    - generic [ref=f9e502]: Kalınlık
+                    - generic [ref=f9e503]: İnce
+                  - generic [ref=f9e504]:
+                    - generic [ref=f9e505]: Astar Durumu
+                    - generic [ref=f9e506]: Astarlı
+                  - generic [ref=f9e507]:
+                    - generic [ref=f9e508]: Boy
+                    - generic [ref=f9e509]: Uzun
+                  - generic [ref=f9e510]:
+                    - generic [ref=f9e511]: Siluet
+                    - generic [ref=f9e512]: Kloş
+                  - generic [ref=f9e513]:
+                    - generic [ref=f9e514]: Ortam
+                    - generic [ref=f9e515]: Gündüz / Gece
+                  - generic [ref=f9e516]:
+                    - generic [ref=f9e517]: Dokuma Tipi
+                    - generic [ref=f9e518]: Düz Dokuma
+                  - generic [ref=f9e519]:
+                    - generic [ref=f9e520]: Ek Özellik
+                    - generic [ref=f9e521]: Ek Özellik Mevcut Değil
+                  - generic [ref=f9e522]:
+                    - generic [ref=f9e523]: Baskı/Nakış Tekniği
+                    - generic [ref=f9e524]: Dijital Baskı
+                  - generic [ref=f9e525]:
+                    - generic [ref=f9e526]: Kemer/Kuşak Durumu
+                    - generic [ref=f9e527]: Kemersiz
+                  - generic [ref=f9e528]:
+                    - generic [ref=f9e529]: Sürdürülebilirlik Detayı
+                    - generic [ref=f9e530]: Hayır
+                  - generic [ref=f9e531]:
+                    - generic [ref=f9e532]: Paket İçeriği
+                    - generic [ref=f9e533]: Tekli
+                  - generic [ref=f9e534]:
+                    - generic [ref=f9e535]: Kap
+                    - generic [ref=f9e536]: Kapsız
+                  - generic [ref=f9e537]:
+                    - generic [ref=f9e538]: Sezon
+                    - generic [ref=f9e539]: Tüm Sezonlar
+                  - generic [ref=f9e540]:
+                    - generic [ref=f9e541]: Menşei
+                    - generic [ref=f9e542]: TR
+                  - generic [ref=f9e543]:
+                    - generic [ref=f9e544]: Kutu Durumu
+                    - generic [ref=f9e545]: Kutu yok
+                  - generic [ref=f9e546]:
+                    - generic [ref=f9e547]: Yıkama Talimatları
+                    - generic [ref=f9e548]: • 30 Derecede makinede yıkanabilir • Beyazlatıcı kullanımı önerilmez • Kurutucu kullanımı önerilmez • Tersten ve düşük ısı ile ütü önerilir • Detaylı bakım talimatları için lütfen ürün etiketini kontrol ediniz.
+              - generic [ref=f9e551]:
+                - heading "Güvenlik Bilgileri" [level=3] [ref=f9e552]
+                - generic [ref=f9e554]:
+                  - generic [ref=f9e555]: Ürün Güvenliği Bilgileri
+                  - button "Detayları Gör" [ref=f9e556] [cursor=pointer]
+    - generic [ref=f9e573]:
+      - generic [ref=f9e574]:
+        - strong [ref=f9e576]: Popüler Marka ve Mağazalar
+        - list [ref=f9e577]:
+          - listitem [ref=f9e578]:
+            - link "Penti" [ref=f9e579] [cursor=pointer]:
+              - /url: /penti-x-b125
+          - listitem [ref=f9e580]:
+            - link "Mango" [ref=f9e581] [cursor=pointer]:
+              - /url: /mango-x-b41
+          - listitem [ref=f9e582]:
+            - link "Vivense" [ref=f9e583] [cursor=pointer]:
+              - /url: /vivense-x-b106268
+          - listitem [ref=f9e584]:
+            - link "Watsons" [ref=f9e585] [cursor=pointer]:
+              - /url: /watsons-x-b862
+          - listitem [ref=f9e586]:
+            - link "English Home" [ref=f9e587] [cursor=pointer]:
+              - /url: /english-home-x-b108306
+          - listitem [ref=f9e588]:
+            - link "Bershka" [ref=f9e589] [cursor=pointer]:
+              - /url: /bershka-x-b486
+          - listitem [ref=f9e590]:
+            - link "Stradivarius" [ref=f9e591] [cursor=pointer]:
+              - /url: /stradivarius-x-b147
+          - listitem [ref=f9e592]:
+            - link "The North Face" [ref=f9e593] [cursor=pointer]:
+              - /url: /the-north-face-x-b768
+          - listitem [ref=f9e594]:
+            - link "Beymen" [ref=f9e595] [cursor=pointer]:
+              - /url: /beymen-x-b1227
+          - listitem [ref=f9e596]:
+            - link "Columbia" [ref=f9e597] [cursor=pointer]:
+              - /url: /columbia-x-b156
+          - listitem [ref=f9e598]:
+            - link "Samsung" [ref=f9e599] [cursor=pointer]:
+              - /url: /samsung-x-b794
+          - listitem [ref=f9e600]:
+            - link "Lumberjack" [ref=f9e601] [cursor=pointer]:
+              - /url: /lumberjack-x-b318
+          - listitem [ref=f9e602]:
+            - link "Puma" [ref=f9e603] [cursor=pointer]:
+              - /url: /puma-x-b160
+          - listitem [ref=f9e604]:
+            - link "Mudo" [ref=f9e605] [cursor=pointer]:
+              - /url: /mudo-x-b137
+          - listitem [ref=f9e606]:
+            - link "Derimod" [ref=f9e607] [cursor=pointer]:
+              - /url: /derimod-x-b131
+          - listitem [ref=f9e608]:
+            - link "Apple" [ref=f9e609] [cursor=pointer]:
+              - /url: /apple-x-b101470
+          - listitem [ref=f9e610]:
+            - link "New Balance" [ref=f9e611] [cursor=pointer]:
+              - /url: /new-balance-x-b128
+          - listitem [ref=f9e612]:
+            - link "Huawei" [ref=f9e613] [cursor=pointer]:
+              - /url: /huawei-x-b103505
+          - listitem [ref=f9e614]:
+            - link "Xiaomi" [ref=f9e615] [cursor=pointer]:
+              - /url: /xiaomi-x-b101939
+          - listitem [ref=f9e616]:
+            - link "Oppo" [ref=f9e617] [cursor=pointer]:
+              - /url: /oppo-x-b109251
+          - listitem [ref=f9e618]:
+            - link "Monster Notebook" [ref=f9e619] [cursor=pointer]:
+              - /url: /monster-laptop-x-b105536-c103108
+          - listitem [ref=f9e620]:
+            - link "Birkenstock" [ref=f9e621] [cursor=pointer]:
+              - /url: /birkenstock-x-b144
+          - listitem [ref=f9e622]:
+            - link "Arçelik" [ref=f9e623] [cursor=pointer]:
+              - /url: /arcelik-x-b626
+          - listitem [ref=f9e624]:
+            - link "DYSON" [ref=f9e625] [cursor=pointer]:
+              - /url: /dyson-x-b102989
+          - listitem [ref=f9e626]:
+            - link "Adidas" [ref=f9e627] [cursor=pointer]:
+              - /url: /adidas-x-b33
+          - listitem [ref=f9e628]:
+            - link "Nike" [ref=f9e629] [cursor=pointer]:
+              - /url: /nike-x-b44
+          - listitem [ref=f9e630]:
+            - link "Skechers" [ref=f9e631] [cursor=pointer]:
+              - /url: /skechers-x-b658
+          - listitem [ref=f9e632]:
+            - link "Lacoste" [ref=f9e633] [cursor=pointer]:
+              - /url: /lacoste-x-b138
+          - listitem [ref=f9e634]:
+            - link "Avva" [ref=f9e635] [cursor=pointer]:
+              - /url: /avva-x-b257
+          - listitem [ref=f9e636]:
+            - link "Under Armour" [ref=f9e637] [cursor=pointer]:
+              - /url: /under-armour-x-b104189
+          - listitem [ref=f9e638]:
+            - link "Madame Coco" [ref=f9e639] [cursor=pointer]:
+              - /url: /madame-coco-x-b52
+          - listitem [ref=f9e640]:
+            - link "Pull & Bear" [ref=f9e641] [cursor=pointer]:
+              - /url: /pull-bear-x-b592
+          - listitem [ref=f9e642]:
+            - link "Koton" [ref=f9e643] [cursor=pointer]:
+              - /url: /koton-x-b38
+          - listitem [ref=f9e644]:
+            - link "Defacto" [ref=f9e645] [cursor=pointer]:
+              - /url: /defacto-x-b37
+          - listitem [ref=f9e646]:
+            - link "Mavi" [ref=f9e647] [cursor=pointer]:
+              - /url: /mavi-x-b43
+          - listitem [ref=f9e648]:
+            - link "Pierre Cardin" [ref=f9e649] [cursor=pointer]:
+              - /url: /pierre-cardin-x-b122
+          - listitem [ref=f9e650]:
+            - link "Tchibo" [ref=f9e651] [cursor=pointer]:
+              - /url: /tchibo-x-b993
+          - listitem [ref=f9e652]:
+            - link "Farmasi" [ref=f9e653] [cursor=pointer]:
+              - /url: /farmasi-x-b102841
+          - listitem [ref=f9e654]:
+            - link "Helly Hansen" [ref=f9e655] [cursor=pointer]:
+              - /url: /helly-hansen-x-b103495
+          - listitem [ref=f9e656]:
+            - link "Network" [ref=f9e657] [cursor=pointer]:
+              - /url: /network-x-b149
+          - listitem [ref=f9e658]:
+            - link "Bosch" [ref=f9e659] [cursor=pointer]:
+              - /url: /bosch-x-b786
+          - listitem [ref=f9e660]:
+            - link "Karaca" [ref=f9e661] [cursor=pointer]:
+              - /url: /karaca-x-b325
+          - listitem [ref=f9e662]:
+            - link "Kiğılı" [ref=f9e663] [cursor=pointer]:
+              - /url: /kigili-x-b234
+          - listitem [ref=f9e664]:
+            - link "Migros" [ref=f9e665] [cursor=pointer]:
+              - /url: /migros-x-b108894
+          - listitem [ref=f9e666]:
+            - link "CAT" [ref=f9e667] [cursor=pointer]:
+              - /url: /cat-x-b195
+      - generic [ref=f9e668]:
+        - strong [ref=f9e670]: Popüler Sayfalar
+        - list [ref=f9e671]:
+          - listitem [ref=f9e672]:
+            - link "Sevgiliye Hediye Kutusu" [ref=f9e673] [cursor=pointer]:
+              - /url: /sevgiliye-hediye-kutusu-y-s45074
+          - listitem [ref=f9e674]:
+            - link "iPhone" [ref=f9e675] [cursor=pointer]:
+              - /url: /apple-cep-telefonu-x-b101470-c103498
+          - listitem [ref=f9e676]:
+            - link "Samsung Cep Telefonu" [ref=f9e677] [cursor=pointer]:
+              - /url: /samsung-cep-telefonu-x-b794-c103498
+          - listitem [ref=f9e678]:
+            - link "Azerbaycan'dan Alışveriş" [ref=f9e679] [cursor=pointer]:
+              - /url: /s/azerbaycandan-alisveris-az
+          - listitem [ref=f9e680]:
+            - link "Anneler Günü Hediyesi" [ref=f9e681] [cursor=pointer]:
+              - /url: /anneler-gunu-hediyesi-y-s1031570
+          - listitem [ref=f9e682]:
+            - link "Robot Süpürge" [ref=f9e683] [cursor=pointer]:
+              - /url: /robot-supurge-x-c109453
+          - listitem [ref=f9e684]:
+            - link "2026 Öğrenci İndirimi" [ref=f9e685] [cursor=pointer]:
+              - /url: /s/ogrenci-indirimi
+          - listitem [ref=f9e686]:
+            - link "iPhone 15" [ref=f9e687] [cursor=pointer]:
+              - /url: /iphone-15-cep-telefonu-x-c103498-a292-v1218519
+          - listitem [ref=f9e688]:
+            - link "iPhone 15 Plus" [ref=f9e689] [cursor=pointer]:
+              - /url: /iphone-15-plus-cep-telefonu-x-c103498-a292-v1218521
+          - listitem [ref=f9e690]:
+            - link "iPhone 15 Pro" [ref=f9e691] [cursor=pointer]:
+              - /url: /iphone-15-pro-cep-telefonu-x-c103498-a292-v1218520
+          - listitem [ref=f9e692]:
+            - link "iPhone 15 Pro Max" [ref=f9e693] [cursor=pointer]:
+              - /url: /iphone-15-pro-max-cep-telefonu-x-c103498-a292-v1218522
+          - listitem [ref=f9e694]:
+            - link "Sevgiliye Çikolata Kutusu" [ref=f9e695] [cursor=pointer]:
+              - /url: /sevgiliye-cikolata-kutusu-y-s116664
+          - listitem [ref=f9e696]:
+            - link "Influencer Koleksiyonları" [ref=f9e697] [cursor=pointer]:
+              - /url: /s/influencer-koleksiyonlari
+          - listitem [ref=f9e698]:
+            - link "Hesaplama Araçları" [ref=f9e699] [cursor=pointer]:
+              - /url: /s/hesaplama-araclari
+          - listitem [ref=f9e700]:
+            - link "iPhone 16 Pro Max" [ref=f9e701] [cursor=pointer]:
+              - /url: /apple/iphone-16-pro-max-256gb-siyah-titanyum-p-857296077
+          - listitem [ref=f9e702]:
+            - link "iPhone 16 Pro" [ref=f9e703] [cursor=pointer]:
+              - /url: /iphone-16-pro-cep-telefonu-x-c103498-a292-v10577551
+          - listitem [ref=f9e704]:
+            - link "iPhone 16 Plus" [ref=f9e705] [cursor=pointer]:
+              - /url: /iphone-16-plus-cep-telefonu-x-c103498-a292-v10591876
+          - listitem [ref=f9e706]:
+            - link "iPhone 16" [ref=f9e707] [cursor=pointer]:
+              - /url: /iphone-16-cep-telefonu-x-c103498-a292-v10577547
+          - listitem [ref=f9e708]:
+            - link "Apple Watch Series 9" [ref=f9e709] [cursor=pointer]:
+              - /url: /apple-watch-series-9-y-s36312
+          - listitem [ref=f9e710]:
+            - link "Televizyon" [ref=f9e711] [cursor=pointer]:
+              - /url: /televizyon-x-c104156
+          - listitem [ref=f9e712]:
+            - link "Kahve Makinesi" [ref=f9e713] [cursor=pointer]:
+              - /url: /kahve-makinesi-x-c1079
+          - listitem [ref=f9e714]:
+            - link "Sevgililer Günü Hediyesi" [ref=f9e715] [cursor=pointer]:
+              - /url: /sevgililer-gunu-hediyesi-y-s39350
+          - listitem [ref=f9e716]:
+            - link "Romantik Hediyeler" [ref=f9e717] [cursor=pointer]:
+              - /url: /romantik-hediyeler-y-s45723
+          - listitem [ref=f9e718]:
+            - link "Elbise" [ref=f9e719] [cursor=pointer]:
+              - /url: /elbise-x-c56
+          - listitem [ref=f9e720]:
+            - link "Popüler Aramalar" [ref=f9e721] [cursor=pointer]:
+              - /url: /s/populer-aramalar
+          - listitem [ref=f9e722]:
+            - link "Popüler Sayfalar" [ref=f9e723] [cursor=pointer]:
+              - /url: /s/populer-sayfalar
+          - listitem [ref=f9e724]:
+            - link "Samsung Galaxy S26" [ref=f9e725] [cursor=pointer]:
+              - /url: /samsung-galaxy-s26-cep-telefonu-x-c103498-a292-v10648568
+          - listitem [ref=f9e726]:
+            - link "Samsung Galaxy S26 Ultra" [ref=f9e727] [cursor=pointer]:
+              - /url: /samsung-galaxy-s26-ultra-cep-telefonu-x-c103498-a292-v10650306
+          - listitem [ref=f9e728]:
+            - link "Trendyol Blog" [ref=f9e729] [cursor=pointer]:
+              - /url: /s/blog
+          - listitem [ref=f9e730]:
+            - link "Markalar" [ref=f9e731] [cursor=pointer]:
+              - /url: /s/markalar
+          - listitem [ref=f9e732]:
+            - link "iPhone 17" [ref=f9e733] [cursor=pointer]:
+              - /url: /iphone-17-cep-telefonu-x-c103498-a292-v10632549
+          - listitem [ref=f9e734]:
+            - link "iPhone 17 Air" [ref=f9e735] [cursor=pointer]:
+              - /url: /iphone-17-air-cep-telefonu-x-c103498-a292-v10632550
+          - listitem [ref=f9e736]:
+            - link "iPhone 17 Pro" [ref=f9e737] [cursor=pointer]:
+              - /url: /iphone-17-pro-cep-telefonu-x-c103498-a292-v10632551
+          - listitem [ref=f9e738]:
+            - link "iPhone 17 Pro Max" [ref=f9e739] [cursor=pointer]:
+              - /url: /iphone-17-pro-max-cep-telefonu-x-c103498-a292-v10632552
+          - listitem [ref=f9e740]:
+            - link "Samsung Galaxy S25" [ref=f9e741] [cursor=pointer]:
+              - /url: /samsung-galaxy-s25-android-cep-telefonu-x-c164461-a292-v10621056
+          - listitem [ref=f9e742]:
+            - link "Samsung Galaxy S25 Ultra" [ref=f9e743] [cursor=pointer]:
+              - /url: /samsung-galaxy-s25-ultra-cep-telefonu-x-c103498-a292-v10621058
+          - listitem [ref=f9e744]:
+            - link "Samsung Galaxy Z Flip 7" [ref=f9e745] [cursor=pointer]:
+              - /url: /galaxy-z-flip-7-cep-telefonu-x-c103498-a292-v10631459
+          - listitem [ref=f9e746]:
+            - link "Samsung Galaxy Z Fold 7" [ref=f9e747] [cursor=pointer]:
+              - /url: /galaxy-z-fold-7-cep-telefonu-x-c103498-a292-v10631458
+          - listitem [ref=f9e748]:
+            - link "Trendyol Romanian" [ref=f9e749] [cursor=pointer]:
+              - /url: /ro
+          - listitem [ref=f9e750]:
+            - link "Trendyol Bulgaria" [ref=f9e751] [cursor=pointer]:
+              - /url: /bg
+          - listitem [ref=f9e752]:
+            - link "Trendyol Arabic" [ref=f9e753] [cursor=pointer]:
+              - /url: /ar
+          - listitem [ref=f9e754]:
+            - link "Trendyol Greece" [ref=f9e755] [cursor=pointer]:
+              - /url: /el
+          - listitem [ref=f9e756]:
+            - link "Trendyol Serbia" [ref=f9e757] [cursor=pointer]:
+              - /url: /rs
+          - listitem [ref=f9e758]:
+            - link "Orijinallik Takip Sistemi" [ref=f9e759] [cursor=pointer]:
+              - /url: /s/trendyol-orijinallik-takip-sistemi
+          - listitem [ref=f9e760]:
+            - link "Alibaba.com" [ref=f9e761] [cursor=pointer]:
+              - /url: https://turkish.alibaba.com
+  - contentinfo [ref=f9e762]:
+    - generic [ref=f9e764]:
+      - generic [ref=f9e766]:
+        - generic [ref=f9e767]:
+          - generic [ref=f9e768]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f9e773] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f9e775] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f9e777] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f9e779] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f9e781] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f9e782]:
+          - generic [ref=f9e783]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f9e788] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f9e790] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f9e792] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f9e793]:
+          - link "Satıcı" [ref=f9e796] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f9e800] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f9e802] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f9e804] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f9e805]:
+          - generic [ref=f9e806]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f9e811] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f9e813] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f9e815] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f9e817] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f9e818]:
+          - generic [ref=f9e819]:
+            - link "Ülke Değiştir" [ref=f9e822] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f9e823] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f9e824]
+              - generic [ref=f9e825]: Ülke Seç
+          - generic [ref=f9e826]: Güvenli Alışveriş
+          - generic [ref=f9e830]:
+            - generic [ref=f9e831]: Güvenlik Sertifikası
+            - generic [ref=f9e833]:
+              - link [ref=f9e834] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f9e836]
+              - link [ref=f9e837] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f9e839]
+              - img "PCI DSS" [ref=f9e841]
+              - img "information security standard" [ref=f9e843]
+      - generic [ref=f9e846]:
+        - generic [ref=f9e847]:
+          - generic [ref=f9e848]:
+            - link "instagram-icon" [ref=f9e849] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f9e850]
+            - link "tiktok-icon" [ref=f9e851] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f9e852]
+            - link "youtube-icon" [ref=f9e853] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f9e854]
+            - link "facebook-icon" [ref=f9e855] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f9e856]
+            - link "x-icon" [ref=f9e857] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f9e858]
+          - generic [ref=f9e859]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f9e860]:
+          - generic [ref=f9e861]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f9e862]:
+            - link "Çerez Tercihleri" [ref=f9e863] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f9e864] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f9e865] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f9e866] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."

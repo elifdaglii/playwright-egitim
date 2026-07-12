@@ -1,0 +1,11 @@
+[     648ms] [LOG] Fragment Part does not exists @ https://www.trendyol.com/esrahelvaci/askili-drapeli-sifon-elbise-p-958438187?boutiqueId=61&merchantId=267844:1161
+[    1284ms] [ERROR] Props of sd-basket-highlight fragment is not present! @ https://cdn.dsmcdn.com/sfweb-checkout/master/sd-basket-highlight.bundle.b0b736e9.js:0
+[    1289ms] [ERROR] Props of web-navigation-account-menu fragment is not present! @ https://cdn.dsmcdn.com/sfweb-account-order/master/web-navigation-account-menu.bundle.0ca2f2c3.js:0
+[    1621ms] [LOG] Ring check is less than one hour 1783681125171 @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1626ms] [LOG] Ring check is less than one hour 1783681125171 @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1630ms] [LOG] Ring check is less than one hour 1783681125171 @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1662ms] [LOG] KBT "RemoveFromBasket" initialized successfully. @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    1663ms] [LOG] KBT "AddToBasket" initialized successfully. @ https://cdn.dsmcdn.com/sfx/mergen/0.12.0/errors.Do84N2pE.js:0
+[    2029ms] [WARNING] [i18n] Key "slider.more-content-indicator.aria-label" not found in any language. Attempted namespaces: default @ https://cdn.dsmcdn.com/sfweb-pdp/master/envoy.bundle.5f5be41a.js:0
+[  168833ms] [WARNING] [i18n] Key "slider.more-content-indicator.aria-label" not found in any language. Attempted namespaces: default @ https://cdn.dsmcdn.com/sfweb-pdp/master/envoy.bundle.5f5be41a.js:0
+[  170499ms] [WARNING] [i18n] Key "slider.more-content-indicator.aria-label" not found in any language. Attempted namespaces: default @ https://cdn.dsmcdn.com/sfweb-pdp/master/envoy.bundle.5f5be41a.js:0

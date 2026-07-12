@@ -1,0 +1,124 @@
+- generic [active] [ref=f13e1]:
+  - banner [ref=f13e2]:
+    - generic [ref=f13e6]:
+      - generic [ref=f13e7] [cursor=pointer]:
+        - button "Menu" [ref=f13e8]
+        - link "Trendyol" [ref=f13e10]:
+          - /url: /
+      - button "Search icon Ürün, kategori veya marka ara" [ref=f13e14]:
+        - img "Search icon" [ref=f13e15]
+        - generic [ref=f13e16]: Ürün, kategori veya marka ara
+      - generic [ref=f13e17]:
+        - link "Giriş Yap" [ref=f13e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsepet
+        - link "Favorilerim" [ref=f13e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f13e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f13e30]
+  - contentinfo [ref=f13e58]:
+    - generic [ref=f13e60]:
+      - generic [ref=f13e62]:
+        - generic [ref=f13e63]:
+          - generic [ref=f13e64]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f13e69] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f13e71] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f13e73] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f13e75] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f13e77] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f13e78]:
+          - generic [ref=f13e79]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f13e84] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f13e86] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f13e88] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f13e89]:
+          - link "Satıcı" [ref=f13e92] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f13e96] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f13e98] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f13e100] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f13e101]:
+          - generic [ref=f13e102]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f13e107] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f13e109] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f13e111] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f13e113] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f13e114]:
+          - generic [ref=f13e115]:
+            - link "Ülke Değiştir" [ref=f13e118] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f13e119] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f13e120]
+              - generic [ref=f13e121]: Ülke Seç
+          - generic [ref=f13e122]: Güvenli Alışveriş
+          - generic [ref=f13e130]:
+            - generic [ref=f13e131]: Güvenlik Sertifikası
+            - generic [ref=f13e133]:
+              - link [ref=f13e134] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f13e136]
+              - link [ref=f13e137] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f13e139]
+              - img "PCI DSS" [ref=f13e141]
+              - img "information security standard" [ref=f13e143]
+      - generic [ref=f13e146]:
+        - generic [ref=f13e147]:
+          - generic [ref=f13e148]:
+            - link "instagram-icon" [ref=f13e149] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f13e150]
+            - link "tiktok-icon" [ref=f13e151] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f13e152]
+            - link "youtube-icon" [ref=f13e153] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f13e154]
+            - link "facebook-icon" [ref=f13e155] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f13e156]
+            - link "x-icon" [ref=f13e157] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f13e158]
+          - generic [ref=f13e159]:
+            - link [ref=f13e160] [cursor=pointer]:
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store" [ref=f13e161]
+            - link [ref=f13e162] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play" [ref=f13e163]
+            - link [ref=f13e164] [cursor=pointer]:
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery" [ref=f13e165]
+        - generic [ref=f13e166]:
+          - generic [ref=f13e167]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f13e168]:
+            - link "Çerez Tercihleri" [ref=f13e169] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f13e170] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f13e171] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f13e172] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."

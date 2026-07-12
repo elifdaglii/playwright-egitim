@@ -1,0 +1,873 @@
+- generic [active] [ref=f7e1]:
+  - banner [ref=f7e2]:
+    - generic [ref=f7e6]:
+      - generic [ref=f7e7] [cursor=pointer]:
+        - button "Menu" [ref=f7e8]
+        - link "Trendyol" [ref=f7e10]:
+          - /url: /
+      - button "Search icon zzzxxxyyy123" [ref=f7e14]:
+        - img "Search icon" [ref=f7e15]
+        - generic [ref=f7e16]: zzzxxxyyy123
+      - generic [ref=f7e17]:
+        - link "Giriş Yap" [ref=f7e19] [cursor=pointer]:
+          - /url: /giris?cb=%2Fsr%3Fq%3Dzzzxxxyyy123
+        - link "Favorilerim" [ref=f7e22] [cursor=pointer]:
+          - /url: /hesabim/favoriler
+        - link "Sepetim" [ref=f7e26] [cursor=pointer]:
+          - /url: /sepetim
+  - main [ref=f7e30]:
+    - generic [ref=f7e36]:
+      - generic [ref=f7e38]:
+        - heading "Zzzxxxyyy123" [level=1] [ref=f7e39]
+        - generic [ref=f7e40]: 198+ Ürün
+      - button "Önerilen Sıralama sıralama" [ref=f7e50] [cursor=pointer]:
+        - generic [ref=f7e51]: Önerilen Sıralama
+        - img "sıralama" [ref=f7e52]
+      - generic [ref=f7e53]: Aradığın ürün bulunamadı. Aşağıdakiler ilgini çekebilir.
+      - generic [ref=f7e59]:
+        - link "ZİESCE Kadın Altın Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı Damga Favorilere Ekle 3 renk seçeneği Fenomen Seçimi ZİESCE Kadın Altın Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı 🧡 9,1B kişi favoriledi! 4.2 (48) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.011,74 TL" [ref=f7e60] [cursor=pointer]:
+          - /url: /ziesce/kadin-altin-ayna-tek-bant-platform-topuklu-sandalet-abiye-ayakkabi-p-682711304?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e61]:
+            - img "ZİESCE Kadın Altın Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı" [ref=f7e63]
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e69]
+                  - button "3 renk seçeneği" [ref=f7e71]:
+                    - generic [ref=f7e72]: "3"
+              - generic: Fenomen Seçimi
+          - generic [ref=f7e73]:
+            - heading "ZİESCE Kadın Altın Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı" [level=2] [ref=f7e74]:
+              - generic [ref=f7e75]:
+                - text: ZİESCE
+                - generic [ref=f7e76]: Kadın Altın Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı
+            - generic [ref=f7e80]:
+              - generic [ref=f7e81]: 🧡
+              - generic [ref=f7e82]: 9,1B kişi favoriledi!
+            - generic [ref=f7e83]:
+              - generic [ref=f7e84]: "4.2"
+              - generic [ref=f7e106]: (48)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e107]
+            - generic [ref=f7e108]:
+              - generic [ref=f7e110]:
+                - generic [ref=f7e111]: Kargo Bedava
+                - generic [ref=f7e116]: Kupon Fırsatı
+                - generic [ref=f7e121]: Kargo Bedava
+              - generic [ref=f7e126]: 1.011,74 TL
+        - link "ZİESCE Bej Topuklu Stilletto Ayakkabı Damga Favorilere Ekle ZİESCE Bej Topuklu Stilletto Ayakkabı 🧡 6,4B kişi favoriledi! 4.1 (130) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı -%27 651,58 TL 900 TL" [ref=f7e128] [cursor=pointer]:
+          - /url: /ziesce/bej-topuklu-stilletto-ayakkabi-p-647739506?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e129]:
+            - img "ZİESCE Bej Topuklu Stilletto Ayakkabı" [ref=f7e131]
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - button "Favorilere Ekle" [ref=f7e137]
+          - generic [ref=f7e139]:
+            - heading "ZİESCE Bej Topuklu Stilletto Ayakkabı" [level=2] [ref=f7e140]:
+              - generic [ref=f7e141]:
+                - text: ZİESCE
+                - generic [ref=f7e142]: Bej Topuklu Stilletto Ayakkabı
+            - generic [ref=f7e146]:
+              - generic [ref=f7e147]: 🧡
+              - generic [ref=f7e148]: 6,4B kişi favoriledi!
+            - generic [ref=f7e149]:
+              - generic [ref=f7e150]: "4.1"
+              - generic [ref=f7e172]: (130)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e173]
+            - generic [ref=f7e174]:
+              - generic [ref=f7e176]:
+                - paragraph [ref=f7e179]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e180]: Kargo Bedava
+                - generic [ref=f7e185]: Kupon Fırsatı
+                - paragraph [ref=f7e192]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e194]:
+                - paragraph [ref=f7e196]: "-%27"
+                - generic [ref=f7e197]: 651,58 TL
+                - generic [ref=f7e198]: 900 TL
+        - link "ZİESCE Kadın Beyaz Cilt Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik Damga Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın Beyaz Cilt Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik 🧡 305 kişi favoriledi! 4.6 (8) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı Yüksek indirim rozeti -%48 665,75 TL 1.300 TL" [ref=f7e199] [cursor=pointer]:
+          - /url: /ziesce/kadin-beyaz-cilt-gold-toka-cift-bantli-ayarlanabilir-tokali-gunluk-terlik-p-825826003?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e200]:
+            - img "ZİESCE Kadın Beyaz Cilt Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik" [ref=f7e202]
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e208]
+                  - button "5 renk seçeneği" [ref=f7e210]:
+                    - generic [ref=f7e211]: "5"
+          - generic [ref=f7e212]:
+            - heading "ZİESCE Kadın Beyaz Cilt Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik" [level=2] [ref=f7e213]:
+              - generic [ref=f7e214]:
+                - text: ZİESCE
+                - generic [ref=f7e215]: Kadın Beyaz Cilt Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik
+            - generic [ref=f7e219]:
+              - generic [ref=f7e220]: 🧡
+              - generic [ref=f7e221]: 305 kişi favoriledi!
+            - generic [ref=f7e222]:
+              - generic [ref=f7e223]: "4.6"
+              - generic [ref=f7e245]: (8)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e246]
+            - generic [ref=f7e247]:
+              - generic [ref=f7e249]:
+                - paragraph [ref=f7e252]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e253]: Kargo Bedava
+                - generic [ref=f7e258]: Kupon Fırsatı
+                - paragraph [ref=f7e265]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e267]:
+                - generic [ref=f7e268]:
+                  - img "Yüksek indirim rozeti" [ref=f7e269]
+                  - paragraph [ref=f7e270]: "-%48"
+                - generic [ref=f7e271]: 665,75 TL
+                - generic [ref=f7e272]: 1.300 TL
+        - link "ZİESCE KADIN BEJ SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI Damga Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN BEJ SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI 🧡 362 kişi favoriledi! 4.5 (2) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.551,77 TL" [ref=f7e273] [cursor=pointer]:
+          - /url: /ziesce/kadin-bej-suet-arkasi-acik-sivri-burun-alcak-topuklu-stiletto-ayakkabi-p-1105935597?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e274]:
+            - img "ZİESCE KADIN BEJ SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI" [ref=f7e276]
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e282]
+                  - button "3 renk seçeneği" [ref=f7e284]:
+                    - generic [ref=f7e285]: "3"
+          - generic [ref=f7e286]:
+            - heading "ZİESCE KADIN BEJ SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI" [level=2] [ref=f7e287]:
+              - generic [ref=f7e288]:
+                - text: ZİESCE
+                - generic [ref=f7e289]: KADIN BEJ SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI
+            - generic [ref=f7e293]:
+              - generic [ref=f7e294]: 🧡
+              - generic [ref=f7e295]: 362 kişi favoriledi!
+            - generic [ref=f7e296]:
+              - generic [ref=f7e297]: "4.5"
+              - generic [ref=f7e319]: (2)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e320]
+            - generic [ref=f7e321]:
+              - generic [ref=f7e323]:
+                - generic [ref=f7e324]: Kargo Bedava
+                - generic [ref=f7e329]: Kupon Fırsatı
+                - generic [ref=f7e334]: Kargo Bedava
+              - generic [ref=f7e339]: 1.551,77 TL
+        - link "ZİESCE Kadın Gümüş Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı Favorilere Ekle 3 renk seçeneği Fenomen Seçimi ZİESCE Kadın Gümüş Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı 🧡 9,9B kişi favoriledi! 4.1 (54) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.007,22 TL" [ref=f7e341] [cursor=pointer]:
+          - /url: /ziesce/kadin-gumus-ayna-tek-bant-platform-topuklu-sandalet-abiye-ayakkabi-p-683037446?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e342]:
+            - img "ZİESCE Kadın Gümüş Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı" [ref=f7e344]
+            - generic:
+              - generic:
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e350]
+                  - button "3 renk seçeneği" [ref=f7e352]:
+                    - generic [ref=f7e353]: "3"
+              - generic: Fenomen Seçimi
+          - generic [ref=f7e354]:
+            - heading "ZİESCE Kadın Gümüş Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı" [level=2] [ref=f7e355]:
+              - generic [ref=f7e356]:
+                - text: ZİESCE
+                - generic [ref=f7e357]: Kadın Gümüş Ayna Tek Bant Platform Topuklu Sandalet Abiye Ayakkabı
+            - generic [ref=f7e361]:
+              - generic [ref=f7e362]: 🧡
+              - generic [ref=f7e363]: 9,9B kişi favoriledi!
+            - generic [ref=f7e364]:
+              - generic [ref=f7e365]: "4.1"
+              - generic [ref=f7e387]: (54)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e388]
+            - generic [ref=f7e389]:
+              - generic [ref=f7e391]:
+                - generic [ref=f7e392]: Kargo Bedava
+                - generic [ref=f7e397]: Kupon Fırsatı
+                - generic [ref=f7e402]: Kargo Bedava
+              - generic [ref=f7e407]: 1.007,22 TL
+        - link "ZİESCE Kadın SİYAH Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Te... Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın SİYAH Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik Nubuk Kısa Topuklu (1- 4 cm) 2.0 (1) Kargo Bedava Kupon Fırsatı Kargo Bedava 699,90 TL" [ref=f7e409] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-nubuk-gold-toka-cift-bantli-ayarlanabilir-tokali-gunluk-terlik-p-848195753?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e410]:
+            - img "ZİESCE Kadın SİYAH Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Te..." [ref=f7e412]
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e418]
+                  - button "5 renk seçeneği" [ref=f7e420]:
+                    - generic [ref=f7e421]: "5"
+          - generic [ref=f7e422]:
+            - heading "ZİESCE Kadın SİYAH Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik" [level=2] [ref=f7e423]:
+              - generic [ref=f7e424]:
+                - text: ZİESCE
+                - generic [ref=f7e425]: Kadın SİYAH Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik
+            - generic [ref=f7e427]:
+              - generic [ref=f7e428]: Nubuk
+              - generic [ref=f7e430]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e432]:
+              - generic [ref=f7e433]: "2.0"
+              - generic [ref=f7e452]: (1)
+            - generic [ref=f7e453]:
+              - generic [ref=f7e455]:
+                - generic [ref=f7e456]: Kargo Bedava
+                - generic [ref=f7e461]: Kupon Fırsatı
+                - generic [ref=f7e466]: Kargo Bedava
+              - generic [ref=f7e471]: 699,90 TL
+        - link "ZİESCE Kadın Siyah Ince Tek Bant Topuklu Sandalet Ayakkabı Favorilere Ekle 3 renk seçeneği ZİESCE Kadın Siyah Ince Tek Bant Topuklu Sandalet Ayakkabı 🧡 1,6B kişi favoriledi! 3.8 (22) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.013,98 TL" [ref=f7e473] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-ince-tek-bant-topuklu-sandalet-ayakkabi-p-672461194?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e474]:
+            - generic:
+              - img "ZİESCE Kadın Siyah Ince Tek Bant Topuklu Sandalet Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e480]
+                  - button "3 renk seçeneği" [ref=f7e482]:
+                    - generic [ref=f7e483]: "3"
+          - generic [ref=f7e484]:
+            - heading "ZİESCE Kadın Siyah Ince Tek Bant Topuklu Sandalet Ayakkabı" [level=2] [ref=f7e485]:
+              - generic [ref=f7e486]:
+                - text: ZİESCE
+                - generic [ref=f7e487]: Kadın Siyah Ince Tek Bant Topuklu Sandalet Ayakkabı
+            - generic [ref=f7e491]:
+              - generic [ref=f7e492]: 🧡
+              - generic [ref=f7e493]: 1,6B kişi favoriledi!
+            - generic [ref=f7e494]:
+              - generic [ref=f7e495]: "3.8"
+              - generic [ref=f7e516]: (22)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e517]
+            - generic [ref=f7e518]:
+              - generic [ref=f7e520]:
+                - generic [ref=f7e521]: Kargo Bedava
+                - generic [ref=f7e526]: Kupon Fırsatı
+                - generic [ref=f7e531]: Kargo Bedava
+              - generic [ref=f7e536]: 1.013,98 TL
+        - link "ZİESCE Siyah Topuklu Sitiletto Ayakkabı Favorilere Ekle 12 renk seçeneği Fenomen Seçimi ZİESCE Siyah Topuklu Sitiletto Ayakkabı 🧡 26,5B kişi favoriledi! 4.4 (536) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 900 TL" [ref=f7e538] [cursor=pointer]:
+          - /url: /ziesce/siyah-topuklu-sitiletto-ayakkabi-p-647390966?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e539]:
+            - generic:
+              - img "ZİESCE Siyah Topuklu Sitiletto Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e545]
+                  - button "12 renk seçeneği" [ref=f7e547]:
+                    - generic [ref=f7e548]: "12"
+              - generic: Fenomen Seçimi
+          - generic [ref=f7e549]:
+            - heading "ZİESCE Siyah Topuklu Sitiletto Ayakkabı" [level=2] [ref=f7e550]:
+              - generic [ref=f7e551]:
+                - text: ZİESCE
+                - generic [ref=f7e552]: Siyah Topuklu Sitiletto Ayakkabı
+            - generic [ref=f7e556]:
+              - generic [ref=f7e557]: 🧡
+              - generic [ref=f7e558]: 26,5B kişi favoriledi!
+            - generic [ref=f7e559]:
+              - generic [ref=f7e560]: "4.4"
+              - generic [ref=f7e582]: (536)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e583]
+            - generic [ref=f7e584]:
+              - generic [ref=f7e586]:
+                - generic [ref=f7e587]: Kargo Bedava
+                - generic [ref=f7e592]: Kupon Fırsatı
+                - generic [ref=f7e597]: Kargo Bedava
+              - generic [ref=f7e602]: 900 TL
+        - link "ZİESCE Kadın Taba Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın Taba Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik 🧡 569 kişi favoriledi! 4.1 (9) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.300 TL" [ref=f7e604] [cursor=pointer]:
+          - /url: /ziesce/kadin-taba-nubuk-gold-toka-cift-bantli-ayarlanabilir-tokali-gunluk-terlik-p-825824920?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e605]:
+            - generic:
+              - img "ZİESCE Kadın Taba Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e611]
+                  - button "5 renk seçeneği" [ref=f7e613]:
+                    - generic [ref=f7e614]: "5"
+          - generic [ref=f7e615]:
+            - heading "ZİESCE Kadın Taba Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik" [level=2] [ref=f7e616]:
+              - generic [ref=f7e617]:
+                - text: ZİESCE
+                - generic [ref=f7e618]: Kadın Taba Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik
+            - generic [ref=f7e622]:
+              - generic [ref=f7e623]: 🧡
+              - generic [ref=f7e624]: 569 kişi favoriledi!
+            - generic [ref=f7e625]:
+              - generic [ref=f7e626]: "4.1"
+              - generic [ref=f7e648]: (9)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e649]
+            - generic [ref=f7e650]:
+              - generic [ref=f7e652]:
+                - generic [ref=f7e653]: Kargo Bedava
+                - generic [ref=f7e658]: Kupon Fırsatı
+                - generic [ref=f7e663]: Kargo Bedava
+              - generic [ref=f7e668]: 1.300 TL
+        - link "ZİESCE Kot Buz Mavi Topuklu Dekolte Stiletto Ayakkabı Favorilere Ekle 2 renk seçeneği Videolu Ürün ZİESCE Kot Buz Mavi Topuklu Dekolte Stiletto Ayakkabı 🧡 1,8B kişi favoriledi! 4.7 (24) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.031,60 TL" [ref=f7e670] [cursor=pointer]:
+          - /url: /ziesce/kot-buz-mavi-topuklu-dekolte-stiletto-ayakkabi-p-683894119?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e671]:
+            - generic:
+              - img "ZİESCE Kot Buz Mavi Topuklu Dekolte Stiletto Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e677]
+                  - button "2 renk seçeneği" [ref=f7e679]:
+                    - generic [ref=f7e680]: "2"
+              - generic: Videolu Ürün
+          - generic [ref=f7e681]:
+            - heading "ZİESCE Kot Buz Mavi Topuklu Dekolte Stiletto Ayakkabı" [level=2] [ref=f7e682]:
+              - generic [ref=f7e683]:
+                - text: ZİESCE
+                - generic [ref=f7e684]: Kot Buz Mavi Topuklu Dekolte Stiletto Ayakkabı
+            - generic [ref=f7e688]:
+              - generic [ref=f7e689]: 🧡
+              - generic [ref=f7e690]: 1,8B kişi favoriledi!
+            - generic [ref=f7e691]:
+              - generic [ref=f7e692]: "4.7"
+              - generic [ref=f7e714]: (24)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e715]
+            - generic [ref=f7e716]:
+              - generic [ref=f7e718]:
+                - generic [ref=f7e719]: Kargo Bedava
+                - generic [ref=f7e724]: Kupon Fırsatı
+                - generic [ref=f7e729]: Kargo Bedava
+              - generic [ref=f7e734]: 1.031,60 TL
+        - link "ZİESCE KADIN KAHVE SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN KAHVE SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI 🧡 571 kişi favoriledi! 5.0 (1) Kargo Bedava 130 TL Kupon Kargo Bedava 3.500 TL" [ref=f7e736] [cursor=pointer]:
+          - /url: /ziesce/kadin-kahve-suet-arkasi-acik-sivri-burun-alcak-topuklu-stiletto-ayakkabi-p-1105932812?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e737]:
+            - generic:
+              - img "ZİESCE KADIN KAHVE SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e743]
+                  - button "3 renk seçeneği" [ref=f7e745]:
+                    - generic [ref=f7e746]: "3"
+          - generic [ref=f7e747]:
+            - heading "ZİESCE KADIN KAHVE SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI" [level=2] [ref=f7e748]:
+              - generic [ref=f7e749]:
+                - text: ZİESCE
+                - generic [ref=f7e750]: KADIN KAHVE SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI
+            - generic [ref=f7e754]:
+              - generic [ref=f7e755]: 🧡
+              - generic [ref=f7e756]: 571 kişi favoriledi!
+            - generic [ref=f7e757]:
+              - generic [ref=f7e758]: "5.0"
+              - generic [ref=f7e780]: (1)
+            - generic [ref=f7e781]:
+              - generic [ref=f7e783]:
+                - generic [ref=f7e784]: Kargo Bedava
+                - generic [ref=f7e789]: 130 TL Kupon
+                - generic [ref=f7e794]: Kargo Bedava
+              - generic [ref=f7e799]: 3.500 TL
+        - link "ZİESCE Kadın Beyaz Cilt Parmak Arası Yazlık Terlik Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın Beyaz Cilt Parmak Arası Yazlık Terlik Nubuk Kısa Topuklu (1- 4 cm) 4.3 (3) Kargo Bedava Kupon Fırsatı Kargo Bedava 1.300 TL" [ref=f7e801] [cursor=pointer]:
+          - /url: /ziesce/kadin-beyaz-cilt-parmak-arasi-yazlik-terlik-p-829092237?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e802]:
+            - generic:
+              - img "ZİESCE Kadın Beyaz Cilt Parmak Arası Yazlık Terlik"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e808]
+                  - button "5 renk seçeneği" [ref=f7e810]:
+                    - generic [ref=f7e811]: "5"
+          - generic [ref=f7e812]:
+            - heading "ZİESCE Kadın Beyaz Cilt Parmak Arası Yazlık Terlik" [level=2] [ref=f7e813]:
+              - generic [ref=f7e814]:
+                - text: ZİESCE
+                - generic [ref=f7e815]: Kadın Beyaz Cilt Parmak Arası Yazlık Terlik
+            - generic [ref=f7e817]:
+              - generic [ref=f7e818]: Nubuk
+              - generic [ref=f7e820]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e822]:
+              - generic [ref=f7e823]: "4.3"
+              - generic [ref=f7e845]: (3)
+            - generic [ref=f7e846]:
+              - generic [ref=f7e848]:
+                - generic [ref=f7e849]: Kargo Bedava
+                - generic [ref=f7e854]: Kupon Fırsatı
+                - generic [ref=f7e859]: Kargo Bedava
+              - generic [ref=f7e864]: 1.300 TL
+        - link "ZİESCE KADIN SİYAH TAŞLI TOKALI DÜZ TOPUK GÜNLÜK ŞIK TERLİK Damga Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN SİYAH TAŞLI TOKALI DÜZ TOPUK GÜNLÜK ŞIK TERLİK Tekstil Kısa Topuklu (1- 4 cm) Kargo Bedava Kupon Fırsatı Kargo Bedava 1.710,42 TL" [ref=f7e866] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-tasli-tokali-duz-topuk-gunluk-sik-terlik-p-1136476434?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e867]:
+            - generic:
+              - img "ZİESCE KADIN SİYAH TAŞLI TOKALI DÜZ TOPUK GÜNLÜK ŞIK TERLİK"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e873]
+                  - button "3 renk seçeneği" [ref=f7e875]:
+                    - generic [ref=f7e876]: "3"
+          - generic [ref=f7e877]:
+            - heading "ZİESCE KADIN SİYAH TAŞLI TOKALI DÜZ TOPUK GÜNLÜK ŞIK TERLİK" [level=2] [ref=f7e878]:
+              - generic [ref=f7e879]:
+                - text: ZİESCE
+                - generic [ref=f7e880]: KADIN SİYAH TAŞLI TOKALI DÜZ TOPUK GÜNLÜK ŞIK TERLİK
+            - generic [ref=f7e882]:
+              - generic [ref=f7e883]: Tekstil
+              - generic [ref=f7e885]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e887]:
+              - generic [ref=f7e889]:
+                - generic [ref=f7e890]: Kargo Bedava
+                - generic [ref=f7e895]: Kupon Fırsatı
+                - generic [ref=f7e900]: Kargo Bedava
+              - generic [ref=f7e905]: 1.710,42 TL
+        - link "ZİESCE KADIN METALİK ALTIN TOKA DETAYLI İNCE BANTLI ŞIK TOPUKLU SANDALET Damga Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN METALİK ALTIN TOKA DETAYLI İNCE BANTLI ŞIK TOPUKLU SANDALET Suni Deri Orta Topuklu (5-9 cm) Kargo Bedava 130 TL Kupon Kargo Bedava 2.109,08 TL" [ref=f7e907] [cursor=pointer]:
+          - /url: /ziesce/kadin-metalik-altin-toka-detayli-ince-bantli-sik-topuklu-sandalet-p-1136185238?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e908]:
+            - generic:
+              - img "ZİESCE KADIN METALİK ALTIN TOKA DETAYLI İNCE BANTLI ŞIK TOPUKLU SANDALET"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e914]
+                  - button "3 renk seçeneği" [ref=f7e916]:
+                    - generic [ref=f7e917]: "3"
+          - generic [ref=f7e918]:
+            - heading "ZİESCE KADIN METALİK ALTIN TOKA DETAYLI İNCE BANTLI ŞIK TOPUKLU SANDALET" [level=2] [ref=f7e919]:
+              - generic [ref=f7e920]:
+                - text: ZİESCE
+                - generic [ref=f7e921]: KADIN METALİK ALTIN TOKA DETAYLI İNCE BANTLI ŞIK TOPUKLU SANDALET
+            - generic [ref=f7e923]:
+              - generic [ref=f7e924]: Suni Deri
+              - generic [ref=f7e926]: Orta Topuklu (5-9 cm)
+            - generic [ref=f7e928]:
+              - generic [ref=f7e930]:
+                - generic [ref=f7e931]: Kargo Bedava
+                - generic [ref=f7e936]: 130 TL Kupon
+                - generic [ref=f7e941]: Kargo Bedava
+              - generic [ref=f7e946]: 2.109,08 TL
+        - link "ZİESCE Kadın Açık Gri Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük... Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın Açık Gri Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik Nubuk Kısa Topuklu (1- 4 cm) 3.0 (2) Kargo Bedava 130 TL Kupon Kargo Bedava 3.000 TL" [ref=f7e948] [cursor=pointer]:
+          - /url: /ziesce/kadin-acik-gri-nubuk-gold-toka-cift-bantli-ayarlanabilir-tokali-gunluk-terlik-p-927868592?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e949]:
+            - generic:
+              - img "ZİESCE Kadın Açık Gri Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük..."
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e955]
+                  - button "5 renk seçeneği" [ref=f7e957]:
+                    - generic [ref=f7e958]: "5"
+          - generic [ref=f7e959]:
+            - heading "ZİESCE Kadın Açık Gri Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik" [level=2] [ref=f7e960]:
+              - generic [ref=f7e961]:
+                - text: ZİESCE
+                - generic [ref=f7e962]: Kadın Açık Gri Nubuk Gold Toka Çift Bantlı Ayarlanabilir Tokalı Günlük Terlik
+            - generic [ref=f7e964]:
+              - generic [ref=f7e965]: Nubuk
+              - generic [ref=f7e967]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e969]:
+              - generic [ref=f7e970]: "3.0"
+              - generic [ref=f7e990]: (2)
+            - generic [ref=f7e991]:
+              - generic [ref=f7e993]:
+                - generic [ref=f7e994]: Kargo Bedava
+                - generic [ref=f7e999]: 130 TL Kupon
+                - generic [ref=f7e1004]: Kargo Bedava
+              - generic [ref=f7e1009]: 3.000 TL
+        - link "ZİESCE KADIN SİYAH SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN SİYAH SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI Kısa Topuklu (1- 4 cm) İnce Topuklu 1.0 (1) Kargo Bedava Kupon Fırsatı Kargo Bedava 1.222,23 TL" [ref=f7e1011] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-suet-arkasi-acik-sivri-burun-alcak-topuklu-stiletto-ayakkabi-p-1105932789?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1012]:
+            - generic:
+              - img "ZİESCE KADIN SİYAH SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1018]
+                  - button "3 renk seçeneği" [ref=f7e1020]:
+                    - generic [ref=f7e1021]: "3"
+          - generic [ref=f7e1022]:
+            - heading "ZİESCE KADIN SİYAH SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI" [level=2] [ref=f7e1023]:
+              - generic [ref=f7e1024]:
+                - text: ZİESCE
+                - generic [ref=f7e1025]: KADIN SİYAH SÜET ARKASI AÇIK SİVRİ BURUN ALÇAK TOPUKLU STİLETTO AYAKKABI
+            - generic [ref=f7e1027]:
+              - generic [ref=f7e1028]: Kısa Topuklu (1- 4 cm)
+              - generic [ref=f7e1030]: İnce Topuklu
+            - generic [ref=f7e1032]:
+              - generic [ref=f7e1033]: "1.0"
+              - generic [ref=f7e1051]: (1)
+            - generic [ref=f7e1052]:
+              - generic [ref=f7e1054]:
+                - generic [ref=f7e1055]: Kargo Bedava
+                - generic [ref=f7e1060]: Kupon Fırsatı
+                - generic [ref=f7e1065]: Kargo Bedava
+              - generic [ref=f7e1070]: 1.222,23 TL
+        - link "ZİESCE Kadın Kot Mavi Tek Bant Galvanizli Topuklu Ayakkabı Damga Favorilere Ekle ZİESCE Kadın Kot Mavi Tek Bant Galvanizli Topuklu Ayakkabı Orta Topuklu (5-9 cm) İnce Topuklu 3.0 (2) Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı -%11 954,94 TL 1.084,45 TL" [ref=f7e1072] [cursor=pointer]:
+          - /url: /ziesce/kadin-kot-mavi-tek-bant-galvanizli-topuklu-ayakkabi-p-833381452?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1073]:
+            - generic:
+              - img "ZİESCE Kadın Kot Mavi Tek Bant Galvanizli Topuklu Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - button "Favorilere Ekle" [ref=f7e1079]
+          - generic [ref=f7e1081]:
+            - heading "ZİESCE Kadın Kot Mavi Tek Bant Galvanizli Topuklu Ayakkabı" [level=2] [ref=f7e1082]:
+              - generic [ref=f7e1083]:
+                - text: ZİESCE
+                - generic [ref=f7e1084]: Kadın Kot Mavi Tek Bant Galvanizli Topuklu Ayakkabı
+            - generic [ref=f7e1086]:
+              - generic [ref=f7e1087]: Orta Topuklu (5-9 cm)
+              - generic [ref=f7e1089]: İnce Topuklu
+            - generic [ref=f7e1091]:
+              - generic [ref=f7e1092]: "3.0"
+              - generic [ref=f7e1112]: (2)
+            - generic [ref=f7e1113]:
+              - generic [ref=f7e1115]:
+                - paragraph [ref=f7e1118]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e1119]: Kargo Bedava
+                - generic [ref=f7e1124]: Kupon Fırsatı
+                - paragraph [ref=f7e1131]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e1133]:
+                - paragraph [ref=f7e1135]: "-%11"
+                - generic [ref=f7e1136]: 954,94 TL
+                - generic [ref=f7e1137]: 1.084,45 TL
+        - link "ZİESCE Kadın Siyah Nubuk Parmak Arası Yazlık Terlik Damga Favorilere Ekle 5 renk seçeneği ZİESCE Kadın Siyah Nubuk Parmak Arası Yazlık Terlik Nubuk Kısa Topuklu (1- 4 cm) 5.0 (3) Kargo Bedava Kupon Fırsatı Kargo Bedava 1.300 TL" [ref=f7e1138] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-nubuk-parmak-arasi-yazlik-terlik-p-829083776?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1139]:
+            - generic:
+              - img "ZİESCE Kadın Siyah Nubuk Parmak Arası Yazlık Terlik"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1145]
+                  - button "5 renk seçeneği" [ref=f7e1147]:
+                    - generic [ref=f7e1148]: "5"
+          - generic [ref=f7e1149]:
+            - heading "ZİESCE Kadın Siyah Nubuk Parmak Arası Yazlık Terlik" [level=2] [ref=f7e1150]:
+              - generic [ref=f7e1151]:
+                - text: ZİESCE
+                - generic [ref=f7e1152]: Kadın Siyah Nubuk Parmak Arası Yazlık Terlik
+            - generic [ref=f7e1154]:
+              - generic [ref=f7e1155]: Nubuk
+              - generic [ref=f7e1157]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e1159]:
+              - generic [ref=f7e1160]: "5.0"
+              - generic [ref=f7e1182]: (3)
+            - generic [ref=f7e1183]:
+              - generic [ref=f7e1185]:
+                - generic [ref=f7e1186]: Kargo Bedava
+                - generic [ref=f7e1191]: Kupon Fırsatı
+                - generic [ref=f7e1196]: Kargo Bedava
+              - generic [ref=f7e1201]: 1.300 TL
+        - link "ZİESCE Kadın Altın Metalik Tek Bant Topuklu Sandalet Ayakkabı Favorilere Ekle 3 renk seçeneği ZİESCE Kadın Altın Metalik Tek Bant Topuklu Sandalet Ayakkabı 🧡 2,6B kişi favoriledi! 3.3 (26) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 1.004,38 TL" [ref=f7e1203] [cursor=pointer]:
+          - /url: /ziesce/kadin-altin-metalik-tek-bant-topuklu-sandalet-ayakkabi-p-672429000?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1204]:
+            - generic:
+              - img "ZİESCE Kadın Altın Metalik Tek Bant Topuklu Sandalet Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1210]
+                  - button "3 renk seçeneği" [ref=f7e1212]:
+                    - generic [ref=f7e1213]: "3"
+          - generic [ref=f7e1214]:
+            - heading "ZİESCE Kadın Altın Metalik Tek Bant Topuklu Sandalet Ayakkabı" [level=2] [ref=f7e1215]:
+              - generic [ref=f7e1216]:
+                - text: ZİESCE
+                - generic [ref=f7e1217]: Kadın Altın Metalik Tek Bant Topuklu Sandalet Ayakkabı
+            - generic [ref=f7e1221]:
+              - generic [ref=f7e1222]: 🧡
+              - generic [ref=f7e1223]: 2,6B kişi favoriledi!
+            - generic [ref=f7e1224]:
+              - generic [ref=f7e1225]: "3.3"
+              - generic [ref=f7e1246]: (26)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e1247]
+            - generic [ref=f7e1248]:
+              - generic [ref=f7e1250]:
+                - generic [ref=f7e1251]: Kargo Bedava
+                - generic [ref=f7e1256]: Kupon Fırsatı
+                - generic [ref=f7e1261]: Kargo Bedava
+              - generic [ref=f7e1266]: 1.004,38 TL
+        - link "ZİESCE KADIN KAHVE PİRAMİT TAŞ DETAYLI KONFOR TERLİK Damga Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN KAHVE PİRAMİT TAŞ DETAYLI KONFOR TERLİK Suni Deri Kısa Topuklu (1- 4 cm) Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı 1.285,06 TL 1.325,20 TL" [ref=f7e1268] [cursor=pointer]:
+          - /url: /ziesce/kadin-kahve-piramit-tas-detayli-konfor-terlik-p-1137435198?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1269]:
+            - generic:
+              - img "ZİESCE KADIN KAHVE PİRAMİT TAŞ DETAYLI KONFOR TERLİK"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1275]
+                  - button "3 renk seçeneği" [ref=f7e1277]:
+                    - generic [ref=f7e1278]: "3"
+          - generic [ref=f7e1279]:
+            - heading "ZİESCE KADIN KAHVE PİRAMİT TAŞ DETAYLI KONFOR TERLİK" [level=2] [ref=f7e1280]:
+              - generic [ref=f7e1281]:
+                - text: ZİESCE
+                - generic [ref=f7e1282]: KADIN KAHVE PİRAMİT TAŞ DETAYLI KONFOR TERLİK
+            - generic [ref=f7e1284]:
+              - generic [ref=f7e1285]: Suni Deri
+              - generic [ref=f7e1287]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e1289]:
+              - generic [ref=f7e1291]:
+                - paragraph [ref=f7e1294]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e1295]: Kargo Bedava
+                - generic [ref=f7e1300]: Kupon Fırsatı
+                - paragraph [ref=f7e1307]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e1309]:
+                - generic [ref=f7e1310]: 1.285,06 TL
+                - generic [ref=f7e1311]: 1.325,20 TL
+        - link "ZİESCE Kadın Altın Taş Detaylı Platform Topuklu Ayakkabı Favorilere Ekle ZİESCE Kadın Altın Taş Detaylı Platform Topuklu Ayakkabı 🧡 399 kişi favoriledi! 3.0 (4) Değerlendirme fotoğrafları mevcut Kargo Bedava Kupon Fırsatı Kargo Bedava 799,90 TL" [ref=f7e1312] [cursor=pointer]:
+          - /url: /ziesce/kadin-altin-tas-detayli-platform-topuklu-ayakkabi-p-669964199?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1313]:
+            - generic:
+              - img "ZİESCE Kadın Altın Taş Detaylı Platform Topuklu Ayakkabı"
+            - button "Favorilere Ekle" [ref=f7e1319]
+          - generic [ref=f7e1321]:
+            - heading "ZİESCE Kadın Altın Taş Detaylı Platform Topuklu Ayakkabı" [level=2] [ref=f7e1322]:
+              - generic [ref=f7e1323]:
+                - text: ZİESCE
+                - generic [ref=f7e1324]: Kadın Altın Taş Detaylı Platform Topuklu Ayakkabı
+            - generic [ref=f7e1328]:
+              - generic [ref=f7e1329]: 🧡
+              - generic [ref=f7e1330]: 399 kişi favoriledi!
+            - generic [ref=f7e1331]:
+              - generic [ref=f7e1332]: "3.0"
+              - generic [ref=f7e1352]: (4)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e1353]
+            - generic [ref=f7e1354]:
+              - generic [ref=f7e1356]:
+                - generic [ref=f7e1357]: Kargo Bedava
+                - generic [ref=f7e1362]: Kupon Fırsatı
+                - generic [ref=f7e1367]: Kargo Bedava
+              - generic [ref=f7e1372]: 799,90 TL
+        - link "ZİESCE Kadın Nude Taşlı Düz Dolgu Topuklu Yüksek Taban Terlik Damga Favorilere Ekle 2 renk seçeneği ZİESCE Kadın Nude Taşlı Düz Dolgu Topuklu Yüksek Taban Terlik Suni Deri Kısa Topuklu (1- 4 cm) Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı -%13 835,85 TL 962,10 TL" [ref=f7e1374] [cursor=pointer]:
+          - /url: /ziesce/kadin-nude-tasli-duz-dolgu-topuklu-yuksek-taban-terlik-p-810584000?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1375]:
+            - generic:
+              - img "ZİESCE Kadın Nude Taşlı Düz Dolgu Topuklu Yüksek Taban Terlik"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1381]
+                  - button "2 renk seçeneği" [ref=f7e1383]:
+                    - generic [ref=f7e1384]: "2"
+          - generic [ref=f7e1385]:
+            - heading "ZİESCE Kadın Nude Taşlı Düz Dolgu Topuklu Yüksek Taban Terlik" [level=2] [ref=f7e1386]:
+              - generic [ref=f7e1387]:
+                - text: ZİESCE
+                - generic [ref=f7e1388]: Kadın Nude Taşlı Düz Dolgu Topuklu Yüksek Taban Terlik
+            - generic [ref=f7e1390]:
+              - generic [ref=f7e1391]: Suni Deri
+              - generic [ref=f7e1393]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e1395]:
+              - generic [ref=f7e1397]:
+                - paragraph [ref=f7e1400]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e1401]: Kargo Bedava
+                - generic [ref=f7e1406]: Kupon Fırsatı
+                - paragraph [ref=f7e1413]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e1415]:
+                - paragraph [ref=f7e1417]: "-%13"
+                - generic [ref=f7e1418]: 835,85 TL
+                - generic [ref=f7e1419]: 962,10 TL
+        - link "ZİESCE KADIN SİYAH PİRAMİT TAŞ DETAYLI KONFOR TERLİK Damga Damga Favorilere Ekle 3 renk seçeneği ZİESCE KADIN SİYAH PİRAMİT TAŞ DETAYLI KONFOR TERLİK Suni Deri Kısa Topuklu (1- 4 cm) Kargo Bedava 130 TL Kupon Kargo Bedava 1.759,82 TL" [ref=f7e1420] [cursor=pointer]:
+          - /url: /ziesce/kadin-siyah-piramit-tas-detayli-konfor-terlik-p-1137423614?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1421]:
+            - generic:
+              - img "ZİESCE KADIN SİYAH PİRAMİT TAŞ DETAYLI KONFOR TERLİK"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                    - img "Damga"
+                - generic:
+                  - button "Favorilere Ekle" [ref=f7e1427]
+                  - button "3 renk seçeneği" [ref=f7e1429]:
+                    - generic [ref=f7e1430]: "3"
+          - generic [ref=f7e1431]:
+            - heading "ZİESCE KADIN SİYAH PİRAMİT TAŞ DETAYLI KONFOR TERLİK" [level=2] [ref=f7e1432]:
+              - generic [ref=f7e1433]:
+                - text: ZİESCE
+                - generic [ref=f7e1434]: KADIN SİYAH PİRAMİT TAŞ DETAYLI KONFOR TERLİK
+            - generic [ref=f7e1436]:
+              - generic [ref=f7e1437]: Suni Deri
+              - generic [ref=f7e1439]: Kısa Topuklu (1- 4 cm)
+            - generic [ref=f7e1441]:
+              - generic [ref=f7e1443]:
+                - generic [ref=f7e1444]: Kargo Bedava
+                - generic [ref=f7e1449]: 130 TL Kupon
+                - generic [ref=f7e1454]: Kargo Bedava
+              - generic [ref=f7e1459]: 1.759,82 TL
+        - link "ZİESCE Kadın Lila Saten Platform Topuklu Ayakkabı Damga Favorilere Ekle ZİESCE Kadın Lila Saten Platform Topuklu Ayakkabı Yüksek Topuklu (10 cm ve üzeri) İnce Topuklu 1.0 (1) Değerlendirme fotoğrafları mevcut Son 10 Günün En Düşük Fiyatı Kargo Bedava Kupon Fırsatı Son 10 Günün En Düşük Fiyatı -%11 980,66 TL 1.106,34 TL" [ref=f7e1461] [cursor=pointer]:
+          - /url: /ziesce/kadin-lila-saten-platform-topuklu-ayakkabi-p-669977971?boutiqueId=61&merchantId=768697
+          - generic [ref=f7e1462]:
+            - generic:
+              - img "ZİESCE Kadın Lila Saten Platform Topuklu Ayakkabı"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Damga"
+                - button "Favorilere Ekle" [ref=f7e1468]
+          - generic [ref=f7e1470]:
+            - heading "ZİESCE Kadın Lila Saten Platform Topuklu Ayakkabı" [level=2] [ref=f7e1471]:
+              - generic [ref=f7e1472]:
+                - text: ZİESCE
+                - generic [ref=f7e1473]: Kadın Lila Saten Platform Topuklu Ayakkabı
+            - generic [ref=f7e1475]:
+              - generic [ref=f7e1476]: Yüksek Topuklu (10 cm ve üzeri)
+              - generic [ref=f7e1478]: İnce Topuklu
+            - generic [ref=f7e1480]:
+              - generic [ref=f7e1481]: "1.0"
+              - generic [ref=f7e1499]: (1)
+              - img "Değerlendirme fotoğrafları mevcut" [ref=f7e1500]
+            - generic [ref=f7e1501]:
+              - generic [ref=f7e1503]:
+                - paragraph [ref=f7e1506]: Son 10 Günün En Düşük Fiyatı
+                - generic [ref=f7e1507]: Kargo Bedava
+                - generic [ref=f7e1512]: Kupon Fırsatı
+                - paragraph [ref=f7e1519]: Son 10 Günün En Düşük Fiyatı
+              - generic [ref=f7e1521]:
+                - paragraph [ref=f7e1523]: "-%11"
+                - generic [ref=f7e1524]: 980,66 TL
+                - generic [ref=f7e1525]: 1.106,34 TL
+      - button "Yukarı çık"
+  - contentinfo [ref=f7e1619]:
+    - img "Group 2" [ref=f7e1621]
+    - generic [ref=f7e1626]:
+      - generic [ref=f7e1628]:
+        - generic [ref=f7e1629]:
+          - generic [ref=f7e1630]: Trendyol
+          - generic:
+            - link "Biz Kimiz" [ref=f7e1635] [cursor=pointer]:
+              - /url: /s/meet-us#whoweare
+            - link "Kariyer" [ref=f7e1637] [cursor=pointer]:
+              - /url: https://careers.trendyol.com
+            - link "İletişim" [ref=f7e1639] [cursor=pointer]:
+              - /url: /iletisim
+            - link "Trendyol'da Güvenlik" [ref=f7e1641] [cursor=pointer]:
+              - /url: /guvenli_alisveris
+            - link "Geri Çağrılan Ürünler" [ref=f7e1643] [cursor=pointer]:
+              - /url: /urun-guvenligi-ve-geri-cagirmalar
+        - generic [ref=f7e1644]:
+          - generic [ref=f7e1645]: Kampanyalar
+          - generic:
+            - link "Kampanyalar" [ref=f7e1650] [cursor=pointer]:
+              - /url: /s/kampanyalar
+            - link "Alışveriş Kredisi" [ref=f7e1652] [cursor=pointer]:
+              - /url: /s/trendyol-alisveris-kredisi
+            - link "Hediye Fikirleri" [ref=f7e1654] [cursor=pointer]:
+              - /url: /s/hediye-rehberi
+        - generic [ref=f7e1655]:
+          - link "Satıcı" [ref=f7e1658] [cursor=pointer]:
+            - /url: https://partner.trendyol.com
+          - generic:
+            - link "Trendyol'da Satış Yap" [ref=f7e1662] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi
+            - link "Temel Kavramlar" [ref=f7e1664] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com/satici-bilgi-merkezi/temel-kavramlar
+            - link "Trendyol Akademi" [ref=f7e1666] [cursor=pointer]:
+              - /url: https://akademi.trendyol.com
+        - generic [ref=f7e1667]:
+          - generic [ref=f7e1668]: Yardım
+          - generic:
+            - link "Sıkça Sorulan Sorular" [ref=f7e1673] [cursor=pointer]:
+              - /url: /yardim
+            - link "Canlı Yardım" [ref=f7e1675] [cursor=pointer]:
+              - /url: /yardim?openAssistant=true
+            - link "Nasıl İade Edebilirim" [ref=f7e1677] [cursor=pointer]:
+              - /url: /yardim
+            - link "İşlem Rehberi" [ref=f7e1679] [cursor=pointer]:
+              - /url: /yardim
+        - generic [ref=f7e1680]:
+          - generic [ref=f7e1681]:
+            - link "Ülke Değiştir" [ref=f7e1684] [cursor=pointer]:
+              - /url: /en
+            - link "Türkiye flag Ülke Seç" [ref=f7e1685] [cursor=pointer]:
+              - /url: /en
+              - img "Türkiye flag" [ref=f7e1686]
+              - generic [ref=f7e1687]: Ülke Seç
+          - generic [ref=f7e1688]: Güvenli Alışveriş
+          - generic [ref=f7e1692]:
+            - generic [ref=f7e1693]: Güvenlik Sertifikası
+            - generic [ref=f7e1695]:
+              - link [ref=f7e1696] [cursor=pointer]:
+                - /url: https://etbis.ticaret.gov.tr/tr/SiteSorgulamaSonuc?siteId=79cb646a-f29a-4cad-bfe8-ecccea93dedb
+                - img "etbis" [ref=f7e1698]
+              - link [ref=f7e1699] [cursor=pointer]:
+                - /url: https://www.guvendamgasi.org.tr/view/uye/detay.php?Guid=de1c59c1-4d36-11ed-9a96-48df373f4850
+                - img "Trust Stamp" [ref=f7e1701]
+              - img "PCI DSS" [ref=f7e1703]
+              - img "information security standard" [ref=f7e1705]
+      - generic [ref=f7e1708]:
+        - generic [ref=f7e1709]:
+          - generic [ref=f7e1710]:
+            - link "instagram-icon" [ref=f7e1711] [cursor=pointer]:
+              - /url: https://www.instagram.com/trendyolcom
+              - img "instagram-icon" [ref=f7e1712]
+            - link "tiktok-icon" [ref=f7e1713] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@trendyolcom
+              - img "tiktok-icon" [ref=f7e1714]
+            - link "youtube-icon" [ref=f7e1715] [cursor=pointer]:
+              - /url: https://www.youtube.com/trendyol
+              - img "youtube-icon" [ref=f7e1716]
+            - link "facebook-icon" [ref=f7e1717] [cursor=pointer]:
+              - /url: https://www.facebook.com/Trendyol
+              - img "facebook-icon" [ref=f7e1718]
+            - link "x-icon" [ref=f7e1719] [cursor=pointer]:
+              - /url: https://x.com/trendyol
+              - img "x-icon" [ref=f7e1720]
+          - generic [ref=f7e1721]:
+            - link "Trendyol App Store":
+              - /url: https://itunes.apple.com/tr/app/trendyol.com/id524362642
+              - img "Trendyol App Store"
+            - link "Trendyol Google Play":
+              - /url: https://play.google.com/store/apps/details?id=trendyol.com
+              - img "Trendyol Google Play"
+            - link "Trendyol App Gallery":
+              - /url: https://appgallery.huawei.com/app/C101645013
+              - img "Trendyol App Gallery"
+        - generic [ref=f7e1722]:
+          - generic [ref=f7e1723]: ©2026 DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. Her Hakkı Saklıdır.
+          - generic [ref=f7e1724]:
+            - link "Çerez Tercihleri" [ref=f7e1725] [cursor=pointer]:
+              - /url: ""
+            - link "Kullanım Koşulları" [ref=f7e1726] [cursor=pointer]:
+              - /url: /kullanim_kosullari
+            - link "DSM Grup" [ref=f7e1727] [cursor=pointer]:
+              - /url: https://www.dsmgrup.com
+            - link "Kişisel Verilerin Korunması" [ref=f7e1728] [cursor=pointer]:
+              - /url: /kisisel_verilerin_korunmasi
+  - complementary "Eye-Able Assistenztechnik. Öffnen mit ALT und 1. Bedienung mit TAB. Verlassen mit Esc."
